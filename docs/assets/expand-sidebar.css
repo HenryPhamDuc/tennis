@@ -1,15 +1,28 @@
 /*
  * expand-sidebar.css
  *
- * Force all sidebar sections (Forehand, Serve, Lob and Overhead, etc.) to
- * expand by default, so the user can see all 20 deep-dive folders and their
- * sub-pages without clicking each toggle triangle.
+ * Two jobs:
  *
- * Without this CSS, MkDocs Material 9.x renders every nested nav section
- * as collapsed — the top-level label is a toggle, not a link, so clicking
- * "Forehand" only opens the toggle but doesn't navigate anywhere. This
- * CSS makes the sections visible by default.
+ * 1. Force all sidebar sections (Forehand, Serve, Lob and Overhead, etc.) to
+ *    expand by default, so the user can see all 20 deep-dive folders and their
+ *    sub-pages without clicking each toggle triangle.
+ *
+ *    Without this CSS, MkDocs Material 9.x renders every nested nav section
+ *    as collapsed — the top-level label is a toggle, not a link, so clicking
+ *    "Forehand" only opens the toggle but doesn't navigate anywhere. This
+ *    CSS makes the sections visible by default.
+ *
+ * 2. Hide the deep-dive top tabs. The nav: block lists all 20 folders as
+ *    top-level entries so they appear in the sidebar, but that also makes
+ *    them appear in the top tab bar. We hide tabs 5-24 (n+5) so only the
+ *    first 4 tabs remain visible:
+ *      1. Home
+ *      2. Tennis Future Lab Website
+ *      3. Tennis Future Lab Audio Podcast
+ *      4. Contact
  */
+
+/* ---- Job 1: sidebar expansion ---- */
 
 .md-nav__item--nested > .md-nav {
   /* Show the nested children by default */
@@ -28,4 +41,19 @@
 /* Adjust spacing for nested items since the toggle is hidden */
 .md-nav__item--nested > .md-nav__link {
   padding-right: 0.5rem !important;
+}
+
+/* ---- Job 2: hide deep-dive top tabs ---- */
+
+/* Hide top tabs 5 through 24 (the 20 deep-dive folders).
+   Keep only the first 4 tabs (Home, Tennis Future Lab Website,
+   Tennis Future Lab Audio Podcast, Contact) visible. */
+.md-tabs__item:nth-child(n+5) {
+  display: none !important;
+}
+
+/* Smooth the top bar visually after hiding 20 tabs */
+.md-tabs__list {
+  justify-content: flex-start !important;
+  gap: 0.5rem !important;
 }

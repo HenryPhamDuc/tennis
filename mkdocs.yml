@@ -13,10 +13,11 @@ theme:
   name: material
   language: en
   features:
-    - navigation.tabs           # Top horizontal menu for main categories
+    - navigation.tabs           # Top horizontal menu (Home + Contact only)
     - navigation.sections       # Sidebar collapse for sub-chapters
     - navigation.indexes        # Section index pages
-    # NOTE: navigation.expand is no-op in Material 9.x; use custom CSS instead (see extra_css below)
+    # NOTE: navigation.expand is a no-op in Material 9.x; sidebar expansion
+    # is handled by docs/assets/expand-sidebar.css (linked via extra_css below).
     - navigation.top            # Back to top button
     - navigation.tracking       # URL tracking for anchor links
     - search.suggest            # Smart search bar auto-suggestions
@@ -80,12 +81,38 @@ extra:
       link: https://github.com/HenryPhamDuc
   generator: false
 
-# Nav: explicit structure so the menu order is deterministic and the
-# Complete Manual v2 is the homepage. Each top-level entry is a deep-dive
-# folder; each sub-entry is the MD file inside that folder, with the
-# ReadMe at the end of each section so it doesn't bury the main content.
+# ---------------------------------------------------------------------------
+# Navigation structure (v4 — June 2026)
+#
+# Strategy: explicit nav listing ALL 20 deep-dive folders so they appear in
+# the sidebar. Top-level nav entries become top tabs. We use CSS to HIDE
+# all top tabs except the first 4 (Home, Tennis Future Lab Website, Tennis
+# Future Lab Audio Podcast, Contact) — so users only see a clean top bar.
+#
+# Top tabs visible (in order):
+#   1. Home                   — Complete Manual v2
+#   2. Tennis Future Lab Website — external: https://tennislab-cdl84oed.manus.space/
+#   3. Tennis Future Lab Audio Podcast — external: https://rss.com/podcasts/the-power-of-now/
+#   4. Contact                — mailto:henry.phamduc@gmail.com
+#
+# Top tabs HIDDEN via CSS (md-tabs__item:nth-child(n+5)):
+#   5-24. All 20 deep-dive folders (Forehand, Backhand, Serve, etc.)
+#
+# Sidebar: ALL pages auto-populated from nav + filesystem. The
+# docs/assets/expand-sidebar.css file forces all sidebar sections
+# expanded by default so the 20 folders and ~47 sub-pages are all
+# visible without clicking.
+#
+# Why this approach?
+# - Top bar stays clean (4 entries)
+# - Sidebar shows the full library at a glance
+# - Adding a new deep-dive = drop .md in docs/Foo/, add 3 lines to nav
+# ---------------------------------------------------------------------------
 nav:
-  - "🏠 Home (Complete Manual v2)": index.md
+  - Home: index.md
+  - Tennis Future Lab Website: https://tennislab-cdl84oed.manus.space/
+  - Tennis Future Lab Audio Podcast: https://rss.com/podcasts/the-power-of-now/
+  - Contact: mailto:henry.phamduc@gmail.com
   - "1-Page Pocket Card":
       - "1-Page Match Pocket Card — The Complete Grip System": "1-Page Pocket Card/1-Page Match Pocket Card — The Complete Grip System.md"
       - "ReadMe": "1-Page Pocket Card/ReadMe.md"
