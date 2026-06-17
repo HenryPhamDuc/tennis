@@ -49,17 +49,23 @@ theme:
 extra_css:
   - assets/expand-sidebar.css
   - assets/sidebar-nav.css
+  - assets/floating-nav.css
 
 # Inject custom JavaScript:
 #   - open-external-links.js: adds target="_blank" to external links
 #     (Tennis Future Lab Website + Audio Podcast open in a new tab)
 #   - sidebar-nav.js: injects Home/Previous/Next navigation bars at
-#     the top of the sidebar AND at the bottom of each page. The
-#     prev/next is determined dynamically by walking the sidebar
-#     links in order, so it works for all 47 pages automatically.
+#     the top of the sidebar AND at the bottom of each page
+#   - floating-nav.js: injects a floating Home/Previous/Next button
+#     bar in the bottom-right corner that appears when the user
+#     scrolls down (and disappears at the very bottom where the
+#     sidebar-nav.js bottom bar already provides nav). Solves the
+#     "I've read to the end, now I have to scroll all the way up"
+#     problem.
 extra_javascript:
   - assets/open-external-links.js
   - assets/sidebar-nav.js
+  - assets/floating-nav.js
 
 markdown_extensions:
   - admonition              # Note/warning/tip blocks

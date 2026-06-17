@@ -46,20 +46,60 @@
   }
 
   // Find the current page's index in the list by matching the URL path.
+  // Tries three strategies, in order of specificity:
+  //   1. Exact last-2-segments match (most specific)
+  //   2. First significant folder segment match (handles deep-dive pages
+  //      that aren't in the sidebar — matches the folder they live in)
+  //   3. document.title prefix match (last-resort heuristic)
   function findCurrentIndex(pages) {
-    var currentPath = window.location.pathname.replace(/index\.html$/, '').replace(/\/$/, '');
+    var currentPath = window.location.pathname
+      .replace(/index\.html$/, '')
+      .replace(/\/$/, '');
+    var currentSegs = currentPath.split('/').filter(Boolean);
+    if (currentSegs[0] === 'AI') currentSegs = currentSegs.slice(1);
+
+    // Strategy 1: exact last-2-segments match
+    var currentTail = currentSegs.slice(-2).join('/').toLowerCase();
     for (var i = 0; i < pages.length; i++) {
-      var pageHref = pages[i].href
-        .replace(/^\.\//, '')
-        .replace(/^\//, '')
-        .replace(/index\.html$/, '')
-        .replace(/\/$/, '');
-      if (!pageHref) continue;
-      var currentTail = currentPath.split('/').filter(Boolean).slice(-2).join('/');
-      var pageTail = pageHref.split('/').filter(Boolean).slice(-2).join('/');
-      if (currentTail && pageTail && currentTail === pageTail) return i;
+      var pageHref = normalizeHref(pages[i].href);
+      var pageTail = pageHref.split('/').filter(Boolean).slice(-2).join('/').toLowerCase();
+      if (pageTail && pageTail === currentTail) return i;
+    }
+
+    // Strategy 2: first significant folder segment match
+    var currentFolder = currentSegs.length > 0 ? currentSegs[0].toLowerCase() : '';
+    if (currentFolder && currentFolder !== 'index.html') {
+      var bestMatch = -1;
+      var bestScore = -1;
+      for (var j = 0; j < pages.length; j++) {
+        var pHref = normalizeHref(pages[j].href);
+        var pSegs = pHref.split('/').filter(Boolean);
+        if (pSegs[0] && pSegs[0].toLowerCase() === currentFolder) {
+          var score = (pSegs[1] && pSegs[1].toLowerCase() === (currentSegs[1] || '').toLowerCase()) ? 2 : 1;
+          if (score > bestScore) { bestScore = score; bestMatch = j; }
+        }
+      }
+      if (bestMatch >= 0) return bestMatch;
+    }
+
+    // Strategy 3: document.title prefix match
+    var docTitle = (document.title || '').toLowerCase();
+    if (docTitle) {
+      for (var k = 0; k < pages.length; k++) {
+        var pTitle = (pages[k].title || '').toLowerCase();
+        if (pTitle && docTitle.indexOf(pTitle) >= 0) return k;
+      }
     }
     return -1;
+  }
+
+  function normalizeHref(href) {
+    return href
+      .replace(/^\.\//, '')
+      .replace(/^\//, '')
+      .replace(/^(\.\.\/)+/, '')
+      .replace(/index\.html$/, '')
+      .replace(/\/$/, '');
   }
 
   // Truncate a title for button display
