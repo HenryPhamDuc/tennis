@@ -137,9 +137,10 @@
 ## Chapter 4 — The Four Moves: Lateral Hop, Drop Step, Cross-Over, Recovery
 ## Chương 4 — Bốn bước: Lateral Hop, Drop Step, Cross-Over, Recovery
 
-These four moves cover 95% of all tennis movement. Master them in order. Lateral first, recovery daily, drop step and cross-over come later.
-
-*Bốn bước này bao phủ 95% di chuyển tennis. Học theo thứ tự. Lateral trước, Recovery mỗi ngày, Drop Step và Cross-Over đến sau.*
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| These four moves cover 95% of all tennis movement. Master them in order. Lateral first, recovery daily, drop step and cross-over come later. | Bốn bước này bao phủ 95% di chuyển tennis. Học theo thứ tự. Lateral trước, Recovery mỗi ngày, Drop Step và Cross-Over đến sau. |
+| The order matters because each move **builds on the one before it.** Lateral hop is the foundation — if you can shuffle cleanly, the drop step has a base. The drop step buys you time for the cross-over. The recovery step closes the loop on every shot. | Thứ tự quan trọng vì mỗi bước **xây trên bước trước.** Lateral hop là nền — nếu trượt sạch, drop step có chỗ dựa. Drop step mua thời gian cho cross-over. Bước recovery đóng vòng lặp sau mỗi cú. |
 
 ### 1️⃣ The Lateral Hop / Shuffle | Bước trượt ngang
 
@@ -171,7 +172,7 @@ These four moves cover 95% of all tennis movement. Master them in order. Lateral
 
 ### 3️⃣ The Cross-Over Step | Bước bắt chéo
 
-| 🇺🇸 English | 🇻🇳 Tiệt Việt |
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|---|
 | For balls 3+ meters away — when neither the lateral hop nor the drop step is enough. This is the "chase" move. | Cho bóng cách 3+ mét — khi cả lateral hop lẫn drop step đều không đủ. Đây là bước "truy đuổi." |
 | **The mechanism:** the inside foot CROSSES in front of (or behind) the outside foot, you push off the back foot, you take a long stride to cover ground. | **Cơ chế:** chân trong BẮT CHÉO phía trước (hoặc phía sau) chân ngoài, anh đẩy bằng chân sau, anh bước dài để phủ đất. |
@@ -185,7 +186,7 @@ These four moves cover 95% of all tennis movement. Master them in order. Lateral
 
 ### 4️⃣ The Recovery Step | Bước phục hồi
 
-| 🇺🇸 English | 🇻🇳 Tiệt Việt |
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|---|
 | After every shot, your body must RETURN to a center position behind the ball you just hit. This is recovery. | Sau mỗi cú đánh, cơ thể anh phải TRỞ VỀ vị trí trung tâm phía sau quả bóng vừa đánh. Đó là phục hồi. |
 | Most 3.5 players freeze and watch their shot. **This is the #1 reason they are always late for the next ball.** The ball is still in play. The opponent is already hitting back. They are standing still admiring their forehand. | Hầu hết người 3.5 đứng đông cứng và nhìn cú đánh của mình. **Đây là lý do #1 họ luôn trễ cho bóng tiếp theo.** Bóng vẫn còn trong cuộc chơi. Đối thủ đã đánh trả. Họ đứng yên ngắm forehand. |
@@ -199,13 +200,13 @@ These four moves cover 95% of all tennis movement. Master them in order. Lateral
 
 ### Summary Table — When to Use Each Move | Bảng tóm tắt — khi nào dùng bước nào
 
-| Ball distance | Move | Footwork pattern | Key cue |
-|---|---|---|---|
-| 0-1 m | Small adjust | Tiny shuffle | "Nudge" |
-| 1-3 m | Lateral hop | Windshield wiper | "Shuffle" |
-| 3-5 m | Drop step + sprint | Plant + pivot + sprint | "Turn and chase" |
-| 5+ m (rare at 3.5) | Cross-over | Inside foot crosses | "Long stride" |
-| After every shot | Recovery | 3 automatic steps | "Always return" |
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **0–1 m** — Small adjust: tiny shuffle. Cue: "Nudge." | **0–1 m** — Điều chỉnh nhỏ: trượt nhẹ. Tín hiệu: "Nhích." |
+| **1–3 m** — Lateral hop: windshield wiper. Cue: "Shuffle." | **1–3 m** — Lateral hop: như cần gạt nước. Tín hiệu: "Trượt." |
+| **3–5 m** — Drop step + sprint: plant + pivot + sprint. Cue: "Turn and chase." | **3–5 m** — Drop step + chạy nước rút: cắm + xoay + chạy. Tín hiệu: "Xoay và truy." |
+| **5+ m** (rare at 3.5) — Cross-over: inside foot crosses. Cue: "Long stride." | **5+ m** (hiếm ở 3.5) — Cross-over: chân trong bắt chéo. Tín hiệu: "Bước dài." |
+| **After every shot** — Recovery: 3 automatic steps. Cue: "Always return." | **Sau mỗi cú** — Recovery: 3 bước tự động. Tín hiệu: "Luôn trở về." |
 
 ---
 
@@ -215,74 +216,87 @@ These four moves cover 95% of all tennis movement. Master them in order. Lateral
 
 ### 🗺️ The Movement Patterns | Các mẫu di chuyển
 
-Patterns are *combinations* of the four moves. At 3.5, you need to recognize three patterns:
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Patterns are **combinations** of the four moves. At 3.5, you need to recognize three patterns. | Mẫu là **kết hợp** của bốn bước. Ở mức 3.5, anh cần nhận ba mẫu. |
+| A pattern is more than a sequence — it's a *loop.* Every point has a beginning (split-step), a middle (movement + shot), and an end (3-step recovery). Train the loop, not the parts. | Mẫu không chỉ là chuỗi — đó là *vòng lặp.* Mỗi điểm có đầu (split-step), giữa (di chuyển + đánh), và cuối (recovery 3 bước). Tập vòng lặp, không tập từng phần. |
 
-*Mẫu là *kết hợp* của bốn bước. Ở mức 3.5, anh cần nhận ba mẫu:*
-
-| Pattern | When | Sequence | Cue |
-|---|---|---|---|
-| **Neutral rally** | Ball going to mid-court | Split → small shuffle → hit → 3-step recovery → split | "Tennis is a loop" |
-| **Wide ball** | Ball pulled to the alley | Split → drop step → sprint to ball → hit → recovery | "Turn and chase" |
-| **Approach** | You're moving forward to attack | Split → 2-3 forward steps → split-step inside baseline → volley | "Press the gas" |
+| 🇺🇸 Pattern | 🇺🇸 When | 🇺🇸 Sequence | 🇺🇸 Cue | 🇻🇳 Khi nào | 🇻🇳 Chuỗi | 🇻🇳 Tín hiệu |
+|---|---|---|---|---|---|---|
+| **Neutral rally** | Ball going to mid-court | Split → small shuffle → hit → 3-step recovery → split | "Tennis is a loop" | Bóng vào giữa sân | Split → trượt nhỏ → đánh → recovery 3 bước → split | "Tennis là vòng lặp" |
+| **Wide ball** | Ball pulled to the alley | Split → drop step → sprint to ball → hit → recovery | "Turn and chase" | Bóng kéo ra biên | Split → drop step → chạy nước rút tới bóng → đánh → recovery | "Xoay và truy" |
+| **Approach** | You're moving forward to attack | Split → 2-3 forward steps → split-step inside baseline → volley | "Press the gas" | Anh tiến lên để tấn công | Split → 2-3 bước tới → split-step trong baseline → volley | "Đạp ga" |
 
 ### 🛠️ The Drills | Bài tập
 
 #### Drill 1 — The Staggered Stance Check (5 min, daily) | Kiểm tra tư thế so le
-> Stand in ready position. Stagger feet. Close eyes. Hold for 30 seconds. Open eyes. Check: did you drift back to parallel? If yes, the standing-with-feet-apart habit is too strong. Do 10 reps. After 1 week, your body will default to staggered.
->
-> *Đứng tư thế sẵn sàng. So le chân. Nhắm mắt. Giữ 30 giây. Mở mắt. Kiểm tra: anh có trôi về song song không? Nếu có, thói quen đứng chân rộng đang quá mạnh. Làm 10 lần. Sau 1 tuần, cơ thể sẽ mặc định so le.*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Stand in ready position. Stagger feet. Close eyes. Hold for 30 seconds. Open eyes. Check: did you drift back to parallel? If yes, the standing-with-feet-apart habit is too strong. Do 10 reps. After 1 week, your body will default to staggered. | Đứng tư thế sẵn sàng. So le chân. Nhắm mắt. Giữ 30 giây. Mở mắt. Kiểm tra: anh có trôi về song song không? Nếu có, thói quen đứng chân rộng đang quá mạnh. Làm 10 lần. Sau 1 tuần, cơ thể sẽ mặc định so le. |
+| **What this trains:** the body's "default" stance. If your muscle memory is parallel, you'll drift back every time you stop thinking. This drill forces the new default to install. | **Bài này tập gì:** tư thế mặc định của cơ thể. Nếu trí nhớ cơ là song song, anh sẽ trôi về mỗi khi ngừng suy nghĩ. Bài này ép cài mặc định mới. |
 
 #### Drill 2 — The Mirror Split-Step (10 min, 3x/week) | Split-step gương
-> Stand 2 meters from a mirror in ready position. Do the split-step 20 times. Check: are you landing on the balls? Are you holding for 1-2 tenths? Are you returning to ready without looking at your feet?
->
-> *Đứng cách gương 2 mét trong tư thế sẵn sàng. Làm split-step 20 lần. Kiểm tra: anh có đáp bằng mũi chân? Có giữ 1-2 phần mười? Có trở về sẵn sàng mà không nhìn chân?*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Stand 2 meters from a mirror in ready position. Do the split-step 20 times. Check: are you landing on the balls? Are you holding for 1-2 tenths? Are you returning to ready without looking at your feet? | Đứng cách gương 2 mét trong tư thế sẵn sàng. Làm split-step 20 lần. Kiểm tra: anh có đáp bằng mũi chân? Có giữ 1-2 phần mười? Có trở về sẵn sàng mà không nhìn chân? |
+| **What this trains:** the timing and the feel. The mirror is honest — you see exactly what your body is doing. Once you look right, close your eyes and do 20 more. Then do 20 with eyes open on the court. Then in a match. | **Bài này tập gì:** nhịp và cảm giác. Gương trung thực — anh thấy chính xác cơ thể đang làm gì. Khi trông đúng rồi, nhắm mắt làm thêm 20 lần. Rồi mở mắt làm 20 lần trên sân. Rồi trong trận. |
 
 #### Drill 3 — The Lateral Ladder (10 min, 2x/week) | Thang ngang
-> Already covered above. Shuffle between two lines, 4 meters apart, 6 touches per rep, 5 reps per set, 3 sets. This is your bread-and-butter lateral speed work.
->
-> *Đã trình bày ở trên. Trượt giữa hai vạch cách 4 mét, 6 chạm mỗi hiệp, 5 hiệp mỗi vòng, 3 vòng. Đây là công việc tốc độ ngang cơ bản của anh.*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Already covered above. Shuffle between two lines, 4 meters apart, 6 touches per rep, 5 reps per set, 3 sets. This is your bread-and-butter lateral speed work. | Đã trình bày ở trên. Trượt giữa hai vạch cách 4 mét, 6 chạm mỗi hiệp, 5 hiệp mỗi vòng, 3 vòng. Đây là công việc tốc độ ngang cơ bản của anh. |
+| **Why it matters:** lateral speed is the single most-used movement in tennis. ~70% of all balls in a rally are within 3 meters of where you stood. Master this and you cover most shots. | **Tại sao quan trọng:** tốc độ ngang là di chuyển dùng nhiều nhất trong tennis. ~70% mọi bóng trong rally nằm trong 3 mét chỗ anh đứng. Thành thạo bài này là anh phủ hầu hết cú đánh. |
 
 #### Drill 4 — The Cone Drop (10 min, 2x/week) | Cọc rơi
-> Already covered above. 5 cones at the baseline, shuffle-drag-sprint pattern, 3 sets.
->
-> *Đã trình bày ở trên. 5 cọc ở vạch cuối, mẫu trượt-kéo-chạy, 3 vòng.*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Already covered above. 5 cones at the baseline, shuffle-drag-sprint pattern, 3 sets. | Đã trình bày ở trên. 5 cọc ở vạch cuối, mẫu trượt-kéo-chạy, 3 vòng. |
+| **Why it matters:** wide balls are the ones that beat you at 3.5. Not because you can't run — because you start late. The cone drop trains the late-start recovery: plant, pivot, sprint, hit. | **Tại sao quan trọng:** bóng xa là cú đánh bại anh ở 3.5. Không phải vì anh không chạy được — mà vì anh bắt đầu muộn. Bài cọc rơi huấn luyện phục hồi khi bắt đầu muộn: cắm, xoay, chạy, đánh. |
 
 #### Drill 5 — The 3-Step Reset with a Partner (15 min, 2x/week) | Reset 3 bước với bạn
-> Already covered above. 3 sets of 10 balls, "Reset!" called when you freeze.
->
-> *Đã trình bày ở trên. 3 vòng 10 bóng, gọi "Reset!" khi anh đứng yên.*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Already covered above. 3 sets of 10 balls, "Reset!" called when you freeze. | Đã trình bày ở trên. 3 vòng 10 bóng, gọi "Reset!" khi anh đứng yên. |
+| **Why it matters:** the 3-step reset is the difference between being early for the next ball and being late. The first 3 steps after a shot should be automatic — like a boxer returning to stance. A partner holding you accountable makes the habit stick. | **Tại sao quan trọng:** reset 3 bước là khác biệt giữa sớm và trễ cho bóng tiếp theo. 3 bước đầu sau cú đánh phải tự động — như võ sĩ trở về thế. Có bạn giám sát làm thói quen bám chắc. |
 
 #### Drill 6 — The Triangle Drill (15 min, 1x/week) | Bài tập tam giác
-> Place 3 cones in a triangle: one at the net, one at each corner of the service line. From the net cone, sprint to the deuce corner. Split-step. Sprint to the net. Split-step. Sprint to the ad corner. Split-step. Sprint to the net. Repeat 5 times. This is the **point-simulation drill** — it trains every move in sequence.
->
-> *Đặt 3 cọc thành tam giác: một ở lưới, một ở mỗi góc vạch giao bóng. Từ cọc lưới, chạy nước rút tới góc phải (deuce). Split-step. Chạy tới lưới. Split-step. Chạy tới góc trái (ad). Split-step. Chạy tới lưới. Lặp 5 lần. Đây là **bài tập mô phỏng điểm** — huấn luyện mọi bước theo chuỗi.*
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| Place 3 cones in a triangle: one at the net, one at each corner of the service line. From the net cone, sprint to the deuce corner. Split-step. Sprint to the net. Split-step. Sprint to the ad corner. Split-step. Sprint to the net. Repeat 5 times. This is the **point-simulation drill** — it trains every move in sequence. | Đặt 3 cọc thành tam giác: một ở lưới, một ở mỗi góc vạch giao bóng. Từ cọc lưới, chạy nước rút tới góc phải (deuce). Split-step. Chạy tới lưới. Split-step. Chạy tới góc trái (ad). Split-step. Chạy tới lưới. Lặp 5 lần. Đây là **bài tập mô phỏng điểm** — huấn luyện mọi bước theo chuỗi. |
+| **Why it matters:** every move in this drill has appeared in a real point. By week 4, your body will recognize the patterns: split-step → react → move → hit → recover → split-step. The triangle is the smallest "complete" point simulation you can do on a court. | **Tại sao quan trọng:** mỗi bước trong bài này đều xuất hiện trong điểm thật. Đến tuần 4, cơ thể sẽ nhận mẫu: split-step → phản ứng → di chuyển → đánh → recovery → split-step. Tam giác là mô phỏng điểm "hoàn chỉnh" nhỏ nhất trên sân. |
 
 ### 🗣️ The Cues | Tín hiệu
 
-| # | Cue | Vietnamese | What it fixes |
-|---|---|---|---|
-| 1 | "Balls of feet" | "Mũi chân" | Heel-walking, slow first step |
-| 2 | "One heel up" | "Một gót nhấc" | Flat-footed stance |
-| 3 | "Stagger, not square" | "So le, không song song" | Locked hips |
-| 4 | "Hop on contact" | "Nhún khi chạm" | Late reaction |
-| 5 | "Hold and read" | "Giữ và đọc" | Moving before reading direction |
-| 6 | "Windshield wiper" | "Như cần gạt nước" | Foot crossing in shuffle |
-| 7 | "Turn and chase" | "Xoay và truy" | Wide balls without plan |
-| 8 | "Three steps home" | "Ba bước về nhà" | Freezing after the shot |
-| 9 | "Knees, not back" | "Gối, không lưng" | Reaching with bent spine |
-| 10 | "Forever hunting" | "Mãi mãi thợ săn" | Standing still between points |
+| # | 🇺🇸 Cue (English) | 🇻🇳 Tín hiệu (Tiếng Việt) | 🇺🇸 What it fixes | 🇻🇳 Nó sửa gì |
+|---|---|---|---|---|
+| 1 | "Balls of feet" | "Mũi chân" | Heel-walking, slow first step | Đi gót, bước đầu chậm |
+| 2 | "One heel up" | "Một gót nhấc" | Flat-footed stance | Đứng bẹt chân |
+| 3 | "Stagger, not square" | "So le, không song song" | Locked hips | Hông bị khóa |
+| 4 | "Hop on contact" | "Nhún khi chạm" | Late reaction | Phản ứng muộn |
+| 5 | "Hold and read" | "Giữ và đọc" | Moving before reading direction | Chuyển động trước khi đọc hướng |
+| 6 | "Windshield wiper" | "Như cần gạt nước" | Foot crossing in shuffle | Chân bắt chéo khi trượt |
+| 7 | "Turn and chase" | "Xoay và truy" | Wide balls without plan | Bóng xa không có kế hoạch |
+| 8 | "Three steps home" | "Ba bước về nhà" | Freezing after the shot | Đứng yên sau cú đánh |
+| 9 | "Knees, not back" | "Gối, không lưng" | Reaching with bent spine | Với bằng cột sống cong |
+| 10 | "Forever hunting" | "Mãi mãi thợ săn" | Standing still between points | Đứng yên giữa các điểm |
 
 ### ⚠️ The 7 Warnings | 7 cảnh báo
 
-| Error | What happens | Fix |
-|---|---|---|
-| **No split-step** | Always 1 step late | Drill 2 (mirror split-step, daily) |
-| **Parallel stance** | No first step, locked hips | Drill 1 (staggered check) |
-| **Feet crossing in shuffle** | Trip, twisted ankle, slow lateral | Drill 3 (lateral ladder) |
-| **Freezing after the shot** | Late for the next ball, opponent wins | Drill 5 (3-step reset) |
-| **Cross-over overuse at 50+** | Knee swelling, 3-day recovery | Drill 3+4 first; cross-over only as last resort |
-| **Bending at the waist** | Back pain, disc injury | "Bowl of water" test, hip hinge |
-| **Standing flat-footed between points** | Slow reaction to every shot | Stagger + one-heel-up at ALL times |
+| 🇺🇸 English Error / What happens / Fix | 🇻🇳 Lỗi / Hậu quả / Cách sửa |
+|---|---|
+| **No split-step** — always 1 step late. Fix: Drill 2 (mirror split-step, daily). | **Không split-step** — luôn trễ 1 bước. Sửa: Bài 2 (split-step gương, mỗi ngày). |
+| **Parallel stance** — no first step, locked hips. Fix: Drill 1 (staggered check). | **Tư thế song song** — không có bước đầu, hông khóa. Sửa: Bài 1 (kiểm tra so le). |
+| **Feet crossing in shuffle** — trip, twisted ankle, slow lateral. Fix: Drill 3 (lateral ladder). | **Chân bắt chéo khi trượt** — vấp, xoắn cổ chân, ngang chậm. Sửa: Bài 3 (thang ngang). |
+| **Freezing after the shot** — late for the next ball, opponent wins. Fix: Drill 5 (3-step reset). | **Đứng yên sau cú đánh** — trễ cho bóng tiếp theo, đối thủ thắng điểm. Sửa: Bài 5 (reset 3 bước). |
+| **Cross-over overuse at 50+** — knee swelling, 3-day recovery. Fix: Drill 3+4 first; cross-over only as last resort. | **Dùng cross-over quá nhiều ở 50+** — sưng gối, phục hồi 3 ngày. Sửa: Bài 3+4 trước; cross-over chỉ là phương án cuối. |
+| **Bending at the waist** — back pain, disc injury. Fix: "Bowl of water" test, hip hinge. | **Cúi ở thắt lưng** — đau lưng, thoát vị đĩa đệm. Sửa: bài "bát nước", bản lề hông. |
+| **Standing flat-footed between points** — slow reaction to every shot. Fix: Stagger + one-heel-up at ALL times. | **Đứng bẹt chân giữa các điểm** — phản ứng chậm với mọi cú. Sửa: so le + một gót nhấc MỌI LÚC. |
 
 > 🩺 **The single most important 50+ footwork rule | Quy tắc di chuyển 50+ quan trọng nhất**
 > **Smart beats fast. Always.** A player who starts 300ms early with small steps beats a player who starts 800ms late with a sprint. The early starter's heart rate stays low, the joints stay healthy, and the match lasts 3 hours instead of 90 minutes. **Footwork is your longevity insurance policy. Buy it now.**
@@ -291,13 +305,13 @@ Patterns are *combinations* of the four moves. At 3.5, you need to recognize thr
 
 ### 🧘 The Tai Chi Meditation | Thiền thái cực cho footwork
 
-| Principle | Vietnamese | Footwork Application |
-|---|---|---|
-| *Thường Tùng* (常鬆) | Thường lỏng | Always loose, always ready — never tense, never frozen |
-| *Cung Bộ* (弓步) | Thế cung | Staggered stance — front leg bent (string), back leg straight (bow) |
-| *Hư Thực* (虛實) | Hư - Thực | One foot loaded (thực), one foot light (hư) — never double-weighted |
-| *Tụ Bộ* (墜步) | Bước rơi | Drop step — sink before you spring |
-| *Hoàn Thủ* (還手) | Trở về | After every shot, return to center — the loop continues |
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **Always loose, always ready** — *Thường Tùng* (常鬆) — never tense, never frozen. The body is a coiled spring, not a parked car. | **Luôn lỏng, luôn sẵn sàng** — *Thường Tùng* (常鬆) — không gồng, không đông cứng. Cơ thể là lò xo cuộn, không phải xe đậu. |
+| **Staggered stance** — *Cung Bộ* (弓步) / Thế cung — front leg bent (the bowstring), back leg straight (the bow). Ready to move in any direction. | **Tư thế so le** — *Cung Bộ* (弓步) / Thế cung — chân trước chùng (dây cung), chân sau thẳng (cánh cung). Sẵn sàng di chuyển mọi hướng. |
+| **One foot loaded, one foot light** — *Hư Thực* (虛實) — never double-weighted. The body must always have a "loaded" leg and a "free" leg. | **Một chân nạp, một chân nhẹ** — *Hư Thực* (虛實) — không bao giờ hai chân cùng nặng. Cơ thể luôn phải có chân "nạp" và chân "tự do." |
+| **Drop step** — *Tụ Bộ* (墜步) / Bước rơi — sink before you spring. The drop is the load. | **Bước rơi** — *Tụ Bộ* (墜步) — hạ trước khi bật. Hạ là nạp. |
+| **Return to center** — *Hoàn Thủ* (還手) / Trở về — after every shot, return to center. The loop continues. | **Trở về trung tâm** — *Hoàn Thủ* (還手) / Trở về — sau mỗi cú đánh, trở về giữa. Vòng lặp tiếp tục. |
 
 ### 📋 Mental Checklist Before Each Point | Checklist tinh thần trước mỗi điểm
 
