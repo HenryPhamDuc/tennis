@@ -36,20 +36,40 @@
 
 ## 📖 Table of Contents | Mục lục
 
-- **Part 1** — Foundations & Grip *(grip is now a 4-deep-dive family)*
-- **Part 2** — Footwork & Positioning
-- **Part 3** — Groundstrokes (Forehand & Backhand)
-- **Part 4** — The Serve
-- **Part 5** — Net Game & Volleys
-- **Part 6** — Return of Serve
-- **Part 7** — Point Patterns & Singles Strategy
-- **Part 8** — Doubles Tactics *(now a 4-deep-dive family)*
-- **Part 9** — 🆕 Lob & Overhead (The Vertical Game)
-- **Part 10** — 🆕 Slice Family (The 7-Shot Swiss Army Knife)
-- **Part 11** — Injury Prevention & Conditioning
-- **Part 12** — 🆕 Grip Pressure (The Dial You Control Every Shot)
-- **Part 13** — 🆕 Mental Game (The Match Inside Your Head)
-- **Part 14** — 📄 Master Cheat Sheet (2-page printable, EN + VI)
+> Click any deep-dive to jump straight to it. Each Part is also a top-level
+> section in the sidebar (left panel). The 2-page cheat sheet (Part 14) is
+> at the bottom — print it.
+
+| Part | Title | Deep Dive | English | Tiếng Việt |
+|---|---|---|---|---|
+| **Part 1** | Foundations & Grip *(grip is now a 4-deep-dive family)* | [Foundations & Grip →](Foundations%20and%20Grip/Foundations%20and%20Grip/) | The interface philosophy, 3 master grips, body schema, tension scale basics | Giao diện triết lý, 3 grip chính, lược đồ cơ thể, thang áp lực |
+| **Part 2** | Footwork & Positioning | [Footwork →](Footwork/Footwork%20%E2%80%94%20The%20Art%20of%20Smart%20Movement/) | The art of smart movement: split-step, V-step, bridge leg, open stance | Bộ chân thông minh: split-step, V-step, cầu, open stance |
+| **Part 3** | Groundstrokes (Forehand & Backhand) | [Forehand →](Forehand/Forehand%20L-Angle%20and%20Late%20Acceleration/) • [Backhand →](Backhand/Backhand%20%E2%80%94%20The%20Mirror,%20The%20Whip%20%26%20The%20Slice/) | Forehand L-angle + late acceleration; Backhand mirror/whip/slice | Forehand góc-L + tăng tốc muộn; Backhand gương/roi/slice |
+| **Part 4** | The Serve | [Serve →](Serve/Serve%20%E2%80%94%20The%20Gravity%20%26%20Rotation%20Serve/) | The gravity & rotation serve — the only shot you control | Giao bóng trọng lực & xoay — cú duy nhất bạn kiểm soát |
+| **Part 5** | Net Game & Volleys | [Volley →](Volley/Volley%20%E2%80%94%20The%20Art%20of%20Redirection/) | Redirection not swing: punch, block, drop, lob, half-volley | Chuyển hướng không vung: đấm, chặn, drop, lob, half-volley |
+| **Part 6** | Return of Serve | [Return of Serve →](Return%20of%20Serve/Return%20of%20Serve%20%E2%80%94%20Reading,%20Blocking,%20Surviving/) | Reading the serve, blocking, surviving the second-most-important shot | Đọc giao bóng, chặn, sống sót qua cú thứ hai quan trọng nhất |
+| **Part 7** | Point Patterns & Singles Strategy | [Forehand (Racket Embodiment) →](Forehand/Racket%20Embodiment/) | Pattern play, court geometry, the 50+ patience game | Mẫu điểm, hình học sân, trò chơi kiên nhẫn 50+ |
+| **Part 8** | Doubles Tactics *(now a 4-deep-dive family)* | [Doubles Tactics →](Doubles%20Tactics/Doubles%20Tactics%20%E2%80%94%20Communication,%20Formations%20%26%20The%2050+%20Longevity%20Game/) | Communication, formations, the 50+ longevity game | Giao tiếp, đội hình, trò chơi trường thọ 50+ |
+| **Part 9** | 🆕 Lob & Overhead (The Vertical Game) | [Lob and Overhead →](Lob%20and%20Overhead/Lob%20and%20Overhead%20%E2%80%94%20The%20Vertical%20Game/) | Sane smash vs max slam; 4 lob types; survive the high ball | Smash tỉnh táo vs tối đa; 4 loại lob; sống sót bóng cao |
+| **Part 10** | 🆕 Slice Family (7-Shot Swiss Army Knife) | [Slice Variations →](Slice%20Variations/Slice%20Variations%20%E2%80%94%20The%207-Shot%20Swiss%20Army%20Knife/) | 7 slice variations: defensive, neutral, aggressive, drop, lob, approach, return | 7 biến thể slice: phòng thủ, trung tính, tấn công, drop, lob, approach, return |
+| **Part 11** | Injury Prevention & Conditioning | _(no deep-dive yet — see Tennis Future Lab for video series)_ | 20-year sport, joint protection, the warmup that pays off | Môn 20 năm, bảo vệ khớp, khởi động trả lãi |
+| **Part 12** | 🆕 Grip Pressure (The Dial You Control Every Shot) | [Grip Pressure →](Grip%20Pressure/Grip%20Pressure%20%E2%80%94%20The%20Dial%20You%20Control%20Every%20Shot/) | 0-10 scale, two-zone rule, stroke-by-stroke pressure map, sound diagnosis | Thang 0-10, quy tắc hai vùng, bản đồ áp lực, chẩn đoán âm thanh |
+| **Part 13** | 🆕 Mental Game (The Match Inside Your Head) | [Mental Game →](Mental%20Game/Mental%20Game%20%E2%80%94%20The%20Match%20Inside%20Your%20Head/) | 5-phase match map, 4-step ritual, 5 pressure points, loss recovery | Bản đồ 5 pha, nghi lễ 4 bước, 5 điểm áp lực, hồi phục sau thua |
+| **Part 14** | 📄 Master Cheat Sheet (2-page printable) | _(see Part 14 below — print these 2 pages)_ | PAGE 1 covers Parts 1-7, PAGE 2 covers Parts 8-14 + master cue | TRANG 1: Phần 1-7, TRANG 2: Phần 8-14 + tín hiệu bậc thầy |
+
+**Direct deep-dive library** (every folder in the left sidebar):
+[1-Page Pocket Card](1-Page%20Pocket%20Card/1-Page%20Match%20Pocket%20Card%20%E2%80%94%20The%20Complete%20Grip%20System/) ·
+[Continental Grip](Continental%20Grip/Continental%20Grip%20%E2%80%94%20The%209-Shot%20Universal%20Key/) ·
+[Eastern Semi-Western Grip](Eastern%20Semi-Western%20Grip/Eastern%20Semi-Western%20Grip%20%E2%80%94%20The%2030%25%20Forehand%20Grips/) ·
+[Forehand (4 dives)](Forehand/Forehand%20L-Angle%20and%20Late%20Acceleration/) ·
+[Backhand (5 dives)](Backhand/Backhand%20%E2%80%94%20The%20Mirror,%20The%20Whip%20%26%20The%20Slice/) ·
+[Slice Approach](Slice%20Approach/Slice%20Approach%20%E2%80%94%20The%20Senior-Friendly%20Way%20to%20the%20Net/) ·
+[Slice Family Doubles](Slice%20Family%20Doubles/Slice%20Family%20Doubles%20%E2%80%94%20The%208-Shot%20Doubles%20Playbook/) ·
+[Return of Serve](Return%20of%20Serve/Return%20of%20Serve%20%E2%80%94%20Reading,%20Blocking,%20Surviving/) ·
+[Doubles Serves](Doubles%20Serves/Doubles%20Serves%20%E2%80%94%20The%204%20Serve%20Patterns/) ·
+[Doubles Patterns](Doubles%20Patterns/Doubles%20Patterns%20%E2%80%94%20The%204%20Return%20Patterns/) ·
+[Grip Change Map](Grip%20Change%20Map/Grip%20Change%20Map%20%E2%80%94%20The%20Complete%20Sequence%20Guide/)
+
 
 ---
 

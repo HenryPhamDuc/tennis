@@ -49,6 +49,14 @@ theme:
 extra_css:
   - assets/expand-sidebar.css
 
+# Inject custom JavaScript: open external links (Tennis Future Lab
+# Website + Audio Podcast) in a new tab. The script runs after the
+# DOM is ready and adds target="_blank" to any link whose href starts
+# with http:// or https://. mailto: links are left alone so the
+# Contact link still opens the user's mail client in the same tab.
+extra_javascript:
+  - assets/open-external-links.js
+
 markdown_extensions:
   - admonition              # Note/warning/tip blocks
   - attr_list               # {: .class} syntax
