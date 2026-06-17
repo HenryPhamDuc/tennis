@@ -1,0 +1,25 @@
+# MkDocs build artifact — regenerate with `mkdocs build`
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# MkDocs local server cache
+.mkdocs_cache/
+
+# GitHub Pages output (managed by mkdocs gh-deploy)
+gh-pages/

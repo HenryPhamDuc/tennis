@@ -1,0 +1,150 @@
+site_name: 🎾 Henry's Tennis Knowledge Vault
+site_description: A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+ — 22 deep dives, a 14-Part master manual, a 2-page cheat sheet, and 20 years of accumulated biomechanics, taichi principles, and 50+ longevity adjustments.
+site_author: Henry Pham Duc
+site_url: https://henryphamduc.github.io/AI/
+repo_url: https://github.com/HenryPhamDuc/AI
+repo_name: HenryPhamDuc/AI
+edit_uri: edit/master/docs/
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs           # Top horizontal menu for main categories
+    - navigation.sections       # Sidebar collapse for sub-chapters
+    - navigation.indexes        # Section index pages
+    - navigation.top            # Back to top button
+    - navigation.tracking       # URL tracking for anchor links
+    - search.suggest            # Smart search bar auto-suggestions
+    - search.highlight          # Highlight matches in results
+    - search.share              # Share search results via URL
+    - content.code.copy         # Copy button on code blocks
+    - content.tabs.link         # Sync tabs across instances
+    - toc.follow                # Follow scroll position
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/tennis
+
+markdown_extensions:
+  - admonition              # Note/warning/tip blocks
+  - attr_list               # {: .class} syntax
+  - def_list                # Definition lists
+  - footnotes               # Footnotes
+  - md_in_html              # Markdown inside HTML
+  - meta                    # Metadata support
+  - tables                  # GFM tables (we use these everywhere)
+  - toc:
+      permalink: true       # Anchor links on headings
+      toc_depth: 3
+  - pymdownx.details        # Collapsible admonitions
+  - pymdownx.superfences    # Better code fences
+  - pymdownx.tabbed:        # Tabbed content
+      alternate_style: true
+  - pymdownx.emoji:         # Emoji shortcodes
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite   # Inline code highlighting
+  - pymdownx.tasklist:      # Checkbox task lists
+      custom_checkbox: true
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HenryPhamDuc
+  generator: false
+
+# Nav: explicit structure so the menu order is deterministic and the
+# Complete Manual v2 is the homepage. Each top-level entry is a deep-dive
+# folder; each sub-entry is the MD file inside that folder, with the
+# ReadMe at the end of each section so it doesn't bury the main content.
+nav:
+  - "🏠 Home (Complete Manual v2)": index.md
+  - "1-Page Pocket Card":
+      - "1-Page Match Pocket Card — The Complete Grip System": "1-Page Pocket Card/1-Page Match Pocket Card — The Complete Grip System.md"
+      - "ReadMe": "1-Page Pocket Card/ReadMe.md"
+  - "Backhand":
+      - "Backhand — The Mirror, The Whip & The Slice": "Backhand/Backhand — The Mirror, The Whip & The Slice.md"
+      - "One-Handed Backhand — The Full Deep Dive": "Backhand/One-Handed Backhand — The Full Deep Dive.md"
+      - "Quick Reference - Slice Cheat Sheet": "Backhand/Quick Reference - Slice Cheat Sheet.md"
+      - "Slice - Low Ball Variation": "Backhand/Slice - Low Ball Variation.md"
+      - "Slice - Return Variation": "Backhand/Slice - Return Variation.md"
+      - "ReadMe": "Backhand/ReadMe.md"
+  - "Continental Grip":
+      - "Continental Grip — The 9-Shot Universal Key": "Continental Grip/Continental Grip — The 9-Shot Universal Key.md"
+      - "ReadMe": "Continental Grip/ReadMe.md"
+  - "Doubles Patterns":
+      - "Doubles Patterns — The 4 Return Patterns": "Doubles Patterns/Doubles Patterns — The 4 Return Patterns.md"
+      - "ReadMe": "Doubles Patterns/ReadMe.md"
+  - "Doubles Serves":
+      - "Doubles Serves — The 4 Serve Patterns": "Doubles Serves/Doubles Serves — The 4 Serve Patterns.md"
+      - "ReadMe": "Doubles Serves/ReadMe.md"
+  - "Doubles Tactics":
+      - "Doubles Tactics — Communication, Formations & The 50+ Longevity Game": "Doubles Tactics/Doubles Tactics — Communication, Formations & The 50+ Longevity Game.md"
+      - "ReadMe": "Doubles Tactics/ReadMe.md"
+  - "Eastern Semi-Western Grip":
+      - "Eastern Semi-Western Grip — The 30% Forehand Grips": "Eastern Semi-Western Grip/Eastern Semi-Western Grip — The 30% Forehand Grips.md"
+      - "ReadMe": "Eastern Semi-Western Grip/ReadMe.md"
+  - "Footwork":
+      - "Footwork — The Art of Smart Movement": "Footwork/Footwork — The Art of Smart Movement.md"
+      - "ReadMe": "Footwork/ReadMe.md"
+  - "Forehand":
+      - "Forehand L-Angle and Late Acceleration": "Forehand/Forehand L-Angle and Late Acceleration.md"
+      - "Khoa Vai Thuc Hu Axis": "Forehand/Khoa Vai Thuc Hu Axis.md"
+      - "Racket Embodiment": "Forehand/Racket Embodiment.md"
+      - "Unit Turn and Racket Head Position": "Forehand/Unit Turn and Racket Head Position.md"
+      - "ReadMe": "Forehand/ReadMe.md"
+  - "Foundations and Grip":
+      - "Foundations and Grip": "Foundations and Grip/Foundations and Grip.md"
+      - "ReadMe": "Foundations and Grip/ReadMe.md"
+  - "Grip Change Map":
+      - "Grip Change Map — The Complete Sequence Guide": "Grip Change Map/Grip Change Map — The Complete Sequence Guide.md"
+      - "ReadMe": "Grip Change Map/ReadMe.md"
+  - "Grip Pressure":
+      - "Grip Pressure — The Dial You Control Every Shot": "Grip Pressure/Grip Pressure — The Dial You Control Every Shot.md"
+      - "ReadMe": "Grip Pressure/ReadMe.md"
+  - "Lob and Overhead":
+      - "Lob and Overhead — The Vertical Game": "Lob and Overhead/Lob and Overhead — The Vertical Game.md"
+      - "ReadMe": "Lob and Overhead/ReadMe.md"
+  - "Mental Game":
+      - "Mental Game — The Match Inside Your Head": "Mental Game/Mental Game — The Match Inside Your Head.md"
+      - "ReadMe": "Mental Game/ReadMe.md"
+  - "Return of Serve":
+      - "Return of Serve — Reading, Blocking, Surviving": "Return of Serve/Return of Serve — Reading, Blocking, Surviving.md"
+      - "ReadMe": "Return of Serve/ReadMe.md"
+  - "Serve":
+      - "Serve — The Gravity & Rotation Serve": "Serve/Serve — The Gravity & Rotation Serve.md"
+      - "ReadMe": "Serve/ReadMe.md"
+  - "Slice Approach":
+      - "Slice Approach — The Senior-Friendly Way to the Net": "Slice Approach/Slice Approach — The Senior-Friendly Way to the Net.md"
+      - "ReadMe": "Slice Approach/ReadMe.md"
+  - "Slice Family Doubles":
+      - "Slice Family Doubles — The 8-Shot Doubles Playbook": "Slice Family Doubles/Slice Family Doubles — The 8-Shot Doubles Playbook.md"
+      - "ReadMe": "Slice Family Doubles/ReadMe.md"
+  - "Slice Variations":
+      - "Slice Variations — The 7-Shot Swiss Army Knife": "Slice Variations/Slice Variations — The 7-Shot Swiss Army Knife.md"
+      - "ReadMe": "Slice Variations/ReadMe.md"
+  - "Volley":
+      - "Volley — The Art of Redirection": "Volley/Volley — The Art of Redirection.md"
+      - "ReadMe": "Volley/ReadMe.md"
