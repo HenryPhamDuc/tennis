@@ -45,17 +45,21 @@ theme:
     repo: fontawesome/brands/github
     logo: material/tennis
 
-# Inject custom CSS to expand all sidebar sections by default
+# Inject custom CSS for the entire library
 extra_css:
   - assets/expand-sidebar.css
+  - assets/sidebar-nav.css
 
-# Inject custom JavaScript: open external links (Tennis Future Lab
-# Website + Audio Podcast) in a new tab. The script runs after the
-# DOM is ready and adds target="_blank" to any link whose href starts
-# with http:// or https://. mailto: links are left alone so the
-# Contact link still opens the user's mail client in the same tab.
+# Inject custom JavaScript:
+#   - open-external-links.js: adds target="_blank" to external links
+#     (Tennis Future Lab Website + Audio Podcast open in a new tab)
+#   - sidebar-nav.js: injects Home/Previous/Next navigation bars at
+#     the top of the sidebar AND at the bottom of each page. The
+#     prev/next is determined dynamically by walking the sidebar
+#     links in order, so it works for all 47 pages automatically.
 extra_javascript:
   - assets/open-external-links.js
+  - assets/sidebar-nav.js
 
 markdown_extensions:
   - admonition              # Note/warning/tip blocks
