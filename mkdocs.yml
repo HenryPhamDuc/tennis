@@ -16,6 +16,7 @@ theme:
     - navigation.tabs           # Top horizontal menu for main categories
     - navigation.sections       # Sidebar collapse for sub-chapters
     - navigation.indexes        # Section index pages
+    # NOTE: navigation.expand is no-op in Material 9.x; use custom CSS instead (see extra_css below)
     - navigation.top            # Back to top button
     - navigation.tracking       # URL tracking for anchor links
     - search.suggest            # Smart search bar auto-suggestions
@@ -42,6 +43,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
     logo: material/tennis
+
+# Inject custom CSS to expand all sidebar sections by default
+extra_css:
+  - assets/expand-sidebar.css
 
 markdown_extensions:
   - admonition              # Note/warning/tip blocks

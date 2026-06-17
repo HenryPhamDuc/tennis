@@ -14,7 +14,7 @@ description: |
   backhand, serve, volley, return, slice, lob/overhead, doubles, mental game,
   grip pressure, and the Complete Manual v2 (14 Parts, 2-page cheat sheet).
   Built from 1,300 KB of accumulated biomechanics, taichi principles, and
-  50+ longevity adjustments over 20 years of play in Surrey, UK.
+  50+ longevity adjustments over 20 years of play in Surrey, BC.
 ---
 
 # Preface | Lời Mở Đầu
@@ -65,12 +65,12 @@ túi vợt.
 
 # Acknowledgements | Lời Cảm Ơn
 
-This book is the synthesis of 20 years of recreational tennis in Surrey, UK —
+This book is the synthesis of 20 years of recreational tennis in Surrey, BC —
 playing with the same handful of partners, on the same handful of courts, with
 the same handful of injuries. Every cue in here has been tested on a 52-year-
 old body. If it works for me, it will work for you.
 
-Cuốn sách này là sự tổng hợp của 20 năm chơi tennis nghiệp dư ở Surrey, UK —
+Cuốn sách này là sự tổng hợp của 20 năm chơi tennis nghiệp dư ở Surrey, BC —
 với cùng một nhóm bạn, trên cùng một vài sân, với cùng một vài chấn thương.
 Mọi câu nhắc trong đây đã được thử trên cơ thể 52 tuổi. Nếu nó hiệu quả với
 tôi, nó sẽ hiệu quả với bạn.

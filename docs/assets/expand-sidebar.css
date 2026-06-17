@@ -1,0 +1,31 @@
+/*
+ * expand-sidebar.css
+ *
+ * Force all sidebar sections (Forehand, Serve, Lob and Overhead, etc.) to
+ * expand by default, so the user can see all 20 deep-dive folders and their
+ * sub-pages without clicking each toggle triangle.
+ *
+ * Without this CSS, MkDocs Material 9.x renders every nested nav section
+ * as collapsed — the top-level label is a toggle, not a link, so clicking
+ * "Forehand" only opens the toggle but doesn't navigate anywhere. This
+ * CSS makes the sections visible by default.
+ */
+
+.md-nav__item--nested > .md-nav {
+  /* Show the nested children by default */
+  display: block !important;
+  visibility: visible !important;
+  height: auto !important;
+}
+
+/* Hide the toggle triangle indicator for nested items (no longer needed
+   since the children are always visible) */
+.md-nav__item--nested > .md-nav__link .md-nav__icon,
+.md-nav__item--nested > label .md-nav__icon {
+  display: none !important;
+}
+
+/* Adjust spacing for nested items since the toggle is hidden */
+.md-nav__item--nested > .md-nav__link {
+  padding-right: 0.5rem !important;
+}
