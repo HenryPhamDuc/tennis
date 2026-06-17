@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Slice Family — 7 Variations, 1 Grip
-## Chương 1 — Ý tưởng cốt lõi: Gia Đình Slice — 7 Biến Thể, 1 Grip
+## Chapter 1 — The Big Idea: The Slice Family — 7 Variations, 1 Grip | Chương 1 — Ý tưởng cốt lõi: Gia Đình Slice — 7 Biến Thể, 1 Grip
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -91,8 +90,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Slice Return + The Slice Low Ball: Survive First
-## Chương 2 — Slice Return + Slice Low Ball: Sinh Tồn Trước
+## Chapter 2 — The Slice Return + The Slice Low Ball: Survive First | Chương 2 — Slice Return + Slice Low Ball: Sinh Tồn Trước
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -169,8 +167,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Slice Volley + The Slice Drop Shot: Touch at the Net
-## Chương 3 — Slice Volley + Slice Drop Shot: Tinh Tế Ở Lưới
+## Chapter 3 — The Slice Volley + The Slice Drop Shot: Touch at the Net | Chương 3 — Slice Volley + Slice Drop Shot: Tinh Tế Ở Lưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -262,8 +259,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Slice Defensive Lob + The Slice Counter-Punch: Get Out of Trouble
-## Chương 4 — Slice Defensive Lob + Slice Counter-Punch: Thoát Khỏi Rắc Rối
+## Chapter 4 — The Slice Defensive Lob + The Slice Counter-Punch: Get Out of Trouble | Chương 4 — Slice Defensive Lob + Slice Counter-Punch: Thoát Khỏi Rắc Rối
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -344,8 +340,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — The Slice Approach + Drills, Cues, Warnings, 50+ Check, Cheat Sheet
-## Chương 5 — Slice Approach + Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
+## Chapter 5 — The Slice Approach + Drills, Cues, Warnings, 50+ Check, Cheat Sheet | Chương 5 — Slice Approach + Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
 
 ### 5A. The Slice Approach — The Full Pattern (Already Deep-Dived) | Slice Approach — Pattern Đầy Đủ (Đã Deep-Dive)
 

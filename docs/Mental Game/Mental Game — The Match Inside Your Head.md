@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The 5-Phase Match Map
-## Chương 1 — Ý tưởng cốt lõi: Bản Đồ 5 Pha Trận Đấu
+## Chapter 1 — The Big Idea: The 5-Phase Match Map | Chương 1 — Ý tưởng cốt lõi: Bản Đồ 5 Pha Trận Đấu
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -76,8 +75,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Pre-Point Ritual: The 2-Second Reset
-## Chương 2 — Nghi Thức Trước Điểm: Reset 2 Giây
+## Chapter 2 — The Pre-Point Ritual: The 2-Second Reset | Chương 2 — Nghi Thức Trước Điểm: Reset 2 Giây
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -176,8 +174,7 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Pressure Points: Where the Mind Breaks (and the Protocols)
-## Chương 3 — Điểm Áp Lực: Nơi Tâm Trí Gãy (và Protocol)
+## Chapter 3 — The Pressure Points: Where the Mind Breaks (and the Protocols) | Chương 3 — Điểm Áp Lực: Nơi Tâm Trí Gãy (và Protocol)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -292,8 +289,7 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Loss Recovery: When You've Just Been Broken
-## Chương 4 — Hồi Phục Sau Thua: Khi Anh Vừa Bị Break
+## Chapter 4 — The Loss Recovery: When You've Just Been Broken | Chương 4 — Hồi Phục Sau Thua: Khi Anh Vừa Bị Break
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -428,8 +424,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings, 50+ Edge, Cheat Sheet
-## Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Lợi Thế 50+, Tóm Tắt In Được
+## Chapter 5 — Drills, Cues, Warnings, 50+ Edge, Cheat Sheet | Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Lợi Thế 50+, Tóm Tắt In Được
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 Bài Tập Tuần Này
 

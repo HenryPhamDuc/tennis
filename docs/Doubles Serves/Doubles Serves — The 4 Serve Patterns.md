@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Serve Is a Setup, Not a Weapon
-## Chương 1 — Ý tưởng cốt lõi: Serve Là Setup, Không Phải Vũ Khí
+## Chapter 1 — The Big Idea: The Serve Is a Setup, Not a Weapon | Chương 1 — Ý tưởng cốt lõi: Serve Là Setup, Không Phải Vũ Khí
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -111,8 +110,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — Serve Wide: The 3.5 Default (Slice to the Backhand)
-## Chương 2 — Serve Rộng: Mặc Định 3.5 (Slice Vào Backhand)
+## Chapter 2 — Serve Wide: The 3.5 Default (Slice to the Backhand) | Chương 2 — Serve Rộng: Mặc Định 3.5 (Slice Vào Backhand)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -198,8 +196,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — Serve to the T: The Safest Target (Down the Middle)
-## Chương 3 — Serve Vào T: Mục Tiêu An Toàn Nhất (Xuôi Giữa)
+## Chapter 3 — Serve to the T: The Safest Target (Down the Middle) | Chương 3 — Serve Vào T: Mục Tiêu An Toàn Nhất (Xuôi Giữa)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -278,8 +275,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — Serve to the Body: The Underused Weapon
-## Chương 4 — Serve Vào Thân: Vũ Khí Bị Bỏ Qua
+## Chapter 4 — Serve to the Body: The Underused Weapon | Chương 4 — Serve Vào Thân: Vũ Khí Bị Bỏ Qua
 
 | 🇺🇸 English | 🇻🇳 Tiệt Việt |
 |---|---|
@@ -343,8 +339,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Serve + Volley, Drills, Cues, Warnings, 50+ Check, Cheat Sheet
-## Chương 5 — Serve + Volley, Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
+## Chapter 5 — Serve + Volley, Drills, Cues, Warnings, 50+ Check, Cheat Sheet | Chương 5 — Serve + Volley, Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
 
 ### 5A. Serve + Volley — The 50+ Offensive Option (For the Brave) | Serve + Volley — Tùy Chọn Tấn Công 50+ (Dành Cho Người Dũng Cảm)
 

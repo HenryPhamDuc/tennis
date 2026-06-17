@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Why the First Move Matters Most
-## Chương 1 — Ý tưởng cốt lõi: Tại sao động tác đầu tiên quan trọng nhất
+## Chapter 1 — The Big Idea: Why the First Move Matters Most | Chương 1 — Ý tưởng cốt lõi: Tại sao động tác đầu tiên quan trọng nhất
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -68,8 +67,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The 2 Checkpoints: The Mirror Test
-## Chương 2 — 2 điểm kiểm tra: Test gương
+## Chapter 2 — The 2 Checkpoints: The Mirror Test | Chương 2 — 2 điểm kiểm tra: Test gương
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -118,8 +116,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The 50+ Adjustments: Bridge Leg, Low COG, Save the Back
-## Chương 3 — Điều chỉnh cho tuổi 50+: Chân cầu, hạ trọng tâm, giữ lưng
+## Chapter 3 — The 50+ Adjustments: Bridge Leg, Low COG, Save the Back | Chương 3 — Điều chỉnh cho tuổi 50+: Chân cầu, hạ trọng tâm, giữ lưng
 
 | 🇺🇸 English | 🇻🇳 Tiết Việt |
 |---|---|
@@ -167,8 +164,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — 4 Drills You Can Do This Week
-## Chương 4 — 4 bài tập trong tuần này
+## Chapter 4 — 4 Drills You Can Do This Week | Chương 4 — 4 bài tập trong tuần này
 
 ### 🛠️ Drill 1 — The Mirror Hold (Daily, 2 min) | Giữ gương (Mỗi ngày, 2 phút)
 
@@ -208,8 +204,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Cues, Warnings & The Court Cheat Sheet
-## Chương 5 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
+## Chapter 5 — Cues, Warnings & The Court Cheat Sheet | Chương 5 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
 
 ### 🧠 The 5 Cues to Tattoo on Your Brain | 5 tín hiệu khắc vào đầu
 
@@ -253,8 +248,7 @@
 
 ---
 
-## 📋 The One-Page Court Cheat Sheet
-## Bảng tóm tắt mang ra sân
+## 📋 The One-Page Court Cheat Sheet | Bảng tóm tắt mang ra sân
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

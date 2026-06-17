@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Slice × Doubles Integration — 8 × 2 = 16
-## Chương 1 — Ý tưởng cốt lõi: Slice × Đôi = 8 × 2 = 16
+## Chapter 1 — The Big Idea: The Slice × Doubles Integration — 8 × 2 = 16 | Chương 1 — Ý tưởng cốt lõi: Slice × Đôi = 8 × 2 = 16
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -43,7 +42,7 @@
 ### The 8 Slice Variations × Doubles Angle | 8 Biến Thể Slice × Góc Đôi
 
 | # | Slice Variation | Doubles Angle | Góc Đôi | Who Hits | Ai Đánh | Partner's Role | Vai Trò Partner | Poach Risk | Rủi Ro Cắt |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 | **0** | **Slice Wide Serve** | Pull returner wide, set up poach | Kéo người trả rộng, setup cắt | 🇺🇸 Server | 🇻🇳 Server | 🇺🇸 Poach (the 50% rule) | 🇻🇳 Cắt (quy tắc 50%) | 🇺🇸 High (poach is the plan) | 🇻🇳 Cao (cắt là kế hoạch) |
 | **1** | **Slice Return** | Deep middle, set up partner | Giữa sân sâu, setup partner | 🇺🇸 Returner | 🇻🇳 Người trả | 🇺🇸 Poach if ball is high | 🇻🇳 Cắt nếu bóng cao | 🇺🇸 Medium (avoid the net player) | 🇻🇳 TB (tránh người lưới) |
 | **2** | **Slice Low Ball** | Defensive baseline rally | Rally baseline phòng thủ | 🇺🇸 Either | 🇻🇳 Bất kỳ | 🇺🇸 Stay at net, don't poach | 🇻🇳 Ở lưới, đừng cắt | 🇺🇸 Low (safe to dig out) | 🇻🇳 Thấp (an toàn để đào) |
@@ -75,8 +74,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Server's Slice: Slice Wide Serve + Slice Return
-## Chương 2 — Slice Của Server: Slice Wide Serve + Slice Return
+## Chapter 2 — The Server's Slice: Slice Wide Serve + Slice Return | Chương 2 — Slice Của Server: Slice Wide Serve + Slice Return
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -154,8 +152,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Net Player's Slice: Slice Approach + Slice Volley
-## Chương 3 — Slice Của Người Lưới: Slice Approach + Slice Volley
+## Chapter 3 — The Net Player's Slice: Slice Approach + Slice Volley | Chương 3 — Slice Của Người Lưới: Slice Approach + Slice Volley
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -237,8 +234,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Change-Up Slice: Drop Shot + Defensive Lob + Counter-Punch
-## Chương 4 — Slice Đổi Nhịp: Drop Shot + Defensive Lob + Counter-Punch
+## Chapter 4 — The Change-Up Slice: Drop Shot + Defensive Lob + Counter-Punch | Chương 4 — Slice Đổi Nhịp: Drop Shot + Defensive Lob + Counter-Punch
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -318,8 +314,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — The Team Slice: 4 Coordination Cues + Drills, 50+, Cheat Sheet
-## Chương 5 — Slice Đội: 4 Tín Hiệu Phối Hợp + Bài Tập, 50+, Tóm Tắt In Được
+## Chapter 5 — The Team Slice: 4 Coordination Cues + Drills, 50+, Cheat Sheet | Chương 5 — Slice Đội: 4 Tín Hiệu Phối Hợp + Bài Tập, 50+, Tóm Tắt In Được
 
 ### 5A. The 4 Doubles Team-Slice Cues | 4 Tín Hiệu Slice Đội Đôi
 

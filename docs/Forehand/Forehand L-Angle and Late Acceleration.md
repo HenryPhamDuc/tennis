@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea
-## Chương 1 — Ý tưởng cốt lõi
+## Chapter 1 — The Big Idea | Chương 1 — Ý tưởng cốt lõi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -42,8 +41,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Setup: Build the Diamond First
-## Chương 2 — Khởi động: Dựng khung kim cương trước
+## Chapter 2 — The Setup: Build the Diamond First | Chương 2 — Khởi động: Dựng khung kim cương trước
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -83,8 +81,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The L: Your Forearm Is a Whip
-## Chương 3 — Góc L: Cẳng tay là cây roi
+## Chapter 3 — The L: Your Forearm Is a Whip | Chương 3 — Góc L: Cẳng tay là cây roi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -134,8 +131,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — Late Acceleration: The Chest Pushes, Not the Arm
-## Chương 4 — Tăng tốc muộn: Ngực đẩy, tay không phải
+## Chapter 4 — Late Acceleration: The Chest Pushes, Not the Arm | Chương 4 — Tăng tốc muộn: Ngực đẩy, tay không phải
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -174,8 +170,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Putting It Together: 4 Drills for This Week
-## Chương 5 — Lắp ráp: 4 bài tập trong tuần này
+## Chapter 5 — Putting It Together: 4 Drills for This Week | Chương 5 — Lắp ráp: 4 bài tập trong tuần này
 
 ### 🛠️ Drill 1 — The Mirror Hold (Daily, 2 min) | Giữ gương (Mỗi ngày, 2 phút)
 
@@ -216,8 +211,7 @@
 ---
 
 <a name="chapter-6"></a>
-## Chapter 6 — Cues, Warnings & The 50+ Reality Check
-## Chương 6 — Tín hiệu, cảnh báo & thực tế 50+
+## Chapter 6 — Cues, Warnings & The 50+ Reality Check | Chương 6 — Tín hiệu, cảnh báo & thực tế 50+
 
 ### 🧠 The 5 Cues to Tattoo on Your Brain | 5 tín hiệu khắc vào đầu
 
@@ -250,8 +244,7 @@
 
 ---
 
-## 📋 The One-Page Court Cheat Sheet
-## Bảng tóm tắt mang ra sân
+## 📋 The One-Page Court Cheat Sheet | Bảng tóm tắt mang ra sân
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

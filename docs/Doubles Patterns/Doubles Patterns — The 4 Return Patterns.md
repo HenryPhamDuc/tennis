@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Return Dictates the Point
-## Chương 1 — Ý tưởng cốt lõi: Cú Trả Quyết Định Điểm
+## Chapter 1 — The Big Idea: The Return Dictates the Point | Chương 1 — Ý tưởng cốt lõi: Cú Trả Quyết Định Điểm
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -109,8 +108,7 @@ RETURN IS INCOMING → What's the situation?
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — Return + Lob: The 50+ Default (The Insurance Policy)
-## Chương 2 — Trả + Lob: Mặc Định 50+ (Chính Sách Bảo Hiểm)
+## Chapter 2 — Return + Lob: The 50+ Default (The Insurance Policy) | Chương 2 — Trả + Lob: Mặc Định 50+ (Chính Sách Bảo Hiểm)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -193,8 +191,7 @@ RETURN IS INCOMING → What's the situation?
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — Return + 1: The Smart Pattern (Return + Poach)
-## Chương 3 — Trả + 1: Mẫu Thông Minh (Trả + Cắt Bóng)
+## Chapter 3 — Return + 1: The Smart Pattern (Return + Poach) | Chương 3 — Trả + 1: Mẫu Thông Minh (Trả + Cắt Bóng)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -281,8 +278,7 @@ RETURN IS INCOMING → What's the situation?
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — Return + Approach: The Net Conversion (Next Step)
-## Chương 4 — Trả + Approach: Chuyển Đổi Lưới (Bước Tiếp)
+## Chapter 4 — Return + Approach: The Net Conversion (Next Step) | Chương 4 — Trả + Approach: Chuyển Đổi Lưới (Bước Tiếp)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -391,8 +387,7 @@ RETURN IS INCOMING → What's the situation?
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Return + 2, Drills, Cues, Warnings, 50+ Check & Printable Cheat Sheet
-## Chương 5 — Trả + 2, Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
+## Chapter 5 — Return + 2, Drills, Cues, Warnings, 50+ Check & Printable Cheat Sheet | Chương 5 — Trả + 2, Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
 
 ### 5A. Return + 2 — The Attacking Drive (For the Brave) | Trả + 2 — Drive Tấn Công (Dành Cho Người Dũng Cảm)
 

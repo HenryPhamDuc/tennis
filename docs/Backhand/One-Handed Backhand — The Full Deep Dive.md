@@ -25,8 +25,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The 1HB Decision: Why This Deep Dive Exists
-## Chương 1 — Quyết định 1HB: Tại sao deep dive này tồn tại
+## Chapter 1 — The 1HB Decision: Why This Deep Dive Exists | Chương 1 — Quyết định 1HB: Tại sao deep dive này tồn tại
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -80,8 +79,7 @@ The pro paper analyzed three elite one-handed backhands. Each is a valid solutio
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Grip & Unit Turn: Continental, the Empty Top Hand, the "D-Minus-Top" Position
-## Chương 2 — Grip & Unit Turn: Continental, tay trên trống, vị trí "D-trừ-trên"
+## Chapter 2 — The Grip & Unit Turn: Continental, the Empty Top Hand, the "D-Minus-Top" Position | Chương 2 — Grip & Unit Turn: Continental, tay trên trống, vị trí "D-trừ-trên"
 
 ### 🎯 The Grip — Continental, No Exceptions, No Compromise
 
@@ -136,8 +134,7 @@ The pro paper analyzed three elite one-handed backhands. Each is a valid solutio
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The L1–L4 System Applied to the 1HB
-## Chương 3 — Hệ L1–L4 áp dụng cho 1HB
+## Chapter 3 — The L1–L4 System Applied to the 1HB | Chương 3 — Hệ L1–L4 áp dụng cho 1HB
 
 The four-layer system from the forehand series (L1 swing, L2 setup, L3 axis, L4 feel) applies to the 1HB — but the **load distribution** changes. On a 2HB, the load is shared across two arms. On a 1HB, **all the load is on the right shoulder and the right side of the core.** This is why the L3 (axis / thực-hư) and L4 (feel / proprioception) layers become *more* important, not less.
 
@@ -217,8 +214,7 @@ The four-layer system from the forehand series (L1 swing, L2 setup, L3 axis, L4 
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — Three Pro Archetypes: Dimitrov, Wawrinka, Federer
-## Chương 4 — Ba mẫu pro: Dimitrov, Wawrinka, Federer
+## Chapter 4 — Three Pro Archetypes: Dimitrov, Wawrinka, Federer | Chương 4 — Ba mẫu pro: Dimitrov, Wawrinka, Federer
 
 This is the chapter where most 3.5 players go wrong. They see a pro on TV, pick their favorite, and try to imitate the *extreme* version of that pro's takeback. The pro paper documents the full biomechanics of each player; here is the **3.5-level rendering** of what to take and what to leave.
 
@@ -363,8 +359,7 @@ This is the chapter where most 3.5 players go wrong. They see a pro on TV, pick 
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — The One-Handed Slice: The Shoulder-Friendly 1HB
-## Chương 5 — Slice một tay: 1HB thân thiện vai
+## Chapter 5 — The One-Handed Slice: The Shoulder-Friendly 1HB | Chương 5 — Slice một tay: 1HB thân thiện vai
 
 The slice is the **only 1HB that 100% of 50+ players should learn, regardless of shoulder history.** It's the 1HB's "shoulder insurance" — the same grip as the volley, the same motion as a high-to-low windshield wiper, and the same underspin that disrupts rhythm, buys time, and works on defense, low balls, approach shots, and returns of big serves.
 
@@ -443,8 +438,7 @@ The slice is the **only 1HB that 100% of 50+ players should learn, regardless of
 ---
 
 <a name="chapter-6"></a>
-## Chapter 6 — Drills, Cues, 50+ Shoulder Care, Mental Game & Cheat Sheet
-## Chương 6 — Bài tập, tín hiệu, chăm sóc vai 50+, tinh thần & cheat sheet
+## Chapter 6 — Drills, Cues, 50+ Shoulder Care, Mental Game & Cheat Sheet | Chương 6 — Bài tập, tín hiệu, chăm sóc vai 50+, tinh thần & cheat sheet
 
 ### 🛠️ The 7 Drills You Can Do This Week | 7 bài tập tuần này
 

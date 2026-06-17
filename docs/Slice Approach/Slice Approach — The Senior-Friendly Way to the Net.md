@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Approach Is a Decision, Not a Reflex
-## Chương 1 — Ý tưởng cốt lõi: Lên lưới là một QUYẾT ĐỊNH, không phải phản xạ
+## Chapter 1 — The Big Idea: The Approach Is a Decision, Not a Reflex | Chương 1 — Ý tưởng cốt lõi: Lên lưới là một QUYẾT ĐỊNH, không phải phản xạ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -74,8 +73,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Two Slice Approaches — Backhand (Default) + Forehand (Next Step)
-## Chương 2 — Hai Slice Approach — Backhand (Mặc Định) + Forehand (Bước Tiếp)
+## Chapter 2 — The Two Slice Approaches — Backhand (Default) + Forehand (Next Step) | Chương 2 — Hai Slice Approach — Backhand (Mặc Định) + Forehand (Bước Tiếp)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -167,8 +165,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Transition — How to Actually Get to the Net
-## Chương 3 — Chuyển Tiếp — Cách Thực Sự Lên Lưới
+## Chapter 3 — The Transition — How to Actually Get to the Net | Chương 3 — Chuyển Tiếp — Cách Thực Sự Lên Lưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -216,8 +213,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Volley Finish — You Made It, Now Finish the Point
-## Chương 4 — Kết Thúc Bằng Volley — Anh Đã Tới, Giờ Kết Thúc Điểm
+## Chapter 4 — The Volley Finish — You Made It, Now Finish the Point | Chương 4 — Kết Thúc Bằng Volley — Anh Đã Tới, Giờ Kết Thúc Điểm
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -276,8 +272,7 @@ BALL IS INCOMING (the opponent's pass) → Where is it?
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings, 50+ Reality Check & Printable Cheat Sheet
-## Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
+## Chapter 5 — Drills, Cues, Warnings, 50+ Reality Check & Printable Cheat Sheet | Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 Bài Tập Tuần Này
 

@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Vertical Game
-## Chương 1 — Ý tưởng cốt lõi: Trò Chơi Theo Trục Thẳng Đứng
+## Chapter 1 — The Big Idea: The Vertical Game | Chương 1 — Ý tưởng cốt lõi: Trò Chơi Theo Trục Thẳng Đứng
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -72,8 +71,7 @@ Most 3.5 players think of the lob and the overhead as separate strokes. They're 
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Lob: Defensive + Offensive (The Insurance Policy)
-## Chương 2 — Lob: Phòng Thủ + Tấn Công (Chính Sách Bảo Hiểm Của Anh)
+## Chapter 2 — The Lob: Defensive + Offensive (The Insurance Policy) | Chương 2 — Lob: Phòng Thủ + Tấn Công (Chính Sách Bảo Hiểm Của Anh)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -177,8 +175,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Overhead: The Sane Smash (The 50+ Reward)
-## Chương 3 — Overhead: Smash Kiểm Soát (Phần Thưởng 50+)
+## Chapter 3 — The Overhead: The Sane Smash (The 50+ Reward) | Chương 3 — Overhead: Smash Kiểm Soát (Phần Thưởng 50+)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -252,8 +249,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Specialty Shots: Lob Volley + Counter-Overhead
-## Chương 4 — Cú Đặc Biệt: Lob Volley + Counter-Overhead
+## Chapter 4 — The Specialty Shots: Lob Volley + Counter-Overhead | Chương 4 — Cú Đặc Biệt: Lob Volley + Counter-Overhead
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -327,8 +323,7 @@ BALL IS IN THE AIR → What's the situation?
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings, 50+ Reality Check & Printable Cheat Sheet
-## Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
+## Chapter 5 — Drills, Cues, Warnings, 50+ Reality Check & Printable Cheat Sheet | Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+ & Tóm Tắt In Được
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 Bài Tập Tuần Này
 

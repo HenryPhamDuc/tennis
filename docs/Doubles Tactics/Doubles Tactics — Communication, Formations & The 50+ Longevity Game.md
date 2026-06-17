@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Why Doubles is the 50+ Longevity Game
-## Chương 1 — Ý tưởng cốt lõi: Tại sao đôi là trò chơi trường thọ 50+
+## Chapter 1 — The Big Idea: Why Doubles is the 50+ Longevity Game | Chương 1 — Ý tưởng cốt lõi: Tại sao đôi là trò chơi trường thọ 50+
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -66,8 +65,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — Communication & Movement: The Foundation
-## Chương 2 — Giao tiếp & Di chuyển: Nền tảng
+## Chapter 2 — Communication & Movement: The Foundation | Chương 2 — Giao tiếp & Di chuyển: Nền tảng
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -169,8 +167,7 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The 3 Formations: When to Use Each
-## Chương 3 — 3 đội hình: Khi nào dùng cái nào
+## Chapter 3 — The 3 Formations: When to Use Each | Chương 3 — 3 đội hình: Khi nào dùng cái nào
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -244,8 +241,7 @@ START OF POINT → Are you serving?
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The 4 Patterns: How Points Actually Get Won
-## Chương 4 — 4 mẫu: Điểm thực sự được thắng thế nào
+## Chapter 4 — The 4 Patterns: How Points Actually Get Won | Chương 4 — 4 mẫu: Điểm thực sự được thắng thế nào
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -379,8 +375,7 @@ SITUATION → PATTERN
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check
-## Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
+## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check | Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 bài tập tuần này
 

@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Volley is Not a Mini Groundstroke
-## Chương 1 — Ý tưởng cốt lõi: Volley không phải cú groundstroke thu nhỏ
+## Chapter 1 — The Big Idea: Volley is Not a Mini Groundstroke | Chương 1 — Ý tưởng cốt lõi: Volley không phải cú groundstroke thu nhỏ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -46,8 +45,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Body: Grip, L-Shape, U-Shape, Wrist
-## Chương 2 — Cơ thể: Grip, hình L, hình U, cổ tay
+## Chapter 2 — The Body: Grip, L-Shape, U-Shape, Wrist | Chương 2 — Cơ thể: Grip, hình L, hình U, cổ tay
 
 ### 🎯 Part 1 — The Continental Grip | Grip Continental
 
@@ -117,8 +115,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Feet: Step-In, Hư-Thực, and Body Weight
-## Chương 3 — Đôi chân: Bước vào, Hư-Thực, và trọng lượng cơ thể
+## Chapter 3 — The Feet: Step-In, Hư-Thực, and Body Weight | Chương 3 — Đôi chân: Bước vào, Hư-Thực, và trọng lượng cơ thể
 
 ### 🎯 Part 1 — The Split-Step: The Trigger | Split-step: Cò súng
 
@@ -186,8 +183,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Variations: Punch, Drop, Block, Lob, Half-Volley
-## Chương 4 — Các biến thể: Punch, Drop, Block, Lob, Half-Volley
+## Chapter 4 — The Variations: Punch, Drop, Block, Lob, Half-Volley | Chương 4 — Các biến thể: Punch, Drop, Block, Lob, Half-Volley
 
 There are five core volleys. Each uses the same body framework (Continental, L-shape, U-shape, step-in) but differs in **how much** swing and **how much** pace. Master one at a time.
 
@@ -296,8 +292,7 @@ BALL ARRIVES → Where is it?
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check
-## Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
+## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check | Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 bài tập tuần này
 

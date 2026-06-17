@@ -24,11 +24,10 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Footwork Is a State, Not a Sprint
-## Chương 1 — Ý tưởng cốt lõi: Di chuyển là một trạng thái, không phải cuộc chạy
+## Chapter 1 — The Big Idea: Footwork Is a State, Not a Sprint | Chương 1 — Ý tưởng cốt lõi: Di chuyển là một trạng thái, không phải cuộc chạy
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | Watch a 3.5 player before the point starts. They stand still — both feet flat, weight even, racket at waist. The opponent hits. They *react*, then *run*, then *swing*. The whole sequence takes 1.2 seconds. The ball is already past them. | Xem người chơi 3.5 trước khi điểm bắt đầu. Họ đứng yên — hai chân bệt, trọng lượng đều, vợt ngang hông. Đối thủ đánh. Họ *phản ứng*, rồi *chạy*, rồi *vung*. Cả chuỗi mất 1,2 giây. Bóng đã qua người. |
 | Watch a pro player. They don't *run* to the ball — they *arrive* at it. The split-step, the small adjustment, the first step is already aimed. They look like they have all the time in the world. | Xem pro. Họ không *chạy* tới bóng — họ *tới* bóng. Split-step, điều chỉnh nhỏ, bước đầu đã hướng sẵn. Họ trông như có cả thế giới thời gian. |
 | **The secret is not faster running. The secret is earlier starting.** The body that is already in motion saves 300ms on every shot. That 300ms is the difference between "almost got there" and "comfortable strike." | **Bí mật không phải chạy nhanh hơn. Bí mật là bắt đầu sớm hơn.** Cơ thể đã chuyển động sẵn tiết kiệm 300ms mỗi cú. 300ms đó là khác biệt giữa "suýt tới nơi" và "đánh thoải mái." |
@@ -47,13 +46,12 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Ready Position: Staggered Stance, One-Foot Rule, Balls of the Feet
-## Chương 2 — Tư thế sẵn sàng: So le, quy tắc một chân, mũi chân
+## Chapter 2 — The Ready Position: Staggered Stance, One-Foot Rule, Balls of the Feet | Chương 2 — Tư thế sẵn sàng: So le, quy tắc một chân, mũi chân
 
 ### 🎯 Part 1 — The Staggered Stance | Tư thế so le
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | Your feet should never be parallel — shoulder-width, both toes forward. That stance **locks the hips.** No rotation, no first step, no spring. | Hai chân không bao giờ song song — rộng vai, cả hai mũi chân tới trước. Tư thế đó **khóa hông.** Không xoay, không bước đầu, không lò xo. |
 | Instead: **staggered stance** — one foot slightly forward, one foot slightly back. About 70-30 weight, with the back foot's heel raised. The hips stay free to rotate. | Thay vào đó: **tư thế so le** — một chân tới hơn, một chân lùi hơn. Khoảng 70-30 trọng lượng, gót chân sau nhấc lên. Hông tự do xoay. |
 | This is the taichi "bow stance" / *Cung Bộ* (弓步) — front leg bent (the bowstring), back leg straight (the bow). Ready to launch forward OR sideways, no wasted motion. | Đây là "thế cung" / *Cung Bộ* (弓步) trong thái cực — chân trước chùng (dây cung), chân sau thẳng (cây cung). Sẵn sàng bùng tới HOẶC bùng ngang, không mất động tác thừa. |
@@ -66,7 +64,7 @@
 ### 🎯 Part 2 — The One-Foot Rule | Quy tắc một chân
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | From your giáo trình: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** The back heel is up 1-2 cm at all times when not actually mid-shot. | Từ giáo trình của anh: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** Gót chân sau luôn nhấc 1-2 cm khi không thực sự đang đánh. |
 | Why? Because the moment both heels touch down, the **calf-spring deactivates.** You become a statue. The "spring in your step" is not a metaphor — it is the gastrocnemius muscle pre-loaded, ready to fire. | Tại sao? Vì khoảnh khắc cả hai gót chạm đất, **lò xo bắp chân tắt.** Anh trở thành tượng. "Bước nhẹ nhàng" không phải ẩn dụ — đó là cơ bụng chân đã nạp sẵn, sẵn sàng bắn. |
 | This is also why both feet flat = slow reaction. Flat feet mean the body has to *recruit* the calves before it can move. One heel up means the calves are *already engaged*. | Đó cũng là lý do tại sao hai chân bệt = phản ứng chậm. Chân bệt nghĩa là cơ thể phải *tuyển* bắp chân trước khi di chuyển. Một gót nhấc nghĩa là bắp chân *đã chủ động rồi*. |
@@ -74,7 +72,7 @@
 ### 🎯 Part 3 — Balls of the Feet, Not Heels | Mũi chân, không phải gót
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | Weight should sit on the **balls of the feet** (the padded area just behind the toes), not on the heels. Test: lift your toes — if you can balance for 5 seconds without wobbling, you are on the balls. If you fall backward, you are on the heels. | Trọng lượng nên nằm trên **mũi chân** (vùng đệm ngay sau các ngón), không phải gót. Thử: nhấc ngón chân lên — nếu giữ thăng bằng 5 giây không lảo đảo, anh đang ở mũi chân. Nếu ngã ngược, anh đang ở gót. |
 | Heel-walking is for office shoes, not tennis. On the balls of the feet, your COG (center of gravity) is slightly forward — the body is in a *forward lean* of 5 to 10 degrees. This is the "hunter stance." | Đi trên gót là cho giày công sở, không phải tennis. Trên mũi chân, COG (trọng tâm) hơi về phía trước — cơ thể *nghiêng tới* 5 đến 10 độ. Đây là "tư thế thợ săn." |
 | **Forward lean saves the back.** If your weight is on the heels, you have to *lean forward with the spine* to move forward. Spinal lean = back load. COG lean = leg load. Legs are built for this; the spine is not. | **Nghiêng về trước tiết kiệm lưng.** Nếu trọng lượng ở gót, anh phải *nghiêng tới bằng cột sống* để di chuyển tới. Nghiêng cột sống = tải lưng. Nghiêng COG = tải chân. Chân được tạo ra cho việc này; cột sống thì không. |
@@ -87,13 +85,12 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Split-Step: The 300ms Trigger
-## Chương 3 — Split-step: Cò súng 300ms
+## Chapter 3 — The Split-Step: The 300ms Trigger | Chương 3 — Split-step: Cò súng 300ms
 
 ### 🎯 Part 1 — What Is the Split-Step? | Split-step là gì?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | The split-step is a **tiny hop** — both feet leave the ground for a fraction of a second — timed to your opponent's racket striking the ball. | Split-step là một **cú nhún nhỏ** — hai chân rời đất một phần nhỏ giây — bấm giờ theo khoảnh khắc vợt đối thủ chạm bóng. |
 | The hop is **tiny** — 1 to 3 cm off the ground. Not a jump, not a bounce. It is a "loading" of the legs, like a compressed spring. | Cú nhún **rất nhỏ** — 1 đến 3 cm khỏi đất. Không phải nhảy, không phải bật. Nó là "nạp" chân, như lò xo bị nén. |
 | When you land, your weight is on the balls of both feet, knees slightly bent — and from that position, **you can go in any direction with equal speed.** | Khi tiếp đất, trọng lượng ở mũi cả hai chân, gối hơi chùng — và từ vị trí đó, **anh có thể đi bất kỳ hướng nào với tốc độ ngang nhau.** |
@@ -107,7 +104,7 @@
 ### 🎯 Part 2 — Timing: The Racket-Forward Moment | Thời điểm: khoảnh khắc vợt đi tới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | The split-step fires when the **opponent's racket starts moving forward** toward the ball — not when they wind up, not when they make contact. | Split-step bắn khi **vợt đối thủ bắt đầu đi về phía trước** về phía bóng — không phải khi họ vung ra sau, không phải khi họ chạm bóng. |
 | Look at the opponent's **racket head**, not their body. The racket head tells you the truth. The shoulders can disguise. The racket cannot lie. | Nhìn **đầu vợt** đối thủ, không phải thân họ. Đầu vợt nói sự thật. Vai có thể ngụy trang. Vợt không biết nói dối. |
 | For serves: split-step when the server's racket reaches the top of the toss. For groundstrokes: split-step when you see the forward swing starting. | Cho giao bóng: split-step khi vợt server lên đỉnh tung bóng. Cho groundstroke: split-step khi anh thấy vung tới bắt đầu. |
@@ -115,7 +112,7 @@
 ### 🎯 Part 3 — The Landing: 1-2 Hold, Then Go | Tiếp đất: giữ 1-2, rồi đi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | After the split-step, **land and hold for 1 to 2 tenths of a second** — your brain is reading the ball's direction. Then you explode in that direction. | Sau split-step, **đáp đất và giữ 1 đến 2 phần mười giây** — não anh đang đọc hướng bóng. Rồi anh bùng nổ về hướng đó. |
 | The hold is what most 3.5 players skip. They split-step and immediately move — but they don't know which direction yet. Result: they move the wrong way first, then correct. The hold eliminates that wasted step. | Cái giữ là thứ hầu hết người 3.5 bỏ qua. Họ split-step và di chuyển ngay — nhưng chưa biết hướng nào. Kết quả: họ đi sai hướng trước, rồi sửa. Cái giữ loại bỏ bước lãng phí đó. |
 | **Phase** | **Body** | **Time** | **Cue** |
@@ -134,8 +131,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Four Moves: Lateral Hop, Drop Step, Cross-Over, Recovery
-## Chương 4 — Bốn bước: Lateral Hop, Drop Step, Cross-Over, Recovery
+## Chapter 4 — The Four Moves: Lateral Hop, Drop Step, Cross-Over, Recovery | Chương 4 — Bốn bước: Lateral Hop, Drop Step, Cross-Over, Recovery
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -145,7 +141,7 @@
 ### 1️⃣ The Lateral Hop / Shuffle | Bước trượt ngang
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | For balls 1-3 meters to your side. Both feet move together — one pushes, the other lands. Stay low, knees bent, weight on the balls. | Cho bóng cách 1-3 mét sang bên. Hai chân đi cùng nhau — một chân đẩy, chân kia đáp. Giữ thấp, gối chùng, trọng lượng ở mũi chân. |
 | Most 3.5 players do this wrong — they CROSS their feet (one foot over the other) or they TAKE A GIANT STRIDE. Both kill lateral speed. | Hầu hết người 3.5 làm sai — họ BẮT CHÉO chân (chân này qua chân kia) hoặc BƯỚC KHỔNG LỒ. Cả hai giết tốc độ ngang. |
 | **The shuffle rule:** feet never cross. Each step is shoulder-width or less. The body stays square to the net throughout. | **Quy tắc trượt:** chân không bao giờ bắt chéo. Mỗi bước rộng bằng vai hoặc ít hơn. Cơ thể vuông với lưới suốt đường đi. |
@@ -159,7 +155,7 @@
 ### 2️⃣ The Drop Step | Bước hạ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | For balls that pull you WIDE or DEEP — when the lateral hop runs out of range. The drop step is the "oh no, that's farther than I thought" move. | Cho bóng kéo anh RA XA hoặc SÂU — khi lateral hop không tới. Drop step là bước "ôi, xa hơn anh tưởng." |
 | **The mechanism:** your lead foot plants and PIVOTS 180°, your body drops low, the back leg swings around. You end up facing the sideline, ready to sprint back to center. | **Cơ chế:** chân dẫn cắm xuống và XOAY 180°, cơ thể hạ thấp, chân sau vung quanh. Anh kết thúc đối diện vạch biên, sẵn sàng chạy nước rút về giữa. |
 | In taichi: this is *Tụ Bộ* (墜步) — "dropping step." The energy sinks into the back leg before it springs out. The drop is the load. | Trong thái cực: đây là *Tụ Bộ* (墜步) — "bước rơi." Năng lượng chìm vào chân sau trước khi bật ra. Hạ là nạp. |
@@ -173,7 +169,7 @@
 ### 3️⃣ The Cross-Over Step | Bước bắt chéo
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | For balls 3+ meters away — when neither the lateral hop nor the drop step is enough. This is the "chase" move. | Cho bóng cách 3+ mét — khi cả lateral hop lẫn drop step đều không đủ. Đây là bước "truy đuổi." |
 | **The mechanism:** the inside foot CROSSES in front of (or behind) the outside foot, you push off the back foot, you take a long stride to cover ground. | **Cơ chế:** chân trong BẮT CHÉO phía trước (hoặc phía sau) chân ngoài, anh đẩy bằng chân sau, anh bước dài để phủ đất. |
 | Cross-overs are the highest-injury move in tennis. Done wrong, they twist the knee. Done right, they are smooth and powerful. | Cross-over là bước gây chấn thương cao nhất trong tennis. Làm sai, chúng xoắn gối. Làm đúng, chúng mượt và mạnh. |
@@ -187,7 +183,7 @@
 ### 4️⃣ The Recovery Step | Bước phục hồi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|---|
+|---|---|
 | After every shot, your body must RETURN to a center position behind the ball you just hit. This is recovery. | Sau mỗi cú đánh, cơ thể anh phải TRỞ VỀ vị trí trung tâm phía sau quả bóng vừa đánh. Đó là phục hồi. |
 | Most 3.5 players freeze and watch their shot. **This is the #1 reason they are always late for the next ball.** The ball is still in play. The opponent is already hitting back. They are standing still admiring their forehand. | Hầu hết người 3.5 đứng đông cứng và nhìn cú đánh của mình. **Đây là lý do #1 họ luôn trễ cho bóng tiếp theo.** Bóng vẫn còn trong cuộc chơi. Đối thủ đã đánh trả. Họ đứng yên ngắm forehand. |
 | **The first 3 steps after your shot are automatic.** Side-step + crossover + side-step. The body resets without thinking. Like a boxer returning to stance after a punch. | **3 bước đầu tiên sau cú đánh là tự động.** Side-step + crossover + side-step. Cơ thể reset không cần suy nghĩ. Như võ sĩ trở về thế sau cú đấm. |
@@ -211,8 +207,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Patterns, Drills, Cues, Warnings & The 50+ Reality Check
-## Chương 5 — Mẫu, bài tập, tín hiệu, cảnh báo & thực tế 50+
+## Chapter 5 — Patterns, Drills, Cues, Warnings & The 50+ Reality Check | Chương 5 — Mẫu, bài tập, tín hiệu, cảnh báo & thực tế 50+
 
 ### 🗺️ The Movement Patterns | Các mẫu di chuyển
 

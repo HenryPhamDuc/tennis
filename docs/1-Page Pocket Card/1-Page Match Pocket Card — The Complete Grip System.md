@@ -168,7 +168,7 @@
    7 minutes per match."
 
 ═══════════════════════════════════════════════════════════════════════════════
-  © Henry's Tennis Knowledge Base  |  Surrey, BC  |  50+ Recreational
+  © Henry's Tennis Knowledge Base  |  Surrey, UK  |  50+ Recreational
   Source: 4 deep dives — Continental, Eastern/Semi-Western, Grip Change Map,
           Foundations & Grip. Print, fold, carry.
 ═══════════════════════════════════════════════════════════════════════════════

@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The 9-Shot Unlock
-## Chương 1 — Ý tưởng cốt lõi: Mở Khóa 9 Cú
+## Chapter 1 — The Big Idea: The 9-Shot Unlock | Chương 1 — Ý tưởng cốt lõi: Mở Khóa 9 Cú
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -86,8 +85,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Bevel Anatomy + The Hammer Pickup
-## Chương 2 — Giải Phẫu Cạnh Vợt + Cách Nhấc Búa
+## Chapter 2 — The Bevel Anatomy + The Hammer Pickup | Chương 2 — Giải Phẫu Cạnh Vợt + Cách Nhấc Búa
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -190,8 +188,7 @@ The V (thumb-index) on the TOP EDGE between bevels 1 and 2
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The V Alignment + The 4 Contact Points
-## Chương 3 — Căn Chỉnh Chữ V + 4 Điểm Tiếp Xúc
+## Chapter 3 — The V Alignment + The 4 Contact Points | Chương 3 — Căn Chỉnh Chữ V + 4 Điểm Tiếp Xúc
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -308,8 +305,7 @@ The V (thumb-index) on the TOP EDGE between bevels 1 and 2
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Pressure Scale + The 9 Shots in One Grip
-## Chương 4 — Thang Áp Lực + 9 Cú Trong Một Grip
+## Chapter 4 — The Pressure Scale + The 9 Shots in One Grip | Chương 4 — Thang Áp Lực + 9 Cú Trong Một Grip
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -381,8 +377,7 @@ PHASE 3: CONTACT (the moment the ball touches the strings)
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings, 50+ Check, Cheat Sheet
-## Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
+## Chapter 5 — Drills, Cues, Warnings, 50+ Check, Cheat Sheet | Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
 
 ### 🛠️ The 6 Drills You Can Do This Week | 6 Bài Tập Tuần Này
 

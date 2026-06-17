@@ -29,8 +29,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Why "Feel" Beats "Form"
-## Chương 1 — Ý tưởng cốt lõi: Tại sao "cảm giác" thắng "hình thức"
+## Chapter 1 — The Big Idea: Why "Feel" Beats "Form" | Chương 1 — Ý tưởng cốt lõi: Tại sao "cảm giác" thắng "hình thức"
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -78,8 +77,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — Level 1: Foundation — Feel the Ground First
-## Chương 2 — Tầng 1: Nền tảng — Cảm mặt đất trước
+## Chapter 2 — Level 1: Foundation — Feel the Ground First | Chương 2 — Tầng 1: Nền tảng — Cảm mặt đất trước
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -130,8 +128,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — Level 2: Body Schema — Make the Racket Part of You
-## Chương 3 — Tầng 2: Sơ đồ cơ thể — Biến vợt thành một phần anh
+## Chapter 3 — Level 2: Body Schema — Make the Racket Part of You | Chương 3 — Tầng 2: Sơ đồ cơ thể — Biến vợt thành một phần anh
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -186,8 +183,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — Level 3: Perception-Action — See-Move, Not See-Think-Move
-## Chương 4 — Tầng 3: Phối hợp cảm giác-hành động — Thấy-Chuyển, không Thấy-Nghĩ-Chuyển
+## Chapter 4 — Level 3: Perception-Action — See-Move, Not See-Think-Move | Chương 4 — Tầng 3: Phối hợp cảm giác-hành động — Thấy-Chuyển, không Thấy-Nghĩ-Chuyển
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -236,8 +232,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Tying It All Together: The 4 Deep Dives as One System
-## Chương 5 — Lắp ráp: 4 deep dive thành một hệ thống
+## Chapter 5 — Tying It All Together: The 4 Deep Dives as One System | Chương 5 — Lắp ráp: 4 deep dive thành một hệ thống
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -294,8 +289,7 @@
 ---
 
 <a name="chapter-6"></a>
-## Chapter 6 — 4 Drills You Can Do This Week
-## Chương 6 — 4 bài tập trong tuần này
+## Chapter 6 — 4 Drills You Can Do This Week | Chương 6 — 4 bài tập trong tuần này
 
 ### 🛠️ Drill 1 — The Barefoot 5 (Daily, 5 min) | Chân đất 5 phút (Mỗi ngày, 5 phút)
 
@@ -332,8 +326,7 @@
 ---
 
 <a name="chapter-7"></a>
-## Chapter 7 — Cues, Warnings & The Court Cheat Sheet
-## Chương 7 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
+## Chapter 7 — Cues, Warnings & The Court Cheat Sheet | Chương 7 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
 
 ### 🧠 The 5 Cues to Tattoo on Your Brain | 5 tín hiệu khắc vào đầu
 
@@ -379,8 +372,7 @@
 
 ---
 
-## 📋 The One-Page Court Cheat Sheet
-## Bảng tóm tắt mang ra sân
+## 📋 The One-Page Court Cheat Sheet | Bảng tóm tắt mang ra sân
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

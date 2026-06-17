@@ -24,8 +24,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The 30% Grip — The Forehand Standard
-## Chương 1 — Ý tưởng cốt lõi: Grip 30% — Tiêu Chuẩn Forehand
+## Chapter 1 — The Big Idea: The 30% Grip — The Forehand Standard | Chương 1 — Ý tưởng cốt lõi: Grip 30% — Tiêu Chuẩn Forehand
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -69,8 +68,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Bevel Difference + The Hand Pickup Variations
-## Chương 2 — Khác Biệt Bevel + Biến Thể Cách Nhấc Tay
+## Chapter 2 — The Bevel Difference + The Hand Pickup Variations | Chương 2 — Khác Biệt Bevel + Biến Thể Cách Nhấc Tay
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -128,8 +126,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The V Position + The Forehand Adaptation
-## Chương 3 — Vị Trí V + Thích Ứng Forehand
+## Chapter 3 — The V Position + The Forehand Adaptation | Chương 3 — Vị Trí V + Thích Ứng Forehand
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -209,8 +206,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Forehand Return + The Grip Change Map
-## Chương 4 — Forehand Return + Bản Đồ Đổi Grip
+## Chapter 4 — The Forehand Return + The Grip Change Map | Chương 4 — Forehand Return + Bản Đồ Đổi Grip
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -270,8 +266,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings, 50+ Check, Cheat Sheet
-## Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
+## Chapter 5 — Drills, Cues, Warnings, 50+ Check, Cheat Sheet | Chương 5 — Bài Tập, Tín Hiệu, Cảnh Báo, Kiểm Tra 50+, Tóm Tắt In Được
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 Bài Tập Tuần Này
 

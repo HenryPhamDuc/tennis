@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Why the Return Loses You Matches
-## Chương 1 — Ý tưởng cốt lõi: Tại sao trả serve làm anh thua trận
+## Chapter 1 — The Big Idea: Why the Return Loses You Matches | Chương 1 — Ý tưởng cốt lõi: Tại sao trả serve làm anh thua trận
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -62,8 +61,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — Reading the Serve: The 3 Signals Most 3.5 Players Miss
-## Chương 2 — Đọc serve: 3 tín hiệu hầu hết người 3.5 bỏ lỡ
+## Chapter 2 — Reading the Serve: The 3 Signals Most 3.5 Players Miss | Chương 2 — Đọc serve: 3 tín hiệu hầu hết người 3.5 bỏ lỡ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -140,8 +138,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Block Return: The 50+ Default
-## Chương 3 — Block return: Mặc định 50+
+## Chapter 3 — The Block Return: The 50+ Default | Chương 3 — Block return: Mặc định 50+
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -214,8 +211,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Drive Return: Attacking the Second Serve
-## Chương 4 — Drive return: Tấn công serve 2
+## Chapter 4 — The Drive Return: Attacking the Second Serve | Chương 4 — Drive return: Tấn công serve 2
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -294,8 +290,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check
-## Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
+## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check | Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 bài tập tuần này
 

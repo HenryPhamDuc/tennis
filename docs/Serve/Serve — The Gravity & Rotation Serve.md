@@ -25,8 +25,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: A Gravity Serve, Not a Muscle Serve
-## Chương 1 — Ý tưởng cốt lõi: Giao bóng theo trọng lực, không theo cơ bắp
+## Chapter 1 — The Big Idea: A Gravity Serve, Not a Muscle Serve | Chương 1 — Ý tưởng cốt lõi: Giao bóng theo trọng lực, không theo cơ bắp
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -48,8 +47,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Grip & Trophy: Continental, Palm on Edge, Elbow Long
-## Chương 2 — Cầm vợt & Tư thế: Continental, lòng bàn tay nghiêng, khuỷu duỗi
+## Chapter 2 — The Grip & Trophy: Continental, Palm on Edge, Elbow Long | Chương 2 — Cầm vợt & Tư thế: Continental, lòng bàn tay nghiêng, khuỷu duỗi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -113,8 +111,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Throw: Pronation, Kinetic Chain, Loose Arm
-## Chương 3 — Cú ném: Xoay cẳng tay, chuỗi động lực, tay lỏng
+## Chapter 3 — The Throw: Pronation, Kinetic Chain, Loose Arm | Chương 3 — Cú ném: Xoay cẳng tay, chuỗi động lực, tay lỏng
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -200,8 +197,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Toss & Rhythm: Contact Point, Finish, Consistency
-## Chương 4 — Tung bóng & Nhịp: Điểm contact, kết thúc, ổn định
+## Chapter 4 — The Toss & Rhythm: Contact Point, Finish, Consistency | Chương 4 — Tung bóng & Nhịp: Điểm contact, kết thúc, ổn định
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -270,8 +266,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Putting It Together: 4 Drills You Can Do This Week
-## Chương 5 — Ghép lại: 4 bài tập tuần này
+## Chapter 5 — Putting It Together: 4 Drills You Can Do This Week | Chương 5 — Ghép lại: 4 bài tập tuần này
 
 ### 🛠️ Drill 1 — Shadow Serve (No Ball) | Serve bóng mờ (không bóng)
 
@@ -319,8 +314,7 @@
 ---
 
 <a name="chapter-6"></a>
-## Chapter 6 — Cues, Warnings & The 50+ Reality Check
-## Chương 6 — Tín hiệu, cảnh báo, và thực tế 50+
+## Chapter 6 — Cues, Warnings & The 50+ Reality Check | Chương 6 — Tín hiệu, cảnh báo, và thực tế 50+
 
 ### 🎯 The 5 Cues to Remember | 5 tín hiệu nhớ
 

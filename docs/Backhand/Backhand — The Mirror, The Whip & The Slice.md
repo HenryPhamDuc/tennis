@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Backhand is a Mirror
-## Chương 1 — Ý tưởng cốt lõi: Backhand là tấm gương
+## Chapter 1 — The Big Idea: The Backhand is a Mirror | Chương 1 — Ý tưởng cốt lõi: Backhand là tấm gương
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -57,8 +56,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Two-Handed Backhand: The 3.5 Default
-## Chương 2 — Backhand hai tay: Lựa chọn mặc định cho 3.5
+## Chapter 2 — The Two-Handed Backhand: The 3.5 Default | Chương 2 — Backhand hai tay: Lựa chọn mặc định cho 3.5
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -151,8 +149,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The One-Handed Backhand: Reference + 50+ Caution
-## Chương 3 — Backhand một tay: Tham khảo + cảnh báo 50+
+## Chapter 3 — The One-Handed Backhand: Reference + 50+ Caution | Chương 3 — Backhand một tay: Tham khảo + cảnh báo 50+
 
 | 🇺🇸 English | 🇻🇳 Tiệt Việt |
 |---|---|
@@ -216,8 +213,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Slice Backhand: The 50+ Workhorse
-## Chương 4 — Slice backhand: Con ngựa thồ 50+
+## Chapter 4 — The Slice Backhand: The 50+ Workhorse | Chương 4 — Slice backhand: Con ngựa thồ 50+
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -298,8 +294,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check
-## Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
+## Chapter 5 — Drills, Cues, Warnings & The 50+ Reality Check | Chương 5 — Bài tập, tín hiệu, cảnh báo & kiểm tra 50+
 
 ### 🛠️ The 5 Drills You Can Do This Week | 5 bài tập tuần này
 
@@ -389,7 +384,7 @@
 ### 🧘 The Tai Chi Meditation | Thiền thái cực cho backhand
 
 | Principle | Vietnamese | Backhand Application |
-|---|---|---|---|
+|---|---|---|
 | *Phóng Tùng* (放松) | Thả lỏng | Soft non-dom grip (3-4/10), no shoulder tension |
 | *Thính Kình* (聽勁) | Lắng nghe lực | Feel the ball's pace, adjust L-release timing |
 | *Hư Thực* (虛實) | Hư - Thực | Left = thực (rooted hip), Right = hư (free to fly) |

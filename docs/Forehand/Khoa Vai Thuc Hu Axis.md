@@ -25,8 +25,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Strong Side, Free Side
-## Chương 1 — Ý tưởng cốt lõi: Bên vững, bên tự do
+## Chapter 1 — The Big Idea: Strong Side, Free Side | Chương 1 — Ý tưởng cốt lõi: Bên vững, bên tự do
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -69,8 +68,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The Axis: The Spine as a Door Hinge
-## Chương 2 — Trục: Cột sống là bản lề cửa
+## Chapter 2 — The Axis: The Spine as a Door Hinge | Chương 2 — Trục: Cột sống là bản lề cửa
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -122,8 +120,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The 3 Tiers: Top Stable, Middle Soft, Bottom Springy
-## Chương 3 — 3 tầng: Trên vững, giữa mềm, dưới lò xo
+## Chapter 3 — The 3 Tiers: Top Stable, Middle Soft, Bottom Springy | Chương 3 — 3 tầng: Trên vững, giữa mềm, dưới lò xo
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -173,8 +170,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The Switch: Forehand Locks Left, Backhand Locks Right
-## Chương 4 — Sự chuyển đổi: Forehand khóa trái, backhand khóa phải
+## Chapter 4 — The Switch: Forehand Locks Left, Backhand Locks Right | Chương 4 — Sự chuyển đổi: Forehand khóa trái, backhand khóa phải
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -201,8 +197,7 @@
 ---
 
 <a name="chapter-5"></a>
-## Chapter 5 — The 50+ Adjustments: Save the Lower Back, Save the Shoulders
-## Chương 5 — Điều chỉnh cho tuổi 50+: Giữ lưng dưới, giữ vai
+## Chapter 5 — The 50+ Adjustments: Save the Lower Back, Save the Shoulders | Chương 5 — Điều chỉnh cho tuổi 50+: Giữ lưng dưới, giữ vai
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -251,8 +246,7 @@
 ---
 
 <a name="chapter-6"></a>
-## Chapter 6 — 4 Drills You Can Do This Week
-## Chương 6 — 4 bài tập trong tuần này
+## Chapter 6 — 4 Drills You Can Do This Week | Chương 6 — 4 bài tập trong tuần này
 
 ### 🛠️ Drill 1 — The Towel Under Armpit (Daily, 3 min) | Khăn dưới nách (Mỗi ngày, 3 phút)
 
@@ -291,8 +285,7 @@
 ---
 
 <a name="chapter-7"></a>
-## Chapter 7 — Cues, Warnings & The Court Cheat Sheet
-## Chương 7 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
+## Chapter 7 — Cues, Warnings & The Court Cheat Sheet | Chương 7 — Tín hiệu, cảnh báo & bảng tóm tắt mang ra sân
 
 ### 🧠 The 6 Cues to Tattoo on Your Brain | 6 tín hiệu khắc vào đầu
 
@@ -335,8 +328,7 @@
 
 ---
 
-## 📋 The One-Page Court Cheat Sheet
-## Bảng tóm tắt mang ra sân
+## 📋 The One-Page Court Cheat Sheet | Bảng tóm tắt mang ra sân
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐

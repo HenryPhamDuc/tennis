@@ -23,8 +23,7 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: The Grip Change Is the 3.5 Time-Cost
-## Chương 1 — Ý tưởng cốt lõi: Đổi Grip Là Chi Phí Thời Gian Của 3.5
+## Chapter 1 — The Big Idea: The Grip Change Is the 3.5 Time-Cost | Chương 1 — Ý tưởng cốt lõi: Đổi Grip Là Chi Phí Thời Gian Của 3.5
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -68,8 +67,7 @@
 ---
 
 <a name="chapter-2"></a>
-## Chapter 2 — The 12+ Transitions by Point Type
-## Chương 2 — 12+ Chuyển Tiếp Theo Loại Điểm
+## Chapter 2 — The 12+ Transitions by Point Type | Chương 2 — 12+ Chuyển Tiếp Theo Loại Điểm
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -168,8 +166,7 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — The Pre-Point Grip Check — The 5-Second Reset
-## Chương 3 — Kiểm Tra Grip Trước Điểm — Reset 5 Giây
+## Chapter 3 — The Pre-Point Grip Check — The 5-Second Reset | Chương 3 — Kiểm Tra Grip Trước Điểm — Reset 5 Giây
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -221,8 +218,7 @@
 ---
 
 <a name="chapter-4"></a>
-## Chapter 4 — The 6 Mistakes + The 4 Drills + Cues, 50+ Check, Cheat Sheet
-## Chương 4 — 6 Lỗi + 4 Bài Tập + Tín Hiệu, Kiểm Tra 50+, Tóm Tắt In Được
+## Chapter 4 — The 6 Mistakes + The 4 Drills + Cues, 50+ Check, Cheat Sheet | Chương 4 — 6 Lỗi + 4 Bài Tập + Tín Hiệu, Kiểm Tra 50+, Tóm Tắt In Được
 
 ### ⚠️ The 6 Common Errors at 3.5 | 6 Lỗi Thường Gặp Ở Level 3.5
 
