@@ -46,19 +46,19 @@ The 15 Parts at a glance:
 
 | # | EN Title | VI Title |
 |---|---|---|
-| 01 | [The Anti-Orthodox Manifesto](01%20The%20Anti-Orthodox%20Manifesto/) | [Tuyên Ngôn Phản Giáo Điều](01%20The%20Anti-Orthodox%20Manifesto/) |
-| 02 | [Trương Lực — The Lost Engine](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) | [Trương Lực — Động Cơ Bị Lãng Quên](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) |
-| 03 | [Myelination — The 6,000% Speed Gap](03%20Myelination/) | [Myelin Hóa — Khoảng Cách 6.000%](03%20Myelination/) |
-| 04 | [The Three Models](04%20The%20Three%20Models/) | [Ba Mẫu — Khám Phá Forehand Riêng](04%20The%20Three%20Models/) |
-| 05 | [Pressure Inoculation](05%20Pressure%20Inoculation/) | [Tiêm Chủng Áp Lực](05%20Pressure%20Inoculation/) |
-| 06 | [Kình and Mushin](06%20K%C3%ACnh%20and%20Mushin/) | [Kình & Mushin](06%20K%C3%ACnh%20and%20Mushin/) |
-| 07 | [Constraint-Led Self-Discovery](07%20Constraint-Led%20Self-Discovery/) | [Khám Phá Có Ràng Buộc](07%20Constraint-Led%20Self-Discovery/) |
-| 08 | [Hidden Speed](08%20Hidden%20Speed/) | [Tốc Độ Ẩn](08%20Hidden%20Speed/) |
-| 09 | [Decision Latency](09%20Decision%20Latency/) | [Độ Trễ Quyết Định](09%20Decision%20Latency/) |
-| 10 | [Self-Coaching Discipline](10%20Self-Coaching%20Discipline/) | [Kỷ Luật Tự Huấn Luyện](10%20Self-Coaching%20Discipline/) |
-| 11 | [HRV Dashboard](11%20HRV%20Dashboard/) | [Bảng Điều Khiển HRV](11%20HRV%20Dashboard/) |
-| 12 | [Choking and Amygdala](12%20Choking%20and%20Amygdala/) | [Choking & Hạch Hạnh Nhân](12%20Choking%20and%20Amygdala/) |
-| 13 | [The Dream Library](13%20The%20Dream%20Library/) | [Thư Viện Mơ — 2030](13%20The%20Dream%20Library/) |
+| 01 | [The Anti-Orthodox Manifesto](01%20The%20Anti-Orthodox%20Manifesto/The%20Anti-Orthodox%20Manifesto%20%E2%80%94%20Breaking%20Free%20to%20Find%20Your%20Own%20System/) | [Tuyên Ngôn Phản Giáo Điều](01%20The%20Anti-Orthodox%20Manifesto/The%20Anti-Orthodox%20Manifesto%20%E2%80%94%20Breaking%20Free%20to%20Find%20Your%20Own%20System/) |
+| 02 | [Trương Lực — The Lost Engine](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c%20%E2%80%94%20The%20Lost%20Engine%20of%20Tennis/) | [Trương Lực — Động Cơ Bị Lãng Quên](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c%20%E2%80%94%20The%20Lost%20Engine%20of%20Tennis/) |
+| 03 | [Myelination — The 6,000% Speed Gap](03%20Myelination/Myelination%20%E2%80%94%20The%206%2C000%25%20Speed%20Gap%20and%20Your%20Personal%20Practice%20System/) | [Myelin Hóa — Khoảng Cách 6.000%](03%20Myelination/Myelination%20%E2%80%94%20The%206%2C000%25%20Speed%20Gap%20and%20Your%20Personal%20Practice%20System/) |
+| 04 | [The Three Models](04%20The%20Three%20Models/The%20Three%20Models%20%E2%80%94%20Discovering%20Your%20Own%20Forehand%20Through%20Constraint-Led%20Exploration/) | [Ba Mẫu — Khám Phá Forehand Riêng](04%20The%20Three%20Models/The%20Three%20Models%20%E2%80%94%20Discovering%20Your%20Own%20Forehand%20Through%20Constraint-Led%20Exploration/) |
+| 05 | [Pressure Inoculation](05%20Pressure%20Inoculation/Pressure%20Inoculation%20%E2%80%94%20The%205-Rung%20Ladder%20and%20Your%20Personal%20Exposure%20System/) | [Tiêm Chủng Áp Lực](05%20Pressure%20Inoculation/Pressure%20Inoculation%20%E2%80%94%20The%205-Rung%20Ladder%20and%20Your%20Personal%20Exposure%20System/) |
+| 06 | [Kình and Mushin](06%20K%C3%ACnh%20and%20Mushin/K%C3%ACnh%20and%20Mushin%20%E2%80%94%20Eastern-Western%20Synthesis%20and%20Your%20Mushin%20Trigger%20System/) | [Kình & Mushin](06%20K%C3%ACnh%20and%20Mushin/K%C3%ACnh%20and%20Mushin%20%E2%80%94%20Eastern-Western%20Synthesis%20and%20Your%20Mushin%20Trigger%20System/) |
+| 07 | [Constraint-Led Self-Discovery](07%20Constraint-Led%20Self-Discovery/Constraint-Led%20Self-Discovery%20%E2%80%94%20The%205-Constraint%20Library%20Builder/) | [Khám Phá Có Ràng Buộc](07%20Constraint-Led%20Self-Discovery/Constraint-Led%20Self-Discovery%20%E2%80%94%20The%205-Constraint%20Library%20Builder/) |
+| 08 | [Hidden Speed](08%20Hidden%20Speed/Hidden%20Speed%20%E2%80%94%20The%20Reaction%20Layer%20Asymmetry%20Test%20and%20Per-Layer%20Training%20System/) | [Tốc Độ Ẩn](08%20Hidden%20Speed/Hidden%20Speed%20%E2%80%94%20The%20Reaction%20Layer%20Asymmetry%20Test%20and%20Per-Layer%20Training%20System/) |
+| 09 | [Decision Latency](09%20Decision%20Latency/Decision%20Latency%20%E2%80%94%20Chunk%20Library%20Builder%20and%20the%20200ms%20Expert%20Edge/) | [Độ Trễ Quyết Định](09%20Decision%20Latency/Decision%20Latency%20%E2%80%94%20Chunk%20Library%20Builder%20and%20the%20200ms%20Expert%20Edge/) |
+| 10 | [Self-Coaching Discipline](10%20Self-Coaching%20Discipline/Self-Coaching%20Discipline%20%E2%80%94%20The%20Engineer%20in%20the%20Mirror/) | [Kỷ Luật Tự Huấn Luyện](10%20Self-Coaching%20Discipline/Self-Coaching%20Discipline%20%E2%80%94%20The%20Engineer%20in%20the%20Mirror/) |
+| 11 | [HRV Dashboard](11%20HRV%20Dashboard/HRV%20Dashboard%20%E2%80%94%20Your%20Daily%20Bio-Informed%20Decision%20System/) | [Bảng Điều Khiển HRV](11%20HRV%20Dashboard/HRV%20Dashboard%20%E2%80%94%20Your%20Daily%20Bio-Informed%20Decision%20System/) |
+| 12 | [Choking and Amygdala](12%20Choking%20and%20Amygdala/Choking%20and%20Amygdala%20%E2%80%94%20Exposure%20Therapy%20Protocol%20and%20Your%20Anti-Choking%20Kit/) | [Choking & Hạch Hạnh Nhân](12%20Choking%20and%20Amygdala/Choking%20and%20Amygdala%20%E2%80%94%20Exposure%20Therapy%20Protocol%20and%20Your%20Anti-Choking%20Kit/) |
+| 13 | [The Dream Library](13%20The%20Dream%20Library/The%20Dream%20Library%20%E2%80%94%20Five%20Tools%20of%202030%20and%20Your%20Adoption%20Decision%20Framework/) | [Thư Viện Mơ — 2030](13%20The%20Dream%20Library/The%20Dream%20Library%20%E2%80%94%20Five%20Tools%20of%202030%20and%20Your%20Adoption%20Decision%20Framework/) |
 
 ---
 

@@ -60,19 +60,19 @@ Mỗi trong 13 chương cốt lõi đã được mở rộng thành deep-dive đ
 
 | # | Deep-Dive | File |
 |---|---|---|
-| 01 | The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System | [Open](01%20The%20Anti-Orthodox%20Manifesto/) |
-| 02 | Trương Lực — The Lost Engine of Tennis | [Open](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) |
-| 03 | Myelination — The 6,000% Speed Gap and Your Personal Practice System | [Open](03%20Myelination/) |
-| 04 | The Three Models — Discovering Your Own Forehand Through Constraint-Led Exploration | [Open](04%20The%20Three%20Models/) |
-| 05 | Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System | [Open](05%20Pressure%20Inoculation/) |
-| 06 | Kình and Mushin — Eastern-Western Synthesis and Your Mushin Trigger System | [Open](06%20K%C3%ACnh%20and%20Mushin/) |
-| 07 | Constraint-Led Self-Discovery — The 5-Constraint Library Builder | [Open](07%20Constraint-Led%20Self-Discovery/) |
-| 08 | Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System | [Open](08%20Hidden%20Speed/) |
-| 09 | Decision Latency — Chunk Library Builder and the 200ms Expert Edge | [Open](09%20Decision%20Latency/) |
-| 10 | Self-Coaching Discipline — The Engineer in the Mirror | [Open](10%20Self-Coaching%20Discipline/) |
-| 11 | HRV Dashboard — Your Daily Bio-Informed Decision System | [Open](11%20HRV%20Dashboard/) |
-| 12 | Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit | [Open](12%20Choking%20and%20Amygdala/) |
-| 13 | The Dream Library — Five Tools of 2030 and Your Adoption Decision Framework | [Open](13%20The%20Dream%20Library/) |
+| 01 | The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System | [Open](01%20The%20Anti-Orthodox%20Manifesto/The%20Anti-Orthodox%20Manifesto%20%E2%80%94%20Breaking%20Free%20to%20Find%20Your%20Own%20System/) |
+| 02 | Trương Lực — The Lost Engine of Tennis | [Open](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c%20%E2%80%94%20The%20Lost%20Engine%20of%20Tennis/) |
+| 03 | Myelination — The 6,000% Speed Gap and Your Personal Practice System | [Open](03%20Myelination/Myelination%20%E2%80%94%20The%206%2C000%25%20Speed%20Gap%20and%20Your%20Personal%20Practice%20System/) |
+| 04 | The Three Models — Discovering Your Own Forehand Through Constraint-Led Exploration | [Open](04%20The%20Three%20Models/The%20Three%20Models%20%E2%80%94%20Discovering%20Your%20Own%20Forehand%20Through%20Constraint-Led%20Exploration/) |
+| 05 | Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System | [Open](05%20Pressure%20Inoculation/Pressure%20Inoculation%20%E2%80%94%20The%205-Rung%20Ladder%20and%20Your%20Personal%20Exposure%20System/) |
+| 06 | Kình and Mushin — Eastern-Western Synthesis and Your Mushin Trigger System | [Open](06%20K%C3%ACnh%20and%20Mushin/K%C3%ACnh%20and%20Mushin%20%E2%80%94%20Eastern-Western%20Synthesis%20and%20Your%20Mushin%20Trigger%20System/) |
+| 07 | Constraint-Led Self-Discovery — The 5-Constraint Library Builder | [Open](07%20Constraint-Led%20Self-Discovery/Constraint-Led%20Self-Discovery%20%E2%80%94%20The%205-Constraint%20Library%20Builder/) |
+| 08 | Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System | [Open](08%20Hidden%20Speed/Hidden%20Speed%20%E2%80%94%20The%20Reaction%20Layer%20Asymmetry%20Test%20and%20Per-Layer%20Training%20System/) |
+| 09 | Decision Latency — Chunk Library Builder and the 200ms Expert Edge | [Open](09%20Decision%20Latency/Decision%20Latency%20%E2%80%94%20Chunk%20Library%20Builder%20and%20the%20200ms%20Expert%20Edge/) |
+| 10 | Self-Coaching Discipline — The Engineer in the Mirror | [Open](10%20Self-Coaching%20Discipline/Self-Coaching%20Discipline%20%E2%80%94%20The%20Engineer%20in%20the%20Mirror/) |
+| 11 | HRV Dashboard — Your Daily Bio-Informed Decision System | [Open](11%20HRV%20Dashboard/HRV%20Dashboard%20%E2%80%94%20Your%20Daily%20Bio-Informed%20Decision%20System/) |
+| 12 | Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit | [Open](12%20Choking%20and%20Amygdala/Choking%20and%20Amygdala%20%E2%80%94%20Exposure%20Therapy%20Protocol%20and%20Your%20Anti-Choking%20Kit/) |
+| 13 | The Dream Library — Five Tools of 2030 and Your Adoption Decision Framework | [Open](13%20The%20Dream%20Library/The%20Dream%20Library%20%E2%80%94%20Five%20Tools%20of%202030%20and%20Your%20Adoption%20Decision%20Framework/) |
 
 ---
 
