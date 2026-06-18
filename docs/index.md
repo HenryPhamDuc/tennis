@@ -60,15 +60,24 @@
 **Direct deep-dive library** (every folder in the left sidebar):
 [1-Page Pocket Card](1-Page%20Pocket%20Card/1-Page%20Match%20Pocket%20Card%20%E2%80%94%20The%20Complete%20Grip%20System/) ·
 [Continental Grip](Continental%20Grip/Continental%20Grip%20%E2%80%94%20The%209-Shot%20Universal%20Key/) ·
-[Eastern Semi-Western Grip](Eastern%20Semi-Western%20Grip/Eastern%20Semi-Western%20Grip%20%E2%80%94%20The%2030%25%20Forehand%20Grips/) ·
+[Eastern Semi-Western Grip](Eastern%20Semi%20Western%20Grip/Eastern%20Semi%20Western%20Grip%20%E2%80%94%20The%2030%25%20Forehand%20Grips/) ·
 [Forehand (4 dives)](Forehand/Forehand%20L-Angle%20and%20Late%20Acceleration/) ·
-[Backhand (5 dives)](Backhand/Backhand%20%E2%80%94%20The%20Mirror,%20The%20Whip%20%26%20The%20Slice/) ·
+[Backhand (5 dives)](Backhand/Backhand%20%E2%80%94%20The%20Mirror,%20The%20Whip%20&%20The%20Slice/) ·
 [Slice Approach](Slice%20Approach/Slice%20Approach%20%E2%80%94%20The%20Senior-Friendly%20Way%20to%20the%20Net/) ·
 [Slice Family Doubles](Slice%20Family%20Doubles/Slice%20Family%20Doubles%20%E2%80%94%20The%208-Shot%20Doubles%20Playbook/) ·
 [Return of Serve](Return%20of%20Serve/Return%20of%20Serve%20%E2%80%94%20Reading,%20Blocking,%20Surviving/) ·
 [Doubles Serves](Doubles%20Serves/Doubles%20Serves%20%E2%80%94%20The%204%20Serve%20Patterns/) ·
 [Doubles Patterns](Doubles%20Patterns/Doubles%20Patterns%20%E2%80%94%20The%204%20Return%20Patterns/) ·
 [Grip Change Map](Grip%20Change%20Map/Grip%20Change%20Map%20%E2%80%94%20The%20Complete%20Sequence%20Guide/)
+
+---
+
+## 🧠 **NEW LIBRARY (June 2026): Advanced — Neurology & Anatomy** | Thư Viện MỚI — Giải Phẫu Học & Thần Kinh Học
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **For the 3.5 → 4.5 player who wants to understand WHY tennis works at the neurological and anatomical level — not just WHAT to do.** A bilingual (EN-VI) deep library covering the hidden second layer of tennis: proprioception, reflex arcs, two engines (rotational vs. linear), tensegrity, fascia spirals, X-Factor anatomy, embodied cognition, head position & vestibular control. **1 master manual (15 parts) + 8 deep dives (~640 KB total).** Designed for the 50+ player — the only game that gets *better* with age is the neurological game. | **Cho người chơi 3.5 → 4.5 muốn hiểu TẠI SAO tennis vận hành ở cấp độ thần kinh và giải phẫu — không chỉ LÀM GÌ.** Thư viện song ngữ (EN-VI) sâu về lớp thứ hai ẩn của tennis: cảm thụ bản thể, vòng phản xạ, hai động cơ (xoay và thẳng), tensigrity, xoắn ốc fascia, giải phẫu X-Factor, nhận thức hiện thân, vị trí đầu & tiền đình. **1 cẩm nang tổng (15 phần) + 8 deep-dive (~640 KB tổng).** Thiết kế cho người chơi 50+ — trò chơi duy nhất tốt hơn theo tuổi là trò chơi thần kinh. |
+| 👉 **[ENTER THE ADVANCED LIBRARY →](Advanced/index.md)** | 👉 **[VÀO THƯ VIỆN NÂNG CAO →](Advanced/index.md)** |
 
 
 ---
