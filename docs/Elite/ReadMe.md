@@ -52,9 +52,27 @@ The 15 Parts:
 14. **The Elite Cheat Sheet** — 13 Laws printable card
 15. **Final Words** — the 90-day challenge + closing meditation
 
-### 📕 Future Deep-Dives (per chapter) / Deep-Dive Tương Lai (theo chương)
+### 📕 The 13 Deep-Dives — Tương Lai / Future (per chapter) / (theo chương)
 
-Each of the 13 substantive chapters is a *starting point* for a full deep-dive. When you ask "Làm tiếp Chapter X deep-dive", the same EN-VI bilingual / side-by-side table / printable cheat sheet format is used.
+Each of the 13 substantive chapters has been expanded into a full 15-25 minute deep-dive. EN-VI bilingual / side-by-side tables / printable cheat sheet format throughout.
+
+Mỗi trong 13 chương cốt lõi đã được mở rộng thành deep-dive đầy đủ 15-25 phút. Định dạng song ngữ EN-VI / bảng cạnh nhau / thẻ cheat sheet in được xuyên suốt.
+
+| # | Deep-Dive | File |
+|---|---|---|
+| 01 | The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System | [Open](01%20The%20Anti-Orthodox%20Manifesto/) |
+| 02 | Trương Lực — The Lost Engine of Tennis | [Open](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) |
+| 03 | Myelination — The 6,000% Speed Gap and Your Personal Practice System | [Open](03%20Myelination/) |
+| 04 | The Three Models — Discovering Your Own Forehand Through Constraint-Led Exploration | [Open](04%20The%20Three%20Models/) |
+| 05 | Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System | [Open](05%20Pressure%20Inoculation/) |
+| 06 | Kình and Mushin — Eastern-Western Synthesis and Your Mushin Trigger System | [Open](06%20K%C3%ACnh%20and%20Mushin/) |
+| 07 | Constraint-Led Self-Discovery — The 5-Constraint Library Builder | [Open](07%20Constraint-Led%20Self-Discovery/) |
+| 08 | Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System | [Open](08%20Hidden%20Speed/) |
+| 09 | Decision Latency — Chunk Library Builder and the 200ms Expert Edge | [Open](09%20Decision%20Latency/) |
+| 10 | Self-Coaching Discipline — The Engineer in the Mirror | [Open](10%20Self-Coaching%20Discipline/) |
+| 11 | HRV Dashboard — Your Daily Bio-Informed Decision System | [Open](11%20HRV%20Dashboard/) |
+| 12 | Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit | [Open](12%20Choking%20and%20Amygdala/) |
+| 13 | The Dream Library — Five Tools of 2030 and Your Adoption Decision Framework | [Open](13%20The%20Dream%20Library/) |
 
 ---
 

@@ -42,6 +42,24 @@ The 15 Parts at a glance:
 | 14 | Elite Cheat Sheet | 13 Laws | One page for the bag |
 | 15 | Final Words | You Are the Coach Now | The 90-day challenge |
 
+### 📕 The 13 Deep-Dives / 13 Deep-Dive Tương Lai
+
+| # | EN Title | VI Title |
+|---|---|---|
+| 01 | [The Anti-Orthodox Manifesto](01%20The%20Anti-Orthodox%20Manifesto/) | [Tuyên Ngôn Phản Giáo Điều](01%20The%20Anti-Orthodox%20Manifesto/) |
+| 02 | [Trương Lực — The Lost Engine](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) | [Trương Lực — Động Cơ Bị Lãng Quên](02%20Tr%C6%B0%C6%A1ng%20L%E1%BB%B1c/) |
+| 03 | [Myelination — The 6,000% Speed Gap](03%20Myelination/) | [Myelin Hóa — Khoảng Cách 6.000%](03%20Myelination/) |
+| 04 | [The Three Models](04%20The%20Three%20Models/) | [Ba Mẫu — Khám Phá Forehand Riêng](04%20The%20Three%20Models/) |
+| 05 | [Pressure Inoculation](05%20Pressure%20Inoculation/) | [Tiêm Chủng Áp Lực](05%20Pressure%20Inoculation/) |
+| 06 | [Kình and Mushin](06%20K%C3%ACnh%20and%20Mushin/) | [Kình & Mushin](06%20K%C3%ACnh%20and%20Mushin/) |
+| 07 | [Constraint-Led Self-Discovery](07%20Constraint-Led%20Self-Discovery/) | [Khám Phá Có Ràng Buộc](07%20Constraint-Led%20Self-Discovery/) |
+| 08 | [Hidden Speed](08%20Hidden%20Speed/) | [Tốc Độ Ẩn](08%20Hidden%20Speed/) |
+| 09 | [Decision Latency](09%20Decision%20Latency/) | [Độ Trễ Quyết Định](09%20Decision%20Latency/) |
+| 10 | [Self-Coaching Discipline](10%20Self-Coaching%20Discipline/) | [Kỷ Luật Tự Huấn Luyện](10%20Self-Coaching%20Discipline/) |
+| 11 | [HRV Dashboard](11%20HRV%20Dashboard/) | [Bảng Điều Khiển HRV](11%20HRV%20Dashboard/) |
+| 12 | [Choking and Amygdala](12%20Choking%20and%20Amygdala/) | [Choking & Hạch Hạnh Nhân](12%20Choking%20and%20Amygdala/) |
+| 13 | [The Dream Library](13%20The%20Dream%20Library/) | [Thư Viện Mơ — 2030](13%20The%20Dream%20Library/) |
+
 ---
 
 ## 🔗 The Three-Level Progression / Quá Trình Ba Cấp Độ
