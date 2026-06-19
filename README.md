@@ -15,7 +15,7 @@ A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+.
 This is a [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) static site.
 
 ```
-~/AI/
+~/tennis/
 ├── mkdocs.yml              # Material theme config + nav
 ├── docs/                   # All Markdown content (20 folders + index.md = Complete Manual v2)
 │   ├── index.md            # Homepage (Complete Manual v2)
