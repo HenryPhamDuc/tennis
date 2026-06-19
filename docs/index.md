@@ -28,7 +28,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| This is a **map**. The 22 topic deep dives in your `Deep Dives/` folder are the **territory**. Each part below summarizes the key ideas, then points you to the deep dive that goes deeper. | Đây là **bản đồ**. 22 deep dives trong thư mục `Deep Dives/` là **lãnh thổ**. Mỗi phần dưới đây tóm tắt ý chính, rồi chỉ anh tới deep dive đi sâu hơn. |
+| This is a **map**. The 22 stroke deep dives (`Deep Dives/`) + 8 anatomy deep dives (`Anatomy_Lab/`) = **30 total**. Parts 1–14 cover stroke mechanics, mental game, strategy. Part 15 (new) covers anatomy | Đây là **bản đồ**. 22 deep dives trong thư mục `Deep Dives/` là **lãnh thổ**. Mỗi phần dưới đây tóm tắt ý chính, rồi chỉ anh tới deep dive đi sâu hơn. |
 | **Read the manual first** (1.5 hours). Pick **one** part to focus on for 2 weeks. Practice the drills. Then move to the next. | **Đọc manual trước** (1.5 giờ). Chọn **một** phần để tập trung 2 tuần. Tập các bài. Rồi chuyển phần tiếp. |
 | **Print the 2-page cheat sheet at the end** (Part 14). Fold it. Put it in your racquet bag. Use it on court. | **In bảng cheat sheet 2 trang ở cuối** (Phần 14). Gấp lại. Bỏ vào túi vợt. Dùng trên sân. |
 
@@ -56,6 +56,7 @@
 | **Part 12** | 🆕 Grip Pressure (The Dial You Control Every Shot) | [Grip Pressure →](Grip%20Pressure/Grip%20Pressure%20%E2%80%94%20The%20Dial%20You%20Control%20Every%20Shot/) | 0-10 scale, two-zone rule, stroke-by-stroke pressure map, sound diagnosis | Thang 0-10, quy tắc hai vùng, bản đồ áp lực, chẩn đoán âm thanh |
 | **Part 13** | 🆕 Mental Game (The Match Inside Your Head) | [Mental Game →](Mental%20Game/Mental%20Game%20%E2%80%94%20The%20Match%20Inside%20Your%20Head/) | 5-phase match map, 4-step ritual, 5 pressure points, loss recovery | Bản đồ 5 pha, nghi lễ 4 bước, 5 điểm áp lực, hồi phục sau thua |
 | **Part 14** | 📄 Master Cheat Sheet (2-page printable) | _(see Part 14 below — print these 2 pages)_ | PAGE 1 covers Parts 1-7, PAGE 2 covers Parts 8-14 + master cue | TRANG 1: Phần 1-7, TRANG 2: Phần 8-14 + tín hiệu bậc thầy |
+| **Part 15** | 🆕 Anatomy Lab — The Body Behind Every Stroke *(NEW June 2026)* | [Anatomy Lab →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/) | 8 deep-dives covering the entire body in relation to tennis strokes | 8 deep-dive bao phủ toàn bộ cơ thể liên quan đến cú đánh |
 
 **Direct deep-dive library** (every folder in the left sidebar):
 [1-Page Pocket Card](1-Page%20Pocket%20Card/1-Page%20Match%20Pocket%20Card%20%E2%80%94%20The%20Complete%20Grip%20System/) ·
@@ -68,7 +69,8 @@
 [Return of Serve](Return%20of%20Serve/Return%20of%20Serve%20%E2%80%94%20Reading,%20Blocking,%20Surviving/) ·
 [Doubles Serves](Doubles%20Serves/Doubles%20Serves%20%E2%80%94%20The%204%20Serve%20Patterns/) ·
 [Doubles Patterns](Doubles%20Patterns/Doubles%20Patterns%20%E2%80%94%20The%204%20Return%20Patterns/) ·
-[Grip Change Map](Grip%20Change%20Map/Grip%20Change%20Map%20%E2%80%94%20The%20Complete%20Sequence%20Guide/)
+[Grip Change Map](Grip%20Change%20Map/Grip%20Change%20Map%20%E2%80%94%20The%20Complete%20Sequence%20Guide/) ·
+[Anatomy Lab (8 dives)](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)
 
 ---
 
@@ -1181,7 +1183,7 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 | — | Grip (transition) | `Deep Dives/Grip Change Map/Grip Change Map — The Complete Sequence Guide.md` (~42 KB) | Part 1 |
 | — | Pocket card | `Deep Dives/1-Page Pocket Card/1-Page Match Pocket Card — The Complete Grip System.md` (~34 KB) | (Reference) |
 
-**Total: 22 numbered deep dives + 4 foundational/reference files = ~1,300 KB of bilingual coaching content** in the library, all integrated in v2.
+**Total: 22 stroke deep dives + 8 anatomy deep dives (Part 15) + 4 foundational/reference files = 34 deep-dive files, ~1,650 KB of bilingual coaching content** in the library, all integrated in v2.
 
 ---
 
@@ -1207,10 +1209,62 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 
 > **Part 14 (master):** *"Tennis is a whip sport, not a hammer sport. And you are playing a 20-year game."*
 
+
+<a name="part-15"></a>
+# Part 15 — Anatomy Lab: The Body Behind Every Stroke
+# Phần 15 — Lab Giải Phẫu: Cơ Thể Sau Mỗi Cú Đánh
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **For the player who wants to understand the BODY behind every stroke — bones, joints, muscles, nerves, biomechanics, and how the kinetic chain actually works.** This is a 8-deep-dive sibling library to the 22 stroke-mechanics deep dives in Parts 1–13. The master library is about WHAT to do on the court; this library is about WHY your body responds the way it does. | **Cho người chơi muốn hiểu CƠ THỂ sau mỗi cú đánh — xương, khớp, cơ, dây thần kinh, sinh cơ học, và cách chuỗi động học thật sự hoạt động.** Đây là thư viện 8 deep-dive anh em với 22 deep-dive cơ học cú đánh ở Phần 1–13. Manual chính nói về CÁI GÌ cần làm trên sân; thư viện này nói về TẠI SAO cơ thể phản ứng theo cách nó phản ứng. |
+| **Built from your Vietnamese source materials** in `Documents/Human anatomy/` + the textbook *Tennis Anatomy* by Roetert & Kovacs (2011). All 8 deep-dives are bilingual EN-VI with the same side-by-side table format, document map, chapter structure, and printable cheat sheet. | **Xây dựng từ tài liệu tiếng Việt của bạn** trong `Documents/Human anatomy/` + sách giáo khoa *Tennis Anatomy* của Roetert & Kovacs (2011). Tất cả 8 deep-dive song ngữ EN-VI với cùng định dạng bảng cạnh nhau, bản đồ tài liệu, cấu trúc chương, và cheat sheet in được. |
+| **Reading path:** DD1 (foundation: whole-body biomechanics, 6 angles at contact) → DD2–DD7 (each body region) → DD8 (control system: brain, eye, vestibular). Each DD is also standalone-readable. | **Đường đi đọc:** DD1 (nền tảng: sinh cơ học toàn thân, 6 góc lúc tiếp xúc) → DD2–DD7 (từng vùng cơ thể) → DD8 (hệ kiểm soát: não, mắt, tiền đình). Mỗi DD cũng đọc độc lập được. |
+
+## 15.1 — The 8 Anatomy Deep Dives | 8 Deep Dive Giải Phẫu
+
+| Deep Dive | Body Region | What it covers | Đọc sâu |
+|---|---|---|---|
+| [DD1 — The Player in Motion](Anatomy_Lab/DD1_The_Player_in_Motion/) | Whole body | 6 joint angles at contact, kinetic chain, 45° contact rule, footwork phases | 47 KB, 8 chapters |
+| [DD2 — Shoulders](Anatomy_Lab/DD2_Shoulders/) | Shoulder complex | 4-joint shoulder, rotator cuff (SITS), scapular plane, impingement prevention | 39 KB, 6 chapters |
+| [DD3 — Arms, Wrists & Hands](Anatomy_Lab/DD3_Arms_Wrists_Hands/) | Upper limb | Ulnar nerve, cubital tunnel, 27 hand bones, grip pressure mapping | 45 KB, 8 chapters |
+| [DD4 — Trunk & Spine](Anatomy_Lab/DD4_Trunk_Spine/) | Core | L4-L5 disc, 40+ back muscles, hip hinge, sciatica, walking decompresses 30% | 39 KB, 7 chapters |
+| [DD5 — Hips & Thighs](Anatomy_Lab/DD5_Hips_Thighs/) | Lower limb (proximal) | Glute max, 6 deep rotators, wider-stance activation, hip CARs | 42 KB, 7 chapters |
+| [DD6 — Knees](Anatomy_Lab/DD6_Knees/) | Knee joint | Patella, meniscus, ACL, 50–80° loading rule, knee over 2nd toe | 40 KB, 7 chapters |
+| [DD7 — Ankles & Feet](Anatomy_Lab/DD7_Ankles_Feet/) | Foot & ankle | 26 bones, 33 joints, windlass mechanism, 7,000 nerve endings, heel-up rule | 44 KB, 8 chapters |
+| [DD8 — The Control System](Anatomy_Lab/DD8_Control_System/) | Brain & senses | Vestibular, vision (5 phases), proprioception, 50+ sensory triad, use-it-or-lose-it | 42 KB, 7 chapters |
+
+## 15.2 — Why This Library Is Different | Tại Sao Thư Viện Này Khác Biệt
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **Master Manual (Parts 1–14):** the WHAT — strokes, tactics, mental game. Read it first. | **Manual chính (Phần 1–14):** CÁI GÌ — cú đánh, chiến thuật, tâm lý. Đọc trước. |
+| **Anatomy Lab (Part 15):** the WHY behind the WHAT. Why does hip hinge save the spine? Why is the rotator cuff more important than the deltoid? Why does knee collapse cause injury? Why does the 50+ player lose reaction time first? | **Lab Giải Phẫu (Phần 15):** TẠI SAO đằng sau CÁI GÌ. Tại sao bản lề hông cứu cột sống? Tại sao cơ xoay vai quan trọng hơn cơ delta? Tại sao đầu gối đổ vào trong gây chấn thương? Tại sao người chơi 50+ mất phản xạ nhanh nhất? |
+| **Cross-link in real time:** When a Part 1–14 deep dive references anatomy (e.g., "lift the elbow," "rotate the hips," "land on the forefoot"), the Anatomy Lab has the chapter that explains the underlying structure, angles, and forces. | **Liên kết chéo theo thời gian thực:** Khi deep-dive Phần 1–14 tham chiếu giải phẫu (ví dụ: "nâng khuỷu," "xoay hông," "tiếp đất trên mũi chân"), Lab Giải Phẫu có chương giải thích cấu trúc, góc, và lực bên dưới. |
+| **No overlap with Parts 1–14:** this library does NOT cover stroke mechanics, kinetic chain sequencing, or mental game. It only covers BODY STRUCTURE and HOW THE BODY WORKS at tennis-relevant intensities. | **Không trùng với Phần 1–14:** thư viện này KHÔNG đề cập cơ học cú đánh, trình tự chuỗi động học, hay tâm lý thi đấu. Chỉ đề cập CẤU TRÚC CƠ THỂ và CƠ THỂ HOẠT ĐỘNG THẾ NÀO ở cường độ tennis. |
+
+## 15.3 — Printable Cheat Sheet (8 cards × 2) | Thẻ In Được (8 thẻ × 2)
+
+**Each DD ends with a 1-page printable cheat sheet** (printed twice in each file — once mid-document for cutting, once at the end). Print all 8, laminate them, keep one set in your tennis bag and one set at home.
+
+**Mỗi DD kết thúc với một cheat sheet 1 trang in được** (in hai lần trong mỗi file — một lần giữa tài liệu để cắt, một lần ở cuối). In cả 8, ép plastic, giữ một bộ trong túi vợt và một bộ ở nhà.
+
+| DD | Cheat Sheet Topic |
+|---|---|
+| DD1 | 6 Angles at Contact — the geometry of every stroke |
+| DD2 | Rotator Cuff First — the 4 cuff muscles + 6 cuff-first exercises |
+| DD3 | STOP STRETCHING the Ulnar Nerve — nerve flossing instead |
+| DD4 | Hip Hinge vs Spine Hinge — the 1,200 N vs 3,000 N rule |
+| DD5 | Activate, Don't Stretch — the 6 deep rotators + hip CARs |
+| DD6 | Eccentric Squats Fix Patellar Tendonitis — 3 sets × 15 reps |
+| DD7 | Happy Feet — heel-up rule + the windlass mechanism |
+| DD8 | Vestibular Triad — eye, ear, foot — use it or lose it |
+
 ---
 
-*🎾 Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của anh. Bắt đầu từ gốc, mọi thứ tự đến.*
+---
 
-*🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 deep dives are the territory. Read the map first, then explore each region at your own pace. Start at the root, and everything follows.*
+*🎾 Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives cú đánh + 8 deep dives giải phẫu = 30 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của anh. Bắt đầu từ gốc, mọi thứ tự đến.*
+
+*🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 stroke deep dives + 8 anatomy deep dives = 30 deep dives are the territory. Read the map first, then explore each region at your own pace. Start at the root, and everything follows.*
 
 🏁 **END OF v2** | **HẾT v2**
