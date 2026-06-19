@@ -261,7 +261,7 @@ nav:
       - "ReadMe": "Volley/ReadMe.md"
 
   - "Anatomy Lab":
-      - "Anatomy Lab — ReadMe": "Anatomy_Lab/Anatomy Lab — ReadMe.md"
+      - "Anatomy Lab — ReadMe": "Anatomy_Lab/index.md"
       - "DD1 — The Player in Motion": "Anatomy_Lab/DD1_The_Player_in_Motion.md"
       - "DD2 — Shoulders": "Anatomy_Lab/DD2_Shoulders.md"
       - "DD3 — Arms, Wrists & Hands": "Anatomy_Lab/DD3_Arms_Wrists_Hands.md"

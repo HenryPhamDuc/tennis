@@ -3,9 +3,9 @@
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
-> ## 🫀 **[NEW LIBRARY — Click here to enter the Anatomy Lab: 8 deep-dives on the body behind every stroke →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)**
+> ## 🫀 **[NEW LIBRARY — Click here to enter the Anatomy Lab: 8 deep-dives on the body behind every stroke →](Anatomy_Lab/)**
 > 
-> ### 🫀 **[MỚI — Click vào đây để vào Lab Giải Phẫu: 8 deep-dive về cơ thể sau mỗi cú đánh →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)**
+> ### 🫀 **[MỚI — Click vào đây để vào Lab Giải Phẫu: 8 deep-dive về cơ thể sau mỗi cú đánh →](Anatomy_Lab/)**
 > 
 > *Bones, joints, muscles, nerves, biomechanics — the WHY behind the WHAT. 8 deep-dives (351 KB), 56 inline illustrations, 281 bilingual tables, 8 printable cheat sheets. See [Part 15](#part-15) below.*
 
@@ -62,7 +62,7 @@
 | **Part 12** | 🆕 Grip Pressure (The Dial You Control Every Shot) | [Grip Pressure →](Grip%20Pressure/Grip%20Pressure%20%E2%80%94%20The%20Dial%20You%20Control%20Every%20Shot/) | 0-10 scale, two-zone rule, stroke-by-stroke pressure map, sound diagnosis | Thang 0-10, quy tắc hai vùng, bản đồ áp lực, chẩn đoán âm thanh |
 | **Part 13** | 🆕 Mental Game (The Match Inside Your Head) | [Mental Game →](Mental%20Game/Mental%20Game%20%E2%80%94%20The%20Match%20Inside%20Your%20Head/) | 5-phase match map, 4-step ritual, 5 pressure points, loss recovery | Bản đồ 5 pha, nghi lễ 4 bước, 5 điểm áp lực, hồi phục sau thua |
 | **Part 14** | 📄 Master Cheat Sheet (2-page printable) | _(see Part 14 below — print these 2 pages)_ | PAGE 1 covers Parts 1-7, PAGE 2 covers Parts 8-14 + master cue | TRANG 1: Phần 1-7, TRANG 2: Phần 8-14 + tín hiệu bậc thầy |
-| **Part 15** | 🆕 Anatomy Lab — The Body Behind Every Stroke *(NEW June 2026)* | [Anatomy Lab →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/) | 8 deep-dives covering the entire body in relation to tennis strokes | 8 deep-dive bao phủ toàn bộ cơ thể liên quan đến cú đánh |
+| **Part 15** | 🆕 Anatomy Lab — The Body Behind Every Stroke *(NEW June 2026)* | [Anatomy Lab →](Anatomy_Lab/) | 8 deep-dives covering the entire body in relation to tennis strokes | 8 deep-dive bao phủ toàn bộ cơ thể liên quan đến cú đánh |
 
 **Direct deep-dive library** (every folder in the left sidebar):
 [1-Page Pocket Card](1-Page%20Pocket%20Card/1-Page%20Match%20Pocket%20Card%20%E2%80%94%20The%20Complete%20Grip%20System/) ·
@@ -76,7 +76,7 @@
 [Doubles Serves](Doubles%20Serves/Doubles%20Serves%20%E2%80%94%20The%204%20Serve%20Patterns/) ·
 [Doubles Patterns](Doubles%20Patterns/Doubles%20Patterns%20%E2%80%94%20The%204%20Return%20Patterns/) ·
 [Grip Change Map](Grip%20Change%20Map/Grip%20Change%20Map%20%E2%80%94%20The%20Complete%20Sequence%20Guide/) ·
-[Anatomy Lab (8 dives)](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)
+[Anatomy Lab (8 dives)](Anatomy_Lab/)
 
 ---
 
@@ -105,7 +105,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **For the player who wants to understand the BODY behind every stroke — bones, joints, muscles, nerves, biomechanics, and how the kinetic chain actually works.** A bilingual (EN-VI) reference manual built from your Vietnamese source materials plus the textbook *Tennis Anatomy* by Roetert & Kovacs (2011). **8 standalone deep-dives covering the entire body in relation to tennis strokes:** (1) Player in Motion — whole-body biomechanics, 6 joint angles at contact, kinetic chain, 45° contact rule; (2) Shoulders — rotator cuff, scapular plane, 4-joint complex; (3) Arms/Wrists/Hands — ulnar nerve, cubital tunnel, 27 hand bones, grip pressure; (4) Trunk/Spine — L4-L5 disc, 40+ back muscles, hip hinge; (5) Hips/Thighs — glute max, 6 deep rotators, wider-stance transformation; (6) Knees — patella, meniscus, ACL, 50–80° loading rule; (7) Ankles/Feet — 26 bones, 33 joints, windlass mechanism; (8) Control System — vestibular, vision, proprioception, the 50+ sensory triad. **351 KB / 4,136 lines / 58 chapters / 56 inline illustrations / 8 printable cheat sheets.** Designed for the 50+ player who wants to know *why* the shoulder cuff matters more than the deltoid, *why* hip hinge saves the spine, *why* patellar tendonitis is fixed by eccentric squats not rest. | **Cho người chơi muốn hiểu CƠ THỂ sau mỗi cú đánh — xương, khớp, cơ, dây thần kinh, sinh cơ học, và cách chuỗi động học thật sự hoạt động.** Cẩm nang song ngữ (EN-VI) được xây dựng từ tài liệu tiếng Việt của bạn cộng với sách giáo khoa *Tennis Anatomy* của Roetert & Kovacs (2011). **8 deep-dive độc lập bao phủ toàn bộ cơ thể liên quan đến cú đánh tennis:** (1) Người Chơi Trong Chuyển Động — sinh cơ học toàn thân, 6 góc khớp lúc tiếp xúc, chuỗi động học, quy tắc tiếp xúc 45°; (2) Vai — cơ xoay vai (SITS), mặt phẳng xương bả vai, phức hợp 4 khớp; (3) Cánh tay/Cổ tay/Bàn tay — dây thần kinh trụ, đường hầm khuỷu, 27 xương bàn tay, áp lực cầm vợt; (4) Thân/Cột sống — đĩa L4-L5, hơn 40 cơ lưng, bản lề hông; (5) Hông/Đùi — cơ mông lớn, 6 cơ xoay sâu, biến đổi tư thế rộng; (6) Đầu gối — xương bánh chè, sụn chêm, dây chằng chéo trước, quy tắc tải 50–80°; (7) Mắt cá/Chân — 26 xương, 33 khớp, cơ chế windlass; (8) Hệ Kiểm Soát — tiền đình, thị giác, cảm giác bản thể, bộ ba giác quan 50+. **351 KB / 4,136 dòng / 58 chương / 56 hình minh họa nội tuyến / 8 thẻ cheat sheet in được.** Dành cho người chơi 50+ muốn biết *tại sao* cơ xoay vai quan trọng hơn cơ delta, *tại sao* bản lề hông cứu cột sống, *tại sao* viêm gân bánh chè chữa bằng squat xuống từ từ chứ không phải nghỉ. |
-| 👉 **[ENTER THE ANATOMY LAB →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe.md)** | 👉 **[VÀO LAB GIẢI PHẪU →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe.md)** |
+| 👉 **[ENTER THE ANATOMY LAB →](Anatomy_Lab/index.md)** | 👉 **[VÀO LAB GIẢI PHẪU →](Anatomy_Lab/index.md)** |
 
 
 
