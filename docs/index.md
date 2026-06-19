@@ -91,6 +91,18 @@
 
 ---
 
+
+## 🫀 **NEW LIBRARY (June 2026): Anatomy Lab — The Body Behind Every Stroke** | Thư Viện MỚI — Giải Phẫu Học Cơ Thể Sau Mỗi Cú Đánh
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **For the player who wants to understand the BODY behind every stroke — bones, joints, muscles, nerves, biomechanics, and how the kinetic chain actually works.** A bilingual (EN-VI) reference manual built from your Vietnamese source materials plus the textbook *Tennis Anatomy* by Roetert & Kovacs (2011). **8 standalone deep-dives covering the entire body in relation to tennis strokes:** (1) Player in Motion — whole-body biomechanics, 6 joint angles at contact, kinetic chain, 45° contact rule; (2) Shoulders — rotator cuff, scapular plane, 4-joint complex; (3) Arms/Wrists/Hands — ulnar nerve, cubital tunnel, 27 hand bones, grip pressure; (4) Trunk/Spine — L4-L5 disc, 40+ back muscles, hip hinge; (5) Hips/Thighs — glute max, 6 deep rotators, wider-stance transformation; (6) Knees — patella, meniscus, ACL, 50–80° loading rule; (7) Ankles/Feet — 26 bones, 33 joints, windlass mechanism; (8) Control System — vestibular, vision, proprioception, the 50+ sensory triad. **351 KB / 4,136 lines / 58 chapters / 56 inline illustrations / 8 printable cheat sheets.** Designed for the 50+ player who wants to know *why* the shoulder cuff matters more than the deltoid, *why* hip hinge saves the spine, *why* patellar tendonitis is fixed by eccentric squats not rest. | **Cho người chơi muốn hiểu CƠ THỂ sau mỗi cú đánh — xương, khớp, cơ, dây thần kinh, sinh cơ học, và cách chuỗi động học thật sự hoạt động.** Cẩm nang song ngữ (EN-VI) được xây dựng từ tài liệu tiếng Việt của bạn cộng với sách giáo khoa *Tennis Anatomy* của Roetert & Kovacs (2011). **8 deep-dive độc lập bao phủ toàn bộ cơ thể liên quan đến cú đánh tennis:** (1) Người Chơi Trong Chuyển Động — sinh cơ học toàn thân, 6 góc khớp lúc tiếp xúc, chuỗi động học, quy tắc tiếp xúc 45°; (2) Vai — cơ xoay vai (SITS), mặt phẳng xương bả vai, phức hợp 4 khớp; (3) Cánh tay/Cổ tay/Bàn tay — dây thần kinh trụ, đường hầm khuỷu, 27 xương bàn tay, áp lực cầm vợt; (4) Thân/Cột sống — đĩa L4-L5, hơn 40 cơ lưng, bản lề hông; (5) Hông/Đùi — cơ mông lớn, 6 cơ xoay sâu, biến đổi tư thế rộng; (6) Đầu gối — xương bánh chè, sụn chêm, dây chằng chéo trước, quy tắc tải 50–80°; (7) Mắt cá/Chân — 26 xương, 33 khớp, cơ chế windlass; (8) Hệ Kiểm Soát — tiền đình, thị giác, cảm giác bản thể, bộ ba giác quan 50+. **351 KB / 4,136 dòng / 58 chương / 56 hình minh họa nội tuyến / 8 thẻ cheat sheet in được.** Dành cho người chơi 50+ muốn biết *tại sao* cơ xoay vai quan trọng hơn cơ delta, *tại sao* bản lề hông cứu cột sống, *tại sao* viêm gân bánh chè chữa bằng squat xuống từ từ chứ không phải nghỉ. |
+| 👉 **[ENTER THE ANATOMY LAB →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe.md)** | 👉 **[VÀO LAB GIẢI PHẪU →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe.md)** |
+
+
+
+---
+
 <a name="part-1"></a>
 # Part 1 — Foundations & Grip
 # Phần 1 — Nền tảng & Cách cầm vợt
