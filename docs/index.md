@@ -3,6 +3,12 @@
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
+> ## 🫀 **[NEW LIBRARY — Click here to enter the Anatomy Lab: 8 deep-dives on the body behind every stroke →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)**
+> 
+> ### 🫀 **[MỚI — Click vào đây để vào Lab Giải Phẫu: 8 deep-dive về cơ thể sau mỗi cú đánh →](Anatomy_Lab/Anatomy%20Lab%20%E2%80%94%20ReadMe/)**
+> 
+> *Bones, joints, muscles, nerves, biomechanics — the WHY behind the WHAT. 8 deep-dives (351 KB), 56 inline illustrations, 281 bilingual tables, 8 printable cheat sheets. See [Part 15](#part-15) below.*
+
 > **What's new in v2** *(compared to v1, 11 parts)*
 > - **+3 Parts**: Part 9 (Lob & Overhead), Part 10 (Slice Family), Part 12 (Grip Pressure)
 > - **+1 Elevation**: Part 8 Mental Game from v1 is now its own **Part 13 (Mental Game)** — the mental game deserves a full chapter, not a footnote
