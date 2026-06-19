@@ -1,94 +1,66 @@
 /*
  * sidebar-nav.js
  *
- * Adds two navigation bars to every page:
+ * Builds browser-style Home / Previous / Next navigation bars by walking
+ * the rendered sidebar DOM at runtime. Two bars are injected:
+ *   1. At the top of the sidebar (sticky)
+ *   2. At the bottom of the article
+ * No per-page config needed — adding a new DD to nav: automatically
+ * updates the prev/next ordering on next build.
  *
- * 1. TOP NAV BAR (in sidebar) — sticky at the top, always visible.
- *    Shows: [⌂ Home] [← Previous: <title>] [Next: <title> →]
- *
- * 2. BOTTOM NAV BAR (after content) — at the end of the article.
- *    Same three buttons, plus a "Back to top" link.
- *
- * The prev/next is determined dynamically by walking the sidebar links in
- * order, so it stays correct as the library grows. No per-page config needed.
- *
- * Edge cases:
- * - Homepage (first page) → no Previous button
- * - Last page (Volley) → no Next button
- * - On the homepage, the Home button is disabled
+ * Verified pattern from the tennis-coach-system library.
  */
-
 (function() {
   'use strict';
 
-  // Build a flat list of pages from the sidebar, in the order they appear.
   function buildPageList() {
-    var items = document.querySelectorAll(
-      '.md-nav--primary .md-nav__link[href]'
-    );
-    var pages = [];
-    var seen = {};
+    var items = document.querySelectorAll('.md-nav--primary .md-nav__link[href]');
+    var pages = [], seen = {};
     for (var i = 0; i < items.length; i++) {
       var link = items[i];
       var href = link.getAttribute('href');
       if (!href || href === '#') continue;
       if (/^(https?:|mailto:|tel:)/i.test(href)) continue;
-      if (!/(\/|\.html|\.md)/i.test(href)) continue;
-      var key = href.replace(/\.\//, '').replace(/\/$/, '').toLowerCase();
+      // Skip non-page links (anchors only)
+      var key = href.replace(/^\.\//, '').replace(/\/$/, '').toLowerCase();
       if (seen[key]) continue;
       seen[key] = true;
       var ellipsis = link.querySelector('.md-ellipsis');
       var title = ellipsis ? ellipsis.textContent.trim() : key;
-      if (title === 'Home' && pages.length > 0) continue;
       pages.push({ href: href, title: title });
     }
     return pages;
   }
 
-  // Find the current page's index in the list by matching the URL path.
-  // Tries three strategies, in order of specificity:
-  //   1. Exact last-2-segments match (most specific)
-  //   2. First significant folder segment match (handles deep-dive pages
-  //      that aren't in the sidebar — matches the folder they live in)
-  //   3. document.title prefix match (last-resort heuristic)
   function findCurrentIndex(pages) {
     var currentPath = window.location.pathname
-      .replace(/index\.html$/, '')
-      .replace(/\/$/, '');
+      .replace(/index\.html$/, '').replace(/\/$/, '');
     var currentSegs = currentPath.split('/').filter(Boolean);
-    if (currentSegs[0] === 'AI') currentSegs = currentSegs.slice(1);
-
+    if (currentSegs.length === 0) {
+      // We're at root; match the homepage (index.html)
+      for (var i = 0; i < pages.length; i++) {
+        var h = pages[i].href.replace(/^\.\//, '').replace(/\/$/, '');
+        if (h === '' || h === 'index' || h === 'index.html') return i;
+      }
+      return -1;
+    }
+    // Strip /tennis/ or /AI/ prefix if present
+    if (currentSegs[0] === 'tennis' || currentSegs[0] === 'AI') {
+      currentSegs = currentSegs.slice(1);
+    }
     // Strategy 1: exact last-2-segments match
     var currentTail = currentSegs.slice(-2).join('/').toLowerCase();
-    for (var i = 0; i < pages.length; i++) {
-      var pageHref = normalizeHref(pages[i].href);
-      var pageTail = pageHref.split('/').filter(Boolean).slice(-2).join('/').toLowerCase();
-      if (pageTail && pageTail === currentTail) return i;
+    for (var j = 0; j < pages.length; j++) {
+      var pageHref = normalizeHref(pages[j].href);
+      var pageTail = pageHref.split('/').filter(Boolean).slice(-2).join('/');
+      if (pageTail && pageTail === currentTail) return j;
     }
-
-    // Strategy 2: first significant folder segment match
-    var currentFolder = currentSegs.length > 0 ? currentSegs[0].toLowerCase() : '';
-    if (currentFolder && currentFolder !== 'index.html') {
-      var bestMatch = -1;
-      var bestScore = -1;
-      for (var j = 0; j < pages.length; j++) {
-        var pHref = normalizeHref(pages[j].href);
-        var pSegs = pHref.split('/').filter(Boolean);
-        if (pSegs[0] && pSegs[0].toLowerCase() === currentFolder) {
-          var score = (pSegs[1] && pSegs[1].toLowerCase() === (currentSegs[1] || '').toLowerCase()) ? 2 : 1;
-          if (score > bestScore) { bestScore = score; bestMatch = j; }
-        }
-      }
-      if (bestMatch >= 0) return bestMatch;
-    }
-
-    // Strategy 3: document.title prefix match
-    var docTitle = (document.title || '').toLowerCase();
-    if (docTitle) {
-      for (var k = 0; k < pages.length; k++) {
-        var pTitle = (pages[k].title || '').toLowerCase();
-        if (pTitle && docTitle.indexOf(pTitle) >= 0) return k;
-      }
+    // Strategy 2: last-segment match (filenames like DD1_The_Player_in_Motion.md)
+    var currentFile = currentSegs.slice(-1)[0].toLowerCase();
+    for (var k = 0; k < pages.length; k++) {
+      var h2 = normalizeHref(pages[k].href);
+      var h2File = h2.split('/').filter(Boolean).slice(-1)[0].toLowerCase();
+      if (h2File && h2File === currentFile) return k;
     }
     return -1;
   }
@@ -102,51 +74,46 @@
       .replace(/\/$/, '');
   }
 
-  // Truncate a title for button display
-  function shortTitle(title) {
-    var parts = title.split(/\s+[—–-]\s+/);
-    return parts[0] || title;
-  }
-
-  // Build the HTML for one nav bar
   function buildBar(home, prev, next, position) {
-    var bar = document.createElement('div');
+    var bar = document.createElement('nav');
     bar.className = 'hh-nav-bar hh-nav-bar--' + position;
+    bar.setAttribute('aria-label', position === 'top' ? 'Top navigation' : 'Bottom navigation');
 
-    var homeDisabled = position === 'top' && !home.available;
-    var prevDisabled = !prev;
-    var nextDisabled = !next;
+    function makeBtn(target, label, title, isHome, isDisabled) {
+      var a = document.createElement('a');
+      a.className = 'hh-nav-btn' + (isHome ? ' hh-nav-home' : '') + (isDisabled ? ' hh-nav-btn--disabled' : '');
+      if (target) a.setAttribute('href', target);
+      else a.setAttribute('aria-disabled', 'true');
+      a.setAttribute('title', title);
+      var eyebrow = document.createElement('span');
+      eyebrow.className = 'hh-nav-eyebrow';
+      eyebrow.textContent = label;
+      var labelSpan = document.createElement('span');
+      labelSpan.className = 'hh-nav-label';
+      labelSpan.textContent = title;
+      var titleEl = document.createElement('span');
+      titleEl.className = 'hh-nav-title';
+      titleEl.textContent = title;
+      a.appendChild(eyebrow);
+      a.appendChild(labelSpan);
+      a.appendChild(titleEl);
+      return a;
+    }
 
-    var homeH = home.href;
-    var prevH = prev ? prev.href : '#';
-    var nextH = next ? next.href : '#';
-    var prevTitle = prev ? 'Previous: ' + prev.title : 'No previous page';
-    var nextTitle = next ? 'Next: ' + next.title : 'No next page';
-    var prevLabel = prev ? shortTitle(prev.title) : '—';
-    var nextLabel = next ? shortTitle(next.title) : '—';
-
-    bar.innerHTML =
-      '<a href="' + homeH + '" class="hh-nav-btn hh-nav-home' +
-        (homeDisabled ? ' hh-nav-btn--disabled' : '') +
-        '" title="Home — Complete Manual v2" aria-label="Home">' +
-        '<span class="hh-nav-icon">⌂</span><span class="hh-nav-label">Home</span>' +
-      '</a>' +
-      '<a href="' + prevH + '" class="hh-nav-btn hh-nav-prev' +
-        (prevDisabled ? ' hh-nav-btn--disabled' : '') +
-        '" title="' + prevTitle + '"' +
-        (prevDisabled ? ' aria-disabled="true"' : '') +
-        '><span class="hh-nav-arrow">←</span><span class="hh-nav-content">' +
-          '<span class="hh-nav-eyebrow">Previous</span>' +
-          '<span class="hh-nav-title">' + prevLabel + '</span>' +
-        '</span></a>' +
-      '<a href="' + nextH + '" class="hh-nav-btn hh-nav-next' +
-        (nextDisabled ? ' hh-nav-btn--disabled' : '') +
-        '" title="' + nextTitle + '"' +
-        (nextDisabled ? ' aria-disabled="true"' : '') +
-        '><span class="hh-nav-content">' +
-          '<span class="hh-nav-eyebrow">Next</span>' +
-          '<span class="hh-nav-title">' + nextLabel + '</span>' +
-        '</span><span class="hh-nav-arrow">→</span></a>';
+    // Left button: Home (always present)
+    bar.appendChild(makeBtn(home ? home.href : '.', 'Home', 'Home', true, !home));
+    // Middle button: Previous
+    if (prev) {
+      bar.appendChild(makeBtn(prev.href, '← Previous', prev.title, false, false));
+    } else {
+      bar.appendChild(makeBtn(null, '← Previous', 'First page', false, true));
+    }
+    // Right button: Next
+    if (next) {
+      bar.appendChild(makeBtn(next.href, 'Next →', next.title, false, false));
+    } else {
+      bar.appendChild(makeBtn(null, 'Next →', 'Last page', false, true));
+    }
     return bar;
   }
 
@@ -155,19 +122,16 @@
     if (pages.length === 0) return;
     var idx = findCurrentIndex(pages);
     if (idx < 0) return;
-
-    var home = { href: '.', title: 'Home', available: true };
+    var home = { href: '.', title: 'Home' };
     var prev = idx > 0 ? pages[idx - 1] : null;
     var next = idx < pages.length - 1 ? pages[idx + 1] : null;
-
-    // Top nav bar — sticky at top of sidebar
+    // Top bar in sidebar
     var sidebar = document.querySelector('.md-sidebar--primary .md-sidebar__inner');
     if (sidebar) {
       var topBar = buildBar(home, prev, next, 'top');
       sidebar.insertBefore(topBar, sidebar.firstChild);
     }
-
-    // Bottom nav bar — at the end of the content
+    // Bottom bar in article
     var content = document.querySelector('.md-content__inner');
     if (content) {
       var bottomBar = buildBar(home, prev, next, 'bottom');

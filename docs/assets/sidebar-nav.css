@@ -1,13 +1,9 @@
-/*
- * sidebar-nav.css
- *
- * Styles for the Home / Previous / Next navigation bars injected by
- * sidebar-nav.js. Two instances per page:
- *   1. .hh-nav-bar--top    — at the top of the sidebar, sticky
- *   2. .hh-nav-bar--bottom — at the bottom of the main content
- */
-
-/* ---- Container ---- */
+/* ==========================================================================
+   sidebar-nav.css
+   ==========================================================================
+   Styles for the Home / Previous / Next navigation bars injected by
+   sidebar-nav.js. Theme-aware via Material's CSS variables.
+   ========================================================================== */
 
 .hh-nav-bar {
   display: flex;
@@ -17,36 +13,35 @@
   border-radius: 0.4rem;
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+  font-size: 0.85rem;
 }
 
 .hh-nav-bar--top {
   position: sticky;
   top: 0;
   z-index: 5;
-  margin: 0 0 0.6rem 0;
-  background: var(--md-default-bg-color);
   backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  background: color-mix(in srgb, var(--md-default-bg-color) 85%, transparent);
 }
 
-/* ---- Buttons ---- */
+.hh-nav-bar--bottom {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
 
 .hh-nav-btn {
   flex: 1 1 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.3rem;
+  min-width: 0;
   padding: 0.45rem 0.5rem;
   border-radius: 0.3rem;
-  font-size: 0.78rem;
-  font-weight: 500;
-  text-decoration: none;
-  color: var(--md-primary-fg-color);
   background: var(--md-default-fg-color--lightest);
-  border: 1px solid transparent;
-  transition: background 0.15s, color 0.15s, transform 0.15s;
-  min-width: 0;
+  color: var(--md-primary-fg-color);
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: background-color 0.15s, color 0.15s, transform 0.15s;
   overflow: hidden;
 }
 
@@ -56,58 +51,23 @@
   transform: translateY(-1px);
 }
 
-.hh-nav-btn:active {
-  transform: translateY(0);
-}
-
-.hh-nav-btn--disabled,
-.hh-nav-btn--disabled:hover {
-  background: var(--md-default-fg-color--lightest);
-  color: var(--md-default-fg-color--light);
-  cursor: not-allowed;
+.hh-nav-btn--disabled {
+  opacity: 0.45;
   pointer-events: none;
-  transform: none;
-  opacity: 0.5;
-}
-
-/* ---- Home button (compact) ---- */
-
-.hh-nav-home {
-  flex: 0 0 auto;
-  min-width: 3.2rem;
-  font-size: 0.85rem;
-}
-
-.hh-nav-home .hh-nav-icon {
-  font-size: 1.1rem;
-  line-height: 1;
-}
-
-/* ---- Prev / Next content layout ---- */
-
-.hh-nav-content {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  min-width: 0;
-  line-height: 1.2;
-}
-
-.hh-nav-prev .hh-nav-content {
-  align-items: flex-start;
-}
-
-.hh-nav-next .hh-nav-content {
-  align-items: flex-end;
-  text-align: right;
+  cursor: not-allowed;
 }
 
 .hh-nav-eyebrow {
-  font-size: 0.62rem;
+  font-size: 0.7rem;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  opacity: 0.65;
-  font-weight: 600;
+  opacity: 0.7;
+  margin-bottom: 0.1rem;
+}
+
+.hh-nav-label {
+  display: none;
 }
 
 .hh-nav-title {
@@ -116,46 +76,14 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 100%;
+  display: block;
 }
-
-.hh-nav-arrow {
-  font-size: 1rem;
-  font-weight: 700;
-  flex: 0 0 auto;
-}
-
-/* ---- Responsive ---- */
 
 @media (max-width: 60em) {
-  .hh-nav-title {
-    font-size: 0.72rem;
-  }
-  .hh-nav-eyebrow {
-    display: none;
-  }
-  .hh-nav-home .hh-nav-label {
-    display: none;
-  }
-  .hh-nav-home {
-    min-width: 2.4rem;
-  }
+  .hh-nav-eyebrow { display: none; }
+  .hh-nav-home .hh-nav-label { display: none; }
 }
 
-/* ---- Bottom bar gets extra emphasis ---- */
-
-.hh-nav-bar--bottom {
-  margin-top: 2.5rem;
-  padding: 0.7rem 0.5rem;
-  border-top: 2px solid var(--md-primary-fg-color);
-  border-left: none;
-  border-right: none;
-  border-bottom: none;
-  background: var(--md-default-fg-color--lightest);
-}
-
-.hh-nav-bar--bottom .hh-nav-prev,
-.hh-nav-bar--bottom .hh-nav-next {
-  background: var(--md-default-bg-color);
-  border: 1px solid var(--md-primary-fg-color);
+@media print {
+  .hh-nav-bar { display: none !important; }
 }

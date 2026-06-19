@@ -7,7 +7,8 @@ A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+.
 **📚 Contents:**
 - **Complete Manual v2** (14 Parts, ~90 KB) — homepage, the master reference
 - **22 deep-dive files** across 20 topic folders (Forehand, Backhand, Serve, Volley, Footwork, Return of Serve, Slice Variations, Slice Approach, Slice Family Doubles, Lob and Overhead, Mental Game, Grip Pressure, Grip family × 4, Doubles × 3)
-- **~1.3 MB of accumulated bilingual coaching content** (English + Vietnamese)
+- **Anatomy Lab** (8 deep-dives, 58 chapters, 181 illustrations) — full-body anatomy reference: Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk/Spine, Hips/Thighs, Knees, Ankles/Feet, Control System
+- **~1.7 MB of accumulated bilingual coaching content** (English + Vietnamese)
 
 ## How the site is built
 
@@ -32,7 +33,7 @@ This is a [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) static
 ## Local development
 
 ```bash
-cd ~/AI
+cd ~/tennis
 pip install mkdocs-material
 mkdocs serve     # local preview at http://127.0.0.1:8000
 mkdocs build     # static build to ./site/
@@ -45,7 +46,7 @@ The site auto-deploys to GitHub Pages via `.github/workflows/deploy.yml` wheneve
 1. Spins up an Ubuntu runner
 2. Installs `mkdocs-material`
 3. Runs `mkdocs gh-deploy --force` (which builds + pushes to `gh-pages` branch)
-4. GitHub Pages then serves `gh-pages` at https://henryphamduc.github.io/AI/
+4. GitHub Pages then serves `gh-pages` at https://henryphamduc.github.io/tennis/
 
 ## Author
 
