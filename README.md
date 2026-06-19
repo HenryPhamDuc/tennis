@@ -2,7 +2,7 @@
 
 A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+.
 
-**🌐 Live site:** https://henryphamduc.github.io/AI/
+**🌐 Live site:** https://henryphamduc.github.io/tennis/
 
 **📚 Contents:**
 - **Complete Manual v2** (14 Parts, ~90 KB) — homepage, the master reference
