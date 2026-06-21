@@ -2,6 +2,8 @@
 ### *A Master-Coach Reference for the 3.5 Player at 50+ | Bản dịch cho người chơi 3.5 ở tuổi 50+*
 
 > 📚 **Related:** [Tennis WIKI (Tiếng Việt)](https://henryPhamDuc.github.io/tennis-wiki/) | [Tennis WIKI (English)](https://henryPhamDuc.github.io/tennis-wiki-en/) — Open encyclopedia of modern tennis (975+ articles, technique, biomechanics, tactics, mental game, fitness, players)
+>
+> 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
