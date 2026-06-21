@@ -1,6 +1,8 @@
 # 🎾 The Complete Tennis Manual — Master Reference v2
 ### *A Master-Coach Reference for the 3.5 Player at 50+ | Bản dịch cho người chơi 3.5 ở tuổi 50+*
 
+> 📚 **Related:** [Tennis WIKI (Tiếng Việt)](https://henryPhamDuc.github.io/tennis-wiki/) | [Tennis WIKI (English)](https://henryPhamDuc.github.io/tennis-wiki-en/) — Open encyclopedia of modern tennis (975+ articles, technique, biomechanics, tactics, mental game, fitness, players)
+
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
 > ## 🫀 **[NEW LIBRARY — Click here to enter the Anatomy Lab: 8 deep-dives on the body behind every stroke →](Anatomy_Lab/)**
