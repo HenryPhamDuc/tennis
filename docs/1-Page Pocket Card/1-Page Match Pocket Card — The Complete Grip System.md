@@ -23,7 +23,7 @@
 
 ```
 ═══════════════════════════════════════════════════════════════════════════════
-  🎾 1-PAGE MATCH POCKET CARD  |  THẺ TÚI TRẬN 1 TRANG  |  HENRY PHAM 50+ SURREY UK
+  🎾 1-PAGE MATCH POCKET CARD  |  THẺ TÚI TRẬN 1 TRANG  |  HENRY PHAM 50+ SURREY, BC
 ═══════════════════════════════════════════════════════════════════════════════
 
   THE 2 RULES  |  2 QUY TẮC
@@ -168,7 +168,7 @@
    7 minutes per match."
 
 ═══════════════════════════════════════════════════════════════════════════════
-  © Henry Pham's Tennis Knowledge Base  |  Surrey, UK  |  50+ Recreational
+  © Henry Pham's Tennis Knowledge Base  |  Surrey, BC  |  50+ Recreational
   Source: 4 deep dives — Continental, Eastern/Semi-Western, Grip Change Map,
           Foundations & Grip. Print, fold, carry.
 ═══════════════════════════════════════════════════════════════════════════════
