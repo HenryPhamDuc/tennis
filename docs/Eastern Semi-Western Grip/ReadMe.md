@@ -1,4 +1,4 @@
-Done. Deep Dive on the Eastern & Semi-Western Grips saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Eastern Semi-Western Grip\Eastern Semi-Western Grip — The 30% Forehand Grips.md`** (~50 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The 30% grip — the forehand"
 

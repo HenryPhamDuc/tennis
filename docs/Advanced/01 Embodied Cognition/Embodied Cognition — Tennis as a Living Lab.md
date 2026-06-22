@@ -279,8 +279,6 @@ Thắt dây an toàn đi, bạn ơi. Từ đây tennis trở thành triết họ
 
 ## 🧾 END OF DEEP-DIVE / HẾT DEEP-DIVE
 
-**Total concepts integrated from your advanced notes:** ~30 covering embodied cognition, body schema extension, predictive processing, ecological dynamics, extended mind, perception-action coupling, constraint-led coaching, tacit knowledge, basal ganglia, and the 50+ longevity advantage.
+~30 covering embodied cognition, body schema extension, predictive processing, ecological dynamics, extended mind, perception-action coupling, constraint-led coaching, tacit knowledge, basal ganglia, and the 50+ longevity advantage.
 
 **Tổng khái niệm tích hợp từ ghi chú nâng cao:** ~30 bao gồm nhận thức hiện thân, mở rộng lược đồ cơ thể, xử lý dự đoán, động lực học sinh thái, tâm trí mở rộng, khớp nối tri-giác–hành-động, huấn luyện theo ràng buộc, tri thức ngầm, hạch nền, và lợi thế 50+.
-
-*— Built for Henry's tennis library, in the master-coach voice, bilingual EN | VI, 50+ aware.*

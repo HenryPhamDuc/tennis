@@ -1,4 +1,4 @@
-Done. Deep Dive on Lob and Overhead saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Lob and Overhead\Lob and Overhead — The Vertical Game.md`** (~67 KB, 574 lines, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The Vertical Game"
 

@@ -66,7 +66,6 @@ Các chương quan trọng nhất cho bạn:
 
 ### Source material / Nguồn:
 
-This library synthesizes from:
 -  — 14 source books (June 2026)
 - `C:\Users\Henry\Documents\New Tennis Knowledge\\` — 30+ raw research notes on embodied cognition, proprioception, fascia, two engines, head position
 
@@ -128,4 +127,3 @@ This library synthesizes from:
 
 ---
 
-— Coach Henry, Surrey BC, June 2026

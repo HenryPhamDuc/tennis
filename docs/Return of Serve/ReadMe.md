@@ -1,4 +1,4 @@
-Done. Deep Dive on Return of Serve saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Return of Serve\Return of Serve — Reading, Blocking, Surviving.md`** (556 lines, ~55 KB, EN-VI bilingual, 5 chapters)
+
 
 ### What this deep dive does differently
 

@@ -1,4 +1,4 @@
-Done. Deep Dive on the 4 Doubles Serve Patterns saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Serves\Doubles Serves — The 4 Serve Patterns.md`** (~62 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The serve is a setup, not a weapon"
 

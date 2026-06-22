@@ -1,4 +1,4 @@
-Done. Deep Dive on Backhand saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Backhand\Backhand — The Mirror, The Whip & The Slice.md`** (53 KB, 549 lines, EN-VI bilingual, 5 chapters)
+
 
 ### What this deep dive does differently
 

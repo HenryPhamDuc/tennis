@@ -1,4 +1,4 @@
-Done. Deep Dive on the Continental Grip saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Continental Grip\Continental Grip — The 9-Shot Universal Key.md`** (~55 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The Continental is the 50+ universal key"
 

@@ -40,8 +40,6 @@ Saved. Here's the deep dive:
 
 This is the first **non-stroke** deep dive. Footwork is the silent foundation under every shot — the topic that turns all 6 stroke deep-dives from "I know the technique" into "I can actually use it in a match."
 
-## Key insights drawn from your source material
-
 1. **The "Đạp Xe" / Idling principle** — your giáo trình's "Luôn giữ gót chân sau nhấc nhẹ" became the central cue. Body idles like an engine, never parks like a car.
 2. **The 4 named moves** — pulled your giáo trình's table (Lateral Hop / Drop Step / Cross-Over / Recovery) and built an entire chapter around them, in order of difficulty.
 3. **The 300ms split-step gift** — your giáo trình said "thêm 300ms quý báu." I made that the central hook of Chapter 3.

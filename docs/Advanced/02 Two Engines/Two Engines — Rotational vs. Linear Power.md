@@ -363,8 +363,6 @@
 
 ### 🧾 END OF DEEP DIVE / HẾT DEEP DIVE
 
-*Total content integrated from your source notes (2 types of engine + Side bend vs straight body + master manual Chapter 6) and extended with anatomical depth on the 4 pre-loads, the Federer switching pattern, and the 50+ decision rule.*
-
 *Tổng nội dung tích hợp từ ghi chú nguồn (2 loại động cơ + Nghiêng bên vs thân thẳng + Chương 6 cẩm nang tổng) và mở rộng với độ sâu giải phẫu về 4 pre-load, mẫu chuyển đổi Federer, và quy tắc quyết định 50+.*
 
 * * *

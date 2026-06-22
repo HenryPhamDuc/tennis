@@ -1,4 +1,4 @@
-Done. Deep Dive on the Grip Change Map saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Grip Change Map\Grip Change Map — The Complete Sequence Guide.md`** (~42 KB, EN-VI bilingual, 4 chapters)
+
 
 ### The big idea: "The grip change is the 3.5 time-cost"
 

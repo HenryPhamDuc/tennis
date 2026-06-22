@@ -91,8 +91,6 @@ Mỗi trong 13 chương cốt lõi đã được mở rộng thành deep-dive đ
 
 ## 🧠 The Source Materials (Where the 5.0+ Territory Came From) / Nguồn Tài Liệu
 
-This library synthesizes from the following Ollama-coauthored research:
-
 | Source | Location | What it contributed to this library |
 |---|---|---|
 | **Futuristic Tennis Manual by Olama** | `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\Futuristic Tennis Manual by Olama.md` | The 5-chapter Integrated Master System (DET→NKF→KIO→APS→IMS), the DET×Φ×η×Ψ performance formula, the IMS Player Profile framework (Powerhouse / Technician / Adaptive Wall), the 365-day evolution cycle |
@@ -146,4 +144,3 @@ This manual's central artifact. One card. Both sides of one page. Designed for t
 
 ---
 
-*Built June 2026 from the user's 4 designated Ollama-coauthored source files. This library does not replace either of the prior levels — it sits on top of them as the final stage in a complete tennis mastery progression.*

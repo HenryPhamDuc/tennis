@@ -1,4 +1,4 @@
-Done. Deep Dive on the 8 Slice × Doubles Playbook saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Family Doubles\Slice Family Doubles — The 8-Shot Doubles Playbook.md`** (~56 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The slice × doubles = 8 × 2 = 16"
 

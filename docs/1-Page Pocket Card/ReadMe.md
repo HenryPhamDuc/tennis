@@ -1,4 +1,4 @@
-Done. 1-Page Match Pocket Card saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\1-Page Pocket Card\1-Page Match Pocket Card — The Complete Grip System.md`** (~34 KB, EN-VI bilingual, 1 page + 2 expanded versions)
+
 
 ### The big idea: "The complete grip system in 1 page"
 

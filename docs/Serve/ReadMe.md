@@ -34,7 +34,6 @@ This is the first **non-forehand** deep dive. It carries forward the same master
 
 ---
 
-## Key insights drawn from your 2 source notes
 
 1. **Continental grip + lateral palm plane** — from your "Tennis serve grip analysis" notes. The "lateral, not vertical" distinction is the single biggest unlock for elbow health. I made it a whole cue.
 2. **Pronation over wrist snap** — from your "Serve technique" notes. Modern biomechanics (and modern elbow health) reject the "snap your wrist" teaching. Pronation is shoulder + forearm, not wrist.

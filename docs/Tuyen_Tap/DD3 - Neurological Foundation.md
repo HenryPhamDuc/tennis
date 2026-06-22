@@ -360,7 +360,6 @@ Tại sao điều này quan trọng ở 3.5 → 4.5? Vì hầu hết người ch
 | Friend, you have the same brain as a 25-year-old tennis pro. Same structures. Same chemistry. Same neural pathways. The difference is mostly **practice** and **pattern recognition**. | Bạn ơi, bạn có cùng não với pro tennis 25 tuổi. Cùng cấu trúc. Cùng hóa học. Cùng đường thần kinh. Khác biệt phần lớn là **tập luyện** và **nhận diện mẫu**. |
 | The brain is the most trainable organ in the body. **Muscles atrophy at 30+. The brain never stops learning.** This is good news for every 50+ player. | Não là cơ quan dễ tập nhất trong cơ thể. **Cơ teo ở 30+. Não không bao giờ ngừng học.** Đây là tin tốt cho mọi người chơi 50+. |
 | Train the eyes. Train the decisions. Train the autopilot. **The body will follow.** | Tập mắt. Tập quyết định. Tập lái tự động. **Cơ thể sẽ theo.** |
-| **Total concepts integrated from your source and the wider anatomy/neurology literature:** 45+ covering the 7-step reaction chain, the 5-phase visual cycle, the 3 reaction layers, the 7 brain regions, proprioception hardware, vestibular system, and neuroplasticity for 50+. | **Tổng khái niệm tích hợp từ nguồn và tài liệu giải phẫu/thần kinh rộng hơn:** 45+ bao phủ chuỗi phản xạ 7 bước, chu kỳ thị giác 5 pha, 3 lớp phản xạ, 7 vùng não, phần cứng cảm giác sâu, hệ tiền đình, và dẻo dai thần kinh cho 50+. |
 
 * * *
 

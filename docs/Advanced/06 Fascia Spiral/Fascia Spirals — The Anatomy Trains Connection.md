@@ -355,8 +355,6 @@ Read slowly. Stand up while you read. Do the side-bend test in Chapter 5 before 
 
 ### 🧾 END OF DEEP DIVE / HẾT DEEP DIVE
 
-*Total content integrated from your source notes (2 types of engine + Side bend vs straight body) and extended with the complete Anatomy Trains mapping: the 9 stations of the Spiral Line (foot arch → peroneals → IT band → TFL/glute → ASIS cross → contralateral obliques → contralateral intercostals → contralateral serratus/rhomboids → contralateral arm + racket), the 5 stations of the Lateral Line (outer foot → outer leg → outer hip → outer trunk → skull), the 60-second opposite-side diagnostic, the 4-minute daily release, the tennis implications matrix (serve, forehand, volley, cross-court vs. DTL), and the 50+ longevity rule.*
-
 *Tổng nội dung tích hợp từ ghi chú nguồn (2 loại động cơ + Nghiêng bên vs thân thẳng) và mở rộng với bản đồ Anatomy Trains đầy đủ: 9 trạm của Đường Xoắn, 5 trạm của Đường Bên, chẩn đoán phía đối diện 60 giây, giải phóng hàng ngày 4 phút, ma trận hệ quả tennis, và quy tắc bền bỉ 50+.*
 
 * * *

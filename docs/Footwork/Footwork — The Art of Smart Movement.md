@@ -433,6 +433,4 @@ After every shot:
 >
 ---
 
-*Sources drawn from yourfolder: your giáo trình `GIÁO TRÌNH TENNIS TOÀN DIỆN CHO NGƯỜI CHƠI TRUNG NIÊN (40-65 TUỔI).md` (Chương 2 — Footwork: "Đạp Xe," Split-Step, 4 bước), your existing Volley deep-dive (Hư-Thực framework, 70/30 weight distribution, bridge-leg concept), the master Forehand deep-dive (4-Layer System, Tai Chi principles), and the series conventions established across your Deep Dives.*
-
 *Tài liệu tham khảo từ thư mục ghi chú của bạn: giáo trình (Chương 2 — Footwork), deep-dive Volley (khung Hư-Thực, phân bố trọng lượng 70/30, khái niệm chân cầu), deep-dive Forehand 4 lớp, nguyên lý thái cực, và các quy ước series đã thiết lập.*

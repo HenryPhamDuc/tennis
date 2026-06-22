@@ -548,7 +548,7 @@
 
 ### 🧾 END OF MANUAL / HẾT CẨM NANG
 
-**Total concepts integrated from your advanced notes:** 200+ covering neuroscience, anatomy, fascia, embodied cognition, body schema, reflex arcs, X-Factor, vestibular system, two-engine power generation, and the 50+ longevity adjustments.
+200+ covering neuroscience, anatomy, fascia, embodied cognition, body schema, reflex arcs, X-Factor, vestibular system, two-engine power generation, and the 50+ longevity adjustments.
 
 **Tổng khái niệm tích hợp từ ghi chú nâng cao:** 200+ bao gồm thần kinh học, giải phẫu, fascia, nhận thức hiện thân, lược đồ cơ thể, vòng phản xạ, X-Factor, hệ tiền đình, hệ hai động cơ tạo lực, và điều chỉnh 50+.
 

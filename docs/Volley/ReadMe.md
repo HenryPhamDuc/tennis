@@ -30,14 +30,11 @@ Saved. Here's the deep dive:
 
 ---
 
-## Key insights drawn from your 7 volley source notes
 
 1. **The "L" + "U" framework** — your taichi article and ulnar-deviation notes both pointed to the same insight: the L is structural brace, the U is the ready frame. I made these the core of Chapter 2.
 2. **Soft hand, frozen wrist** — your Volley grip note on palm-not-100%-compressed is the most important volley insight for a 3.5 player. I put it in both the L-shape section and the Drop Volley section.
 3. **Step IN, not back** — your Những lỗi thường gặp note documented this exactly. For 50+ it's the single biggest fix.
 4. **Wrist actions table** (ulnar deviation / extension / supination) — pulled from your biomechanics note and presented as a clean table.
-5. **The "Predator Stance"** (racket at eye level, lean forward) — synthesized from your "tại sao nâng tay cao hơn ngực" note.
-
 ---
 
 The cheat sheet at the bottom is designed to be printed and carried in the bag — short cues, both languages, no theory. 🏸

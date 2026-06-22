@@ -349,8 +349,6 @@ These matter more than any technique. **Save the joint, not the point.**
 
 ---
 
-*Total concepts integrated from tennis biomechanics, on-court play, and 50+ longevity: 60+ covering pressure philosophy, the 0-10 scale, the two-zone rule, the stroke pressure map, five common faults, five drills, sound diagnosis, and the master cue card.*
-
 *Tổng cộng khái niệm tích hợp từ sinh cơ học tennis, thi đấu trên sân, và tuổi thọ 50+: 60+ bao gồm triết lý áp lực, thang 0-10, quy tắc hai vùng, bản đồ áp lực theo cú, năm lỗi phổ biến, năm bài tập, chẩn đoán âm thanh, và thẻ câu nhắc tổng.*
 
 🏁 END OF DEEP DIVE / HẾT DEEP DIVE

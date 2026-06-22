@@ -1,4 +1,4 @@
-Done. Deep Dive on the Mental Game saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Mental Game\Mental Game — The Match Inside Your Head.md`** (~69 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The 5-phase match map"
 

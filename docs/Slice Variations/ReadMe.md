@@ -1,4 +1,4 @@
-Done. Deep Dive on the 7 Slice Variations Family saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Variations\Slice Variations — The 7-Shot Swiss Army Knife.md`** (~59 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The slice is the 50+ Swiss Army knife"
 

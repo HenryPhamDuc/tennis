@@ -1,4 +1,4 @@
-Done. Deep Dive on the 4 Doubles Return Patterns saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Doubles Patterns\Doubles Patterns — The 4 Return Patterns.md`** (~67 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The return dictates the point"
 

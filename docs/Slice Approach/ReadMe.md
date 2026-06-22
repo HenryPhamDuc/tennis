@@ -1,4 +1,4 @@
-Done. Deep Dive on Slice Approach saved to: **`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Slice Approach\Slice Approach — The Senior-Friendly Way to the Net.md`** (~58 KB, EN-VI bilingual, 5 chapters)
+
 
 ### The big idea: "The approach is a 4-STEP PATTERN, not a single shot"
 
