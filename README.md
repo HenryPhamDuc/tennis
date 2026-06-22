@@ -2,8 +2,6 @@
 
 Tôi đã chơi tennis hơn 20 năm. Tôi viết cuốn sổ tay này để ghi lại những gì tôi đã học — phần lớn là từ những sai lầm của chính tôi, và từ những cuốn sách hay mà tôi đã đọc (Tôi sẽ giới thiệu với các bạn từng cuốn một khi có dịp).
 
-**🌐 Live site:** https://henryphamduc.github.io/tennis/
-
 **Trong cuốn sổ tay này, các bạn sẽ tìm thấy:**
 
 - **Complete Manual v2** (14 phần) — đọc cái này trước nếu các bạn mới bắt đầu. Đây là bản đồ để đi vào tất cả các phần còn lại.
@@ -48,7 +46,7 @@ The site auto-deploys to GitHub Pages via `.github/workflows/deploy.yml` wheneve
 1. Spins up an Ubuntu runner
 2. Installs `mkdocs-material`
 3. Runs `mkdocs gh-deploy --force` (which builds + pushes to `gh-pages` branch)
-4. GitHub Pages then serves `gh-pages` at https://henryphamduc.github.io/tennis/
+4. GitHub Pages then serves the site to readers
 
 ## Author
 

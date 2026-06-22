@@ -2,9 +2,6 @@ site_name: 🎾 Henry's Tennis Knowledge Vault
 site_description: A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+ — 22 deep dives, a 14-Part master manual, a 2-page cheat sheet, and 20 years of accumulated biomechanics, taichi principles, and 50+ longevity adjustments.
 site_author: Henry Pham Duc
 site_url: https://henryphamduc.github.io/tennis/
-repo_url: https://github.com/HenryPhamDuc/tennis
-repo_name: HenryPhamDuc/tennis
-edit_uri: edit/master/docs/
 
 docs_dir: docs
 site_dir: site
@@ -95,8 +92,6 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/HenryPhamDuc
   generator: false
 
 # ---------------------------------------------------------------------------
