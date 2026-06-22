@@ -6,12 +6,15 @@
 
 ---
 
-## Document Map / Bản Đồ Tài Liệu
+## Tại sao tôi viết chương này / Why I wrote this
 
-| 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|
-| **What this deep dive covers** — The SKELETON beneath the muscles. The bone shapes that decide your joint ranges. The connective tissues (ligaments, cartilage, fascia) that hold it all together. The LEVER systems that multiply (or limit) your force. | **Chuyên đề này bao phủ** — BỘ XƯƠNG bên dưới các cơ. Hình dạng xương quyết định biên khớp của bạn. Mô liên kết (dây chằng, sụn, cân) giữ tất cả lại với nhau. Hệ ĐÒN BẨY nhân (hoặc giới hạn) lực của bạn. |
-| **Why this matters at 3.5 → 4.5** — The skeleton is the CONSTRAINT you cannot change. You cannot lengthen your femur. You cannot deepen your shoulder socket. You cannot grow new cartilage. **What you can do is WORK WITH the skeleton you have.** This chapter tells you exactly how. | **Tại sao điều này quan trọng ở 3.5 → 4.5** — Bộ xương là RÀNG BUỘC bạn không thể thay đổi. Bạn không thể dài xương đùi. Bạn không thể sâu hơn ổ cối vai. Bạn không thể mọc sụn mới. **Bạn có thể làm là LÀM VIỆC VỚI bộ xương bạn có.** Chương này nói chính xác cách nào. |
+Tôi đã đi khám bác sĩ vì đau vai, và bác sĩ chụp X-quang rồi nói "xương của anh bình thường". Tôi ra về với một toa thuốc giảm đau và không có câu trả lời thực sự. Một năm sau, tôi mới hiểu vấn đề không phải ở xương — vấn đề ở *cách tôi sử dụng xương của mình*. Xương của tôi thì bình thường, nhưng tôi không hiểu nó là một hệ thống đòn bẩy. Tôi không hiểu rằng hình dạng ổ khớp vai quyết định góc đánh tối đa của tôi. Tôi không hiểu rằng khung chậu của tôi có hình dạng cụ thể và tôi phải chơi quanh nó, không phải chống lại nó.
+
+Chương này nói về BỘ XƯƠNG bên dưới các cơ. Hình dạng xương quyết định biên khớp của các bạn. Mô liên kết (dây chằng, sụn, fascia) giữ tất cả lại với nhau. Hệ ĐÒN BẨY nhân (hoặc giới hạn) lực của các bạn.
+
+Tại sao điều này quan trọng ở 3.5 → 4.5? Vì bộ xương là RÀNG BUỘC mà các bạn không thể thay đổi. Các bạn không thể dài xương đùi. Các bạn không thể làm sâu hơn ổ cối vai. Các bạn không thể mọc sụn mới. Các bạn có thể làm là LÀM VIỆC VỚI bộ xương các bạn có. Chương này cho các bạn biết chính xác cách nào.
+
+Nguồn tôi đã học từ: tài liệu huấn luyện của Hiệp hội Tennis Canada (tôi đã theo một khóa đào tạo ở Canada năm 2020), sách *Tennis Anatomy* của Roetert & Kovacs, và những buổi khám với bác sĩ chỉnh hình thể thao ở Surrey. Tôi đã tổng hợp lại những điều đó ở đây.
 
 ---
 

@@ -1,13 +1,22 @@
 # 🧠 Advanced Tennis Library — Neurology & Anatomy
 ## Thư Viện Tennis Nâng Cao — Giải Phẫu Học & Thần Kinh Học
 
-*For the 3.5 → 4.5 player who wants to understand **why** tennis works at the neurological and anatomical level — not just **what** to do.*
-
-*Dành cho người chơi 3.5 → 4.5 muốn hiểu **tại sao** tennis vận hành ở cấp độ thần kinh và giải phẫu — không chỉ **làm gì**.*
+*Cho người chơi 3.5 → 4.5 cứ hỏi "nhưng TẠI SAO cái này chạy?"*
+*For the 3.5 → 4.5 player who keeps asking "but WHY does this work?"*
 
 ---
 
-## 🎯 The Big Idea / Ý Tưởng Cốt Lõi
+## 🎯 Tại sao tôi viết thư viện này / Why I built this
+
+Các bạn chơi ở mức 3.5. Các bạn đọc một bài báo trên mạng thấy viết "engage your core". Vậy thì cái "core" đó là cái gì, và nó hoạt động như thế nào vào lúc sáng thứ Ba khi đối thủ giao một cú serve 90 mph vào backhand của các bạn, và cơ thể các bạn đứng hình suốt 350 mili-giây?
+
+Đó chính là câu hỏi mà thư viện này trả lời.
+
+Mỗi trang ở đây nói về lớp *phía dưới* cú đánh. Cái phản xạ bắn ra trước khi bộ não biết chuyện gì đang xảy ra. Cái xoắn ốc fascia truyền lực từ chân sau lên tới mặt vợt. Cái góc X-Factor 45 độ nạp sẵn thân người như cái dây cao su. Cái hệ tiền đình trong tai trong của các bạn đang ra quyết định thăng bằng 200 mili-giây trước khi mắt các bạn kịp thấy trái banh.
+
+Tại sao điều này quan trọng ở tuổi 50+? Vì đây chính là lớp mà *tốt hơn* theo tuổi tác. Sợi cơ nhanh (fast-twitch fibers) của các bạn đã đỉnh lúc 25 tuổi. Nhưng đường dẫn thần kinh? Chúng vẫn tiếp tục phát triển myelin bao lâu các bạn còn sử dụng chúng. Một người 50 tuổi với proprioception đã được tập luyện sẽ đánh bại một người 25 tuổi chưa từng tập về thời gian phản xạ — và hầu hết người chơi phong trào thậm chí không biết proprioception là thứ có thể tập được.
+
+Tôi không cố biến các bạn thành nhà khoa học tennis. Tôi chỉ muốn cho các bạn một từ vựng đủ để khi các bạn đọc về "chuỗi động lực" (kinetic chain), "lực phản hồi từ mặt đất" (ground reaction force), hay "X-factor pre-load" trong một video huấn luyện, các bạn thực sự hiểu cái gì đang xảy ra trong cơ thể mình — và các bạn ngừng cảm thấy sợ nó.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|

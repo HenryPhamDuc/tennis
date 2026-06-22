@@ -1,13 +1,22 @@
 # 🏆 Elite Tennis Library — Break-Free From Orthodox Methodology
 ## Thư Viện Tennis Đỉnh Cao — Phá Vỡ Phương Pháp Giáo Điều
 
-*The third and final level of the tennis library — for the **5.0+ player** who designs their own system.*
-
-*Cấp thứ ba và cuối của thư viện tennis — cho người chơi **5.0+** tự thiết kế hệ thống của mình.*
+*Cấp thứ ba và cuối của thư viện tennis — cho người chơi 5.0+ tự thiết kế hệ thống của mình*
+*The third and final level — for the 5.0+ player who stopped copying the pros and started designing their own system.*
 
 ---
 
-## 🎯 The Big Idea / Ý Tưởng Cốt Lõi
+## 🎯 Tại sao thư viện này tồn tại / Why this exists
+
+Sách giáo điều cho các bạn 10 điều răn. Nếu các bạn đang ở 4.5, làm theo 10 điều răn đó, các bạn sẽ lên 5.0. Nhưng nếu các bạn đã ở 5.0+ và đã cày cuốc theo sách giáo điều suốt hai năm mà không tiến bộ, thì vấn đề không phải ở các bạn — vấn đề ở cuốn sách.
+
+Tôi đã đụng bức tường đó lúc 4.5. Tôi có thể ngồi copy cú forehand của Federer từng khung hình trên video. Nhưng đến lúc đối thủ đánh một cú bất ngờ, cơ thể tôi lại quay về cái mặc định 3.5 mà tôi đã xây suốt 20 năm. Những tín hiệu (cues) giáo điều giúp tôi lúc 3.5 đang *cản trở* tôi lúc 4.5.
+
+Thư viện này là hệ thống kỹ thuật tôi đã xây để phá vỡ cái trần đó. Nó không phải là coaching. Không phải là "tips". Nó là lớp mà các bạn ngừng hỏi "tôi phải làm gì?" và bắt đầu hỏi "tôi là ai với tư cách một người chơi, và cơ thể cụ thể của tôi cần gì?".
+
+Các chủ đề trong thư viện này: trương lực (tone) — cái động cơ bị thất truyền. Myelination — khoảng cách 6,000% tốc độ từ những rep chất lượng. Constraint-led discovery — để cơ thể tự giải, đừng áp đặt. Pressure inoculation — choking là dữ liệu, không phải xấu hổ. Kình & Mushin — Thái Cực Quyền gặp thần kinh học. HRV dashboard hàng ngày. Bộ chống choking. Thư viện giấc mơ 2030 (băng đầu EEG, vợt cảm biến, VR).
+
+Nếu các bạn đã ở 5.0+ và sách giáo điều không còn tác dụng — thư viện này dành cho các bạn.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|

@@ -6,9 +6,15 @@
 
 ---
 
-## 📋 WHAT IS THIS PROJECT? | DỰ ÁN NÀY LÀ GÌ?
+## 📋 Tại sao tôi viết / Why I wrote this
 
-**Anatomy Lab** is a comprehensive anatomy manual for tennis players, built from your Vietnamese source materials in `Documents/Human anatomy/` plus the reference textbook *Tennis Anatomy* by Roetert & Kovacs (2011). It is a **sibling library** to your existing `Deep Dives/` (stroke mechanics), `Advanced/`, and `Elite/` folders — a focused sub-library on **body anatomy and biomechanics**.
+Tôi đã bị đau vai suốt 2 năm trước khi tôi hiểu rotator cuff là cái gì. Tôi nghĩ tennis elbow là do "form dở". Hoá ra nó là do tôi bóp chặt cán vợt ở mức 8/10 áp lực mỗi cú đánh — và cái bóp chặt đó là *triệu chứng*, không phải nguyên nhân. Nguyên nhân là một chuỗi fascia cẳng tay bị căng mà tôi không biết là nó tồn tại.
+
+Thư viện này là cuốn sách giải phẫu mà tôi ước mình có lúc 45 tuổi. Nó không phải là sách giáo khoa y khoa. Nó là sách giải phẫu cho người chơi tennis — mỗi chương là "đây là bộ phận cơ thể, đây là lý do nó quan trọng với cú forehand, đây là cái gì sẽ hỏng, đây là bài tập để sửa".
+
+Đó cũng là lý do tennis elbow của tôi đã hết, và cú serve của tôi ở tuổi 53 nhanh hơn lúc tôi 43.
+
+Nếu vai các bạn đau mà không biết tại sao. Nếu đầu gối các bạn kêu và các bạn không biết có nên tiếp tục chơi không. Nếu các bạn đã ngoài 50 tuổi và muốn chơi thêm 10 năm nữa mà không bị gãy — thư viện này dành cho các bạn.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|

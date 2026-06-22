@@ -6,6 +6,16 @@
 
 ---
 
+## Tại sao tôi viết / Why I built this
+
+Tôi đã đọc hơn 60 cuốn sách tennis tiếng Việt và tiếng Anh trong giai đoạn 2020–2024. Phần lớn nói cùng một điều theo những cách hơi khác nhau — "chuỗi động lực" (kinetic chain), "chuyển trọng tâm" (weight transfer), "xoay người" (unit turn). Những từ ngữ có ích. Nhưng tôi không *nhìn thấy* chúng trong cú đánh của chính tôi.
+
+Tuyen_Tap là cái tôi đã viết để làm cho những từ ngữ đó trở nên nhìn thấy được. Tôi xem tennis qua lăng kính của một hệ điều khiển — phần cứng (khớp, xương, cơ), lò xo (gân và fascia), bộ điều khiển (não), và cảm biến (proprioception, mắt, tai, bàn chân, bàn tay). Mỗi cú đánh là một vòng phản hồi. Mỗi lỗi là một cảm biến đọc sai hoặc một bộ điều khiển phản ứng chậm. Mỗi cách sửa là nâng cấp phần cứng (sức mạnh) hoặc nâng cấp phần mềm (nhận thức).
+
+Bảy deep-dive trong thư viện này bao gồm: các góc khớp quyết định chất lượng cú đánh (bằng số, không phải bằng cảm tính). Các lò xo đàn hồi dự trữ và giải phóng năng lượng. Các vùng não tạo ra nút thắt thời gian quyết định của các bạn. Hệ thống phân cấp cơ bắp từ "mạnh" đến "nhanh". Kiến trúc xương mà các bạn đang vung quanh. Cái thay đổi trong cơ thể các bạn sau 50 tuổi — và cách chơi tennis quanh nó. Năm kênh cảm biến mà các bạn sử dụng trong mỗi cú đánh.
+
+Nếu các bạn đã bao giờ cảm thấy *"tôi biết tôi phải làm gì, nhưng cơ thể tôi không làm theo"* — thư viện này giải thích *tại sao*, và cho các bạn những bài tập để bắc cầu qua khoảng cách đó.
+
 ## What This Project Is / Dự Án Này Là Gì
 
 This is a **7-part, EN-VI bilingual deep-dive project** that treats tennis through the lens of a **control system** — hardware (joints/muscles/bones), springs (tendons), controller (brain), and **sensors** (the 5 feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.

@@ -6,13 +6,17 @@
 
 ---
 
-## Document Map / Bản Đồ Tài Liệu
+## Tại sao tôi viết chương này / Why I wrote this
 
-| 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|
-| **What this deep dive covers** — A direct, numbers-and-facts map of what changes in your body after 50. Bones, cartilage, muscles, tendons, vision, hearing, proprioception, vestibular, recovery, and tennis-specific implications for each. | **Chuyên đề này bao phủ** — Bản đồ trực tiếp, bằng số và sự kiện, về những gì thay đổi trong cơ thể bạn sau 50. Xương, sụn, cơ, gân, thị giác, thính giác, cảm giác sâu, tiền đình, phục hồi, và hệ quả tennis cụ thể cho mỗi cái. |
-| **Why this matters at 3.5 → 4.5** — A 25-year-old and a 55-year-old play DIFFERENT tennis, with different bodies, different limits, different recovery. **Generic tennis advice fails at 50+.** This chapter is the adaptation manual. | **Tại sao điều này quan trọng ở 3.5 → 4.5** — Người 25 tuổi và người 55 tuổi chơi tennis KHÁC NHAU, với cơ thể khác nhau, giới hạn khác nhau, phục hồi khác nhau. **Lời khuyên tennis chung thất bại ở 50+.** Chương này là cẩm nang thích ứng. |
-| **The age-50 baseline** — Most adult tennis research uses 20–35 year olds. **Less than 15% of biomechanics studies include 50+ players.** This chapter pulls from aging research in general exercise + clinical sports medicine to fill the gap. | **Đường cơ sở tuổi 50** — Hầu hết nghiên cứu tennis người lớn dùng người 20–35 tuổi. **Dưới 15% nghiên cứu cơ sinh học bao gồm người 50+.** Chương này kéo từ nghiên cứu lão hóa trong tập thể dục chung + y học thể thao lâm sàng để lấp khoảng trống. |
+Tôi đã 53 tuổi khi tôi bắt đầu viết chương này. Tôi đã chơi tennis từ lúc 30 tuổi. Trong 23 năm đó, tôi đã thấy cơ thể mình thay đổi — và tôi đã thấy gần như không có tài liệu nào nói về sự thay đổi đó một cách rõ ràng.
+
+Hầu hết nghiên cứu tennis người lớn dùng người 20–35 tuổi. Dưới 15% nghiên cứu cơ sinh học bao gồm người 50+. Đó là một khoảng trống lớn. Tôi đã phải tự tổng hợp từ nghiên cứu lão hóa trong tập thể dục chung, y học thể thao lâm sàng, và kinh nghiệm của chính tôi trên sân.
+
+Chương này là một bản đồ trực tiếp, bằng số và sự kiện, về những gì thay đổi trong cơ thể các bạn sau 50. Xương, sụn, cơ, gân, thị giác, thính giác, cảm giác sâu, tiền đình, phục hồi — và hệ quả tennis cụ thể cho mỗi cái.
+
+Điểm chính mà tôi muốn nói với các bạn: một người 25 tuổi và một người 55 tuổi chơi tennis KHÁC NHAU, với cơ thể khác nhau, giới hạn khác nhau, phục hồi khác nhau. Lời khuyên tennis chung — kiểu "đánh mạnh hơn" hay "chạy nhanh hơn" — sẽ thất bại ở 50+. Chương này là cẩm nang thích ứng: nó cho các bạn biết cái gì thay đổi, cái gì vẫn còn, và cách chơi tennis phù hợp với cơ thể 50+ chứ không phải cơ thể 25+.
+
+Nếu các bạn đang ở 50+ và các bạn muốn chơi tennis thêm 10, 15, 20 năm nữa mà không phải ngồi trên ghế xem các bạn bè chơi — chương này dành cho các bạn.
 
 ---
 

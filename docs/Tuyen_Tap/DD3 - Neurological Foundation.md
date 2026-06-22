@@ -6,13 +6,15 @@
 
 ---
 
-## Document Map / Bản Đồ Tài Liệu
+## Tại sao tôi viết chương này / Why I wrote this
 
-| 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|
-| **What this deep dive covers** — The BRAIN side of tennis. How your eyes see the ball. How your brain decides what to do. How your body KNOWS where it is in space (proprioception). How fast your nerves actually fire. This is the neurology that lives behind every stroke. | **Chuyên đề này bao phủ** — Phía NÃO của tennis. Cách mắt bạn thấy bóng. Cách não bạn quyết định phải làm gì. Cách cơ thể bạn BIẾT mình ở đâu trong không gian (cảm giác sâu). Dây thần kinh bạn thực sự bắn nhanh cỡ nào. Đây là thần kinh sống sau mỗi cú đánh. |
-| **What this is NOT** — No "mental toughness" talk. No "confidence" advice. No focus or mindset. Those are psychological layers and they live in your existing deep dives (Mental Game, Pressure Management). **This chapter is pure neurology — anatomy of nerves, brain regions, and sensory systems.** | **Tài liệu này KHÔNG phải là** — Không nói "sức mạnh tinh thần". Không khuyên "tự tin". Không tập trung hay tâm thế. Đó là lớp tâm lý và chúng sống trong chuyên đề hiện có (Tâm Lý, Quản Lý Áp Lực). **Chương này là thần kinh thuần — giải phẫu thần kinh, vùng não, và hệ cảm giác.** |
-| **Why this matters at 3.5 → 4.5** — Most recreational players train only their MUSCLES. They run, lift, do footwork. But the bottleneck for most 3.5 players is **reaction time** and **decision accuracy**, both of which are NEURAL limits, not muscular limits. Train the brain and the strokes get better for free. | **Tại sao điều này quan trọng ở 3.5 → 4.5** — Hầu hết người chơi phong trào chỉ tập CƠ. Họ chạy, nâng, tập chân. Nhưng nút thắt cho hầu hết người 3.5 là **thời gian phản xạ** và **độ chính xác quyết định**, cả hai đều là giới hạn THẦN KINH, không phải cơ. Tập não và cú đánh tốt hơn miễn phí. |
+Tôi đã quan sát một hiện tượng kỳ lạ trên sân: hai người chơi cùng trình độ kỹ thuật, cùng tuổi, cùng thể lực — nhưng một người luôn phản ứng kịp với cú giao bóng nặng, còn người kia thì không. Tôi đã thử mọi cách để cải thiện phản xạ của mình — chạy nhanh hơn, tập plyometric, tập với máy bắn bóng. Một số thứ có tác dụng, một số thì không. Cho đến khi tôi hiểu rằng vấn đề không phải ở cơ bắp của tôi — vấn đề ở *não* và *hệ thần kinh* của tôi.
+
+Chương này nói về phía NÃO của tennis. Cách mắt các bạn thấy trái banh. Cách não các bạn quyết định phải làm gì. Cách cơ thể các bạn BIẾT mình đang ở đâu trong không gian (proprioception). Dây thần kinh các bạn thực sự bắn nhanh cỡ nào. Đây là thần kinh sống sau mỗi cú đánh.
+
+Tôi sẽ KHÔNG nói "sức mạnh tinh thần" (mental toughness). Tôi sẽ KHÔNG khuyên "hãy tự tin" (confidence). Tôi sẽ KHÔNG nói về focus hay mindset. Đó là lớp tâm lý, và chúng sống trong các deep-dive khác (Mental Game, Pressure Management). Chương này là thần kinh thuần tuý — giải phẫu thần kinh, vùng não, và hệ cảm giác.
+
+Tại sao điều này quan trọng ở 3.5 → 4.5? Vì hầu hết người chơi phong trào chỉ tập CƠ. Họ chạy, nâng tạ, tập chân. Nhưng nút thắt cổ chai của hầu hết người chơi 3.5 là *thời gian phản xạ* và *độ chính xác của quyết định*, và cả hai đều là giới hạn THẦN KINH, không phải giới hạn cơ bắp. Tập não và cú đánh sẽ tốt hơn miễn phí — đó là một trong những khám phá làm tôi ngạc nhiên nhất trong 20 năm chơi tennis.
 
 ---
 

@@ -6,14 +6,17 @@
 
 ---
 
-## Document Map / Bản Đồ Tài Liệu
+## Tại sao tôi viết chương này / Why I wrote this
 
-| 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|
-| **What this is** — A reference atlas of every important joint angle in tennis: knees, hips, ankles, shoulders, elbows, wrists. For each angle, you get the number (the WHAT) and the biomechanical reason (the WHY). | **Tài liệu này là gì** — Bản tham khảo mọi góc khớp quan trọng trong tennis: gối, hông, cổ chân, vai, khuỷu tay, cổ tay. Với mỗi góc, bạn có con số (CÁI GÌ) và lý do cơ sinh học (TẠI SAO). |
-| **What this is NOT** — A stroke-mechanics manual. No "swing low to high" instructions. No mental-game talk. No kinetic-chain-as-list. Just angles, joints, and the geometry of why they decide stroke type and quality. | **Tài liệu này KHÔNG phải là** — Cẩm nang kỹ thuật cú đánh. Không có "vung thấp lên cao". Không nói tâm lý. Không liệt kê chuỗi động lực. Chỉ có góc, khớp, và hình học tại sao chúng quyết định loại và chất lượng cú đánh. |
-| **Audience** — Players 3.5–4.5 who already know their strokes and want the *WHY* behind the form. Especially useful for 50+ players whose joints have specific range limits. | **Đối tượng** — Người chơi 3.5–4.5 đã biết cú đánh và muốn hiểu *TẠI SAO* đằng sau hình thức. Đặc biệt hữu ích cho người 50+ vì khớp có giới hạn biên độ riêng. |
-| **How to use it** — Open one chapter per week. Take one angle to the court. Measure it on video. Compare your number to the reference. That's it. The cheat sheet at the end is for your bag. | **Cách dùng** — Mỗi tuần một chương. Mang một góc ra sân. Đo bằng video. So sánh con số của bạn với tham khảo. Vậy thôi. Bảng tóm tắt ở cuối để trong túi vợt. |
+Tôi đã chơi tennis hơn 20 năm, và tôi đã xem hàng trăm video kỹ thuật. Phần lớn đều nói chung chung kiểu "đánh từ thấp lên cao", "xoay người", "gối hơi khuỵu". Tôi đã thử tất cả. Một số thứ có tác dụng, một số thì không — và tôi không bao giờ biết tại sao, cho đến khi tôi bắt đầu đo góc thật của các khớp trên sân.
+
+Khi tôi bắt đầu đo bằng video (một chuyện rất đơn giản — dựng điện thoại lên, quay, dừng hình tại điểm tiếp xúc), tôi thấy một điều kỳ lạ: cú forehand của tôi thay đổi hoàn toàn chất lượng khi gối tôi từ 60° đổi sang 75°. Cú volley của tôi cắt vào lưới hay đứng ngoài sân phụ thuộc vào việc khuỷu tay tôi duỗi thẳng hay cong một chút tại điểm tiếp xúc. Trước đó tôi chỉ nghĩ "tôi đánh tốt hôm nay" hay "tôi đánh dở hôm nay". Sau khi đo góc, tôi biết *tại sao*.
+
+Đó chính là lý do tôi viết chương này. Đây là một cuốn atlas về mọi góc khớp quan trọng trong tennis: gối, hông, cổ chân, vai, khuỷu tay, cổ tay. Với mỗi góc, các bạn sẽ có con số (CÁI GÌ — what) và lý do cơ sinh học (TẠI SAO — why). Đây không phải là cẩm nang kỹ thuật cú đánh. Tôi sẽ không nói "vung thấp lên cao". Tôi sẽ không nói chuỗi động lực như một danh sách. Tôi chỉ nói về góc, khớp, và hình học tại sao chúng quyết định loại và chất lượng cú đánh.
+
+Chương này dành cho người chơi 3.5–4.5 đã biết cú đánh của mình và muốn hiểu TẠI SAO đằng sau hình thức. Đặc biệt hữu ích cho người 50+ vì khớp có giới hạn biên độ riêng — và biết trước giới hạn của mình giúp các bạn chơi quanh nó thay vì đâm vào nó.
+
+Cách dùng: mỗi tuần một chương. Mang một góc ra sân. Đo bằng video. So sánh con số của các bạn với tham khảo. Vậy thôi. Bảng tóm tắt ở cuối để trong túi vợt.
 
 ---
 

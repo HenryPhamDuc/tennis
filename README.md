@@ -1,14 +1,16 @@
 # 🎾 Henry's Tennis Knowledge Vault
 
-A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+.
+Tôi đã chơi tennis hơn 20 năm. Tôi viết cuốn sổ tay này để ghi lại những gì tôi đã học — phần lớn là từ những sai lầm của chính tôi, và từ những cuốn sách hay mà tôi đã đọc (Tôi sẽ giới thiệu với các bạn từng cuốn một khi có dịp).
 
 **🌐 Live site:** https://henryphamduc.github.io/tennis/
 
-**📚 Contents:**
-- **Complete Manual v2** (14 Parts, ~90 KB) — homepage, the master reference
-- **22 deep-dive files** across 20 topic folders (Forehand, Backhand, Serve, Volley, Footwork, Return of Serve, Slice Variations, Slice Approach, Slice Family Doubles, Lob and Overhead, Mental Game, Grip Pressure, Grip family × 4, Doubles × 3)
-- **Anatomy Lab** (8 deep-dives, 58 chapters, 181 illustrations) — full-body anatomy reference: Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk/Spine, Hips/Thighs, Knees, Ankles/Feet, Control System
-- **~1.7 MB of accumulated bilingual coaching content** (English + Vietnamese)
+**Trong cuốn sổ tay này, các bạn sẽ tìm thấy:**
+
+- **Complete Manual v2** (14 phần) — đọc cái này trước nếu các bạn mới bắt đầu. Đây là bản đồ để đi vào tất cả các phần còn lại.
+- **22 bài deep-dive trong 20 thư mục** — Forehand, Backhand, Serve, Volley, Footwork, Mental Game, Grip Pressure, Doubles, v.v. Mỗi bài là một chủ đề riêng. Tôi đã viết chúng khi tôi đang chơi và đang gặp vấn đề thật trên sân — không phải từ lý thuyết suông.
+- **Anatomy Lab** (8 deep-dive, 181 hình minh họa) — cơ thể sau mỗi cú đánh. Vai, gối, hông, chuỗi động lực (kinetic chain). Tại sao khuỷu tay tôi đau suốt 2 năm, và tại sao bây giờ nó hết.
+- **Advanced + Elite** — cho các bạn muốn đi sâu hơn. Thần kinh học, fascia, myelin hóa, hệ thống tự huấn luyện.
+- **Song ngữ EN-VI**, bảng song song. In bảng cheat sheet, bỏ vào túi vợt.
 
 ## How the site is built
 
