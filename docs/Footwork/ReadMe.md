@@ -77,18 +77,3 @@ A player who starts 300ms early with small steps beats a player who starts 800ms
     └── Footwork/                              ← this folder
         ├── ReadMe.md
         └── Footwork — The Art of Smart Movement.md
-
-## What next?
-
-| Next | What it covers |
-|---|---|
-| **Return of Serve** | Reading the toss, body position, block vs. drive, the 2nd-serve return game |
-| **Slice Backhand** | The other major groundstroke — natural for 50+ (less shoulder stress) |
-| **Kick Serve** | Deep dive on the topspin serve specifically (more advanced serve topic) |
-| **Mental Game** | The 2-second ritual, double-fault recovery, pressure points |
-| **Complete Manual** | All strokes + strategy + mental + injury in one master reference (~70-100 pages) |
-| **Practice Plan** | A 4-week rotation using the drills from all 7 deep dives |
-
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
-
-Chúc bạn di chuyển nhẹ ở Surrey. Tuần này tập Mirror Split-Step 20 lần mỗi ngày — trước khi bất kỳ cú đánh nào khác. Bắt đầu từ nền, mọi thứ tự dựng lên.

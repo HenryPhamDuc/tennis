@@ -774,17 +774,3 @@ AFTER CONTACT (slice):
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-This 1HB Full deep dive is **Chapter 3 of the Backhand deep dive, expanded to 6 chapters** with full biomechanics translation. The next natural extensions:
-
-| Next | What it covers |
-|---|---|
-| **2HB Advanced** | Down-the-line patterns, the inside-out backhand, return of serve patterns |
-| **Slice Variations** | Slice approach, slice return, slice defense in depth, the "moonball" slice |
-| **Return of Serve Backhand** | The backhand return is the most common return in modern tennis — worth its own deep dive |
-| **The 1HB Decision Workshop** | A self-assessment checklist: should I be playing 1HB at all, and if so, when? (for 50+) |
-| **Complete Manual v2** | Roll all 7 deep dives into a single ~100-page master reference |
-
-Just say the word, bạn. 🎾

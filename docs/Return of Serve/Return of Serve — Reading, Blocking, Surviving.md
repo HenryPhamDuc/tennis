@@ -537,16 +537,3 @@ After contact:
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-Other deep dives from your knowledge base you might want:
-
-- **Doubles Tactics** — the doubles return is a different animal (return down the middle, partner communication, poaching)
-- **Return Patterns** — the return + 1, return + approach, return + lob
-- **Reading the Server** — full deep dive on the 3 signals + advanced body-language reading
-- **Complete Manual v2** — fold this into the 10-part master reference as Part 6
-- **Serve Return Drills Plan** — a 4-week progressive drill calendar
-
-Just say the word, bạn. 🎾
-|

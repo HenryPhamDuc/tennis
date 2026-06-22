@@ -77,18 +77,3 @@ A gravity serve at 80% pace with good placement beats a muscle serve at 100% wit
         └── Serve — The Gravity & Rotation Serve.md
 
 ---
-
-## What next?
-
-| Next | What it covers |
-|---|---|
-| **Return of Serve** | Reading the toss, body position, block vs. drive, the 2nd-serve return game |
-| **Slice Backhand** | The other major groundstroke — natural for 50+ (less shoulder stress) |
-| **Kick Serve** | Deep dive on the topspin serve specifically (more advanced serve topic) |
-| **Mental Game** | The 2-second ritual, double-fault recovery, pressure points |
-| **Complete Manual** | All strokes + strategy + mental + injury in one master reference (~70-100 pages) |
-| **Practice Plan** | A 4-week rotation using the drills from all 5 deep dives |
-
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
-
-Chúc bạn giao bóng vui ở Surrey. Tuần này tập tung bóng 20 quả mỗi ngày — trước khi đánh bất kỳ cú serve nào. Bắt đầu từ gốc, mọi thứ tự đến.

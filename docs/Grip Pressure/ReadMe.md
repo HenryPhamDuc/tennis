@@ -40,15 +40,6 @@ This is the **22nd** deep dive in the library (after Forehand × 4, Backhand × 
 | The volley's "block, don't swing" + pressure | `Deep Dives/Volley/` |
 | The slice's "soft hands, firm contact" | `Deep Dives/Slice Variations/` |
 
-## What's next? (options for continuation)
-
-| Option | What it would produce | Why it would help |
-|---|---|---|
-| **A** | Build the **Grip Pressure Web App** — interactive HTML where you click a stroke, see the swing→impact ramp animated, and hear the sound (pực/bộp/bịch). | Reinforces the dial concept kinesthetically; lives next to the Complete Manual HTML. |
-| **B** | **Wrist Mobility & 50+ Longevity** deep dive — the joint the grip pressure protects. Forearm stretches, eccentric exercises, the cortisone-prevention checklist. | Natural follow-up: pressure is the dial, mobility is the joint it protects. |
-| **C** | **Pressure Calibration Log** — a one-page printable the user fills in after each match: "Forehand today: 5/7, Volley: 2/6, Serve: 4/8 — felt tight on the slice." | Turns the cheat sheet from passive reference to active self-coaching. |
-| **D** | **Cross-reference patch** — go through all 19 existing deep dives and tag any sentence that mentions grip pressure with a `→ see Grip Pressure/` link. | Makes the dial visible across the library without rewriting any file. |
-| **E** | Stop here. The dial is documented; the cheat sheet is in the bag. | Sometimes the best move is to let it settle before adding more. |
 
 ## Files
 

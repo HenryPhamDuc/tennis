@@ -18,15 +18,6 @@ Done. Deep dive saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep D
 * **Kept the "redirect don't kill" theme** prominent — it came from your own 7-page note and is the single biggest unlock for 3.5
 * **Ended with a printable 1-page cheat sheet** in both languages, since you said you play in Surrey (need it on the bag)
 
-### Want me to also:
-
-1. **Save the skill file in the Hermes skills system** so I can use it automatically in future tennis questions? (It's a one-time setup.)
-2. **Produce a PDF or HTML version** of the cheat sheet for your phone?
-3. **Move on to another deep dive** (Unit Turn, Khóa-Vai axis, Racket Embodiment)?
-
-Chỉ cần nói "làm tiếp cái [tên]" và tôi sẽ chạy. 🎾
-
-Done. Deep dive #2 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Unit Turn and Racket Head Position.md`**(26 KB, EN-VI bilingual)
 
 ### How this one connects to the L-Angle deep dive
 
@@ -143,18 +134,3 @@ That's the 50+ truth of tennis. Your eyes will slow down. Your body doesn't have
     After:   Keep doing L4 drills forever. They're the insurance.
 
 **4 weeks from now, the difference won't be in your head. It'll be in your hand.**
-
-### What next?
-
-You have a few options:
-
-| Option | What it is |
-| --- | --- |
-| **complete_manual** | Combine all 4 + 6 more parts (serve, volley, return, strategy, mental, injury) for a 10-part master reference (~70-100 pages) |
-| **practice plan** | A focused 4-week calendar with the drills pre-scheduled |
-| **A new topic** | slice backhand, kick serve, doubles positioning, mental game, etc. |
-| **Stop here** | Sometimes the best next step is to do the work |
-
-Chỉ cần nói "làm complete_manual", "make practice plan", "topic [tên]", hoặc "stop" và tôi sẽ theo. 🎾
-
-Chúc bạn tập vui ở Surrey. Hy vọng 4 tuần nữa bạn sẽ thấy bóng "cắn" dây nhiều hơn mà tay không mỏi.

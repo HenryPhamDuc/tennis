@@ -307,14 +307,3 @@
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-Other deep dives from your notes you might want:
-
-- **Unit Turn & Racket Head Position** (Alcaraz-style prep) — the setup layer
-- **Khóa-Vai / Thực-Hư Axis** (lock-shoulder kinetic chain) — the rotation layer
-- **Racket Embodiment** (proprioception, automaticity) — the feel layer
-- **Complete Manual** — all 10 parts, full reference
-
-Just say the word, bạn. 🎾

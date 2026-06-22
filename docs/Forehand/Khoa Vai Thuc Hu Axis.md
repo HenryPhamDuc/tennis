@@ -387,13 +387,3 @@
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-Other deep dives from your notes you might want:
-
-- **Racket Embodiment** (proprioception, automaticity) — the feel layer that ties everything together
-- **Complete Manual** — all 10 parts in one, the master reference
-- **Re-read this one** — practice the 4 drills for 2 weeks, then come back
-
-Just say the word, bạn. 🎾

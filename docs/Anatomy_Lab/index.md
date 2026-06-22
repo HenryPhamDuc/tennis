@@ -166,20 +166,6 @@ Nếu vai các bạn đau mà không biết tại sao. Nếu đầu gối các b
 
 ---
 
-## 🔄 WHAT'S NEXT? | TIẾP THEO LÀ GÌ?
-
-| Option | Description | Effort |
-|---|---|---|
-| **A. Build a website** | Convert all 8 DDs to MkDocs website (mirror to `~/AI/` repo, deploy to GitHub Pages) | 2–3 hours |
-| **B. Build EPUB** | Generate `anatomy-lab.epub` for offline reading | 30 min |
-| **C. Add an "Integration" DD** | A 9th DD that brings all 8 together: "The Whole Body Forehand" | 2 hours |
-| **D. Translate to VI-only** | Produce a Vietnamese-only version (no EN column) for sharing | 1 hour |
-| **E. Add a "Common Tennis Injuries" appendix** | Pull together injury sections from each DD into a single reference | 1 hour |
-| **F. Build a 30-day anatomy practice calendar** | One drill per day, drawn from all 8 DDs | 1 hour |
-
-*Ask the user which option (if any) they want next.*
-
----
 
 ## 📊 VERIFICATION SUMMARY | TÓM TẮT XÁC MINH
 

@@ -604,17 +604,3 @@ After the point:
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-Other deep dives from your knowledge base you might want:
-
-- **Doubles Return Deep Dive** — the return down the middle, the "I-formation" return, return-and-poach
-- **Doubles Serve Patterns** — the 4 best serves for doubles (wide slice, body, T, kick) and when to use each
-- **Net Battle Mastery** — full chapter on the volley chess match, with 4.0+ cues for the down-the-line angle
-- **The "Australian" vs "American" Formation** — comparing the 2 most common serving formations
-- **Complete Manual v2** — fold this into the 10-part master reference as Part 9
-- **4-Week Doubles Plan** — a progressive drill calendar: Week 1 communication, Week 2 formations, Week 3 patterns, Week 4 match-situation
-
-Just say the word, bạn. 🎾
-|

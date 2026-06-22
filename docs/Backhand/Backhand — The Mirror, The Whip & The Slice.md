@@ -530,15 +530,3 @@ After contact:
 ```
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-Other deep dives from your knowledge base you might want:
-
-- **Two-Handed Backhand Advanced** — top-spin variations, the "down-the-line backhand," approach patterns
-- **Slice Variations** — slice approach, slice return, slice defense in depth
-- **One-Handed Backhand Full Deep Dive** — Dimitrov vs Wawrinka vs Federer, full biomechanics translation to 3.5 cues
-- **Return of Serve** — the backhand return is the most common return in modern tennis
-- **Complete Manual** — all 10 parts in one master reference (~70-100 pages)
-
-Just say the word, bạn. 🎾

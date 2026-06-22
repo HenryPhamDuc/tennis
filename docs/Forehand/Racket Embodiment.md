@@ -446,14 +446,3 @@ Deep Dives/
 **Anh giờ có một hệ thống hoàn chỉnh.** Đọc theo thứ tự. Tập các bài. Sau 4 tuần, bạn sẽ cảm thấy khác biệt — không phải trong đầu, mà trong tay.
 
 ---
-
-## 🔄 What's Next? | Tiếp theo?
-
-You now have the full 4-deep-dive series. Possible next steps:
-
-- **Complete Manual** — combine all 4 deep dives + add 6 more parts (serve, volley, return, strategy, mental game, injury prevention) for a 10-part master reference
-- **Practice plan** — a 4-week rotation using the drills from all 4 deep dives
-- **A different topic** — slice backhand, kick serve, doubles positioning, etc.
-- **Stop here and practice** — sometimes the best next step is to do the work
-
-Chỉ cần nói "làm complete_manual" hoặc "stop" và tôi sẽ theo. 🎾

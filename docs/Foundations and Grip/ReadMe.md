@@ -16,8 +16,3 @@ This deep dive covers the fundamental interface between the player, the racket, 
 - **Safety over Power**: Discouraged Western grip in favor of Semi-Western/Eastern for wrist/elbow longevity.
 - **Tensegrity Focus**: Emphasized "Adaptive Firmness" (3/10 during swing, 9/10 at impact) to prevent over-tightening (Self 1 interference).
 - **Native Vietnamese**: Used "cạnh vợt" for bevels and "đệm gót tay" for heel pad for natural coaching feel.
-
-### What's Next?
-- **Footwork**: How these grips adapt when your feet are perfectly positioned vs. scrambling.
-- **Groundstrokes (L-Angle)**: Connecting the grip to the L-shape drop.
-- **Troubleshooting**: Fixing "shanks" caused by improper contact-to-grip alignment.
