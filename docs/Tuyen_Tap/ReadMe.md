@@ -108,7 +108,7 @@ This project uses an engineering framing — tennis = a feedback control loop:
 | **Walking decompresses L4-L5 by ~30%** | DD5 Ch.9.4, DD6 Ch.10.4 | Anatomy_Lab DD4 |
 | **4-joint shoulder complex** (glenohumeral + AC + SC + scapulothoracic) | DD5 Ch.9.5 | Anatomy_Lab DD2 |
 | **2nd-toe rule protects 70% of ACL tears** | DD6 Ch.10.5 | Anatomy_Lab DD6 |
-| **5 sensor channels + 3 feedback loops** (PV vs SV framework) | **DD7 Ch.2, Ch.8** | 20-chapter handbook + Claude coauthor |
+| **5 sensor channels + 3 feedback loops** (PV vs SV framework) | **DD7 Ch.2, Ch.8** | 20-chapter handbook |
 | **5-phase body perception cycle** (internal vs external focus) | **DD7 Ch.10** | 20-chapter handbook |
 | **Wulf research: internal focus → faster motor learning** | **DD7 Ch.10** | Wulf 2007, 2013 |
 | **Errors are sensor failures, not stroke-mechanic failures** | **DD7 Ch.9 + Final Word** | 20-chapter handbook Ch.17 |
@@ -153,7 +153,7 @@ This project uses an engineering framing — tennis = a feedback control loop:
 - `viettennis.net` — Tuyen Tap KyThuat Tennis by Tuan_tuan (~152-page DOCX with biomechanics essays)
 - `Anatomy_Lab/` — 8-DD anatomy library, 181 illustrations, EN-VI, built from Roetert & Kovacs 2011 + your Vietnamese source DOCX files
 - `Cẩm nang về cảm nhận cơ thể trong tennis/` — 20-chapter body perception handbook (proprioception, foot grounding, split-step, kinetic chain awareness, breath, racket feel)
-- `Manual Coauthor by Claude/proprioception_in_tennis.md` — Claude coauthor proprioception deep dive
+- `Manual Coauthor by Claude/proprioception_in_tennis.md` — proprioception deep dive
 - `Manual Coauthor by Claude/proprioception_in_tennis_detailed_vi.md` — Vietnamese version
 
 **Supporting research cited in each DD:**

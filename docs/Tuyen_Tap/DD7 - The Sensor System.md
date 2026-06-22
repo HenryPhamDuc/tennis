@@ -4,8 +4,8 @@
 *Deep Dive #7 — The Anatomy & Geometry Project for Tennis Players 3.5 → 4.5*
 *Chuyên Đề Số 7 — Dự Án Giải Phẫu & Hình Học cho Người Chơi Tennis 3.5 → 4.5*
 
-*Built from the 20-chapter body perception handbook at `Cẩm nang về cảm nhận cơ thể trong tennis/` and `Proprioception in Tennis` (Claude coauthor)*
-*Xây từ cẩm nang 20 chương nhận thức cơ thể tại `Cẩm nang về cảm nhận cơ thể trong tennis/` và `Proprioception in Tennis` (đồng tác giả Claude)*
+*Built from the 20-chapter body perception handbook at `Cẩm nang về cảm nhận cơ thể trong tennis/` and `Proprioception in Tennis`*
+*Xây từ cẩm nang 20 chương nhận thức cơ thể tại `Cẩm nang về cảm nhận cơ thể trong tennis/` và `Proprioception in Tennis`*
 
 ---
 
@@ -532,7 +532,7 @@ SV (target) → Controller (motor cortex) → Actuator (muscles) → Body (swing
 **Sources / Nguồn**:
 
 - **Primary**: 20-chapter body perception handbook (`Cẩm nang về cảm nhận cơ thể trong tennis/Vi_Nhan_Thuc_Co_The_Tennis_20_Chuong.docx` and per-chapter MDs Ch.1–Ch.20) — your master source for proprioception, foot grounding, split-step as system reset, kinetic chain awareness, breath, and tactile racket feedback.
-- **Supporting**: `proprioception_in_tennis.md` (Claude coauthor, 4.3 KB English) + `proprioception_in_tennis_detailed_vi.md` (Claude coauthor, 1.4 KB Vietnamese).
+- **Supporting**: `proprioception_in_tennis.md` + `proprioception_in_tennis_detailed_vi.md`.
 - **Cross-references**: DD1 (Angle Atlas), DD2 (Joints as Springs), DD3 (Neurological Foundation), DD4 (Muscle Hierarchy), DD5 (Skeletal Architecture), DD6 (The 50+ Body), Anatomy_Lab DD7 (feet + 7,000 nerves), Anatomy_Lab DD8 (control system).
 - **Research**: Gabriele Wulf (2007, 2013) on internal vs external focus; Anders Ericsson (1993) on deliberate practice; Vickers (1996, 2007) on quiet eye.
 
