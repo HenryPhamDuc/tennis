@@ -18,7 +18,6 @@ Done. Deep dive saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep D
 * **Kept the "redirect don't kill" theme** prominent — it came from your own 7-page note and is the single biggest unlock for 3.5
 * **Ended with a printable 1-page cheat sheet** in both languages, since you said you play in Surrey (need it on the bag)
 
-
 ### How this one connects to the L-Angle deep dive
 
 I designed it as **Chapter 0** of the forehand series — the setup before the swing:
@@ -51,11 +50,7 @@ I designed it as **Chapter 0** of the forehand series — the setup before the s
 | **Khóa-Vai / Thực-Hư Axis** | The lock-shoulder kinetic chain — your "Chest & Arms Diamond" notes turned into a 3.5-level deep dive |
 | **Racket Embodiment** | Proprioception + automaticity — the feel layer that ties everything together |
 | **Complete Manual** | All 10 parts in one — the master reference, ~50-70 pages |
-| **Something else** | Just say the word |
-
-Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual", bạn. 🎾
-
-Done. Deep dive #3 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Khoa Vai Thuc Hu Axis.md`**(36 KB — the longest of the three, because this one ties everything together)
+| **Something else** |  Deep dive #3 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Khoa Vai Thuc Hu Axis.md`**(36 KB — the longest of the three, because this one ties everything together)
 
 ### How this one connects to the series
 
@@ -93,11 +88,7 @@ Read them in this order: **#3 (axis) → #2 (turn) → #1 (swing)** — the axis
 | **Racket Embodiment** | Proprioception + automaticity — the feel layer (proprioception, neuro-controller, automaticity from your Racket Embodied notes) |
 | **Complete Manual** | All 10 parts in one, ~50-70 pages, the master reference |
 | **Practice plan** | A 4-week rotation using the drills from all 3 deep dives |
-| **Something else** | Just say the word |
-
-Chỉ cần nói "làm tiếp" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
-
-Done. Deep dive #4 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Racket Embodiment.md`**(38 KB — the longest of all four, fittingly the "feel" layer is the deepest)
+| **Something else** |  Deep dive #4 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Racket Embodiment.md`**(38 KB — the longest of all four, fittingly the "feel" layer is the deepest)
 
 ### The complete series is now done
 

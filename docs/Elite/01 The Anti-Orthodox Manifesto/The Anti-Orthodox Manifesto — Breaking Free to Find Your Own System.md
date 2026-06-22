@@ -112,7 +112,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  LIE #1 CARD — "COPY THE PROS"                             ║
     ║  THẺ NÓI DỐI #1 — "BẮT CHƯỚC TAY VỢT PRO"                ║
@@ -221,7 +220,6 @@
     ║      là của bạn."                                           ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  LIE #2 CARD — "PERFECT FORM EXISTS"                       ║
@@ -332,7 +330,6 @@
     ║     "Myelin không phán xét. Cách điện đúng đường dẫn."   ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  LIE #3 CARD — "10,000 HOURS MAKES AN EXPERT"              ║
@@ -451,7 +448,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  LIE #4 CARD — "THE COACH KNOWS BEST"                      ║
     ║  THẺ NÓI DỐI #4 — "HLV BIẾT RÕ NHẤT"                     ║
@@ -567,7 +563,6 @@
     ║     "Dữ liệu mô tả quá khứ. Cảm giác biết hiện tại."    ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  LIE #5 CARD — "FEEL IS THE ENEMY OF SCIENCE"              ║
@@ -707,7 +702,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE ANTI-ORTHODOX COMPASS — YOUR 5 COUNTER-CREDENTIALS       ║
     ║  LA BÀN PHẢN GIÁO ĐIỀU — 5 PHẢN-TÍN-CHỨNG CỦA BẠN           ║
@@ -769,4 +763,3 @@
 - Futuristic Tennis Manual by Olama.md (Integrated Master System, Ch 4 APS) — "Adaptive Intelligence," "trang thái hiệu suất thích ứng" applied to orthodoxy-vs-self-discovery.
 - Advanced Tennis Kinetic-Chain Manual.md (Evolution Tables: 2000-10 vs 2020-26) — the historical shift from "imitation of pros" to "dictate geometry" tactical era.
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

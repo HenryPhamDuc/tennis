@@ -88,8 +88,8 @@ A 3.5 player who uses the 4-step ritual will save 2-3 games per match from menta
 | **Complete Manual v2** | Roll the 10 deep dives (this + 9 others) into a single ~120-page master reference |
 | **Mental Game for Tournaments** | Match-day routines, between-match recovery, the 3-day tournament survival guide |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "5 pha" và "4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, bạn sẽ thấy mình bình tĩnh hơn người 30 trên sân.
+ Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, bạn sẽ thấy mình bình tĩnh hơn người 30 trên sân.

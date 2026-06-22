@@ -361,5 +361,3 @@ Read slowly. Stand up while you read. Do the side-bend test in Chapter 5 before 
 
 * * *
 
-*See you on the court, champion. — Coach Henry*
-*Hẹn gặp trên sân, nhà vô địch. — HLV Henry*

@@ -128,7 +128,7 @@ Doubles Court Geometry:
    │        ALLEY     │           │
    │       (DOUBLES)  │           │
    └─────────────────────────────┘
-   
+
 In DOUBLES, the alleys on BOTH sides are part of the playing area.
 In SINGLES, only the inner court (between the two singles sidelines) is in.
 ```
@@ -228,7 +228,7 @@ START OF POINT → Are you serving?
     └─ NO, not practiced → AUSTRALIAN (default)
     │
     └─ Body says "no net today" → BOTH BACK (defensive reset)
-  
+
   NO → Are you returning?
     │
     ├─ YES → AUSTRALIAN (your partner is at the net, you return)

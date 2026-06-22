@@ -82,8 +82,8 @@ A 3.5 player who picks the right pattern for the situation will win 60% of retur
 | **Approach Drills: 4-Week Plan** | A progressive drill calendar: Week 1 decisions, Week 2 Return + Lob, Week 3 Return + 1, Week 4 Return + Approach |
 | **Complete Manual v2** | Roll the 9 deep dives (this + slice approach + lob & overhead + backhand + return + serve + volley + footwork + 4 forehand pieces) into a single ~100-page master reference |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "4 mẫu return" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+ Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.

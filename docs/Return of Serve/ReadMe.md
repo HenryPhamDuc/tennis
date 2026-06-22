@@ -57,6 +57,5 @@ The Return of Serve is a **bundled-family topic** (per the skill's reference), s
 | **Complete Manual v2** | Roll the 6 deep dives (this + backhand + serve + volley + footwork + 4 forehand pieces) into a single ~80-100 page master reference |
 | **4-Week Return Plan** | A progressive drill calendar: Week 1 reading, Week 2 block, Week 3 drive, Week 4 match-situation |
 
-Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
+ 🎾
 
-Hy vọng tuần này bạn sẽ đọc được tung tốt hơn, block được serve 1 thoải mái, và break được nhiều hơn ở Surrey.

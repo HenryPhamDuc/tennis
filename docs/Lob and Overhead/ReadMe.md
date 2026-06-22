@@ -60,7 +60,7 @@ A player who can hit a deep defensive lob AND a Sane Smash will win more points 
 | **Complete Manual v2** | Roll the 7 deep dives (this + backhand + return + serve + volley + footwork + 4 forehand pieces) into a single ~80-100 page master reference |
 | **4-Week Vertical Plan** | A progressive drill calendar: Week 1 lob backswing, Week 2 Sane Smash trophy, Week 3 lob rally, Week 4 match-situation lobs and overheads |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
@@ -69,4 +69,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
   - 📄 `Lob and Overhead — The Vertical Game.md` (~67 KB, 574 lines, 5 chapters, EN-VI bilingual)
   - 📄 `ReadMe.md` (this file)
 
-Hy vọng tuần này bạn sẽ thêm "trò chơi dọc" vào toolkit ở Surrey. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — backswing cao là chìa khóa của mọi lob.
+ Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — backswing cao là chìa khóa của mọi lob.

@@ -534,10 +534,8 @@ After contact:
 >
 > Chúc bạn lên lưới nhiều, đỡ bóng nhiều, và giữ đầu gối khỏe. 🎾
 >
-> — Coach Henry's AI
-
 ---
 
-*Sources drawn from your `My notes/` folder: `tennis volley technique is that ulnar deviation or supination.md`, `Volley grip.md`, `Tại sao khi volley phải nâng tay cao hơn ngực.md`, `Những lỗi thường gặp và cách khắc phục trong cú volley.md`, `The Art of Redirection: Taichi Principles in the Tennis Volley.md`, `Understanding Tennis Volley: How to Hit a Perfect Volley.md`, `Feedback and Feedforward Control System.md`, and your existing 4-Layer Forehand deep-dive format.*
+*Sources drawn from yourfolder: `tennis volley technique is that ulnar deviation or supination.md`, `Volley grip.md`, `Tại sao khi volley phải nâng tay cao hơn ngực.md`, `Những lỗi thường gặp và cách khắc phục trong cú volley.md`, `The Art of Redirection: Taichi Principles in the Tennis Volley.md`, `Understanding Tennis Volley: How to Hit a Perfect Volley.md`, `Feedback and Feedforward Control System.md`, and your existing 4-Layer Forehand deep-dive format.*
 
-*Tài liệu tham khảo từ thư mục `My notes/` của bạn: 7 tệp về volley + tay trái, grip, thái cực quyền, control system, và định dạng deep-dive forehand hiện có.*
+*Tài liệu tham khảo từ thư mụccủa bạn: 7 tệp về volley + tay trái, grip, thái cực quyền, control system, và định dạng deep-dive forehand hiện có.*

@@ -444,7 +444,7 @@
 
 ## 📚 Sources | Nguồn
 
-This deep dive synthesizes insights from Henry's own notes in `C:\Users\Henry\Documents\New Tennis Knowledge\My notes\`:
+This deep dive synthesizes insights from Henry's own notes in `C:\Users\Henry\Documents\New Tennis Knowledge\\`:
 
 - **Serve technique.md** — Pronation analysis, kinetic chain, "loose arm" biomechanics
 - **Tennis serve grip analysis.docx** — Continental grip, palm-on-edge orientation, elbow health, waiter-tray comparison, wall drill methodology

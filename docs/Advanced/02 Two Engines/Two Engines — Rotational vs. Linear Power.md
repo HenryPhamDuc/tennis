@@ -369,5 +369,3 @@
 
 * * *
 
-*See you on the court, champion. — Coach Henry*
-*Hẹn gặp trên sân, nhà vô địch. — HLV Henry*

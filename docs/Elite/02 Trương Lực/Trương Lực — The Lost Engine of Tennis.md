@@ -240,7 +240,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE TONE MASTER CARD — YOUR 5-ZONE FOREHAND SEQUENCE          ║
     ║  THẺ TONE TỔNG — CHUỖI FOREHAND 5 VÙNG CỦA BẠN                ║
@@ -310,4 +309,3 @@
 - Advanced Tennis Kinetic-Chain Manual.md (kinetic chain tone, GRF-to-racket tone pipeline)
 - Futuristic Tennis Manual by Olama.md (KIO η formula's dwell-time coefficient λ, Dwell-Control drill)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

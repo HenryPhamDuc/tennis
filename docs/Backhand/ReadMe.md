@@ -53,6 +53,5 @@ Unlike the 4 forehand deep dives (which were organized by L1-L4 layers), this on
 | **Return of Serve** | The backhand return is the most common return in modern tennis — worth its own deep dive |
 | **Complete Manual v2** | Roll the 5 new deep dives (this + serve + volley + footwork + forehand 4-piece) into a single ~80-100 page master reference |
 
-Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
+ 🎾
 
-Hy vọng cú backhand của bạn tuần này sẽ bắt đầu cảm thấy *giống* forehand — chỉ đảo chiều.

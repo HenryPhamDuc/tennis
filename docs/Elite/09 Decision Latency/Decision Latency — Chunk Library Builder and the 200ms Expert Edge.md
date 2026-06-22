@@ -253,7 +253,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE CHUNK LIBRARY CARD — YOUR TACTICAL DECISION SYSTEM       ║
     ║  THẺ THƯ VIỆN CHUNK — HỆ THỐNG QUYẾT ĐỊNH CHIẾN THUẬT       ║
@@ -289,4 +288,3 @@
 - Miller (1956) — The magical number seven, plus or minus two — working memory limit
 - Futuristic Tennis Manual by Olama.md (Adaptive Intelligence — decision in 200ms via pattern recognition)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

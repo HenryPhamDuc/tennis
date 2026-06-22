@@ -665,5 +665,3 @@ PHASE 5 — CHANGEOVER (90 sec at 1-3, 3-5, etc.):
 Bắt đầu tuần này với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, nghi thức sẽ tự động, cơ thể sẽ phản xạ, và bạn sẽ thấy mình bình tĩnh hơn người 30 trên sân ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

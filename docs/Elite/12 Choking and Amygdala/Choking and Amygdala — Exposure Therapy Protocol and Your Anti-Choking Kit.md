@@ -265,7 +265,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE ANTI-CHOKING KIT CARD — YOUR 3 TOOLS + 2 TERRORS         ║
     ║  THẺ KIT CHỐNG CHOKING — 3 CÔNG CỤ + 2 NỖI KINH HOÀNG       ║
@@ -303,4 +302,3 @@
 - Bouton (2002) — Context, learning and extinction — fear extinction mechanisms
 - Advanced Tennis Kinetic-Chain Manual.md (mental performance section, choking recovery drills, sports psychology integration)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

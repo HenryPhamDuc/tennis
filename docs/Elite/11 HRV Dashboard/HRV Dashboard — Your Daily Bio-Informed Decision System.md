@@ -263,7 +263,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE HRV DASHBOARD CARD — YOUR DAILY BIO-INFORMED SYSTEM      ║
     ║  THẺ BẢNG HRV — HỆ THỐNG SINH-HỌC HÀNG NGÀY CỦA BẠN        ║
@@ -298,4 +297,3 @@
 - Advanced Tennis Kinetic-Chain Manual.md (Conditioning & Recovery — HRV integration with training load, sleep quality scores, CNS fatigue markers)
 - Plews et al. (2013) — Evaluating the athlete's heart — HRV-based training adaptation in elite athletes
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

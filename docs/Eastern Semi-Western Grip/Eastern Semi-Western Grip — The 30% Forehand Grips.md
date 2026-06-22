@@ -514,5 +514,3 @@ THE 70/30 RULE:
 Bắt đầu tuần này với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, bạn sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

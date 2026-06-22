@@ -205,7 +205,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE FOREHAND STYLE CARD — YOUR 3-AXIS PROFILE                ║
     ║  THẺ PHONG CÁCH FOREHAND — HỒ SƠ 3 TRỤC CỦA BẠN            ║
@@ -269,4 +268,3 @@
 - Tennis Research - Neuro athletics - with Kwen-Ollama.md (Ch 3.10 — Bernstein's 244 degrees of freedom, ecological dynamics, constraint-led approach)
 - Advanced Tennis Kinetic-Chain Manual.md (Forehand Models: Straight-Arm Federer vs. Double-Bend Alcaraz/Sinner, RPM ranges, open-stance default)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

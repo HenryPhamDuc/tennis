@@ -231,7 +231,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE MUSHIN MASTER CARD — YOUR PERSONAL TRIGGER               ║
     ║  THẺ MUSHIN TỔNG — CÒ CÁ NHÂN CỦA BẠN                       ║
@@ -310,4 +309,3 @@
 - Kahneman (2011) — System 1 / System 2 — Thinking, Fast and Slow
 - Advanced Tennis Kinetic-Chain Manual.md (conditioning section — flow state management)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

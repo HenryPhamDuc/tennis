@@ -238,7 +238,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE DREAM LIBRARY CARD — YOUR TOOL ADOPTION SYSTEM          ║
     ║  THẺ THƯ VIỆN MƠ — HỆ ÁP DỤNG CÔNG CỤ CỦA BẠN            ║
@@ -272,4 +271,3 @@
 - Futuristic Tennis Manual by Olama.md (Integrated Master System — projection toward 2030 tools, AI-integrated coaching, sensor-driven decision)
 - Advanced Tennis Kinetic-Chain Manual.md (technology adoption framework, HRV sensor ecosystem, video analysis pipeline)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

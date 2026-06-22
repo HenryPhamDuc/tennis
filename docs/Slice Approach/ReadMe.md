@@ -78,8 +78,8 @@ A 3.5 player who follows the 4 steps will win 60% of their approaches. A 3.5 pla
 | **Approach Drills: 4-Week Plan** | A progressive drill calendar: Week 1 decisions, Week 2 backhand slice, Week 3 transition, Week 4 volley finish |
 | **Complete Manual v2** | Roll the 8 deep dives (this + lob & overhead + backhand + return + serve + volley + footwork + 4 forehand pieces) into a single ~100-page master reference |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, bạn sẽ tự tin approach 1-2 lần mỗi set.
+ Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, bạn sẽ tự tin approach 1-2 lần mỗi set.

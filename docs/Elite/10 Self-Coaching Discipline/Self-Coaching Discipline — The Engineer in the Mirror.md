@@ -262,7 +262,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE SELF-COACHING DISCIPLINE CARD — YOUR 4 PILLARS           ║
     ║  THẺ KỶ LUẬT TỰ HUẤN LUYỆN — 4 TRỤ CỦA BẠN                ║
@@ -295,4 +294,3 @@
 - Advanced Tennis Kinetic-Chain Manual.md (Self-coaching & bio-informed periodization — SMART goal templates)
 - Locke & Latham (2002) — Building a practically useful theory of goal setting — the SMART framework foundation
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

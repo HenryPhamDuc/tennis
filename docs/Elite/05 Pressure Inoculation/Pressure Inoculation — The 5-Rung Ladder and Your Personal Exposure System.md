@@ -220,7 +220,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE PRESSURE INOCULATION CARD — YOUR PERSONAL LADDER        ║
     ║  THẺ TIÊM CHỦNG ÁP LỰC — THANG CÁ NHÂN CỦA BẠN             ║
@@ -289,4 +288,3 @@
 - Futuristic Tennis Manual by Olama.md (Ch 4 APS — Adaptive Performance State, HRV/Cortisol formula, in-match bio-feedback regulation)
 - Advanced Tennis Kinetic-Chain Manual.md (Conditioning & Recovery section — neuro-muscular reset, CNS fatigue, real-time biomarker tracking)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

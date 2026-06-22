@@ -235,7 +235,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE CLA LIBRARY CARD — YOUR CONSTRAINT-DESIGN SYSTEM         ║
     ║  THẺ THƯ VIỆN CLA — HỆ THỐNG THIẾT KẾ RÀNG BUỘC             ║
@@ -283,4 +282,3 @@
 - Advanced Tennis Kinetic-Chain Manual.md (constraint-led rehabilitation & return-to-play frameworks, transfer-of-training principle)
 - Davids, Button & Bennett (2008) — Dynamics of Skill Acquisition — the constraint-led approach in sport
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

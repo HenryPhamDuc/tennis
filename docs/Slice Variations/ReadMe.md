@@ -91,8 +91,8 @@ A 3.5 player who uses 7 slice variations has 7 tools for 7 situations. A 3.5 pla
 | **Slice Family for Doubles** | How each of the 7 variations applies in doubles — Slice Wide serve, Slice Return in doubles, Slice Approach in doubles, Slice Volley at the net in doubles |
 | **Continental Grip Deep Dive** | A dedicated deep dive on the Continental grip — 4 mistakes, 5 drills, 9 cues, the 50+ friendly press-and-hold |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "gia đình slice" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, bạn sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+ Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, bạn sẽ có 7 tùy chọn trong tay cho 7 tình huống.

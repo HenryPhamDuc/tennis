@@ -471,5 +471,3 @@
 Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. **Trong 4 tuần, bạn sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."** 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

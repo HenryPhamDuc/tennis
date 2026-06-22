@@ -52,7 +52,7 @@
   Ý TƯỞNG: "Đừng đấu với bóng thấp, hãy múc nó."
 
   1. KNEE DEPTH:
-     - Chest must be at ball height. 
+     - Chest must be at ball height.
      - Bend knees, keep back straight (save the back).
      - Hạ ngực ngang tầm bóng. Khuỵu gối, thẳng lưng (cứu lưng).
 

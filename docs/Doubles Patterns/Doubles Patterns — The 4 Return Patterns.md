@@ -668,5 +668,3 @@ THE TEAM (always):
 Bắt đầu tuần này với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

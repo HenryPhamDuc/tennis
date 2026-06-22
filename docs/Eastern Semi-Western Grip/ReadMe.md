@@ -85,8 +85,8 @@ A 3.5 player who uses the Semi-Western has the modern topspin forehand at 50%. A
 | **Western Grip Deep Dive** | The third companion deep dive on the Western (2 o'clock) — for the brave, the high-altitude, the young 50+ |
 | **Grip Change Map (Quick Reference)** | A 1-page reference for when to switch grips — 5 situations, 4 grip choices, the 50+ friendly default |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "grip 30%" vào toolkit forehand ở Surrey. Bắt đầu với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, bạn sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống.
+ Bắt đầu với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, bạn sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống.

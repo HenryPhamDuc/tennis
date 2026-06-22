@@ -87,8 +87,8 @@ A 3.5 player who has the map plays 7 minutes faster per match and wins 20% more 
 | **Grip Pressure Deep Dive** | The companion to the Grip Change Map — covers WHEN to apply pressure (3-phase) for each grip change |
 | **1-Page Match Pocket Card** | A 1-page pocket card combining the Grip Change Map + the 9-shot Continental + the 70/30 rule — the entire grip system in 1 page |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "bản đồ đổi grip" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, bạn sẽ chơi tennis thay vì tìm grip.
+ Bắt đầu với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, bạn sẽ chơi tennis thay vì tìm grip.

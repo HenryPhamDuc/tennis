@@ -229,7 +229,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE HIDDEN SPEED CARD — YOUR 3-LAYER ASYMMETRY               ║
     ║  THẺ TỐC ĐỘ ẨN — BẤT ĐỐI XỨNG 3 LỚP CỦA BẠN               ║
@@ -262,4 +261,3 @@
 - Advanced Tennis Kinetic-Chain Manual.md (Reaction-Time Pyramid, per-stage training protocols)
 - Futuristic Tennis Manual by Olama.md (Neuro athletic, NKF reaction-time coefficient, Δt_synch)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**

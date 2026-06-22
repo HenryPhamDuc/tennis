@@ -60,6 +60,5 @@ Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it
 | **Complete Manual v2** | Roll the 7 deep dives (this + backhand + return + serve + volley + footwork + 4 forehand pieces) into a single ~80-100 page master reference |
 | **4-Week Doubles Plan** | A progressive drill calendar: Week 1 communication, Week 2 formations, Week 3 patterns, Week 4 match-situation |
 
-Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
+ 🎾
 
-Hy vọng tuần này bạn sẽ gọi "Mine!" to hơn, đứng ở lưới nhiều hơn, và chơi đôi ở Surrey với niềm vui — với tuổi thọ tennis 20 năm nữa đang chờ.

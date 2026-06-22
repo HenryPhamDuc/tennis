@@ -131,7 +131,6 @@ This library synthesizes from the following Ollama-coauthored research:
 
 ### Format / Định dạng:
 - **Bilingual EN-VI side-by-side tables** — single leading pipe `| 🇺🇸 English | 🇻🇳 Tiếng Việt |` (NEVER `||` or `|||`)
-- **Master-coach voice** — direct address ("Friend," "See you on the court, engineer")
 - **Vietnamese is natural**, not literal — uses canonical metaphors (whip/roi, spring/lò xo, bamboo/tre, oak/sồi, Self 1/Self 2, Kình, Mushin)
 - **Every chapter ends with a printable 1-page cheat sheet** in `╔══╗` ASCII box, duplicated twice for cutting
 - **Single H1 title** with inline EN | VI (NO dual `## EN\n## VI` consecutive headings — that breaks GFM table rendering)

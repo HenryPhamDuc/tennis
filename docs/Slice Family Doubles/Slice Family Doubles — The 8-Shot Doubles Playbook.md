@@ -584,5 +584,3 @@ STRETCHED WIDE:
 Bắt đầu tuần này với **Drill 1** (hand signal, 3 phút/ngày) — đó là nền tảng cho mọi phối hợp. Rồi thêm **Drill 2** (slice wide + poach, 10 phút) cho cắt. Trong 4 tuần, bạn và partner sẽ có playbook 16 cú cho 16 tình huống ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

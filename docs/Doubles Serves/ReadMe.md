@@ -89,8 +89,8 @@ A 3.5 player who uses the 4 serve patterns with placement (instead of blasting) 
 | **Mental Game for Tournaments** | Match-day routines, between-match recovery, the 3-day tournament survival guide |
 | **Slice Approach Variations** | Slice return, slice approach shot, slice defensive lob — the 50+ slice family |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ thêm "4 mẫu serve" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+ Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.

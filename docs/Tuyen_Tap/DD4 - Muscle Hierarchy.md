@@ -345,7 +345,6 @@
 |---|---|
 | Friend, your body has ~640 named muscles. Tennis uses about **80 of them in a meaningful way**. Knowing which 80 — and in what order they fire — turns "exercise" into "tennis." | Bạn ơi, cơ thể bạn có ~640 cơ được đặt tên. Tennis dùng khoảng **80 cơ một cách có ý nghĩa**. Biết 80 cơ nào — và bắn theo thứ tự nào — biến "tập thể dục" thành "tennis". |
 | The source said it best: **the body has a hierarchy of muscles, and they don't participate equally.** Strong muscles start, weak muscles finish. The tennis swing is a relay — and a relay has a sequence. **Know the sequence.** | Nguồn nói hay nhất: **cơ thể có hệ thống phân cấp cơ, và chúng không tham gia ngang nhau.** Cơ mạnh bắt đầu, cơ yếu kết thúc. Cú vung tennis là tiếp sức — và tiếp sức có thứ tự. **Biết thứ tự.** |
-| See you on the court, with the right muscles firing in the right order. | Hẹn gặp trên sân, với các cơ đúng bắn theo thứ tự đúng. |
 | **Total concepts integrated from your source and the wider anatomy/muscle literature:** 50+ covering the relay principle, lower-body segment muscles, trunk segment muscles, shoulder segment muscles, arm segment muscles, wrist/hand segment muscles, stroke-by-stroke muscle sequence, and 50+ sarcopenia realities. | **Tổng khái niệm tích hợp từ nguồn và tài liệu cơ/giải phẫu rộng hơn:** 50+ bao phủ nguyên tắc tiếp sức, cơ đoạn thân dưới, cơ đoạn thân, cơ đoạn vai, cơ đoạn tay, cơ đoạn cổ tay/bàn tay, chuỗi cơ theo cú, và thực tế sarcopenia 50+. |
 
 * * *

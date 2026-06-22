@@ -630,5 +630,3 @@ THE TEAM (always):
 Bắt đầu tuần này với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

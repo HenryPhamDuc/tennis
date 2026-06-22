@@ -67,8 +67,8 @@ Các chương quan trọng nhất cho bạn:
 ### Source material / Nguồn:
 
 This library synthesizes from:
-- `C:\Users\Henry\Documents\New Tennis Knowledge\All Hermes and Ollama coauthored books- To be revised\` — 14 source books (June 2026)
-- `C:\Users\Henry\Documents\New Tennis Knowledge\My notes\` — 30+ raw research notes on embodied cognition, proprioception, fascia, two engines, head position
+-  — 14 source books (June 2026)
+- `C:\Users\Henry\Documents\New Tennis Knowledge\\` — 30+ raw research notes on embodied cognition, proprioception, fascia, two engines, head position
 
 ### Format / Định dạng:
 
@@ -103,8 +103,7 @@ This library synthesizes from:
 
 ## ✅ Verification Checklist / Danh Sách Kiểm Tra
 
-- [x] Source notes were fully read from `All Hermes and Ollama coauthored books- To be revised/` and `My notes/`
-- [x] Concepts extracted before any prose was written
+- [x] Source notes were fully read from  and- [x] Concepts extracted before any prose was written
 - [x] Structure chosen matches the topic (neurology + anatomy, NOT stroke mechanics)
 - [x] Bilingual EN-VI content used in side-by-side tables
 - [x] All bilingual tables use single leading pipe `|`
@@ -128,8 +127,5 @@ This library synthesizes from:
 | 5 | Optional: **Add a "9. Neuroscience Glossary" deep dive** (terms like VOR, SLR, tensegrity, body schema in one file) | Future |
 
 ---
-
-> **See you on the court, champion. The brain is the racket's home.**
-> **Hẹn gặp trên sân, nhà vô địch. Não là nhà của vợt.**
 
 — Coach Henry, Surrey BC, June 2026

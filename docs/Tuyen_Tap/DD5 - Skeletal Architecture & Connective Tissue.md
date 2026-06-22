@@ -333,7 +333,6 @@ Nguồn tôi đã học từ: tài liệu huấn luyện của Hiệp hội Tenn
 |---|---|
 | Friend, you have ~206 bones in your body. Each one is a lever. Each joint is a fulcrum. Each connective tissue is a constraint. **You are a 206-lever machine that must coordinate into one swing.** | Bạn ơi, bạn có ~206 xương trong cơ thể. Mỗi cái là một đòn bẩy. Mỗi khớp là một điểm tựa. Mỗi mô liên kết là một ràng buộc. **Bạn là cỗ máy 206-đòn-bẩy phải phối hợp thành một cú vung.** |
 | The skeleton is your constraint. The muscles (DD4) are your engine. The springs (DD2) are your storage. The angles (DD1) are your geometry. **All four work together — and none of them can be skipped.** | Bộ xương là ràng buộc. Cơ (DD4) là động cơ. Lò xo (DD2) là bộ tích. Góc (DD1) là hình học. **Cả bốn làm việc cùng nhau — và không cái nào có thể bỏ qua.** |
-| See you on the court, with bones that move like levers. | Hẹn gặp trên sân, với xương di chuyển như đòn bẩy. |
 | **Total concepts integrated from your source and the wider skeletal/connective-tissue literature:** 55+ covering the 3 lever classes, lower-body bones, pelvis/sacrum, 33-vertebra spine, shoulder girdle, arm/wrist bones, connective tissue types, and bony-anatomy stroke-limit decisions. | **Tổng khái niệm tích hợp từ nguồn và tài liệu xương/mô-liên-kết rộng hơn:** 55+ bao phủ 3 lớp đòn bẩy, xương thân dưới, khung chậu/xương cùng, cột sống 33 đốt, đai vai, xương tay/cổ tay, các loại mô liên kết, và quyết định giới hạn cú đánh từ giải phẫu xương. |
 
 * * *

@@ -450,5 +450,3 @@ AFTER THE POINT (back to home base):
 Bắt đầu tuần này với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, bạn sẽ có bản đồ đổi grip và sẽ chơi tennis thay vì tìm grip ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

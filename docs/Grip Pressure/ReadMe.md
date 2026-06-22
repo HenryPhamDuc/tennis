@@ -40,7 +40,6 @@ This is the **22nd** deep dive in the library (after Forehand × 4, Backhand × 
 | The volley's "block, don't swing" + pressure | `Deep Dives/Volley/` |
 | The slice's "soft hands, firm contact" | `Deep Dives/Slice Variations/` |
 
-
 ## Files
 
 - `Grip Pressure — The Dial You Control Every Shot.md` — the deep dive itself

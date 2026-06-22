@@ -591,5 +591,3 @@ AFTER EVERY SLICE:
 Bắt đầu tuần này với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, bạn sẽ có 7 tùy chọn trong tay ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

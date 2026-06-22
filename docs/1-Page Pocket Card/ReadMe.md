@@ -89,8 +89,8 @@ A 50+ player with the card has the system at hand. A 50+ player without the card
 | **Grip Pocket Card v2 (per-stroke)** | A 1-page card for each major shot — volley card, serve card, forehand card, slice card, doubles card |
 | **Voice Note Pocket Card** | A 1-page card with AUDIO cues (record yourself saying the 5 cues) for 50+ players with vision loss |
 
-Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
+ 🎾
 
 ---
 
-Hy vọng tuần này bạn sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, bạn sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."
+ Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, bạn sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."

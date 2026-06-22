@@ -36,9 +36,9 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 > *Bones, joints, muscles, nerves, biomechanics — the WHY behind the WHAT. 8 deep-dives (351 KB), 56 inline illustrations, 281 bilingual tables, 8 printable cheat sheets. See [Part 15](#part-15) below.*
 
 > ## 📐 **[NEW LIBRARY (June 2026) — Click here to enter Tuyen_Tap: 7 deep-dives on the angles, springs, neurology, and sensors behind every stroke →](Tuyen_Tap/ReadMe/)**
-> 
+>
 > ### 📐 **[MỚI (06/2026) — Click vào đây để vào Tuyển Tập: 7 deep-dive về góc, lò xo, thần kinh, và cảm biến sau mỗi cú đánh →](Tuyen_Tap/ReadMe/)**
-> 
+>
 > *Concept-first engineering: PV vs SV feedback loops, 6 spring kinetic chain, 5 sensor channels, 50+ rehab protocols. 7 deep-dives (~460 KB), 151 inline illustrations, 339 images across 9 subfolders, 7 printable cheat sheets. See [Part 16](#part-16) below.*
 
 > **What's new in v2** *(compared to v1, 11 parts)*
@@ -129,9 +129,7 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 | **For the 5.0+ player who has outgrown the standard playbook. Stops copying the pros. Starts engineering a system that is uniquely theirs.** A bilingual (EN-VI) deep library covering the territory the prior two levels do not: **trương lực** (tone as the lost engine), **myelination** (the 6,000% speed gap), **three pro models** as equally valid starting points (Nadal / Federer / Djokovic), **pressure inoculation** (choking is data, not shame), **Kình & Mushin** (Tai Chi + neuroscience synthesis), **constraint-led self-discovery** (the body as solver), **Heuer's chunking & the pattern library** (the 200ms expert edge), **self-coaching discipline** (journal, video, SMART, 5-question review), **HRV daily dashboard** (green/yellow/red days), **anti-choking kit** (exposure therapy), and **the 2030 dream library** (EEG headbands, sensor rackets, VR, AI assistants). **1 master manual (15 parts, ~165 KB) + 13 full deep-dives (one per chapter, EN-VI side-by-side, printable cheat sheets), with 13 Laws printable cheat sheet at end of manual.** | **Cho người chơi 5.0+ đã vượt qua giáo trình chuẩn. Ngừng bắt chước pro. Bắt đầu thiết kế hệ thống thuộc về riêng mình.** Thư viện song ngữ (EN-VI) sâu về lãnh thổ hai cấp trước không đề cập: **trương lực** (tone là động cơ bị lãng quên), **myelin hóa** (khoảng cách 6.000%), **ba mẫu pro** là điểm khởi đầu hợp lệ ngang nhau (Nadal / Federer / Djokovic), **tiêm chủng áp lực** (choking là dữ liệu, không xấu hổ), **Kình & Mushin** (tổng hợp Thái Cực + thần kinh học), **tự khám phá qua ràng buộc** (cơ thể là người giải), **chunking của Heuer & thư viện mẫu** (lợi thế 200ms của chuyên gia), **kỷ luật tự HLV** (nhật ký, video, SMART, đánh giá 5 câu), **bảng HRV hàng ngày** (ngày xanh/vàng/đỏ), **bộ chống choking** (liệu pháp tiếp xúc), và **thư viện giấc mơ 2030** (băng đầu EEG, vợt cảm biến, VR, trợ lý AI). **1 cẩm nang tổng (15 phần, ~165 KB) + 13 deep-dive đầy đủ (mỗi chương một cái, EN-VI cạnh nhau, thẻ cheat sheet in được), với thẻ cheat sheet 13 Điều Luật ở cuối cẩm nang.** |
 | 👉 **[ENTER THE ELITE LIBRARY →](Elite/index.md)** | 👉 **[VÀO THƯ VIỆN ĐỈNH CAO →](Elite/index.md)** |
 
-
 ---
-
 
 ## 🫀 **NEW LIBRARY (June 2026): Anatomy Lab — The Body Behind Every Stroke** | Thư Viện MỚI — Giải Phẫu Học Cơ Thể Sau Mỗi Cú Đánh
 
@@ -139,7 +137,6 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 |---|---|
 | **For the player who wants to understand the BODY behind every stroke — bones, joints, muscles, nerves, biomechanics, and how the kinetic chain actually works.** A bilingual (EN-VI) reference manual built from your Vietnamese source materials plus the textbook *Tennis Anatomy* by Roetert & Kovacs (2011). **8 standalone deep-dives covering the entire body in relation to tennis strokes:** (1) Player in Motion — whole-body biomechanics, 6 joint angles at contact, kinetic chain, 45° contact rule; (2) Shoulders — rotator cuff, scapular plane, 4-joint complex; (3) Arms/Wrists/Hands — ulnar nerve, cubital tunnel, 27 hand bones, grip pressure; (4) Trunk/Spine — L4-L5 disc, 40+ back muscles, hip hinge; (5) Hips/Thighs — glute max, 6 deep rotators, wider-stance transformation; (6) Knees — patella, meniscus, ACL, 50–80° loading rule; (7) Ankles/Feet — 26 bones, 33 joints, windlass mechanism; (8) Control System — vestibular, vision, proprioception, the 50+ sensory triad. **351 KB / 4,136 lines / 58 chapters / 56 inline illustrations / 8 printable cheat sheets.** Designed for the 50+ player who wants to know *why* the shoulder cuff matters more than the deltoid, *why* hip hinge saves the spine, *why* patellar tendonitis is fixed by eccentric squats not rest. | **Cho người chơi muốn hiểu CƠ THỂ sau mỗi cú đánh — xương, khớp, cơ, dây thần kinh, sinh cơ học, và cách chuỗi động học thật sự hoạt động.** Cẩm nang song ngữ (EN-VI) được xây dựng từ tài liệu tiếng Việt của bạn cộng với sách giáo khoa *Tennis Anatomy* của Roetert & Kovacs (2011). **8 deep-dive độc lập bao phủ toàn bộ cơ thể liên quan đến cú đánh tennis:** (1) Người Chơi Trong Chuyển Động — sinh cơ học toàn thân, 6 góc khớp lúc tiếp xúc, chuỗi động học, quy tắc tiếp xúc 45°; (2) Vai — cơ xoay vai (SITS), mặt phẳng xương bả vai, phức hợp 4 khớp; (3) Cánh tay/Cổ tay/Bàn tay — dây thần kinh trụ, đường hầm khuỷu, 27 xương bàn tay, áp lực cầm vợt; (4) Thân/Cột sống — đĩa L4-L5, hơn 40 cơ lưng, bản lề hông; (5) Hông/Đùi — cơ mông lớn, 6 cơ xoay sâu, biến đổi tư thế rộng; (6) Đầu gối — xương bánh chè, sụn chêm, dây chằng chéo trước, quy tắc tải 50–80°; (7) Mắt cá/Chân — 26 xương, 33 khớp, cơ chế windlass; (8) Hệ Kiểm Soát — tiền đình, thị giác, cảm giác bản thể, bộ ba giác quan 50+. **351 KB / 4,136 dòng / 58 chương / 56 hình minh họa nội tuyến / 8 thẻ cheat sheet in được.** Dành cho người chơi 50+ muốn biết *tại sao* cơ xoay vai quan trọng hơn cơ delta, *tại sao* bản lề hông cứu cột sống, *tại sao* viêm gân bánh chè chữa bằng squat xuống từ từ chứ không phải nghỉ. |
 | 👉 **[ENTER THE ANATOMY LAB →](Anatomy_Lab/index.md)** | 👉 **[VÀO LAB GIẢI PHẪU →](Anatomy_Lab/index.md)** |
-
 
 ---
 
@@ -149,8 +146,6 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 |---|---|
 | **For the 3.5 → 4.5 player who wants to treat tennis as a control system — not just a series of strokes.** A bilingual (EN-VI) engineering framework covering: **the angle atlas** (every joint angle that decides stroke type + quality — and WHY 50–80° knee loading is safe but 90°+ is risky, WHY 60–70° elbow flexion maximizes racket head speed, WHY 45° contact rule works), **the spring model** (tendons as elastic bands, 6-spring kinetic chain, stretch-shortening cycle), **the neurology** (3 control layers: spinal reflex 50ms, brainstem 150ms, cortex 200–500ms; quiet eye; vestibular 3D anatomy), **the muscle hierarchy** (glute max as largest, 6 deep rotators, "strong to fast" relay), **the skeletal architecture** (foot 26 bones + 33 joints, 27 hand bones + 8 carpals, 4-joint shoulder complex), **the 50+ body** (7 declines × rehab protocols — Bird Dog, eccentric squats, Hip CARs, walking decompression), **and the sensor system** (5 channels: proprioception, feet, hands, eyes, ears+vestibular; 3 feedback loops; PV vs SV framework; 5-phase body perception cycle). **7 standalone deep-dives (~460 KB / 3,076 lines / 136 chapters / 151 inline illustrations / 339 images across 9 subfolders / 7 printable cheat sheets).** Bilingual EN-VI side-by-side, single-pipe table style, master-coach voice, 50+ reality check throughout. | **Cho người chơi 3.5 → 4.5 muốn xem tennis như một hệ điều khiển — không chỉ là chuỗi cú đánh.** Khung kỹ thuật song ngữ (EN-VI) bao gồm: **tập bản đồ góc** (mọi góc khớp quyết định loại + chất lượng cú đánh — và TẠI SAO tải gối 50–80° an toàn nhưng 90°+ rủi ro, TẠI SAO gập khuỷu 60–70° tối đa hóa tốc độ đầu vợt, TẠI SAO quy tắc tiếp xúc 45° hiệu quả), **mô hình lò xo** (gân như dây đàn, chuỗi 6 lò xo, chu kỳ co-giãn), **thần kinh học** (3 lớp điều khiển: phản xạ tủy sống 50ms, thân não 150ms, vỏ não 200–500ms; mắt im lặng; giải phẫu 3D tiền đình), **hệ thống cơ** (cơ mông lớn là cơ lớn nhất, 6 cơ xoay sâu, tiếp sức "mạnh-tới-nhanh"), **kiến trúc xương** (chân 26 xương + 33 khớp, tay 27 xương + 8 cổ tay, phức hợp 4 khớp vai), **cơ thể 50+** (7 suy giảm × phác đồ phục hồi — Bird Dog, squat xuống từ từ, Hip CARs, đi bộ giải nén), **và hệ cảm biến** (5 kênh: cảm giác sâu, chân, tay, mắt, tai+tiền đình; 3 vòng phản hồi; khung PV vs SV; chu kỳ nhận thức cơ thể 5 pha). **7 deep-dive độc lập (~460 KB / 3,076 dòng / 136 chương / 151 hình minh họa nội tuyến / 339 hình qua 9 thư mục con / 7 thẻ cheat sheet in được).** Song ngữ EN-VI cạnh nhau, kiểu bảng ống đơn, giọng HLV bậc thầy, kiểm tra thực tế 50+ xuyên suốt. |
 | 👉 **[ENTER THE TUYEN_TAP LIBRARY →](Tuyen_Tap/ReadMe/)** | 👉 **[VÀO THƯ VIỆN TUYỂN TẬP →](Tuyen_Tap/ReadMe/)** |
-
-
 
 ---
 
@@ -311,7 +306,7 @@ At 50+, footwork is also the **first thing to break down** and the **easiest thi
 >
 > *Deep dive **Footwork** đầy đủ (40 KB, 5 chương) bao quát Thường Tùng ("luôn lỏng, luôn sẵn sàng"), thế chuẩn bị chân so le, trigger split-step 300ms, 4 bước (lateral hop, drop step, cross-over, recovery), và kiểm tra 50+.*
 
-For the 3-stance system with side-bend vs straight-body analysis, see **2 types of engine to generate power** (`My notes/2 types of engine to generate power.md`). For the volley footwork framework (Hư-Thực, 70/30 weight, split-step → V-step), see **Volley** deep dive (`Deep Dives/Volley/`).
+For the 3-stance system with side-bend vs straight-body analysis, see **2 types of engine to generate power** (2 types of engine to generate power.md`). For the volley footwork framework (Hư-Thực, 70/30 weight, split-step → V-step), see **Volley** deep dive (`Deep Dives/Volley/`).
 
 ---
 
@@ -543,7 +538,7 @@ At 50+, the return is also the most **joint-stressing** moment in the rally. You
 > 🧠 **Read deeper | Đọc sâu hơn**
 > **v2 adds the doubles-return sub-pattern**. The full **Return of Serve deep dive** (`Deep Dives/Return of Serve/`) covers Reading → Block → Drive → Chip. The **Doubles Patterns deep dive** (`Deep Dives/Doubles Patterns/`) adds the 4 doubles-return patterns (cross-court drive, middle lob, behind-the-returner, down-the-line).
 >
-> See also **`My notes/Footwork analysis.md`** for the stance system, and **`My notes/Swing technique.md`** for the 3-engine framework (rotational, linear, hybrid).
+> See also **Footwork analysis.md`** for the stance system, and **Swing technique.md`** for the 3-engine framework (rotational, linear, hybrid).
 
 ---
 
@@ -1258,7 +1253,6 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 
 > **Part 14 (master):** *"Tennis is a whip sport, not a hammer sport. And you are playing a 20-year game."*
 
-
 <a name="part-15"></a>
 # Part 15 — Anatomy Lab: The Body Behind Every Stroke
 # Phần 15 — Lab Giải Phẫu: Cơ Thể Sau Mỗi Cú Đánh
@@ -1317,7 +1311,6 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 *🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 stroke deep dives + 8 anatomy deep dives = 30 deep dives are the territory. Read the map first, then explore each region at your own pace. Start at the root, and everything follows.*
 
 🏁 **END OF v2** | **HẾT v2**
-
 
 <a name="part-16"></a>
 # Part 16 — Tuyen_Tap: Anatomy & Geometry Project

@@ -565,5 +565,3 @@ BEFORE THE LOB VOLLEY:
 Chúc bạn chơi dọc tốt hơn ở Surrey tuần này. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) và Drill 3 (Sane Smash từ bóng tung). Trong 2 tuần, lob sẽ bắt đầu cảm thấy *nhẹ nhàng* — và Smash Kiểm Soát sẽ thay thế cảm giác hoảng. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

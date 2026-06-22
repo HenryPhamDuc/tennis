@@ -346,7 +346,6 @@ These matter more than any technique. **Save the joint, not the point.**
 | Train it like you train your serve. Calibrate it like a coach. Listen to it like a friend. | Tập nó như tập giao bóng. Hiệu chuẩn nó như huấn luyện viên. Nghe nó như bạn. |
 | The 50+ player who masters the pressure dial plays tennis for 20 more years — and their wrist still works at 70. | Người chơi 50+ làm chủ chiếc núm áp lực sẽ chơi tennis thêm 20 năm — và cổ tay vẫn còn 70 tuổi. |
 | Hold the bird. Catch the ball. Calm → spike → release. | Cầm con chim. Bắt quả bóng. Bình yên → đỉnh → thả. |
-| See you on the court, champion. | Hẹn gặp trên sân, nhà vô địch. |
 
 ---
 

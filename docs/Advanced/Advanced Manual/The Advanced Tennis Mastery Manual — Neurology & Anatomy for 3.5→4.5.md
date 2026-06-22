@@ -482,7 +482,6 @@
     ║                                                                                ║
     ╚══════════════════════════════════════════════════════════════════════════════╝
 
-
     ╔══════════════════════════════════════════════════════════════════════════════╗
     ║  ADVANCED TENNIS CUE CARD — NEUROLOGY & ANATOMY                                ║
     ║  THẺ CÂU NHẮC TỔNG — GIẢI PHẪU HỌC & THẦN KINH HỌC                          ║
@@ -543,7 +542,6 @@
 | **Friend**, you have just read 15 chapters on the hidden anatomy and neurology of tennis. If you only remember one thing, let it be this: **tennis is not a strength sport. It's a perception + coordination sport.** The body you have right now — at 50, 60, 70 — is more than capable. The question is whether you've trained the *right* systems. | **Bạn ơi**, bạn vừa đọc xong 15 chương về giải phẫu và thần kinh học ẩn sau tennis. Nếu bạn chỉ nhớ một điều, hãy là điều này: **tennis không phải môn sức mạnh. Là môn tri giác + phối hợp.** Cơ thể bạn có ngay bây giờ — ở 50, 60, 70 — hoàn toàn có khả năng. Câu hỏi là bạn đã tập đúng *hệ thống* chưa. |
 | **The 8 deep dives that follow this manual** take each chapter deeper. Read one per week. Apply the drills. Notice the change. | **8 deep-dive theo sau cẩm nang này** đào sâu từng chương. Đọc mỗi tuần một cái. Áp dụng bài tập. Chú ý sự thay đổi. |
 | **The Long Game:** tennis is a 20-year sport if you protect the engine. The players I admire most at 60, 70 are not the ones who hit hardest at 30 — they are the ones who trained smartly at 45. | **Trò Chơi Dài Hạn:** tennis là môn 20 năm nếu bạn bảo vệ cỗ máy. Những người chơi tôi ngưỡng mộ nhất ở 60, 70 không phải những người đánh mạnh nhất lúc 30 — họ là những người tập thông minh lúc 45. |
-| See you on the court, champion. | Hẹn gặp trên sân, nhà vô địch. |
 | — Coach Henry | — HLV Henry |
 
 * * *

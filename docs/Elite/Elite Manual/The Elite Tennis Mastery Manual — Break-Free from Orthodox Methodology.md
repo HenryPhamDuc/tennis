@@ -104,7 +104,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 1 CARD — THE ANTI-ORTHODOX MANIFESTO              ║
     ║  THẺ CHƯƠNG 1 — TUYÊN NGÔN PHẢN GIÁO ĐIỀU                ║
@@ -214,7 +213,6 @@
     ║     "Năm vùng trong một cú."                               ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 2 CARD — TRƯƠNG LỰC: THE LOST ENGINE              ║
@@ -329,7 +327,6 @@
     ║     "Chất lượng chú ý là yếu tố giới hạn."               ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 3 CARD — MYELINATION: QUALITY, NOT QUANTITY       ║
@@ -446,7 +443,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 4 CARD — THE THREE MODELS                         ║
     ║  THẺ CHƯƠNG 4 — BA MẪU                                    ║
@@ -559,7 +555,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 5 CARD — PRESSURE INOCULATION                    ║
     ║  THẺ CHƯƠNG 5 — TIÊM CHỦNG ÁP LỰC                        ║
@@ -670,7 +665,6 @@
     ║     "Tre, không sồi. Self 2 đánh."                        ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 6 CARD — KÌNH & MUSHIN                            ║
@@ -786,7 +780,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 7 CARD — CONSTRAINT-LED SELF-DISCOVERY           ║
     ║  THẺ CHƯƠNG 7 — TỰ KHÁM PHÁ QUA RÀNG BUỘC                ║
@@ -900,7 +893,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 8 CARD — THE HIDDEN SPEED                         ║
     ║  THẺ CHƯƠNG 8 — TỐC ĐỘ ẨN                                ║
@@ -1013,7 +1005,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 9 CARD — DECISION LATENCY                         ║
     ║  THẺ CHƯƠNG 9 — ĐỘ TRỄ QUYẾT ĐỊNH                        ║
@@ -1125,7 +1116,6 @@
     ║     "Tôi là HLV cao nhất của mình."                       ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 10 CARD — THE SELF-COACHING DISCIPLINE            ║
@@ -1241,7 +1231,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 11 CARD — HRV & YOUR DAILY DASHBOARD             ║
     ║  THẺ CHƯƠNG 11 — HRV & BẢNG ĐIỀU KHIỂN HÀNG NGÀY         ║
@@ -1354,7 +1343,6 @@
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 12 CARD — CHOKING & THE TWO TERRORS               ║
     ║  THẺ CHƯƠNG 12 — CHOKING & HAI NỖI SỢ                     ║
@@ -1460,7 +1448,6 @@
     ║     "Phục vụ hệ thống. Bỏ phần còn lại."                  ║
     ║                                                            ║
     ╚═══════════════════════════════════════════════════════════╝
-
 
     ╔═══════════════════════════════════════════════════════════╗
     ║  CHAPTER 13 CARD — THE DREAM LIBRARY                       ║
@@ -1602,7 +1589,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE 13 LAWS OF THE 5.0+ SELF-DESIGNED SYSTEM                ║
     ║  13 ĐIỀU LUẬT CỦA HỆ THỐNG TỰ THIẾT KẾ 5.0+                 ║
@@ -1707,7 +1693,6 @@
 | **After 90 days.** Compare your match results, your journal, your videos, your HRV dashboard, your subjective feel. *You* will see the improvement. That is the only test that matters. | **Sau 90 ngày.** So sánh kết quả trận, nhật ký, video, bảng HRV, cảm nhận chủ quan. *Anh* sẽ thấy tiến bộ. Đó mới là kiểm tra duy nhất quan trọng. |
 | **The closing meditation.** | **Thiền kết thúc.** |
 | *You are not the body you were born with. You are the body you have trained. You are not the swing you copied. You are the swing your nervous system discovered. You are not the matches you have lost. You are the matches your nervous system has learned from. You are not the next Nadal, the next Alcaraz, the next Djokovic. You are the first YOU. And that is the only tennis that matters.* | *Anh không phải cơ thể bạn sinh ra. Anh là cơ thể bạn đã tập. Anh không phải cú swing bạn bắt chước. Anh là cú swing hệ thần kinh bạn đã khám phá. Anh không phải những trận bạn thua. Anh là những trận hệ thần kinh bạn đã học từ. Anh không phải Nadal kế tiếp, Alcaraz kế tiếp, Djokovic kế tiếp. Anh là ANH đầu tiên. Và đó mới là tennis duy nhất quan trọng.* |
-| **See you on the court, engineer.** | **Hẹn gặp trên sân, kỹ sư.** |
 
 ### 🎯 FINAL WORD / LỜI CUỐI
 
@@ -1729,8 +1714,6 @@
 *Built on the source materials in `C:\Users\Henry\Documents\Tennis Knowledge\5.Tennis Training Manual Coauthor by Ollama\` — Futuristic Tennis Manual by Olama (5-chapter Integrated Master System: DET→NKF→KIO→APS→IMS), Tennis Research - Neuro athletics - with Kwen-Ollama (12 chapters: neuro-athletics + Tai Chi), Tennis Research with Kwen-Ollama (21 chapters: trương lực/tone + self-coaching), and Advanced Tennis Kinetic-Chain Manual (10 chapters: ground-up power + digital twin).*
 
 *This manual synthesizes the unique elite (5.0+) territory — trương lực as the lost engine, myelination as the substrate, pressure as inoculable, Kình/Mushin as the Eastern-Western synthesis, constraint-led self-discovery, the chunk library, and self-coaching discipline — that the 3.0 Foundation and 3.5→4.5 Advanced projects do not cover.*
-
-*See you on the court, engineer.* / *Hẹn gặp trên sân, kỹ sư.*
 
 ---
 

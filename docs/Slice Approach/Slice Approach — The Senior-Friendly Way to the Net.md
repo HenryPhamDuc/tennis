@@ -516,5 +516,3 @@ THE VOLLEY FINISH (the shot you already know):
 Bắt đầu tuần này với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, bạn sẽ tự tin approach 1-2 lần mỗi set ở Surrey. 🎾
 
 ---
-
-*See you on the court, champion. — Hermes*

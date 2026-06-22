@@ -224,7 +224,6 @@
     ║                                                                ║
     ╚═══════════════════════════════════════════════════════════════╝
 
-
     ╔═══════════════════════════════════════════════════════════════╗
     ║  THE MYELIN MASTER CARD — YOUR PRACTICE SYSTEM                 ║
     ║  THẺ MYELIN TỔNG — HỆ THỐNG TẬP LUYỆN CỦA BẠN                ║
@@ -293,4 +292,3 @@
 - Futuristic Tennis Manual by Olama.md (NKF Δt_synch — neural synchronization timing)
 - Advanced Tennis Kinetic-Chain Manual.md (Neuro-Muscular Reset, CNS fatigue distinction, 48-72h supercompensation)
 
-**See you on the court, engineer.** / **Hẹn gặp trên sân, kỹ sư.**
