@@ -36,7 +36,7 @@
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of the difference between a parked car and an idling engine. A parked car needs 2 seconds to start, warm up, and go. An idling engine just needs the gear shift — instant response. **Your feet should be idling, never parked.** Tennis is not played by people who run fast — it is played by people who *never stopped*.
 >
-> *Hãy nghĩ khác biệt giữa xe đậu và xe nổ máy chờ. Xe đậu cần 2 giây khởi động, làm nóng, rồi đi. Xe nổ máy chỉ cần sang số — phản ứng tức thì. **Chân anh phải ở trạng thái nổ máy chờ, không bao giờ đậu.** Tennis không dành cho người chạy nhanh — tennis dành cho người *không bao giờ dừng lại*.*
+> *Hãy nghĩ khác biệt giữa xe đậu và xe nổ máy chờ. Xe đậu cần 2 giây khởi động, làm nóng, rồi đi. Xe nổ máy chỉ cần sang số — phản ứng tức thì. **Chân bạn phải ở trạng thái nổ máy chờ, không bao giờ đậu.** Tennis không dành cho người chạy nhanh — tennis dành cho người *không bao giờ dừng lại*.*
 
 > ⚠️ **The 50+ reality | Thực tế 50+**
 > At 50+, sprinting is *expensive* — every explosive move costs a day of recovery. The good news: **smart footwork saves the legs.** A player who is already in motion uses 30% less energy per point than one who stands still then sprints. The split-step + staggered stance + small steps is not just better tennis — it is *longevity tennis.* You will still be playing at 65 because your knees never took the pounding they would have.
@@ -65,7 +65,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| From your giáo trình: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** The back heel is up 1-2 cm at all times when not actually mid-shot. | Từ giáo trình của anh: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** Gót chân sau luôn nhấc 1-2 cm khi không thực sự đang đánh. |
+| From your giáo trình: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** The back heel is up 1-2 cm at all times when not actually mid-shot. | Từ giáo trình của bạn: **"Luôn giữ gót chân sau nhấc nhẹ (khoảng 1-2 cm)."** Gót chân sau luôn nhấc 1-2 cm khi không thực sự đang đánh. |
 | Why? Because the moment both heels touch down, the **calf-spring deactivates.** You become a statue. The "spring in your step" is not a metaphor — it is the gastrocnemius muscle pre-loaded, ready to fire. | Tại sao? Vì khoảnh khắc cả hai gót chạm đất, **lò xo bắp chân tắt.** Anh trở thành tượng. "Bước nhẹ nhàng" không phải ẩn dụ — đó là cơ bụng chân đã nạp sẵn, sẵn sàng bắn. |
 | This is also why both feet flat = slow reaction. Flat feet mean the body has to *recruit* the calves before it can move. One heel up means the calves are *already engaged*. | Đó cũng là lý do tại sao hai chân bệt = phản ứng chậm. Chân bệt nghĩa là cơ thể phải *tuyển* bắp chân trước khi di chuyển. Một gót nhấc nghĩa là bắp chân *đã chủ động rồi*. |
 
@@ -73,14 +73,14 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Weight should sit on the **balls of the feet** (the padded area just behind the toes), not on the heels. Test: lift your toes — if you can balance for 5 seconds without wobbling, you are on the balls. If you fall backward, you are on the heels. | Trọng lượng nên nằm trên **mũi chân** (vùng đệm ngay sau các ngón), không phải gót. Thử: nhấc ngón chân lên — nếu giữ thăng bằng 5 giây không lảo đảo, anh đang ở mũi chân. Nếu ngã ngược, anh đang ở gót. |
+| Weight should sit on the **balls of the feet** (the padded area just behind the toes), not on the heels. Test: lift your toes — if you can balance for 5 seconds without wobbling, you are on the balls. If you fall backward, you are on the heels. | Trọng lượng nên nằm trên **mũi chân** (vùng đệm ngay sau các ngón), không phải gót. Thử: nhấc ngón chân lên — nếu giữ thăng bằng 5 giây không lảo đảo, bạn đang ở mũi chân. Nếu ngã ngược, bạn đang ở gót. |
 | Heel-walking is for office shoes, not tennis. On the balls of the feet, your COG (center of gravity) is slightly forward — the body is in a *forward lean* of 5 to 10 degrees. This is the "hunter stance." | Đi trên gót là cho giày công sở, không phải tennis. Trên mũi chân, COG (trọng tâm) hơi về phía trước — cơ thể *nghiêng tới* 5 đến 10 độ. Đây là "tư thế thợ săn." |
-| **Forward lean saves the back.** If your weight is on the heels, you have to *lean forward with the spine* to move forward. Spinal lean = back load. COG lean = leg load. Legs are built for this; the spine is not. | **Nghiêng về trước tiết kiệm lưng.** Nếu trọng lượng ở gót, anh phải *nghiêng tới bằng cột sống* để di chuyển tới. Nghiêng cột sống = tải lưng. Nghiêng COG = tải chân. Chân được tạo ra cho việc này; cột sống thì không. |
+| **Forward lean saves the back.** If your weight is on the heels, you have to *lean forward with the spine* to move forward. Spinal lean = back load. COG lean = leg load. Legs are built for this; the spine is not. | **Nghiêng về trước tiết kiệm lưng.** Nếu trọng lượng ở gót, bạn phải *nghiêng tới bằng cột sống* để di chuyển tới. Nghiêng cột sống = tải lưng. Nghiêng COG = tải chân. Chân được tạo ra cho việc này; cột sống thì không. |
 
 > ⚠️ **The 50+ posture warning | Cảnh báo tư thế 50+**
 > **Forward lean at the ankles, NOT at the waist.** Bend at the hips, not the spine. Imagine your pelvis is a bowl of water — keep it level. If the bowl tips forward, you have bent the spine. If the bowl stays level and the whole body angles from the ankles, you have done it right. This single cue saves the lower back.
 >
-> * **Nghiêng tới ở cổ chân, KHÔNG ở thắt lưng.** Chùng ở hông, không ở cột sống. Hãy tưởng tượng hông anh là cái bát nước — giữ nó bằng phẳng. Nếu bát nghiêng tới, anh đã gập cột sống. Nếu bát bằng phẳng và cả người nghiêng từ cổ chân, anh làm đúng. Một tín hiệu này cứu lưng dưới.*
+> * **Nghiêng tới ở cổ chân, KHÔNG ở thắt lưng.** Chùng ở hông, không ở cột sống. Hãy tưởng tượng hông bạn là cái bát nước — giữ nó bằng phẳng. Nếu bát nghiêng tới, bạn đã gập cột sống. Nếu bát bằng phẳng và cả người nghiêng từ cổ chân, bạn làm đúng. Một tín hiệu này cứu lưng dưới.*
 
 ---
 
@@ -93,8 +93,8 @@
 |---|---|
 | The split-step is a **tiny hop** — both feet leave the ground for a fraction of a second — timed to your opponent's racket striking the ball. | Split-step là một **cú nhún nhỏ** — hai chân rời đất một phần nhỏ giây — bấm giờ theo khoảnh khắc vợt đối thủ chạm bóng. |
 | The hop is **tiny** — 1 to 3 cm off the ground. Not a jump, not a bounce. It is a "loading" of the legs, like a compressed spring. | Cú nhún **rất nhỏ** — 1 đến 3 cm khỏi đất. Không phải nhảy, không phải bật. Nó là "nạp" chân, như lò xo bị nén. |
-| When you land, your weight is on the balls of both feet, knees slightly bent — and from that position, **you can go in any direction with equal speed.** | Khi tiếp đất, trọng lượng ở mũi cả hai chân, gối hơi chùng — và từ vị trí đó, **anh có thể đi bất kỳ hướng nào với tốc độ ngang nhau.** |
-| The split-step is the **neural trigger** that converts you from "standing" to "ready to explode." It activates the CNS (central nervous system), pre-tensions the calves, and gives you 200-300ms of extra reaction time. | Split-step là **cò súng thần kinh** biến anh từ "đứng" sang "sẵn sàng bùng nổ." Nó kích hoạt CNS (hệ thần kinh trung ương), nạp trước bắp chân, và cho anh thêm 200-300ms thời gian phản ứng. |
+| When you land, your weight is on the balls of both feet, knees slightly bent — and from that position, **you can go in any direction with equal speed.** | Khi tiếp đất, trọng lượng ở mũi cả hai chân, gối hơi chùng — và từ vị trí đó, **bạn có thể đi bất kỳ hướng nào với tốc độ ngang nhau.** |
+| The split-step is the **neural trigger** that converts you from "standing" to "ready to explode." It activates the CNS (central nervous system), pre-tensions the calves, and gives you 200-300ms of extra reaction time. | Split-step là **cò súng thần kinh** biến bạn từ "đứng" sang "sẵn sàng bùng nổ." Nó kích hoạt CNS (hệ thần kinh trung ương), nạp trước bắp chân, và cho bạn thêm 200-300ms thời gian phản ứng. |
 
 > 💡 **The 300ms gift | Món quà 300ms**
 > A pro-level player reacts to a 100 km/h serve in roughly 500ms. A 3.5 player needs 800ms because of the "start-up" delay — the time it takes for the brain to recognize the ball, send the signal, and the first muscle to fire. The split-step removes most of that start-up delay. **It is the closest thing to a free gift in tennis.**
@@ -107,13 +107,13 @@
 |---|---|
 | The split-step fires when the **opponent's racket starts moving forward** toward the ball — not when they wind up, not when they make contact. | Split-step bắn khi **vợt đối thủ bắt đầu đi về phía trước** về phía bóng — không phải khi họ vung ra sau, không phải khi họ chạm bóng. |
 | Look at the opponent's **racket head**, not their body. The racket head tells you the truth. The shoulders can disguise. The racket cannot lie. | Nhìn **đầu vợt** đối thủ, không phải thân họ. Đầu vợt nói sự thật. Vai có thể ngụy trang. Vợt không biết nói dối. |
-| For serves: split-step when the server's racket reaches the top of the toss. For groundstrokes: split-step when you see the forward swing starting. | Cho giao bóng: split-step khi vợt server lên đỉnh tung bóng. Cho groundstroke: split-step khi anh thấy vung tới bắt đầu. |
+| For serves: split-step when the server's racket reaches the top of the toss. For groundstrokes: split-step when you see the forward swing starting. | Cho giao bóng: split-step khi vợt server lên đỉnh tung bóng. Cho groundstroke: split-step khi bạn thấy vung tới bắt đầu. |
 
 ### 🎯 Part 3 — The Landing: 1-2 Hold, Then Go | Tiếp đất: giữ 1-2, rồi đi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| After the split-step, **land and hold for 1 to 2 tenths of a second** — your brain is reading the ball's direction. Then you explode in that direction. | Sau split-step, **đáp đất và giữ 1 đến 2 phần mười giây** — não anh đang đọc hướng bóng. Rồi anh bùng nổ về hướng đó. |
+| After the split-step, **land and hold for 1 to 2 tenths of a second** — your brain is reading the ball's direction. Then you explode in that direction. | Sau split-step, **đáp đất và giữ 1 đến 2 phần mười giây** — não bạn đang đọc hướng bóng. Rồi bạn bùng nổ về hướng đó. |
 | The hold is what most 3.5 players skip. They split-step and immediately move — but they don't know which direction yet. Result: they move the wrong way first, then correct. The hold eliminates that wasted step. | Cái giữ là thứ hầu hết người 3.5 bỏ qua. Họ split-step và di chuyển ngay — nhưng chưa biết hướng nào. Kết quả: họ đi sai hướng trước, rồi sửa. Cái giữ loại bỏ bước lãng phí đó. |
 | **Phase** | **Body** | **Time** | **Cue** |
 |---|---|---|---|
@@ -156,7 +156,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| For balls that pull you WIDE or DEEP — when the lateral hop runs out of range. The drop step is the "oh no, that's farther than I thought" move. | Cho bóng kéo anh RA XA hoặc SÂU — khi lateral hop không tới. Drop step là bước "ôi, xa hơn anh tưởng." |
+| For balls that pull you WIDE or DEEP — when the lateral hop runs out of range. The drop step is the "oh no, that's farther than I thought" move. | Cho bóng kéo bạn RA XA hoặc SÂU — khi lateral hop không tới. Drop step là bước "ôi, xa hơn bạn tưởng." |
 | **The mechanism:** your lead foot plants and PIVOTS 180°, your body drops low, the back leg swings around. You end up facing the sideline, ready to sprint back to center. | **Cơ chế:** chân dẫn cắm xuống và XOAY 180°, cơ thể hạ thấp, chân sau vung quanh. Anh kết thúc đối diện vạch biên, sẵn sàng chạy nước rút về giữa. |
 | In taichi: this is *Tụ Bộ* (墜步) — "dropping step." The energy sinks into the back leg before it springs out. The drop is the load. | Trong thái cực: đây là *Tụ Bộ* (墜步) — "bước rơi." Năng lượng chìm vào chân sau trước khi bật ra. Hạ là nạp. |
 | **At 50+, this is also a low-ball move.** A ball that dips at your feet: drop step + deep knee bend. Reach with the legs, NOT the back. | **Ở tuổi 50+, đây cũng là bước bóng thấp.** Bóng rơi xuống chân: drop step + chùng gối sâu. Với bằng chân, KHÔNG phải lưng. |
@@ -171,20 +171,20 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | For balls 3+ meters away — when neither the lateral hop nor the drop step is enough. This is the "chase" move. | Cho bóng cách 3+ mét — khi cả lateral hop lẫn drop step đều không đủ. Đây là bước "truy đuổi." |
-| **The mechanism:** the inside foot CROSSES in front of (or behind) the outside foot, you push off the back foot, you take a long stride to cover ground. | **Cơ chế:** chân trong BẮT CHÉO phía trước (hoặc phía sau) chân ngoài, anh đẩy bằng chân sau, anh bước dài để phủ đất. |
+| **The mechanism:** the inside foot CROSSES in front of (or behind) the outside foot, you push off the back foot, you take a long stride to cover ground. | **Cơ chế:** chân trong BẮT CHÉO phía trước (hoặc phía sau) chân ngoài, bạn đẩy bằng chân sau, bạn bước dài để phủ đất. |
 | Cross-overs are the highest-injury move in tennis. Done wrong, they twist the knee. Done right, they are smooth and powerful. | Cross-over là bước gây chấn thương cao nhất trong tennis. Làm sai, chúng xoắn gối. Làm đúng, chúng mượt và mạnh. |
 | **The rule: cross-over foot LANDS ON THE BALLS, not the heel. Knee bends IN THE DIRECTION OF MOVEMENT, not against it. The hips face the direction of movement, not the net.** | **Quy tắc: chân cross-over ĐÁP BẰNG MŨI CHÂN, không phải gót. Gối chùng THEO HƯỚNG DI CHUYỂN, không ngược lại. Hông hướng theo chiều di chuyển, không hướng lưới.** |
 
 > ⚠️ **The 50+ warning | Cảnh báo 50+**
 > **At 50+, use cross-over sparingly.** The lateral hop + drop step can cover 90% of balls if you START EARLY (the whole point of the split-step + ready position). Save cross-overs for the balls you misread — and when you use them, plant firmly and stop as soon as possible. A 52-year-old chasing down a drop shot with a cross-over is a 5-day knee-recovery sentence.
 >
-> * **Ở tuổi 50+, dùng cross-over tiết chế.** Lateral hop + drop step có thể phủ 90% bóng nếu anh BẮT ĐẦU SỚM (toàn bộ ý nghĩa của split-step + ready position). Để dành cross-over cho bóng anh đọc sai — và khi dùng, cắm chân chắc và dừng ngay khi có thể. Người 52 tuổi đuổi theo drop shot bằng cross-over là bản án gối phục hồi 5 ngày.*
+> * **Ở tuổi 50+, dùng cross-over tiết chế.** Lateral hop + drop step có thể phủ 90% bóng nếu bạn BẮT ĐẦU SỚM (toàn bộ ý nghĩa của split-step + ready position). Để dành cross-over cho bóng bạn đọc sai — và khi dùng, cắm chân chắc và dừng ngay khi có thể. Người 52 tuổi đuổi theo drop shot bằng cross-over là bản án gối phục hồi 5 ngày.*
 
 ### 4️⃣ The Recovery Step | Bước phục hồi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| After every shot, your body must RETURN to a center position behind the ball you just hit. This is recovery. | Sau mỗi cú đánh, cơ thể anh phải TRỞ VỀ vị trí trung tâm phía sau quả bóng vừa đánh. Đó là phục hồi. |
+| After every shot, your body must RETURN to a center position behind the ball you just hit. This is recovery. | Sau mỗi cú đánh, cơ thể bạn phải TRỞ VỀ vị trí trung tâm phía sau quả bóng vừa đánh. Đó là phục hồi. |
 | Most 3.5 players freeze and watch their shot. **This is the #1 reason they are always late for the next ball.** The ball is still in play. The opponent is already hitting back. They are standing still admiring their forehand. | Hầu hết người 3.5 đứng đông cứng và nhìn cú đánh của mình. **Đây là lý do #1 họ luôn trễ cho bóng tiếp theo.** Bóng vẫn còn trong cuộc chơi. Đối thủ đã đánh trả. Họ đứng yên ngắm forehand. |
 | **The first 3 steps after your shot are automatic.** Side-step + crossover + side-step. The body resets without thinking. Like a boxer returning to stance after a punch. | **3 bước đầu tiên sau cú đánh là tự động.** Side-step + crossover + side-step. Cơ thể reset không cần suy nghĩ. Như võ sĩ trở về thế sau cú đấm. |
 | In taichi, this is *Hoàn Thủ* (還手) — "return to center." Every movement returns to the source. The hands come back, the feet come back, the breath comes back. | Trong thái cực, đây là *Hoàn Thủ* (還手) — "trở về trung tâm." Mỗi động tác đều trở về nguồn. Tay trở về, chân trở về, hơi thở trở về. |
@@ -192,7 +192,7 @@
 > 🎯 **Drill — The 3-Step Reset | Bài tập reset 3 bước**
 > Have a partner feed you 10 balls in a row from the other baseline. After each shot, you MUST take 3 steps back toward center before the next ball arrives. Your partner calls "Reset!" if they see you freeze. Do 3 sets of 10. Goal: train the body that recovery is non-negotiable.
 >
-> *Nhờ bạn ném 10 bóng liên tiếp từ vạch cuối bên kia. Sau mỗi cú, anh PHẢI bước 3 bước về phía trung tâm trước khi bóng tiếp theo tới. Bạn sẽ gọi "Reset!" nếu thấy anh đứng yên. Làm 3 vòng 10 bóng. Mục tiêu: huấn luyện cơ thể rằng phục hồi là không thể thương lượng.*
+> *Nhờ bạn ném 10 bóng liên tiếp từ vạch cuối bên kia. Sau mỗi cú, bạn PHẢI bước 3 bước về phía trung tâm trước khi bóng tiếp theo tới. Bạn sẽ gọi "Reset!" nếu thấy bạn đứng yên. Làm 3 vòng 10 bóng. Mục tiêu: huấn luyện cơ thể rằng phục hồi là không thể thương lượng.*
 
 ### Summary Table — When to Use Each Move | Bảng tóm tắt — khi nào dùng bước nào
 
@@ -213,7 +213,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Patterns are **combinations** of the four moves. At 3.5, you need to recognize three patterns. | Mẫu là **kết hợp** của bốn bước. Ở mức 3.5, anh cần nhận ba mẫu. |
+| Patterns are **combinations** of the four moves. At 3.5, you need to recognize three patterns. | Mẫu là **kết hợp** của bốn bước. Ở mức 3.5, bạn cần nhận ba mẫu. |
 | A pattern is more than a sequence — it's a *loop.* Every point has a beginning (split-step), a middle (movement + shot), and an end (3-step recovery). Train the loop, not the parts. | Mẫu không chỉ là chuỗi — đó là *vòng lặp.* Mỗi điểm có đầu (split-step), giữa (di chuyển + đánh), và cuối (recovery 3 bước). Tập vòng lặp, không tập từng phần. |
 
 | 🇺🇸 Pattern | 🇺🇸 When | 🇺🇸 Sequence | 🇺🇸 Cue | 🇻🇳 Khi nào | 🇻🇳 Chuỗi | 🇻🇳 Tín hiệu |
@@ -228,35 +228,35 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand in ready position. Stagger feet. Close eyes. Hold for 30 seconds. Open eyes. Check: did you drift back to parallel? If yes, the standing-with-feet-apart habit is too strong. Do 10 reps. After 1 week, your body will default to staggered. | Đứng tư thế sẵn sàng. So le chân. Nhắm mắt. Giữ 30 giây. Mở mắt. Kiểm tra: anh có trôi về song song không? Nếu có, thói quen đứng chân rộng đang quá mạnh. Làm 10 lần. Sau 1 tuần, cơ thể sẽ mặc định so le. |
-| **What this trains:** the body's "default" stance. If your muscle memory is parallel, you'll drift back every time you stop thinking. This drill forces the new default to install. | **Bài này tập gì:** tư thế mặc định của cơ thể. Nếu trí nhớ cơ là song song, anh sẽ trôi về mỗi khi ngừng suy nghĩ. Bài này ép cài mặc định mới. |
+| Stand in ready position. Stagger feet. Close eyes. Hold for 30 seconds. Open eyes. Check: did you drift back to parallel? If yes, the standing-with-feet-apart habit is too strong. Do 10 reps. After 1 week, your body will default to staggered. | Đứng tư thế sẵn sàng. So le chân. Nhắm mắt. Giữ 30 giây. Mở mắt. Kiểm tra: bạn có trôi về song song không? Nếu có, thói quen đứng chân rộng đang quá mạnh. Làm 10 lần. Sau 1 tuần, cơ thể sẽ mặc định so le. |
+| **What this trains:** the body's "default" stance. If your muscle memory is parallel, you'll drift back every time you stop thinking. This drill forces the new default to install. | **Bài này tập gì:** tư thế mặc định của cơ thể. Nếu trí nhớ cơ là song song, bạn sẽ trôi về mỗi khi ngừng suy nghĩ. Bài này ép cài mặc định mới. |
 
 #### Drill 2 — The Mirror Split-Step (10 min, 3x/week) | Split-step gương
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand 2 meters from a mirror in ready position. Do the split-step 20 times. Check: are you landing on the balls? Are you holding for 1-2 tenths? Are you returning to ready without looking at your feet? | Đứng cách gương 2 mét trong tư thế sẵn sàng. Làm split-step 20 lần. Kiểm tra: anh có đáp bằng mũi chân? Có giữ 1-2 phần mười? Có trở về sẵn sàng mà không nhìn chân? |
-| **What this trains:** the timing and the feel. The mirror is honest — you see exactly what your body is doing. Once you look right, close your eyes and do 20 more. Then do 20 with eyes open on the court. Then in a match. | **Bài này tập gì:** nhịp và cảm giác. Gương trung thực — anh thấy chính xác cơ thể đang làm gì. Khi trông đúng rồi, nhắm mắt làm thêm 20 lần. Rồi mở mắt làm 20 lần trên sân. Rồi trong trận. |
+| Stand 2 meters from a mirror in ready position. Do the split-step 20 times. Check: are you landing on the balls? Are you holding for 1-2 tenths? Are you returning to ready without looking at your feet? | Đứng cách gương 2 mét trong tư thế sẵn sàng. Làm split-step 20 lần. Kiểm tra: bạn có đáp bằng mũi chân? Có giữ 1-2 phần mười? Có trở về sẵn sàng mà không nhìn chân? |
+| **What this trains:** the timing and the feel. The mirror is honest — you see exactly what your body is doing. Once you look right, close your eyes and do 20 more. Then do 20 with eyes open on the court. Then in a match. | **Bài này tập gì:** nhịp và cảm giác. Gương trung thực — bạn thấy chính xác cơ thể đang làm gì. Khi trông đúng rồi, nhắm mắt làm thêm 20 lần. Rồi mở mắt làm 20 lần trên sân. Rồi trong trận. |
 
 #### Drill 3 — The Lateral Ladder (10 min, 2x/week) | Thang ngang
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Already covered above. Shuffle between two lines, 4 meters apart, 6 touches per rep, 5 reps per set, 3 sets. This is your bread-and-butter lateral speed work. | Đã trình bày ở trên. Trượt giữa hai vạch cách 4 mét, 6 chạm mỗi hiệp, 5 hiệp mỗi vòng, 3 vòng. Đây là công việc tốc độ ngang cơ bản của anh. |
-| **Why it matters:** lateral speed is the single most-used movement in tennis. ~70% of all balls in a rally are within 3 meters of where you stood. Master this and you cover most shots. | **Tại sao quan trọng:** tốc độ ngang là di chuyển dùng nhiều nhất trong tennis. ~70% mọi bóng trong rally nằm trong 3 mét chỗ anh đứng. Thành thạo bài này là anh phủ hầu hết cú đánh. |
+| Already covered above. Shuffle between two lines, 4 meters apart, 6 touches per rep, 5 reps per set, 3 sets. This is your bread-and-butter lateral speed work. | Đã trình bày ở trên. Trượt giữa hai vạch cách 4 mét, 6 chạm mỗi hiệp, 5 hiệp mỗi vòng, 3 vòng. Đây là công việc tốc độ ngang cơ bản của bạn. |
+| **Why it matters:** lateral speed is the single most-used movement in tennis. ~70% of all balls in a rally are within 3 meters of where you stood. Master this and you cover most shots. | **Tại sao quan trọng:** tốc độ ngang là di chuyển dùng nhiều nhất trong tennis. ~70% mọi bóng trong rally nằm trong 3 mét chỗ bạn đứng. Thành thạo bài này là bạn phủ hầu hết cú đánh. |
 
 #### Drill 4 — The Cone Drop (10 min, 2x/week) | Cọc rơi
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Already covered above. 5 cones at the baseline, shuffle-drag-sprint pattern, 3 sets. | Đã trình bày ở trên. 5 cọc ở vạch cuối, mẫu trượt-kéo-chạy, 3 vòng. |
-| **Why it matters:** wide balls are the ones that beat you at 3.5. Not because you can't run — because you start late. The cone drop trains the late-start recovery: plant, pivot, sprint, hit. | **Tại sao quan trọng:** bóng xa là cú đánh bại anh ở 3.5. Không phải vì anh không chạy được — mà vì anh bắt đầu muộn. Bài cọc rơi huấn luyện phục hồi khi bắt đầu muộn: cắm, xoay, chạy, đánh. |
+| **Why it matters:** wide balls are the ones that beat you at 3.5. Not because you can't run — because you start late. The cone drop trains the late-start recovery: plant, pivot, sprint, hit. | **Tại sao quan trọng:** bóng xa là cú đánh bại bạn ở 3.5. Không phải vì bạn không chạy được — mà vì bạn bắt đầu muộn. Bài cọc rơi huấn luyện phục hồi khi bắt đầu muộn: cắm, xoay, chạy, đánh. |
 
 #### Drill 5 — The 3-Step Reset with a Partner (15 min, 2x/week) | Reset 3 bước với bạn
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Already covered above. 3 sets of 10 balls, "Reset!" called when you freeze. | Đã trình bày ở trên. 3 vòng 10 bóng, gọi "Reset!" khi anh đứng yên. |
+| Already covered above. 3 sets of 10 balls, "Reset!" called when you freeze. | Đã trình bày ở trên. 3 vòng 10 bóng, gọi "Reset!" khi bạn đứng yên. |
 | **Why it matters:** the 3-step reset is the difference between being early for the next ball and being late. The first 3 steps after a shot should be automatic — like a boxer returning to stance. A partner holding you accountable makes the habit stick. | **Tại sao quan trọng:** reset 3 bước là khác biệt giữa sớm và trễ cho bóng tiếp theo. 3 bước đầu sau cú đánh phải tự động — như võ sĩ trở về thế. Có bạn giám sát làm thói quen bám chắc. |
 
 #### Drill 6 — The Triangle Drill (15 min, 1x/week) | Bài tập tam giác
@@ -296,7 +296,7 @@
 > 🩺 **The single most important 50+ footwork rule | Quy tắc di chuyển 50+ quan trọng nhất**
 > **Smart beats fast. Always.** A player who starts 300ms early with small steps beats a player who starts 800ms late with a sprint. The early starter's heart rate stays low, the joints stay healthy, and the match lasts 3 hours instead of 90 minutes. **Footwork is your longevity insurance policy. Buy it now.**
 >
-> * **Thông minh đánh bại nhanh. Luôn luôn.** Người bắt đầu sớm 300ms với bước nhỏ đánh bại người bắt đầu muộn 800ms với nước rút. Người bắt đầu sớm có nhịp tim thấp, khớp khỏe, và trận đấu kéo 3 tiếng thay vì 90 phút. **Di chuyển là bảo hiểm bền bỉ của anh. Mua nó ngay bây giờ.**
+> * **Thông minh đánh bại nhanh. Luôn luôn.** Người bắt đầu sớm 300ms với bước nhỏ đánh bại người bắt đầu muộn 800ms với nước rút. Người bắt đầu sớm có nhịp tim thấp, khớp khỏe, và trận đấu kéo 3 tiếng thay vì 90 phút. **Di chuyển là bảo hiểm bền bỉ của bạn. Mua nó ngay bây giờ.**
 
 ### 🧘 The Tai Chi Meditation | Thiền thái cực cho footwork
 
@@ -421,15 +421,15 @@ After every shot:
 
 > Anh,
 >
-> Chân không phải thứ khó nhất trong tennis. Chân là thứ *bị bỏ qua* nhiều nhất. Anh tập forehand 100 lần, anh tập serve 100 lần — nhưng anh tập split-step bao nhiêu lần? Thường thì 0, vì nó cảm thấy như không phải "tập."
+> Chân không phải thứ khó nhất trong tennis. Chân là thứ *bị bỏ qua* nhiều nhất. Anh tập forehand 100 lần, bạn tập serve 100 lần — nhưng bạn tập split-step bao nhiêu lần? Thường thì 0, vì nó cảm thấy như không phải "tập."
 >
-> Nhưng chân là nền tảng. Một cú forehand đẹp đến mấy, nếu chân anh không ở đúng chỗ, anh không chạm được bóng. Một cú serve mạnh đến mấy, nếu chân anh không nạp đúng cách, anh sẽ gồng vai và đau.
+> Nhưng chân là nền tảng. Một cú forehand đẹp đến mấy, nếu chân bạn không ở đúng chỗ, bạn không chạm được bóng. Một cú serve mạnh đến mấy, nếu chân bạn không nạp đúng cách, bạn sẽ gồng vai và đau.
 >
-> Bắt đầu với 6 bài tập trên, hai lần mỗi tuần. Trong 4 tuần, anh sẽ thấy mình đến bóng sớm hơn, đánh thoải mái hơn, và hết trận không đau đầu gối hay lưng. Footwork không phải vũ khí — nó là *phương tiện* để mọi vũ khí khác hoạt động.
+> Bắt đầu với 6 bài tập trên, hai lần mỗi tuần. Trong 4 tuần, bạn sẽ thấy mình đến bóng sớm hơn, đánh thoải mái hơn, và hết trận không đau đầu gối hay lưng. Footwork không phải vũ khí — nó là *phương tiện* để mọi vũ khí khác hoạt động.
 >
 > Thái cực dạy: *Thường Tùng* — luôn lỏng, luôn sẵn sàng. Tennis dạy điều tương tự: đừng bao giờ đậu xe, hãy *nổ máy chờ.*
 >
-> Chúc anh di chuyển nhẹ, đến bóng sớm, và giữ đầu gối khỏe đến năm 65 tuổi. 🎾
+> Chúc bạn di chuyển nhẹ, đến bóng sớm, và giữ đầu gối khỏe đến năm 65 tuổi. 🎾
 >
 > — Coach Henry's AI
 
@@ -437,4 +437,4 @@ After every shot:
 
 *Sources drawn from your `My notes/` folder: your giáo trình `GIÁO TRÌNH TENNIS TOÀN DIỆN CHO NGƯỜI CHƠI TRUNG NIÊN (40-65 TUỔI).md` (Chương 2 — Footwork: "Đạp Xe," Split-Step, 4 bước), your existing Volley deep-dive (Hư-Thực framework, 70/30 weight distribution, bridge-leg concept), the master Forehand deep-dive (4-Layer System, Tai Chi principles), and the series conventions established across your Deep Dives.*
 
-*Tài liệu tham khảo từ thư mục ghi chú của anh: giáo trình (Chương 2 — Footwork), deep-dive Volley (khung Hư-Thực, phân bố trọng lượng 70/30, khái niệm chân cầu), deep-dive Forehand 4 lớp, nguyên lý thái cực, và các quy ước series đã thiết lập.*
+*Tài liệu tham khảo từ thư mục ghi chú của bạn: giáo trình (Chương 2 — Footwork), deep-dive Volley (khung Hư-Thực, phân bố trọng lượng 70/30, khái niệm chân cầu), deep-dive Forehand 4 lớp, nguyên lý thái cực, và các quy ước series đã thiết lập.*

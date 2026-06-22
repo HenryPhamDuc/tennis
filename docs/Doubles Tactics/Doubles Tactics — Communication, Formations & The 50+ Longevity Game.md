@@ -47,7 +47,7 @@
 > 💡 **Why "placement over power" matters at 50+ | Tại sao "đặt bóng hơn lực" quan trọng ở 50+**
 > At 50+, your power is decreasing every year. Your placement can stay the same — or even improve. Doubles rewards placement because the angles are sharper (you have a net player to aim at, and an alley to avoid). **Doubles is the 50+ player's secret weapon against aging.**
 >
-> *Ở tuổi 50+, lực anh giảm mỗi năm. Đặt bóng có thể giữ nguyên — hoặc thậm chí tăng. Đôi thưởng đặt bóng vì các góc sắc hơn (anh có người lưới để nhắm, và biên ngoài để tránh). **Đôi là vũ khí bí mật của người 50+ chống lại tuổi tác.***
+> *Ở tuổi 50+, lực bạn giảm mỗi năm. Đặt bóng có thể giữ nguyên — hoặc thậm chí tăng. Đôi thưởng đặt bóng vì các góc sắc hơn (bạn có người lưới để nhắm, và biên ngoài để tránh). **Đôi là vũ khí bí mật của người 50+ chống lại tuổi tác.***
 
 ### The 50+ Reality — Why Doubles First, Singles Second | Thực tế 50+ — Tại sao đôi trước, singles sau
 
@@ -60,7 +60,7 @@
 > ⚠️ **The 50+ warning | Cảnh báo 50+**
 > **Don't quit tennis at 50+ because of singles. Switch to doubles.** The body that struggles in singles at 52 can thrive in doubles at 62. Doubles is the format that lets you play for 20 more years.
 >
-> * **Đừng bỏ tennis ở 50+ vì singles. Chuyển sang đôi.** Cơ thể vật lộn ở singles năm 52 có thể phát triển ở đôi năm 62. Đôi là định dạng cho anh chơi thêm 20 năm.*
+> * **Đừng bỏ tennis ở 50+ vì singles. Chuyển sang đôi.** Cơ thể vật lộn ở singles năm 52 có thể phát triển ở đôi năm 62. Đôi là định dạng cho bạn chơi thêm 20 năm.*
 
 ---
 
@@ -96,21 +96,21 @@
 
 | Rule | Quy tắc | Why | Tại sao |
 |---|---|---|---|
-| **"Move as a unit"** | "Di chuyển như một" | If your partner moves right, you move left — together | Nếu partner đi phải, anh đi trái — cùng lúc |
+| **"Move as a unit"** | "Di chuyển như một" | If your partner moves right, you move left — together | Nếu partner đi phải, bạn đi trái — cùng lúc |
 | **"Always cross, never cross over"** | "Luôn chéo, không bao giờ cắt ngang" | When you both run to the same ball, take parallel paths | Khi cả hai chạy tới cùng bóng, đi đường song song |
 | **"The net player leads"** | "Người lưới dẫn đầu" | At the net, the closer player calls the shot | Ở lưới, người gần hơn gọi cú đánh |
 
 > 🧠 **The "Move as a Unit" mental model | Mô hình tư duy "Di chuyển như một"**
 > Imagine you and your partner are connected by a rope. When one moves, the other follows. You're not two players — you're **one organism with two bodies**. If your partner takes 2 steps right, you take 2 steps left. The shape of your team stays the same.
 >
-> *Hình dung anh và partner nối bằng sợi dây. Khi một người di chuyển, người kia theo. Anh không phải hai người chơi — anh là **một cơ thể với hai hình dạng**. Nếu partner lấy 2 bước phải, anh lấy 2 bước trái. Hình dạng đội giữ nguyên.*
+> *Hình dung bạn và partner nối bằng sợi dây. Khi một người di chuyển, người kia theo. Anh không phải hai người chơi — bạn là **một cơ thể với hai hình dạng**. Nếu partner lấy 2 bước phải, bạn lấy 2 bước trái. Hình dạng đội giữ nguyên.*
 
 ### 🎯 The Alley Rule — The #1 Doubles Trap | Quy tắc biên ngoài — Cái bẫy đôi #1
 
 | 🇺🇸 English | 🇻🇳 Tiệt Việt |
 |---|---|
 | **In doubles, the alleys are IN.** This is the #1 thing 3.5 players get wrong. They play the alley like it's singles and leave huge gaps. | **Trong đôi, biên ngoài là TRONG.** Đây là điều #1 người 3.5 sai. Họ đánh biên ngoài như singles và để khoảng trống lớn. |
-| **The rule:** if your partner is pulled wide to cover a ball, **you shift to cover their side.** The middle of the court is no-man's-land for the partner — it's the gap you MUST fill. | **Quy tắc:** nếu partner bị kéo rộng để che bóng, **anh dịch sang che phía của họ.** Giữa sân là vùng đất của người nào-đó cho partner — đó là khoảng trống anh PHẢI lấp. |
+| **The rule:** if your partner is pulled wide to cover a ball, **you shift to cover their side.** The middle of the court is no-man's-land for the partner — it's the gap you MUST fill. | **Quy tắc:** nếu partner bị kéo rộng để che bóng, **bạn dịch sang che phía của họ.** Giữa sân là vùng đất của người nào-đó cho partner — đó là khoảng trống bạn PHẢI lấp. |
 
 ```
 Doubles Court Geometry:
@@ -149,7 +149,7 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 > 🧠 **The "stand at the net" rule for 50+ | Quy tắc "đứng ở lưới" cho 50+**
 > **At 50+, the net is your friend.** Standing 1-2 meters from the net, you cover less court, you react faster, and you end points with volleys instead of 10-shot rallies. Your partner covers the lob. **The net is where tennis is easiest on the body.**
 >
-> * **Ở tuổi 50+, lưới là bạn.** Đứng cách lưới 1-2 mét, anh che ít sân hơn, phản ứng nhanh hơn, và kết thúc điểm bằng volley thay vì rally 10 bóng. Partner che lob. **Lưới là nơi tennis dễ cơ thể nhất.***
+> * **Ở tuổi 50+, lưới là bạn.** Đứng cách lưới 1-2 mét, bạn che ít sân hơn, phản ứng nhanh hơn, và kết thúc điểm bằng volley thay vì rally 10 bóng. Partner che lob. **Lưới là nơi tennis dễ cơ thể nhất.***
 
 > 🧘 **Tai chi parallel: *Hư-Thực* in doubles | Liên hệ thái cực: Hư-Thực trong đôi**
 > In tai chi, one partner is "thực" (rooted, weighted, the axis) and the other is "hư" (insubstantial, free to move). In doubles, this is the **baseline player and the net player**:
@@ -171,7 +171,7 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| A "formation" is where you and your partner stand at the start of the point. There are 3 main formations in doubles. Each has a specific purpose. | "Đội hình" là nơi anh và partner đứng lúc bắt đầu điểm. Có 3 đội hình chính trong đôi. Mỗi cái có mục đích cụ thể. |
+| A "formation" is where you and your partner stand at the start of the point. There are 3 main formations in doubles. Each has a specific purpose. | "Đội hình" là nơi bạn và partner đứng lúc bắt đầu điểm. Có 3 đội hình chính trong đôi. Mỗi cái có mục đích cụ thể. |
 
 ### Formation 1 — Both Up (Australian) | Đội hình 1 — Cả hai trên (Australian)
 
@@ -180,7 +180,7 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 | **Setup:** server at the baseline, partner at the net. This is the **default serving formation** for almost all doubles. | **Setup:** server ở baseline, partner ở lưới. Đây là **đội hình giao mặc định** cho hầu hết đôi. |
 | **Why it works:** the net partner can intercept the return (poach), force the returner to hit a precise low return, and end the point with a volley. | **Tại sao hiệu quả:** partner lưới có thể chặn return (cắt bóng), ép người trả đánh cú thấp chính xác, và kết thúc điểm bằng volley. |
 | **When to use:** as the serving team, 90% of the time. | **Khi nào dùng:** là đội giao, 90% thời gian. |
-| **The net partner's job:** stand 1-2 meters from the net, slightly to the **center service line side** (not the alley side). This way, you can intercept balls hit down the middle or to your side, and your partner covers the alley. | **Việc người lưới:** đứng cách lưới 1-2 mét, hơi về phía **vạch giao bóng giữa** (không phải phía biên ngoài). Bằng cách này, anh chặn được bóng đánh xuôi giữa hoặc phía mình, partner che biên ngoài. |
+| **The net partner's job:** stand 1-2 meters from the net, slightly to the **center service line side** (not the alley side). This way, you can intercept balls hit down the middle or to your side, and your partner covers the alley. | **Việc người lưới:** đứng cách lưới 1-2 mét, hơi về phía **vạch giao bóng giữa** (không phải phía biên ngoài). Bằng cách này, bạn chặn được bóng đánh xuôi giữa hoặc phía mình, partner che biên ngoài. |
 
 > 🎨 **The "hot dog" mental model | Mô hình tư duy "hot dog"**
 > The net partner in Australian formation is positioned like a hot dog in a bun. The center service line is the bun. The partner's racquet is the hot dog. The partner straddles the line — body in the middle, racquet ready to swipe left or right. **This is the poach-ready position.**
@@ -193,14 +193,14 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 |---|---|
 | **Setup:** server at the baseline, partner at the net — but the **net partner stands directly in front of the server**, hiding which side they'll cover. | **Setup:** server ở baseline, partner ở lưới — nhưng **người lưới đứng thẳng phía trước server**, giấu bên nào họ sẽ che. |
 | **Why it works:** the returner doesn't know which side the net player will poach to. This forces the returner to hit a safe return (down the middle or low), and the net player can pick the side at the last second. | **Tại sao hiệu quả:** người trả không biết bên nào người lưới sẽ cắt sang. Cái này ép người trả đánh cú an toàn (xuôi giữa hoặc thấp), và người lưới chọn bên phút cuối. |
-| **When to use:** advanced doubles, when you and your partner have practiced the signals. The I-formation requires the net player to "stay" or "cross" based on the server's call. | **Khi nào dùng:** đôi nâng cao, khi anh và partner đã tập tín hiệu. Đội hình I yêu cầu người lưới "ở" hoặc "chéo" dựa trên gọi của server. |
+| **When to use:** advanced doubles, when you and your partner have practiced the signals. The I-formation requires the net player to "stay" or "cross" based on the server's call. | **Khi nào dùng:** đôi nâng cao, khi bạn và partner đã tập tín hiệu. Đội hình I yêu cầu người lưới "ở" hoặc "chéo" dựa trên gọi của server. |
 | **The signal:** the server touches their left leg for "stay" (net player stays in the middle) or right leg for "cross" (net player crosses to the strong side). The returner can't see this. | **Tín hiệu:** server chạm chân trái cho "ở" (người lưới ở giữa) hoặc chân phải cho "chéo" (người lưới chéo sang bên mạnh). Người trả không thấy cái này. |
-| **The 3.5 caution | Cảnh báo 3.5:** I-formation is fun but requires **practice**. If you and your partner haven't practiced the signals, you'll bump into each other. Master the basics first. | **Cảnh báo 3.5:** đội hình I vui nhưng cần **tập luyện**. Nếu anh và partner chưa tập tín hiệu, sẽ đụng nhau. Làm chủ cơ bản trước. |
+| **The 3.5 caution | Cảnh báo 3.5:** I-formation is fun but requires **practice**. If you and your partner haven't practiced the signals, you'll bump into each other. Master the basics first. | **Cảnh báo 3.5:** đội hình I vui nhưng cần **tập luyện**. Nếu bạn và partner chưa tập tín hiệu, sẽ đụng nhau. Làm chủ cơ bản trước. |
 
 > 💡 **The 3.5 reality | Thực tế 3.5**
 > **At 3.5, the I-formation is optional.** Most 3.5 doubles points are won with the Australian formation, a good serve, and a poach. Master Australian first. Add I-formation when you and your partner have played 20+ matches together.
 >
-> * **Ở 3.5, đội hình I là tùy chọn.** Hầu hết điểm đôi 3.5 thắng bằng đội hình Australian, serve tốt, và cắt bóng. Làm chủ Australian trước. Thêm I khi anh và partner đã đánh 20+ trận cùng nhau.*
+> * **Ở 3.5, đội hình I là tùy chọn.** Hầu hết điểm đôi 3.5 thắng bằng đội hình Australian, serve tốt, và cắt bóng. Làm chủ Australian trước. Thêm I khi bạn và partner đã đánh 20+ trận cùng nhau.*
 
 ### Formation 3 — Both Back | Đội hình 3 — Cả hai dưới
 
@@ -214,7 +214,7 @@ In SINGLES, only the inner court (between the two singles sidelines) is in.
 > 🩺 **The 50+ body-says-no rule | Quy tắc "cơ thể nói không" 50+**
 > **If your body says "no net today," play Both Back.** It's not "giving up" — it's **managing your body for the long game**. A 50+ player who plays Both Back on a bad day and wins 60% of points is better than a 50+ player who plays Australian, injures their shoulder, and sits out 3 months.
 >
-> * **Nếu cơ thể anh nói "không lưới hôm nay," chơi Both Back.** Đó không phải "đầu hàng" — đó là **quản lý cơ thể cho trận dài**. Người 50+ chơi Both Back ngày tệ và thắng 60% điểm tốt hơn người 50+ chơi Australian, chấn thương vai, và nghỉ 3 tháng.*
+> * **Nếu cơ thể bạn nói "không lưới hôm nay," chơi Both Back.** Đó không phải "đầu hàng" — đó là **quản lý cơ thể cho trận dài**. Người 50+ chơi Both Back ngày tệ và thắng 60% điểm tốt hơn người 50+ chơi Australian, chấn thương vai, và nghỉ 3 tháng.*
 
 ### The Formation Decision Tree | Cây quyết định đội hình
 
@@ -285,7 +285,7 @@ START OF POINT → Are you serving?
 |---|---|
 | **The mirror of Pattern 1.** Now the returner's team is the attacker. The returner hits a safe return (down the middle), and the returner's net partner can poach. | **Gương của Mẫu 1.** Giờ đội người trả là tấn công. Người trả đánh cú an toàn (xuôi giữa), và partner lưới của người trả có thể cắt. |
 | **The return | Cú trả:** the safe doubles return is **down the middle, low, with slice or topspin**. This denies the server's poacher an easy interception. | **Cú trả:** cú trả đôi an toàn là **xuôi giữa, thấp, slice hoặc topspin**. Cái này không cho người cắt của server chặn dễ. |
-| **The "middle return" rule | Quy tắc "return giữa":** in singles, you return crosscourt 90% of the time. **In doubles, you return DOWN THE MIDDLE 60% of the time.** The middle return is harder to poach. | **Quy tắc "return giữa":** trong singles, anh trả chéo 90% thời gian. **Trong đôi, anh trả XUÔI GIỮA 60% thời gian.** Return giữa khó cắt bóng hơn. |
+| **The "middle return" rule | Quy tắc "return giữa":** in singles, you return crosscourt 90% of the time. **In doubles, you return DOWN THE MIDDLE 60% of the time.** The middle return is harder to poach. | **Quy tắc "return giữa":** trong singles, bạn trả chéo 90% thời gian. **Trong đôi, bạn trả XUÔI GIỮA 60% thời gian.** Return giữa khó cắt bóng hơn. |
 | **The 50+ return tip | Mẹo 50+:** the chip/slice return is the **3.5 doubles default**. It stays low, denies the poach, and forces the server to hit up. | **Mẹo 50+:** chip/slice return là **mặc định đôi 3.5**. Nó giữ thấp, chặn cắt bóng, và ép server đánh lên. |
 
 ### Pattern 3 — The Lob-and-Recover (Defensive) | Mẫu 3 — Lob và hồi phục (Phòng thủ)
@@ -299,7 +299,7 @@ START OF POINT → Are you serving?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The escape hatch.** When you're in trouble and both opponents are at the net, **lob is your best friend**. | **Cửa thoát hiểm.** Khi anh gặp khó và cả hai đối thủ ở lưới, **lob là bạn**. |
+| **The escape hatch.** When you're in trouble and both opponents are at the net, **lob is your best friend**. | **Cửa thoát hiểm.** Khi bạn gặp khó và cả hai đối thủ ở lưới, **lob là bạn**. |
 | **Why it works:** lobs force the net players to turn around, run back, and hit overheads. Most 3.5 overheads are weak. You buy time to recover. | **Tại sao hiệu quả:** lob ép người lưới quay đầu, chạy lùi, và đánh overhead. Hầu hết overhead 3.5 yếu. Anh mua thời gian để hồi phục. |
 | **The 50+ lob tip | Mẹo 50+:** use the **moonball lob** (high, deep, slow). It doesn't need to be a powerful lob. It just needs to be high enough that the net player can't smash it. | **Mẹo 50+:** dùng **lob trăng** (cao, sâu, chậm). Nó không cần lực. Nó chỉ cần đủ cao để người lưới không smash được. |
 | **The "lob is not a loser" mental shift | Chuyển đổi "lob không phải thua":** recreational players think "lob = defensive = losing." **Wrong.** A lob is a **time-buying shot** that resets the point. Pros lob all the time. | **Chuyển đổi "lob không phải thua":** người nghiệp dư nghĩ "lob = phòng thủ = thua." **Sai.** Lob là **cú mua thời gian** reset điểm. Pros lob mọi lúc. |
@@ -317,7 +317,7 @@ START OF POINT → Are you serving?
 > *- Tốc độ (chậm, cao)*
 > *- Lực (trọng lực làm việc)*
 > *- Contact hoàn hảo (lệch nhẹ OK)*
-> *- Chùng gối (anh có thể lob từ contact cao)*
+> *- Chùng gối (bạn có thể lob từ contact cao)*
 >
 > *Lob là một trong những cú **thân thiện 50+ nhất** trong tennis. **Dùng nó.***
 
@@ -384,7 +384,7 @@ SITUATION → PATTERN
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Stand on a court with your partner. One of you is the "caller" — every 10 seconds, call out: "Mine!" or "Yours!" (or "Short!" or "Lob!"). The other does the action. | Đứng trên sân với partner. Một người là "người gọi" — mỗi 10 giây, gọi: "Của tôi!" hoặc "Của bạn!" (hoặc "Ngắn!" hoặc "Lob!"). Người kia làm hành động. |
-| **The goal:** get used to the rhythm of calling. In a real match, you'll be calling every 3-5 seconds. | **Mục tiêu:** quen với nhịp gọi. Trong trận thật, anh sẽ gọi mỗi 3-5 giây. |
+| **The goal:** get used to the rhythm of calling. In a real match, you'll be calling every 3-5 seconds. | **Mục tiêu:** quen với nhịp gọi. Trong trận thật, bạn sẽ gọi mỗi 3-5 giây. |
 | **Variation:** add hand signals. Fist behind back = Mine. Open hand = Yours. | **Biến thể:** thêm tín hiệu tay. Nắm đấm sau lưng = Của tôi. Tay mở = Của bạn. |
 
 #### Drill 2 — The "Move as a Unit" Drill (With Partner, 10 min) | Bài tập "di chuyển như một" (với partner, 10 phút)
@@ -415,7 +415,7 @@ SITUATION → PATTERN
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Partner stands at the net. You start at the baseline. **Your job:** hit a high, deep lob over your partner's head, then **immediately recover** to the center of the baseline. | Partner đứng ở lưới. Anh ở baseline. **Việc anh:** đánh lob cao, sâu qua đầu partner, rồi **ngay lập tức hồi** về giữa baseline. |
+| Partner stands at the net. You start at the baseline. **Your job:** hit a high, deep lob over your partner's head, then **immediately recover** to the center of the baseline. | Partner đứng ở lưới. Anh ở baseline. **Việc bạn:** đánh lob cao, sâu qua đầu partner, rồi **ngay lập tức hồi** về giữa baseline. |
 | **Goal: 10 lob-and-recover sequences, all lob balls landing past the service line on the partner's side, all recoveries within 2 seconds.** | **Mục tiêu: 10 chuỗi lob-hồi, tất cả bóng lob rơi sau vạch giao bóng phía partner, tất cả hồi phục trong 2 giây.** |
 | **Why this drill:** the lob is the 50+ escape hatch. Train it. | **Tại sao bài này:** lob là cửa thoát 50+. Tập nó. |
 
@@ -424,7 +424,7 @@ SITUATION → PATTERN
 | Cue | Tín hiệu | When | Khi nào |
 |---|---|---|---|
 | **"Talk to your partner"** | Call every 3-5 seconds | Every point | Mỗi điểm |
-| **"Mine!" / "Yours!"** | Shout before the ball arrives | When ball is between you and partner | Khi bóng ở giữa anh và partner |
+| **"Mine!" / "Yours!"** | Shout before the ball arrives | When ball is between you and partner | Khi bóng ở giữa bạn và partner |
 | **"Move as a unit"** | Partner goes right, I go left | After every shot | Sau mỗi cú |
 | **"Serve to the T"** | Aim at the center service line | When serving | Khi giao |
 | **"Return down the middle"** | Aim between the two returners | When returning | Khi trả |
@@ -463,7 +463,7 @@ SITUATION → PATTERN
 > 🩺 **The single most important 50+ doubles rule | Quy tắc đôi 50+ quan trọng nhất**
 > **Doubles extends your tennis career by 10-20 years.** The 3.5 player who plays only singles at 50+ often quits by 60. The 3.5 player who switches to doubles at 50+ is still playing at 70. **Doubles is not "lesser tennis." It is the long game.**
 >
-> * **Đôi kéo dài sự nghiệp tennis của anh 10-20 năm.** Người 3.5 chỉ chơi singles ở 50+ thường bỏ ở 60. Người 3.5 chuyển sang đôi ở 50+ vẫn chơi ở 70. **Đôi không phải "tennis thứ hạng hai." Đó là trận dài.**
+> * **Đôi kéo dài sự nghiệp tennis của bạn 10-20 năm.** Người 3.5 chỉ chơi singles ở 50+ thường bỏ ở 60. Người 3.5 chuyển sang đôi ở 50+ vẫn chơi ở 70. **Đôi không phải "tennis thứ hạng hai." Đó là trận dài.**
 
 ### 🧘 The Tai Chi Meditation | Thiền thái cực cho đôi
 
@@ -616,5 +616,5 @@ Other deep dives from your knowledge base you might want:
 - **Complete Manual v2** — fold this into the 10-part master reference as Part 9
 - **4-Week Doubles Plan** — a progressive drill calendar: Week 1 communication, Week 2 formations, Week 3 patterns, Week 4 match-situation
 
-Just say the word, anh. 🎾
+Just say the word, bạn. 🎾
 |

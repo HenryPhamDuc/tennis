@@ -28,15 +28,15 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Watch any point at your club that ends in 4 shots or fewer. Watch the rally. Watch the geometry. | Xem bất kỳ điểm nào ở club anh kết thúc trong 4 cú trở xuống. Xem rally. Xem hình học. |
+| Watch any point at your club that ends in 4 shots or fewer. Watch the rally. Watch the geometry. | Xem bất kỳ điểm nào ở club bạn kết thúc trong 4 cú trở xuống. Xem rally. Xem hình học. |
 | The shot that ENDS the point is almost never a flat cross-court groundstroke. It's almost always a shot that went **up** or **down** — a high lob that the opponent can't reach, or a smash that the opponent can only block. | Cú **kết thúc** điểm hầu như không bao giờ là groundstroke chéo sân flat. Nó gần như luôn là cú đi **lên** hoặc **xuống** — lob cao mà đối thủ không chạm tới, hoặc smash mà đối thủ chỉ chặn được. |
 | Recreational tennis is dominated by the *horizontal* game — cross-court, down-the-line, angled. But the *vertical* game — high balls, lobs, smashes — is what **decides** points, especially when opponents are skilled enough to retrieve everything from side to side. | Tennis nghiệp dư bị chi phối bởi trò chơi *ngang* — chéo sân, dọc dây, góc. Nhưng trò chơi *dọc* — bóng cao, lob, smash — là thứ **quyết định** điểm, đặc biệt khi đối thủ đủ giỏi để chạy cứu từ trái sang phải. |
-| This deep dive is about the vertical game. Two shots: the **lob** (you hit it up) and the **overhead** (they hit it up, you put it down). | Deep dive này nói về trò chơi dọc. Hai cú: **lob** (anh đánh lên) và **overhead** (họ đánh lên, anh đập xuống). |
+| This deep dive is about the vertical game. Two shots: the **lob** (you hit it up) and the **overhead** (they hit it up, you put it down). | Deep dive này nói về trò chơi dọc. Hai cú: **lob** (bạn đánh lên) và **overhead** (họ đánh lên, bạn đập xuống). |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Imagine a chess board. Horizontal moves (left-right) gain space. Vertical moves (forward-back, up-down) **change the rules of the game**. A lob doesn't just put the ball in the corner — it tells the opponent: *you must hit the next shot from below your shoelaces, with your head looking up, while standing still or moving backward.* That's a fundamentally different problem from "return a flat ball while balanced at net." That's why lobs and overheads decide points.
 >
-> *Hình dung bàn cờ vua. Nước đi ngang (trái-phải) giành không gian. Nước đi dọc (trước-sau, lên-xuống) **thay đổi luật chơi**. Lob không chỉ đưa bóng vào góc — nó nói với đối thủ: *anh phải đánh cú tiếp theo từ dưới dây giày, đầu ngước lên, trong khi đứng yên hoặc lùi lại*. Đó là vấn đề căn bản khác với "trả bóng flat khi thăng bằng ở lưới." Đó là lý do lob và smash quyết định điểm.*
+> *Hình dung bàn cờ vua. Nước đi ngang (trái-phải) giành không gian. Nước đi dọc (trước-sau, lên-xuống) **thay đổi luật chơi**. Lob không chỉ đưa bóng vào góc — nó nói với đối thủ: *bạn phải đánh cú tiếp theo từ dưới dây giày, đầu ngước lên, trong khi đứng yên hoặc lùi lại*. Đó là vấn đề căn bản khác với "trả bóng flat khi thăng bằng ở lưới." Đó là lý do lob và smash quyết định điểm.*
 
 ### The "Ladder of 4 Situations" — When to Use Vertical Tennis | Thang 4 Tình Huống — Khi Nào Chơi Dọc
 
@@ -66,7 +66,7 @@ Most 3.5 players think of the lob and the overhead as separate strokes. They're 
 > 🩺 **The 50+ framing | Khung 50+**
 > The lob and the overhead are the two most **longevity-friendly** shots in tennis. The lob is a slow, low-impact motion (no shoulder load, no violent rotation). The overhead uses gravity as the engine — you don't need to swing hard; you just need to point the racket at the ball. **Both shots save your joints compared to a baseline rally.** That's why we'll lead with them in this deep dive.
 >
-> *Lob và overhead là hai cú **thân thiện với tuổi tác** nhất trong tennis. Lob là động tác chậm, ít va chạm (không tải vai, không xoay bạo lực). Overhead dùng trọng lực làm động cơ — anh không cần vung mạnh; chỉ cần chỉ mặt vợt vào bóng. **Cả hai cú đều bảo vệ khớp so với rally baseline.** Đó là lý do ta sẽ dẫn đầu với chúng trong deep dive này.*
+> *Lob và overhead là hai cú **thân thiện với tuổi tác** nhất trong tennis. Lob là động tác chậm, ít va chạm (không tải vai, không xoay bạo lực). Overhead dùng trọng lực làm động cơ — bạn không cần vung mạnh; chỉ cần chỉ mặt vợt vào bóng. **Cả hai cú đều bảo vệ khớp so với rally baseline.** Đó là lý do ta sẽ dẫn đầu với chúng trong deep dive này.*
 
 ---
 
@@ -76,8 +76,8 @@ Most 3.5 players think of the lob and the overhead as separate strokes. They're 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The lob is the most under-appreciated shot in 3.5 tennis. Not because it's flashy — because **it works**. | Lob là cú bị đánh giá thấp nhất trong tennis 3.5. Không phải vì nó hoa mỹ — mà vì **nó hiệu quả**. |
-| A 50+ player who can hit a deep, arcing defensive lob to the opponent's weaker corner will save more points than a 50+ player who can hit a 70 mph forehand. The lob is slow on your body, devastating on theirs, and it asks nothing of your shoulder. | Một người chơi 50+ có thể đánh lob phòng thủ sâu, vòng cung cao vào góc yếu đối thủ sẽ cứu nhiều điểm hơn người 50+ đánh forehand 70 mph. Lob chậm với cơ thể anh, tàn khốc với cơ thể họ, và không đòi hỏi gì ở vai anh. |
-| In taichi terms, the defensive lob is *Lã Kình* (捋勁) — rollback energy. The opponent pushes you deep, you redirect that energy UP and OVER their head. | Trong thuật ngữ thái cực, lob phòng thủ là *Lã Kình* (捋勁) — năng lượng cuộn lại. Đối thủ đẩy anh sâu, anh chuyển hướng năng lượng đó LÊN và QUA đầu họ. |
+| A 50+ player who can hit a deep, arcing defensive lob to the opponent's weaker corner will save more points than a 50+ player who can hit a 70 mph forehand. The lob is slow on your body, devastating on theirs, and it asks nothing of your shoulder. | Một người chơi 50+ có thể đánh lob phòng thủ sâu, vòng cung cao vào góc yếu đối thủ sẽ cứu nhiều điểm hơn người 50+ đánh forehand 70 mph. Lob chậm với cơ thể bạn, tàn khốc với cơ thể họ, và không đòi hỏi gì ở vai bạn. |
+| In taichi terms, the defensive lob is *Lã Kình* (捋勁) — rollback energy. The opponent pushes you deep, you redirect that energy UP and OVER their head. | Trong thuật ngữ thái cực, lob phòng thủ là *Lã Kình* (捋勁) — năng lượng cuộn lại. Đối thủ đẩy bạn sâu, bạn chuyển hướng năng lượng đó LÊN và QUA đầu họ. |
 
 ### The Two Lobs — Pick Yours (Lead with the Defensive Slice) | Hai Lob — Hãy Chọn (Dẫn Đầu Với Lob Phòng Thủ Slice)
 
@@ -97,7 +97,7 @@ Most 3.5 players think of the lob and the overhead as separate strokes. They're 
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Grip: Continental.** The same V-to-bevel-2 grip you use for the volley. This is the single most important decision. Eastern or Semi-Western will force the face open at contact, and the lob will fly long. | **Grip: Continental.** Cùng chữ V trên cạnh số 2 anh dùng cho volley. Đây là quyết định quan trọng nhất. Eastern hay Semi-Western sẽ ép mặt vợt mở khi chạm bóng, lob bay dài. |
+| **Grip: Continental.** The same V-to-bevel-2 grip you use for the volley. This is the single most important decision. Eastern or Semi-Western will force the face open at contact, and the lob will fly long. | **Grip: Continental.** Cùng chữ V trên cạnh số 2 bạn dùng cho volley. Đây là quyết định quan trọng nhất. Eastern hay Semi-Western sẽ ép mặt vợt mở khi chạm bóng, lob bay dài. |
 | **Stance: open or semi-open.** Stand with the front foot already pointed slightly toward the sideline (not straight at the net). This is different from your groundstroke stance. The open stance lets the chest rotate **upward** instead of "into" the ball. | **Tư thế: mở hoặc bán mở.** Đứng với chân trước đã hướng hơi về biên (không thẳng về lưới). Khác với tư thế groundstroke. Tư thế mở cho ngực xoay **lên trên** thay vì "vào" bóng. |
 | **Backswing: short and HIGH.** The racket goes back like a tennis serve's takeback — racket head UP, elbow bent, like you're about to scratch your back with the racket. **The high backswing is what gives the lob its arc.** A low backswing = a flat shot = an overhead for your opponent. | **Đưa vợt ra sau: ngắn và CAO.** Vợt đưa ra sau giống takeback giao bóng — đầu vợt CAO, khuỷu gập, như sắp gãi lưng bằng vợt. **Backswing cao là thứ tạo vòng cung cho lob.** Backswing thấp = cú flat = overhead cho đối thủ. |
 
@@ -146,7 +146,7 @@ Most 3.5 players think of the lob and the overhead as separate strokes. They're 
 > ⚠️ **The 3.5 trap with the offensive lob | Cái bẫy 3.5 với lob tấn công**
 > Most 3.5 players try to hit the offensive lob with the Continental grip. **That makes a slice lob, not a topspin lob.** With Continental, you can't generate the brushing motion needed for topspin. If you're going to attempt the offensive lob, **you must use your groundstroke grip** (Semi-W or Eastern). And you must swing **faster** than the defensive lob — the offensive lob is a real groundstroke that happens to go up.
 >
-> *Hầu hết người 3.5 cố đánh lob tấn công với Continental. **Đó tạo lob slice, không phải lob topspin.** Với Continental, anh không thể tạo động tác quét cần cho topspin. Nếu định thử lob tấn công, **anh phải dùng grip groundstroke** (Semi-W hoặc Eastern). Và phải vung **nhanh hơn** lob phòng thủ — lob tấn công là groundstroke thật đi lên.*
+> *Hầu hết người 3.5 cố đánh lob tấn công với Continental. **Đó tạo lob slice, không phải lob topspin.** Với Continental, bạn không thể tạo động tác quét cần cho topspin. Nếu định thử lob tấn công, **bạn phải dùng grip groundstroke** (Semi-W hoặc Eastern). Và phải vung **nhanh hơn** lob phòng thủ — lob tấn công là groundstroke thật đi lên.*
 
 ### The Lob Decision Tree | Cây Quyết Định Lob
 
@@ -170,7 +170,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 > 🩺 **The 50+ rule for lobs | Quy tắc lob 50+**
 > **At 50+, the lob is your best friend because it is the lowest-stress high-percentage shot in tennis.** No shoulder load, no violent rotation, no sprint, no sudden stopping. Just: grip, backswing, lift, aim deep. **Practice the defensive slice lob for 2 months before attempting the offensive lob.** Your shoulder and your match record will thank you.
 >
-> *Ở tuổi 50+, lob là bạn tốt nhất vì nó là cú tỷ lệ thành công cao ít-căng-thẳng nhất trong tennis. Không tải vai, không xoay bạo lực, không chạy nước rút, không dừng đột ngột. Chỉ: grip, backswing, nâng, nhắm sâu. **Tập lob slice phòng thủ 2 tháng trước khi thử lob tấn công.** Vai anh và thành tích trận đấu sẽ cảm ơn anh.*
+> *Ở tuổi 50+, lob là bạn tốt nhất vì nó là cú tỷ lệ thành công cao ít-căng-thẳng nhất trong tennis. Không tải vai, không xoay bạo lực, không chạy nước rút, không dừng đột ngột. Chỉ: grip, backswing, nâng, nhắm sâu. **Tập lob slice phòng thủ 2 tháng trước khi thử lob tấn công.** Vai bạn và thành tích trận đấu sẽ cảm ơn bạn.*
 
 ---
 
@@ -180,7 +180,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The overhead smash is the most under-shot shot in 3.5 tennis. Recreational players see a high ball, panic, run around in circles, and either shank it into the fence or float it back as a moonball. | Overhead smash là cú bị bỏ qua nhiều nhất trong tennis 3.5. Người chơi nghiệp dư thấy bóng cao, hoảng, chạy vòng vòng, và hoặc đánh hỏng vào hàng rào hoặc trả bổng lại thành "trăng." |
-| Here's the truth: the overhead is a **serve that comes to you.** Same grip (Continental), same contact point (racket head above the ball, fully extended), same finish (over the non-dominant shoulder). The only thing different is the ball is in the air instead of being tossed. | Sự thật: overhead là **giao bóng tới chỗ anh.** Cùng grip (Continental), cùng điểm chạm (đầu vợt trên bóng, duỗi hết), cùng kết thúc (qua vai không thuận). Khác duy nhất là bóng ở trên không thay vì được tung. |
+| Here's the truth: the overhead is a **serve that comes to you.** Same grip (Continental), same contact point (racket head above the ball, fully extended), same finish (over the non-dominant shoulder). The only thing different is the ball is in the air instead of being tossed. | Sự thật: overhead là **giao bóng tới chỗ bạn.** Cùng grip (Continental), cùng điểm chạm (đầu vợt trên bóng, duỗi hết), cùng kết thúc (qua vai không thuận). Khác duy nhất là bóng ở trên không thay vì được tung. |
 | Once you see the overhead as "a serve that already happened," the panic disappears. You have all the time in the world. You don't need to swing hard. You just need to point the racket at the ball and let gravity help. | Khi thấy overhead là "giao bóng đã xảy ra," sự hoảng biến mất. Anh có tất cả thời gian thế giới. Anh không cần vung mạnh. Chỉ cần chỉ vợt vào bóng và để trọng lực giúp. |
 
 ### Why Recreational Players Miss Overheads | Tại Sao Người Nghiệp Dư Hỏng Overhead
@@ -188,14 +188,14 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **Reason 1 — They don't get into position early.** The ball is high, the player is at the baseline, the lob keeps rising. The player runs around, looks up, and arrives just as the ball is at its peak. **You must be in position BEFORE the ball reaches its peak.** That means tracking the lob from the moment it leaves your opponent's racket. | **Lý do 1 — Không vào vị trí sớm.** Bóng cao, người chơi ở baseline, lob tiếp tục lên. Người chơi chạy vòng, ngước nhìn, và tới nơi khi bóng ở đỉnh. **Anh phải vào vị trí TRƯỚC khi bóng tới đỉnh.** Có nghĩa là theo dõi lob từ lúc nó rời vợt đối thủ. |
-| **Reason 2 — They look up at the sky.** The moment you tilt your head back, your **body** starts to lean back too. The leaning-back posture takes the legs out of the shot — and legs are the engine of the overhead. **Keep your head still, eyes on the ball, chin level.** | **Lý do 2 — Ngước nhìn trời.** Khoảnh khắc anh ngửa đầu, **cơ thể** cũng bắt đầu nghiêng sau. Tư thế nghiêng sau lấy chân ra khỏi cú đánh — và chân là động cơ của overhead. **Giữ đầu yên, mắt nhìn bóng, cằm ngang.** |
+| **Reason 2 — They look up at the sky.** The moment you tilt your head back, your **body** starts to lean back too. The leaning-back posture takes the legs out of the shot — and legs are the engine of the overhead. **Keep your head still, eyes on the ball, chin level.** | **Lý do 2 — Ngước nhìn trời.** Khoảnh khắc bạn ngửa đầu, **cơ thể** cũng bắt đầu nghiêng sau. Tư thế nghiêng sau lấy chân ra khỏi cú đánh — và chân là động cơ của overhead. **Giữ đầu yên, mắt nhìn bóng, cằm ngang.** |
 | **Reason 3 — They try to "swing" the overhead like a groundstroke.** A groundstroke generates pace by swinging. An overhead generates pace by **falling** — the racket falls from a high position, gravity does the work. **No swing needed.** Just point and fall. | **Lý do 3 — Cố "vung" overhead như groundstroke.** Groundstroke tạo tốc độ bằng vung. Overhead tạo tốc độ bằng **rơi** — vợt rơi từ vị trí cao, trọng lực làm việc. **Không cần vung.** Chỉ chỉ và rơi. |
 | **Reason 4 — They use the wrong grip.** Using Eastern or Semi-Western for the overhead puts the racket face too open at contact, and the ball flies long. **Continental is mandatory** — same as the serve. | **Lý do 4 — Sai grip.** Dùng Eastern hoặc Semi-Western cho overhead đặt mặt vợt quá mở khi tiếp xúc, bóng bay dài. **Continental là bắt buộc** — cùng như serve. |
 
 > 🧠 **The "serve that already happened" mental model | Mô hình "giao bóng đã xảy ra"**
 > Every overhead is a serve. The opponent just tossed it for you. You have **all the time in the world** to set up. The ball is in the air, coming down at a comfortable pace. The net is the same height. The court is the same shape. The only difference from your serve: you're not tossing, you're intercepting. **Treat the overhead like a serve and your success rate will jump from 30% to 80%.**
 >
-> *Mỗi overhead là một cú giao bóng. Đối thủ vừa tung giùm anh. Anh có **tất cả thời gian thế giới** để setup. Bóng ở trên không, rơi xuống tốc độ thoải mái. Lưới cùng cao. Sân cùng hình. Khác biệt duy nhất với serve: anh không tung, anh chặn. **Đối xử overhead như serve và tỷ lệ thành công sẽ nhảy từ 30% lên 80%.***
+> *Mỗi overhead là một cú giao bóng. Đối thủ vừa tung giùm bạn. Anh có **tất cả thời gian thế giới** để setup. Bóng ở trên không, rơi xuống tốc độ thoải mái. Lưới cùng cao. Sân cùng hình. Khác biệt duy nhất với serve: bạn không tung, bạn chặn. **Đối xử overhead như serve và tỷ lệ thành công sẽ nhảy từ 30% lên 80%.***
 
 ### The Sane Smash — 3.5+ Overhead Framework | Smash Kiểm Soát — Khung Overhead 3.5+
 
@@ -211,7 +211,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 > 💡 **The "two-arm" cue | Tín hiệu "hai tay"**
 > At the trophy position of the overhead, your arms should look **identical** to the trophy position of your serve. Non-dominant arm pointing at the ball (or just tossed), racket arm bent with head above. If you've ever hit a serve, you already know this position. The overhead is just the next rep.
 >
-> *Ở vị trí trophy của overhead, hai tay anh nên trông **giống hệt** vị trí trophy của serve. Tay không thuận chỉ về bóng (hoặc vừa tung), tay vợt gập với đầu vợt trên. Nếu anh đã từng giao bóng, anh đã biết vị trí này. Overhead chỉ là rep tiếp theo.*
+> *Ở vị trí trophy của overhead, hai tay bạn nên trông **giống hệt** vị trí trophy của serve. Tay không thuận chỉ về bóng (hoặc vừa tung), tay vợt gập với đầu vợt trên. Nếu bạn đã từng giao bóng, bạn đã biết vị trí này. Overhead chỉ là rep tiếp theo.*
 
 #### 🎯 Part 2 — The Contact and Finish (The "Fall, Don't Swing") | Tiếp Xúc Và Kết Thúc ("Rơi, Không Vung")
 
@@ -244,7 +244,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 > 🩺 **The 50+ rule for overheads | Quy tắc overhead 50+**
 > **At 50+, the Sane Smash is your reward for hitting good defensive lobs in your previous points.** The ball comes to you, gravity does the work, your shoulder doesn't take a heavy load. The only risk is the **head-still cue** — your neck doesn't love craning backward. **Keep your chin level, eyes tracking the ball, and let the ball come DOWN to you instead of you reaching UP for it.** If the lob is so high that you have to crane your neck, **let it bounce.** A 3.5-controlled forehand from the baseline is a better shot than a 50+ overstretched overhead.
 >
-> *Ở tuổi 50+, Smash Kiểm Soát là phần thưởng cho việc đánh lob phòng thủ tốt ở các điểm trước. Bóng tới chỗ anh, trọng lực làm việc, vai anh không chịu tải nặng. Rủi ro duy nhất là **tín hiệu đầu-yên** — cổ anh không thích ngửa sau. **Giữ cằm ngang, mắt theo bóng, và để bóng ĐẾN chỗ anh thay vì anh vươn LÊN cho nó.** Nếu lob quá cao đến mức phải vặn cổ, **hãy để nó nảy.** Forehand 3.5 kiểm soát từ baseline là cú tốt hơn overhead 50+ vươn quá.*
+> *Ở tuổi 50+, Smash Kiểm Soát là phần thưởng cho việc đánh lob phòng thủ tốt ở các điểm trước. Bóng tới chỗ bạn, trọng lực làm việc, vai bạn không chịu tải nặng. Rủi ro duy nhất là **tín hiệu đầu-yên** — cổ bạn không thích ngửa sau. **Giữ cằm ngang, mắt theo bóng, và để bóng ĐẾN chỗ bạn thay vì bạn vươn LÊN cho nó.** Nếu lob quá cao đến mức phải vặn cổ, **hãy để nó nảy.** Forehand 3.5 kiểm soát từ baseline là cú tốt hơn overhead 50+ vươn quá.*
 
 ---
 
@@ -253,35 +253,35 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The lob volley and the counter-overhead are the two "specialty" vertical shots that complete your toolkit. Both are situational — you won't use them every point — but when the situation calls for them, they're devastating. | Lob volley và counter-overhead là hai cú dọc "đặc biệt" hoàn thiện bộ công cụ. Cả hai đều tình huống — anh không dùng mỗi điểm — nhưng khi tình huống gọi, chúng tàn khốc. |
+| The lob volley and the counter-overhead are the two "specialty" vertical shots that complete your toolkit. Both are situational — you won't use them every point — but when the situation calls for them, they're devastating. | Lob volley và counter-overhead là hai cú dọc "đặc biệt" hoàn thiện bộ công cụ. Cả hai đều tình huống — bạn không dùng mỗi điểm — nhưng khi tình huống gọi, chúng tàn khốc. |
 | Both were introduced in the **Volley deep dive** (Ch 4). Here we expand them with the **3.5+ decision tree** for when to use them. | Cả hai được giới thiệu trong **Volley deep dive** (Ch 4). Ở đây ta mở rộng với **cây quyết định 3.5+** cho khi nào dùng chúng. |
 
 ### 4A. The Lob Volley — Your Net Emergency Parachute | Lob Volley — Dù Parachute Khẩn Cấp Ở Lưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **When:** you're at the net, opponent is at the net or approaching, you can't get past them. The lob volley is the "I can't pass you, so I'll go over you" shot. | **Khi nào:** anh ở lưới, đối thủ ở lưới hoặc đang tiến lại, không thể vượt qua họ. Lob volley là cú "tôi không pass được anh, nên tôi đi qua anh." |
+| **When:** you're at the net, opponent is at the net or approaching, you can't get past them. The lob volley is the "I can't pass you, so I'll go over you" shot. | **Khi nào:** bạn ở lưới, đối thủ ở lưới hoặc đang tiến lại, không thể vượt qua họ. Lob volley là cú "tôi không pass được bạn, nên tôi đi qua bạn." |
 | **Grip: Continental** (same as the defensive lob). | **Grip: Continental** (cùng lob phòng thủ). |
 | **Contact: HIGH, at or above shoulder height.** The lob volley only works when you catch the ball high. If the ball is at your waist or lower, hit a normal volley or a half-volley — the lob volley from a low contact is a guaranteed net error. | **Tiếp xúc: CAO, ở hoặc trên tầm vai.** Lob volley chỉ hiệu quả khi bắt bóng cao. Nếu bóng ở hông hoặc thấp hơn, đánh volley thường hoặc half-volley — lob volley từ tiếp xúc thấp là lỗi lưới chắc chắn. |
 | **Racket face: open, almost vertical.** Open the face, lift the ball. **The non-dominant hand reaches UP to track the ball** (and to balance the shoulders — like the tai chi "Embrace the Moon" posture from the volley deep dive). | **Mặt vợt: mở, gần thẳng đứng.** Mở mặt vợt, nâng bóng. **Tay không thuận vươn LÊN theo bóng** (và cân bằng vai — như tư thế "Ôm Trăng" trong volley deep dive). |
 | **Aim: deep, into the corner.** Same aim as the groundstroke defensive lob. A short lob volley is a smash for the opponent. | **Nhắm: sâu, vào góc.** Cùng nhắm như lob phòng thủ groundstroke. Lob volley ngắn là smash cho đối thủ. |
-| **Recovery: BACK to the net.** As soon as the lob volley is in the air, **recover to the net.** Don't retreat. If the opponent retrieves the lob, you want to be at the net for the next shot. | **Hồi phục: VỀ lưới.** Ngay khi lob volley ở trên không, **hồi phục về lưới.** Đừng lùi. Nếu đối thủ cứu lob, anh muốn ở lưới cho cú tiếp theo. |
+| **Recovery: BACK to the net.** As soon as the lob volley is in the air, **recover to the net.** Don't retreat. If the opponent retrieves the lob, you want to be at the net for the next shot. | **Hồi phục: VỀ lưới.** Ngay khi lob volley ở trên không, **hồi phục về lưới.** Đừng lùi. Nếu đối thủ cứu lob, bạn muốn ở lưới cho cú tiếp theo. |
 
 > 🧠 **The lob volley is to the net what the defensive lob is to the baseline.** Same idea, same aim, different body position. If you've already practiced the defensive lob, the lob volley is just the same shot from 30 feet closer to the net.
 >
-> *Lob volley là với lưới những gì lob phòng thủ là với baseline. Cùng ý tưởng, cùng nhắm, vị trí cơ thể khác. Nếu anh đã tập lob phòng thủ, lob volley chỉ là cùng cú từ 9 mét gần lưới hơn.*
+> *Lob volley là với lưới những gì lob phòng thủ là với baseline. Cùng ý tưởng, cùng nhắm, vị trí cơ thể khác. Nếu bạn đã tập lob phòng thủ, lob volley chỉ là cùng cú từ 9 mét gần lưới hơn.*
 
 > 💡 **The "parachute" mental model | Mô hình "dù"**
 > A lob volley is not a winner. It's a **parachute** — it doesn't end the point, it gives you a soft landing when the situation is dangerous. **Use the lob volley to escape a no-pass scenario, then re-attack on the next shot.** A lob volley followed by a smart net approach is a complete pattern.
 >
-> *Lob volley không phải cú winner. Nó là **dù** — nó không kết thúc điểm, nó cho anh hạ cánh mềm khi tình huống nguy hiểm. **Dùng lob volley để thoát tình huống không pass được, rồi tấn công lại ở cú tiếp theo.** Lob volley theo sau bởi net approach thông minh là pattern hoàn chỉnh.*
+> *Lob volley không phải cú winner. Nó là **dù** — nó không kết thúc điểm, nó cho bạn hạ cánh mềm khi tình huống nguy hiểm. **Dùng lob volley để thoát tình huống không pass được, rồi tấn công lại ở cú tiếp theo.** Lob volley theo sau bởi net approach thông minh là pattern hoàn chỉnh.*
 
 ### 4B. The Counter-Overhead — Your Net Finishing Move | Counter-Overhead — Cú Kết Thúc Ở Lưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **When:** you're at the net, opponent lobs over you, you have time to set up. The counter-overhead is the "I see your lob, I will put it down" shot. | **Khi nào:** anh ở lưới, đối thủ lob qua anh, anh có thời gian setup. Counter-overhead là cú "tôi thấy lob anh, tôi sẽ đặt nó xuống." |
-| This is **the same Sane Smash as Chapter 3**, but from a starting position at the net instead of the baseline. The mechanics are identical. **The only difference: you don't have as much time** (you're closer to the net, the ball has less distance to travel), so you must start tracking the lob earlier. | Đây là **cùng Smash Kiểm Soát như Chương 3**, nhưng từ vị trí bắt đầu ở lưới thay vì baseline. Cơ chế giống hệt. **Khác biệt duy nhất: anh không có nhiều thời gian** (gần lưới hơn, bóng có ít quãng đường hơn), nên anh phải bắt đầu theo dõi lob sớm hơn. |
+| **When:** you're at the net, opponent lobs over you, you have time to set up. The counter-overhead is the "I see your lob, I will put it down" shot. | **Khi nào:** bạn ở lưới, đối thủ lob qua bạn, bạn có thời gian setup. Counter-overhead là cú "tôi thấy lob bạn, tôi sẽ đặt nó xuống." |
+| This is **the same Sane Smash as Chapter 3**, but from a starting position at the net instead of the baseline. The mechanics are identical. **The only difference: you don't have as much time** (you're closer to the net, the ball has less distance to travel), so you must start tracking the lob earlier. | Đây là **cùng Smash Kiểm Soát như Chương 3**, nhưng từ vị trí bắt đầu ở lưới thay vì baseline. Cơ chế giống hệt. **Khác biệt duy nhất: bạn không có nhiều thời gian** (gần lưới hơn, bóng có ít quãng đường hơn), nên bạn phải bắt đầu theo dõi lob sớm hơn. |
 | **Step 1 — As soon as the lob leaves the opponent's racket, side-shuffle BACK.** Don't stand flat-footed and watch it rise. Side-shuffle back as it rises, get into position BEFORE it peaks. | **Bước 1 — Ngay khi lob rời vợt đối thủ, side-shuffle LÙI.** Đừng đứng bằng chân và xem nó lên. Side-shuffle lùi khi nó lên, vào vị trí TRƯỚC khi nó đỉnh. |
 | **Step 2 — Once in position, turn into the serve-ready stance** (same as the baseline overhead). | **Bước 2 — Khi vào vị trí, xoay vào tư thế serve-ready** (cùng như overhead baseline). |
 | **Step 3 — Sane Smash as in Chapter 3.** | **Bước 3 — Smash Kiểm Soát như Chương 3.** |
@@ -289,7 +289,7 @@ YOU ARE AT THE BASELINE → Are you under pressure?
 > ⚠️ **The 3.5 trap with the counter-overhead | Cái bẫy 3.5 với counter-overhead**
 > Many 3.5 players see the lob, panic, and run straight back without turning their body. They arrive at the ball looking up, off-balance, and hit a weak floater. **The fix: track the lob, side-shuffle back, then TURN into the serve stance.** The turn is what gives you the same Sane Smash as your serve.
 >
-> *Nhiều người 3.5 thấy lob, hoảng, và chạy thẳng lùi mà không xoay người. Họ tới chỗ bóng nhìn lên, mất thăng bằng, và đánh floater yếu. **Sửa: theo lob, side-shuffle lùi, rồi XOAY vào tư thế serve.** Xoay là thứ cho anh cùng Smash Kiểm Soát như serve.*
+> *Nhiều người 3.5 thấy lob, hoảng, và chạy thẳng lùi mà không xoay người. Họ tới chỗ bóng nhìn lên, mất thăng bằng, và đánh floater yếu. **Sửa: theo lob, side-shuffle lùi, rồi XOAY vào tư thế serve.** Xoay là thứ cho bạn cùng Smash Kiểm Soát như serve.*
 
 ### The Vertical Game Decision Tree | Cây Quyết Định Trò Chơi Dọc
 
@@ -318,7 +318,7 @@ BALL IS IN THE AIR → What's the situation?
 > 🩺 **The 50+ pattern in doubles | Pattern 50+ trong đánh đôi**
 > **The vertical game is the best doubles weapon for 50+ players.** Why? Doubles opponents at the net are usually 8-10 feet away from you. A defensive lob is the easiest way to neutralize them — they have to hit a high overhead on the move. And your doubles partner can poach the weak reply. **The pattern: my partner serves, I hit a deep defensive lob, partner poaches the reply. Three shots, one point.** This is the 50+ doubles cheat code.
 >
-> *Trò chơi dọc là vũ khí đôi tốt nhất cho người 50+. Tại sao? Đối thủ đánh đôi ở lưới thường cách anh 2,5-3 mét. Lob phòng thủ là cách dễ nhất để vô hiệu hóa họ — họ phải đánh overhead cao trong khi di chuyển. Và bạn đôi của anh có thể vồ bóng trả lời yếu. **Pattern: bạn tôi giao bóng, tôi đánh lob phòng thủ sâu, bạn vồ bóng trả lời. Ba cú, một điểm.** Đây là mã cheat đôi 50+.*
+> *Trò chơi dọc là vũ khí đôi tốt nhất cho người 50+. Tại sao? Đối thủ đánh đôi ở lưới thường cách bạn 2,5-3 mét. Lob phòng thủ là cách dễ nhất để vô hiệu hóa họ — họ phải đánh overhead cao trong khi di chuyển. Và bạn đôi của bạn có thể vồ bóng trả lời yếu. **Pattern: bạn tôi giao bóng, tôi đánh lob phòng thủ sâu, bạn vồ bóng trả lời. Ba cú, một điểm.** Đây là mã cheat đôi 50+.*
 
 ---
 
@@ -339,29 +339,29 @@ BALL IS IN THE AIR → What's the situation?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Stand with the racket in Continental grip, ball in your non-dominant hand. Lift BOTH arms to the "trophy position" — non-dominant arm pointing at an imaginary ball, racket arm bent with head above. **Hold for 10 seconds. Do 10 reps.** | Đứng với vợt Continental, bóng ở tay không thuận. Nâng CẢ HAI tay lên "vị trí trophy" — tay không thuận chỉ bóng tưởng tượng, tay vợt gập đầu vợt trên. **Giữ 10 giây. Làm 10 lần.** |
-| **Why this works:** the trophy position is identical for the serve and the overhead. If you can hold it for the serve, you can hold it for the overhead. The drill builds body memory. | **Tại sao hiệu quả:** vị trí trophy giống hệt cho serve và overhead. Nếu anh giữ được cho serve, anh giữ được cho overhead. Bài tập xây body memory. |
+| **Why this works:** the trophy position is identical for the serve and the overhead. If you can hold it for the serve, you can hold it for the overhead. The drill builds body memory. | **Tại sao hiệu quả:** vị trí trophy giống hệt cho serve và overhead. Nếu bạn giữ được cho serve, bạn giữ được cho overhead. Bài tập xây body memory. |
 
 #### Drill 3 — The "Sane Smash" from a Tossed Ball (Solo or Partner, 10 min/session) | Smash Kiểm Soát Từ Bóng Tung
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Stand at the baseline in serve stance. Have a partner stand at the service line on the other side and TOSS the ball high to your forehand overhead position. Track, position, turn, Sane Smash. | Đứng ở baseline ở tư thế serve. Nhờ bạn đứng ở vạch giao bóng bên kia TUNG bóng cao tới vị trí overhead forehand. Theo dõi, vào vị trí, xoay, Smash Kiểm Soát. |
-| **Goal: 10 Sane Smashes in a row, all landing in the correct service box (cross-court from your position).** | **Mục tiêu: 10 Smash Kiểm Soát liên tiếp, tất cả rơi đúng service box (chéo sân từ vị trí anh).** |
-| **The "fall, don't swing" cue:** if your racket is "swinging" through the ball, you're trying too hard. The motion is a controlled fall, not a swing. | **Tín hiệu "rơi, không vung":** nếu vợt anh đang "vung" xuyên qua bóng, anh cố quá. Động tác là cú rơi kiểm soát, không phải vung. |
+| **Goal: 10 Sane Smashes in a row, all landing in the correct service box (cross-court from your position).** | **Mục tiêu: 10 Smash Kiểm Soát liên tiếp, tất cả rơi đúng service box (chéo sân từ vị trí bạn).** |
+| **The "fall, don't swing" cue:** if your racket is "swinging" through the ball, you're trying too hard. The motion is a controlled fall, not a swing. | **Tín hiệu "rơi, không vung":** nếu vợt bạn đang "vung" xuyên qua bóng, bạn cố quá. Động tác là cú rơi kiểm soát, không phải vung. |
 
 #### Drill 4 — The Defensive Lob Rally (With Partner, 10 min) | Rally Lob Phòng Thủ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| You and your partner start at the baseline. You feed an easy ball to your partner. Your partner hits a deep groundstroke to you. You respond with a defensive slice lob. Your partner lets it bounce, hits it back. You lob again. **Goal: 5 consecutive lob exchanges without an error.** | Anh và bạn bắt đầu ở baseline. Anh feed bóng dễ cho bạn. Bạn tôi đánh groundstroke sâu cho anh. Anh trả lời bằng lob slice phòng thủ. Bạn tôi để nó nảy, đánh lại. Anh lob lại. **Mục tiêu: 5 trao đổi lob liên tiếp không lỗi.** |
-| **Diagnostic:** if your lob lands in the service box, your arc is too low or your aim is too short. Add more shoulder shrug. If your lob lands beyond the baseline, you're overhitting. Reduce the shoulder shrug and let the backswing do the work. | **Chẩn đoán:** nếu lob rơi service box, vòng cung quá thấp hoặc nhắm quá ngắn. Thêm nhún vai. Nếu lob rơi quá baseline, anh đánh quá. Giảm nhún vai và để backswing làm việc. |
+| You and your partner start at the baseline. You feed an easy ball to your partner. Your partner hits a deep groundstroke to you. You respond with a defensive slice lob. Your partner lets it bounce, hits it back. You lob again. **Goal: 5 consecutive lob exchanges without an error.** | Anh và bạn bắt đầu ở baseline. Anh feed bóng dễ cho bạn. Bạn tôi đánh groundstroke sâu cho bạn. Anh trả lời bằng lob slice phòng thủ. Bạn tôi để nó nảy, đánh lại. Anh lob lại. **Mục tiêu: 5 trao đổi lob liên tiếp không lỗi.** |
+| **Diagnostic:** if your lob lands in the service box, your arc is too low or your aim is too short. Add more shoulder shrug. If your lob lands beyond the baseline, you're overhitting. Reduce the shoulder shrug and let the backswing do the work. | **Chẩn đoán:** nếu lob rơi service box, vòng cung quá thấp hoặc nhắm quá ngắn. Thêm nhún vai. Nếu lob rơi quá baseline, bạn đánh quá. Giảm nhún vai và để backswing làm việc. |
 
 #### Drill 5 — The "Lob Volley Triangle" (With Partner, 5 min) | Tam Giác Lob Volley
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Set up a triangle: Partner at the baseline, you at the net on the ad side, cones (or just imagination) marking the deuce corner of the service box. Partner feeds you a ball aimed at your feet or at the body. You hit a lob volley to the deuce corner. **Do 10 reps. Then switch sides.** | Dựng tam giác: bạn ở baseline, anh ở lưới bên ad, cones (hoặc tưởng tượng) đánh dấu góc deuce của service box. Bạn feed bóng nhắm chân hoặc thân anh. Anh đánh lob volley vào góc deuce. **Làm 10 lần. Rồi đổi bên.** |
-| **The "high contact" check:** if your lob volley is going into the net, you're catching the ball too low. Let it rise to your shoulder. **The lob volley needs HIGH contact, not LOW contact.** | **Kiểm tra "tiếp xúc cao":** nếu lob volley vào lưới, anh bắt bóng quá thấp. Để nó lên tới vai. **Lob volley cần tiếp xúc CAO, không phải THẤP.** |
+| Set up a triangle: Partner at the baseline, you at the net on the ad side, cones (or just imagination) marking the deuce corner of the service box. Partner feeds you a ball aimed at your feet or at the body. You hit a lob volley to the deuce corner. **Do 10 reps. Then switch sides.** | Dựng tam giác: bạn ở baseline, bạn ở lưới bên ad, cones (hoặc tưởng tượng) đánh dấu góc deuce của service box. Bạn feed bóng nhắm chân hoặc thân bạn. Anh đánh lob volley vào góc deuce. **Làm 10 lần. Rồi đổi bên.** |
+| **The "high contact" check:** if your lob volley is going into the net, you're catching the ball too low. Let it rise to your shoulder. **The lob volley needs HIGH contact, not LOW contact.** | **Kiểm tra "tiếp xúc cao":** nếu lob volley vào lưới, bạn bắt bóng quá thấp. Để nó lên tới vai. **Lob volley cần tiếp xúc CAO, không phải THẤP.** |
 
 ---
 
@@ -416,7 +416,7 @@ BALL IS IN THE AIR → What's the situation?
 > 🩺 **The single most important 50+ rule for lobs and overheads | Quy tắc 50+ quan trọng nhất cho lob và overhead**
 > **You are not trying to win the point with the lob or the overhead. You are trying to NOT LOSE the point.** A defensive lob that lands deep, even if the opponent retrieves it, gives you time to recover. A Sane Smash that lands in the correct service box, even if the opponent gets it back, puts you in attack position. **Survival first, placement second, pace last. Always.**
 >
-> *Anh không cố ghi điểm bằng lob hay overhead. Anh cố KHÔNG MẤT điểm. Lob phòng thủ rơi sâu, kể cả nếu đối thủ cứu được, cho anh thời gian hồi phục. Smash Kiểm Soát rơi đúng service box, kể cả nếu đối thủ trả lại, đặt anh ở vị trí tấn công. **Sống sót trước, đặt bóng sau, lực cuối cùng. Luôn luôn.***
+> *Anh không cố ghi điểm bằng lob hay overhead. Anh cố KHÔNG MẤT điểm. Lob phòng thủ rơi sâu, kể cả nếu đối thủ cứu được, cho bạn thời gian hồi phục. Smash Kiểm Soát rơi đúng service box, kể cả nếu đối thủ trả lại, đặt bạn ở vị trí tấn công. **Sống sót trước, đặt bóng sau, lực cuối cùng. Luôn luôn.***
 
 ---
 
@@ -558,11 +558,11 @@ BEFORE THE LOB VOLLEY:
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Lob và overhead không phải hai cú riêng biệt. Chúng là hai câu trả lời cho cùng một vấn đề: bóng ở trên không. Khi anh thấy chúng như một cặp, anh bắt đầu chơi trò chơi dọc — và trò chơi dọc là thứ quyết định điểm ở level 3.5.*
+> *Lob và overhead không phải hai cú riêng biệt. Chúng là hai câu trả lời cho cùng một vấn đề: bóng ở trên không. Khi bạn thấy chúng như một cặp, bạn bắt đầu chơi trò chơi dọc — và trò chơi dọc là thứ quyết định điểm ở level 3.5.*
 >
 > *The lob and the overhead are not two separate shots. They are two answers to the same problem: the ball is in the air. Once you see them as a pair, you start playing the vertical game — and the vertical game is what decides points at 3.5.*
 
-Chúc anh chơi dọc tốt hơn ở Surrey tuần này. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) và Drill 3 (Sane Smash từ bóng tung). Trong 2 tuần, lob sẽ bắt đầu cảm thấy *nhẹ nhàng* — và Smash Kiểm Soát sẽ thay thế cảm giác hoảng. 🎾
+Chúc bạn chơi dọc tốt hơn ở Surrey tuần này. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) và Drill 3 (Sane Smash từ bóng tung). Trong 2 tuần, lob sẽ bắt đầu cảm thấy *nhẹ nhàng* — và Smash Kiểm Soát sẽ thay thế cảm giác hoảng. 🎾
 
 ---
 

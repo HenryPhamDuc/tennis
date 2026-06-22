@@ -95,4 +95,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "gia đình slice" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay cho 7 tình huống.
+Hy vọng tuần này bạn sẽ thêm "gia đình slice" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, bạn sẽ có 7 tùy chọn trong tay cho 7 tình huống.

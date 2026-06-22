@@ -28,7 +28,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Watch a 3.5 player between points. They walk to the baseline, **fiddle with the grip for 3-5 seconds, hit the shot.** Then they walk to the other side, **fiddle again for 3-5 seconds, hit the next shot.** | Xem người 3.5 giữa các điểm. Họ đi về baseline, **nghịch grip 3-5 giây, đánh cú.** Rồi họ đi sang bên kia, **nghịch lại 3-5 giây, đánh cú tiếp.** |
-| **The grip change is the 3.5 player's #1 invisible time-cost.** A typical match has 120-150 points. If you fumble for 3 seconds per point, that's 6-7.5 minutes of fumbling. **That's 6-7 minutes of your match where you're NOT playing tennis — you're searching for the grip.** | **Đổi grip là chi phí thời gian #1 vô hình của người 3.5.** Một trận điển hình có 120-150 điểm. Nếu anh lóng ngóng 3 giây mỗi điểm, đó là 6-7,5 phút lóng ngóng. **Đó là 6-7 phút trận đấu nơi anh KHÔNG chơi tennis — anh tìm grip.** |
+| **The grip change is the 3.5 player's #1 invisible time-cost.** A typical match has 120-150 points. If you fumble for 3 seconds per point, that's 6-7.5 minutes of fumbling. **That's 6-7 minutes of your match where you're NOT playing tennis — you're searching for the grip.** | **Đổi grip là chi phí thời gian #1 vô hình của người 3.5.** Một trận điển hình có 120-150 điểm. Nếu bạn lóng ngóng 3 giây mỗi điểm, đó là 6-7,5 phút lóng ngóng. **Đó là 6-7 phút trận đấu nơi bạn KHÔNG chơi tennis — bạn tìm grip.** |
 | **The fix: a Grip Change Map.** A pre-point ritual that finds the grip in 0.5-1 second, every point, every match. **The 50+ player who has the map plays faster, switches more cleanly, and wins more points.** | **Sửa: Bản Đồ Đổi Grip.** Nghi thức trước điểm tìm grip trong 0,5-1 giây, mỗi điểm, mỗi trận. **Người 50+ có bản đồ chơi nhanh hơn, đổi sạch hơn, thắng nhiều điểm hơn.** |
 
 > 🧠 **Mental model | Mô hình tư duy**
@@ -56,7 +56,7 @@
 |---|---|
 | **Two rules for the 3.5 player who wants the Grip Change Map:** | **2 quy tắc cho người 3.5 muốn có Bản Đồ Đổi Grip:** |
 | **Rule 1: The 70/30 rule** (from the Continental deep dive). 70% of shots use the Continental. 30% use the Semi-Western (forehand). **The Continental is the default. The Semi-Western is the exception.** | **Quy tắc 1: Quy tắc 70/30** (từ Continental deep dive). 70% cú dùng Continental. 30% dùng Semi-Western (forehand). **Continental là mặc định. Semi-Western là ngoại lệ.** |
-| **Rule 2: The 5-second reset.** Between points, you have 15-25 seconds. Use 5 of them for the grip check. **Walk to the line, check the V, find the grip, walk to the position.** The 5-second reset is the 50+ player's secret weapon. | **Quy tắc 2: Reset 5 giây.** Giữa các điểm, anh có 15-25 giây. Dùng 5 trong số đó cho kiểm tra grip. **Đi về vạch, kiểm tra V, tìm grip, đi tới vị trí.** Reset 5 giây là vũ khí bí mật của người 50+. |
+| **Rule 2: The 5-second reset.** Between points, you have 15-25 seconds. Use 5 of them for the grip check. **Walk to the line, check the V, find the grip, walk to the position.** The 5-second reset is the 50+ player's secret weapon. | **Quy tắc 2: Reset 5 giây.** Giữa các điểm, bạn có 15-25 giây. Dùng 5 trong số đó cho kiểm tra grip. **Đi về vạch, kiểm tra V, tìm grip, đi tới vị trí.** Reset 5 giây là vũ khí bí mật của người 50+. |
 | **Together, the 2 rules give the 3.5 player the Grip Change Map.** The 70/30 rule means most of the time, the grip is already in your hand (Continental). The 5-second reset means the 30% (forehand) takes 5 seconds, not 5 fumbling moments. | **Cùng nhau, 2 quy tắc cho người 3.5 Bản Đồ Đổi Grip.** Quy tắc 70/30 nghĩa là phần lớn thời gian, grip đã ở trong tay (Continental). Reset 5 giây nghĩa là 30% (forehand) mất 5 giây, không phải 5 khoảnh khắc lóng ngóng. |
 
 > 💡 **The "Continental as home base" principle | Nguyên lý "Continental làm sân nhà"**
@@ -73,9 +73,9 @@
 |---|---|
 | **A typical 3.5 match has 4 point types, each with its own grip sequence.** Knowing the sequence turns 4-6 fumbling changes into 1-2 clean changes per point. | **Một trận 3.5 điển hình có 4 loại điểm, mỗi loại có chuỗi grip riêng.** Biết chuỗi biến 4-6 lần đổi lóng ngóng thành 1-2 lần đổi sạch mỗi điểm. |
 | **The 4 point types:** | **4 loại điểm:** |
-| 1. **Serving point** — you serve, the rally happens, you win or lose the point. | 1. **Điểm giao bóng** — anh giao, rally xảy ra, anh thắng hoặc thua điểm. |
-| 2. **Returning point** — you return, the rally happens, you win or lose. | 2. **Điểm trả bóng** — anh trả, rally xảy ra, anh thắng hoặc thua. |
-| 3. **Net point** — you come to the net, you volley. | 3. **Điểm lưới** — anh lên lưới, anh volley. |
+| 1. **Serving point** — you serve, the rally happens, you win or lose the point. | 1. **Điểm giao bóng** — bạn giao, rally xảy ra, bạn thắng hoặc thua điểm. |
+| 2. **Returning point** — you return, the rally happens, you win or lose. | 2. **Điểm trả bóng** — bạn trả, rally xảy ra, bạn thắng hoặc thua. |
+| 3. **Net point** — you come to the net, you volley. | 3. **Điểm lưới** — bạn lên lưới, bạn volley. |
 | 4. **Mixed point** — start at baseline, end at net (or vice versa). | 4. **Điểm hỗn hợp** — bắt đầu ở baseline, kết thúc ở lưới (hoặc ngược lại). |
 
 > 🧠 **Mental model | Mô hình tư duy**
@@ -96,7 +96,7 @@
 > 💡 **The "Continental stays" rule | Quy tắc "Continental ở lại"**
 > **Once you serve with the Continental, STAY with the Continental.** The serve → volley → slice → lob all use the Continental. The serving point has 0 grip changes. **The serving point is the easiest point for grip management.** The 3.5 player who serves well and stays Continental doesn't fumble.
 >
-> *Khi anh giao với Continental, Ở LẠI Continental. Serve → volley → slice → lob đều dùng Continental. Điểm giao bóng có 0 đổi grip. **Điểm giao bóng là điểm dễ nhất cho quản lý grip.** Người 3.5 giao tốt và ở Continental không lóng ngóng.*
+> *Khi bạn giao với Continental, Ở LẠI Continental. Serve → volley → slice → lob đều dùng Continental. Điểm giao bóng có 0 đổi grip. **Điểm giao bóng là điểm dễ nhất cho quản lý grip.** Người 3.5 giao tốt và ở Continental không lóng ngóng.*
 
 ### 2B. The Returning Point — 1 Change, Sometimes 2 | Điểm Trả Bóng — 1 Đổi, Thỉnh thoảng 2
 
@@ -170,7 +170,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Between points, you have 15-25 seconds.** Most 3.5 players use this time to walk to the line, drink water, look at the crowd. **The 50+ player who has the Grip Change Map uses 5 of these seconds for the grip check.** | **Giữa các điểm, anh có 15-25 giây.** Hầu hết người 3.5 dùng thời gian này để đi về vạch, uống nước, nhìn khán giả. **Người 50+ có Bản Đồ Đổi Grip dùng 5 trong số những giây này cho kiểm tra grip.** |
+| **Between points, you have 15-25 seconds.** Most 3.5 players use this time to walk to the line, drink water, look at the crowd. **The 50+ player who has the Grip Change Map uses 5 of these seconds for the grip check.** | **Giữa các điểm, bạn có 15-25 giây.** Hầu hết người 3.5 dùng thời gian này để đi về vạch, uống nước, nhìn khán giả. **Người 50+ có Bản Đồ Đổi Grip dùng 5 trong số những giây này cho kiểm tra grip.** |
 | **The 5-second reset has 4 micro-actions:** | **Reset 5 giây có 4 vi hành động:** |
 | 1. **Walk** to the line (1-2 sec). | 1. **Đi** về vạch (1-2 giây). |
 | 2. **Look** at the V (1 sec). | 2. **Nhìn** V (1 giây). |
@@ -443,11 +443,11 @@ AFTER THE POINT (back to home base):
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Đổi grip không phải lóng ngóng. Đổi grip là đi bộ bevel 1-2 cạnh trong 1 giây. Continental là sân nhà — anh trở về đó giữa các điểm. Semi-Western là forehand — anh đi bộ tới đó khi forehand tới. Reset 5 giây trước mỗi điểm — đi, nhìn, kiểm tra, đi. **Bản đồ biến 4-6 đổi lóng ngóng thành 1-2 đổi sạch.** Ở tuổi 50+, người chơi có bản đồ thắng 20% điểm hơn. Người chơi lóng ngóng 3 giây mỗi điểm mất 7 phút mỗi trận — và 20% điểm. **Một bản đồ. Hai mươi phần trăm điểm. Hai mươi năm tennis.***
+> *Đổi grip không phải lóng ngóng. Đổi grip là đi bộ bevel 1-2 cạnh trong 1 giây. Continental là sân nhà — bạn trở về đó giữa các điểm. Semi-Western là forehand — bạn đi bộ tới đó khi forehand tới. Reset 5 giây trước mỗi điểm — đi, nhìn, kiểm tra, đi. **Bản đồ biến 4-6 đổi lóng ngóng thành 1-2 đổi sạch.** Ở tuổi 50+, người chơi có bản đồ thắng 20% điểm hơn. Người chơi lóng ngóng 3 giây mỗi điểm mất 7 phút mỗi trận — và 20% điểm. **Một bản đồ. Hai mươi phần trăm điểm. Hai mươi năm tennis.***
 >
 > *The grip change is not fumbling. The grip change is a 1-2 bevel walk in 1 second. Continental is home base — return to it between points. Semi-Western is the forehand — walk to it when the forehand comes. The 5-second reset before each point — walk, look, check, walk. **The map turns 4-6 fumbling changes into 1-2 clean changes.** At 50+, the player with the map wins 20% more points. The player fumbling 3 seconds per point loses 7 minutes per match — and 20% of the points. **One map. Twenty percent more points. Twenty years of tennis.***
 
-Bắt đầu tuần này với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, anh sẽ có bản đồ đổi grip và sẽ chơi tennis thay vì tìm grip ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, bạn sẽ có bản đồ đổi grip và sẽ chơi tennis thay vì tìm grip ở Surrey. 🎾
 
 ---
 

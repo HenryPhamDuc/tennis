@@ -35,7 +35,7 @@
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of a billiard ball hitting the cushion. The cushion doesn't move. The ball redirects. Your racket face is the cushion. The angle of the face is the angle of the rebound. That's it. No swing required.
 >
-> *Hãy nghĩ viên bi-a đập vào băng. Băng không di chuyển. Viên bi chuyển hướng. Mặt vợt anh là cái băng. Góc mặt vợt là góc bóng nảy. Chỉ vậy thôi. Không cần vung.*
+> *Hãy nghĩ viên bi-a đập vào băng. Băng không di chuyển. Viên bi chuyển hướng. Mặt vợt bạn là cái băng. Góc mặt vợt là góc bóng nảy. Chỉ vậy thôi. Không cần vung.*
 
 > ⚠️ **The 50+ warning | Cảnh báo 50+**
 > Most 3.5 players (especially over 50) are afraid at the net. The ball comes fast, the instinct is to step back, grip tight, and swing hard. **This is exactly backwards.** Stepping back locks you on your heels — no spring, no lateral move. Gripping tight numbs your hand — no feel. Swinging hard overruns the ball. The fix is not bravery. The fix is *technique*: soft hand, front foot, short motion. We'll cover each.
@@ -58,7 +58,7 @@
 > 💡 **Pro detail | Chi tiết pro**
 > The two contact points that matter most are the **thumb pad** (on the back bevel) and the **index knuckle** (on bevel #2). These two points become your "feelers" — they read the angle of the face without you having to look at it.
 >
-> *Hai điểm tiếp xúc quan trọng nhất là **đệm ngón cái** (cạnh sau) và **khớp ngón trỏ** (cạnh số 2). Hai điểm này thành "bộ cảm biến" của anh — chúng đọc góc mặt vợt mà anh không cần nhìn.*
+> *Hai điểm tiếp xúc quan trọng nhất là **đệm ngón cái** (cạnh sau) và **khớp ngón trỏ** (cạnh số 2). Hai điểm này thành "bộ cảm biến" của bạn — chúng đọc góc mặt vợt mà bạn không cần nhìn.*
 
 ---
 
@@ -68,13 +68,13 @@
 |---|---|
 | At contact, your wrist and forearm should form a firm **L-shape** — about 90 to 110 degrees, with the racket head always above your wrist. | Khi chạm bóng, cổ tay và cẳng tay phải tạo thành hình chữ **L** chắc chắn — khoảng 90 đến 110 độ, đầu vợt luôn cao hơn cổ tay. |
 | This is NOT a groundstroke. The wrist is not loose. The wrist is **frozen** — firm but not rigid. Like a concrete block, not a steel bar. | Đây KHÔNG phải groundstroke. Cổ tay không lỏng. Cổ tay **đóng băng** — chắc nhưng không cứng đơ. Như khối bê tông, không phải thanh thép. |
-| **The L gives you three things at once:** (1) a stable face angle, (2) a braced wrist that absorbs pace instead of flopping, (3) a lever you can micro-adjust with thumb pressure. | **Hình L cho anh ba thứ cùng lúc:** (1) góc mặt vợt ổn định, (2) cổ tay chống hấp thụ lực thay vì gãy, (3) đòn bẩy có thể vi chỉnh bằng áp lực ngón cái. |
+| **The L gives you three things at once:** (1) a stable face angle, (2) a braced wrist that absorbs pace instead of flopping, (3) a lever you can micro-adjust with thumb pressure. | **Hình L cho bạn ba thứ cùng lúc:** (1) góc mặt vợt ổn định, (2) cổ tay chống hấp thụ lực thay vì gãy, (3) đòn bẩy có thể vi chỉnh bằng áp lực ngón cái. |
 | **The racket head above the wrist is the single most important visual cue in volleys.** If the head drops below the wrist, the face opens and the ball floats. | **Đầu vợt cao hơn cổ tay là tín hiệu hình ảnh quan trọng nhất trong volley.** Nếu đầu vợt rơi dưới cổ tay, mặt vợt mở ra và bóng bay bổng. |
 
 > 🪞 **The mirror test | Thử trước gương**
 > Hold the racket in Continental. Bend your wrist back so the racket head is clearly above your hand — that's your L. Now try to keep that angle while you move the racket slightly left and right, as if volleying. The face angle stays almost the same. That's the magic. **Try the same with the L flattened — face angle changes wildly with every small move. The L is what gives you control.**
 >
-> *Cầm vợt Continental. Bẻ cổ tay ra sau để đầu vợt rõ ràng cao hơn tay — đó là L của anh. Giờ di chuyển vợt nhẹ qua trái qua phải như đang volley. Góc mặt vợt gần như không đổi. Đó là phép màu. **Làm lại với L duỗi thẳng — góc mặt vợt thay đổi dữ dội với mỗi di chuyển nhỏ. L là thứ mang lại kiểm soát.***
+> *Cầm vợt Continental. Bẻ cổ tay ra sau để đầu vợt rõ ràng cao hơn tay — đó là L của bạn. Giờ di chuyển vợt nhẹ qua trái qua phải như đang volley. Góc mặt vợt gần như không đổi. Đó là phép màu. **Làm lại với L duỗi thẳng — góc mặt vợt thay đổi dữ dội với mỗi di chuyển nhỏ. L là thứ mang lại kiểm soát.***
 
 ---
 
@@ -122,7 +122,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The instant your opponent strikes the ball, do a tiny **split-step hop** — both feet leave the ground a centimeter or two, both knees bend slightly, weight lands on the balls of both feet. | Khoảnh khắc đối thủ chạm bóng, làm một cú **split-step nhỏ** — hai chân rời đất một hai phân, hai gối hơi chùng, trọng lượng rơi lên mũi hai chân. |
-| This is the trigger that converts you from "standing" to "ready to explode." Without it, you are always one step late. Without it, your first move is sluggish. | Đây là cò súng biến anh từ "đứng" sang "sẵn sàng bùng nổ." Không có nó, anh luôn chậm một bước. Không có nó, bước đầu tiên ì ạch. |
+| This is the trigger that converts you from "standing" to "ready to explode." Without it, you are always one step late. Without it, your first move is sluggish. | Đây là cò súng biến bạn từ "đứng" sang "sẵn sàng bùng nổ." Không có nó, bạn luôn chậm một bước. Không có nó, bước đầu tiên ì ạch. |
 | The split-step is **tiny** — not a jump, not a bounce. It is a "loading" of the legs, like a compressed spring. | Split-step **rất nhỏ** — không phải nhảy, không phải bật. Nó là "nạp" chân, như lò xo bị nén. |
 
 > 🎯 **Drill — The 2-Second Hold | Bài tập giữ 2 giây**
@@ -136,7 +136,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| In taichi, every step has one **substantial** leg (full weight, rooted) and one **insubstantial** leg (light, free to move). You never have full weight on both legs at once — that's "double-weighted" and you become stuck. | Trong thái cực, mỗi bước có một chân **thực** (toàn trọng lượng, bám đất) và một chân **hư** (nhẹ, tự do di chuyển). Anh không bao giờ có toàn trọng lượng trên cả hai chân cùng lúc — đó là "nặng cả hai chân" và anh bị kẹt. |
+| In taichi, every step has one **substantial** leg (full weight, rooted) and one **insubstantial** leg (light, free to move). You never have full weight on both legs at once — that's "double-weighted" and you become stuck. | Trong thái cực, mỗi bước có một chân **thực** (toàn trọng lượng, bám đất) và một chân **hư** (nhẹ, tự do di chuyển). Anh không bao giờ có toàn trọng lượng trên cả hai chân cùng lúc — đó là "nặng cả hai chân" và bạn bị kẹt. |
 | **Applied to volleys:** as you step toward the ball, the back leg is the engine (pushes), the front leg is the bridge (lands and absorbs). 70% of weight ends up on the front leg at contact. | **Áp dụng cho volley:** khi bước về phía bóng, chân sau là động cơ (đẩy), chân trước là cầu (đáp và hấp thụ). 70% trọng lượng rơi lên chân trước khi chạm bóng. |
 | **Forehand volley (right-hander):** left foot steps forward and across toward the ball — it becomes the bridge. The right foot drives. | **Forehand volley (người thuận tay phải):** chân trái bước tới và chéo về phía bóng — nó thành cầu. Chân phải đẩy. |
 | **Backhand volley:** right foot steps across — it becomes the bridge. The left foot drives. | **Backhand volley:** chân phải bước chéo — nó thành cầu. Chân trái đẩy. |
@@ -145,7 +145,7 @@
 > ⚠️ **The 50+ posture warning | Cảnh báo tư thế 50+**
 > **Step DOWN, not FORWARD.** When the ball is low, the temptation is to bend at the waist and reach down. **Wrong.** Bend at the knees — drop the hips, keep the spine neutral, let the legs do the work. Reaching with a bent back is how you herniate a disc. Drop with the legs, not the back.
 >
-> * **BƯỚC XUỐNG, KHÔNG CÚI TỚI.** Khi bóng thấp, cám dỗ là cúi lưng và với xuống. **Sai.** Chùng gối — hạ hông, giữ cột sống thẳng, để chân làm việc. Với bằng lưng cong là cách anh thoát vị đĩa đệm. Hạ bằng chân, không phải lưng.*
+> * **BƯỚC XUỐNG, KHÔNG CÚI TỚI.** Khi bóng thấp, cám dỗ là cúi lưng và với xuống. **Sai.** Chùng gối — hạ hông, giữ cột sống thẳng, để chân làm việc. Với bằng lưng cong là cách bạn thoát vị đĩa đệm. Hạ bằng chân, không phải lưng.*
 
 ---
 
@@ -154,8 +154,8 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | This is the most counter-intuitive lesson at 50+. The brain says: "ball coming fast → step back to give myself time." The court says: **backwards = wrong.** | Đây là bài học phản trực giác nhất ở tuổi 50+. Não nói: "bóng tới nhanh → lùi lại để có thời gian." Sân nói: **lùi = sai.** |
-| When you step back, three things die at once: (1) you lose the calf-spring on your heels — no lateral move, (2) the racket face opens up, ball floats long, (3) the contact point moves behind your body — you reach with the wrist, the ball goes in the net. | Khi anh lùi, ba thứ chết cùng lúc: (1) mất lò xo bắp chân trên gót — không di chuyển ngang được, (2) mặt vợt mở lên, bóng bay bổng, (3) điểm chạm ra sau người — anh với bằng cổ tay, bóng vào lưới. |
-| **When you step in:** (1) calf-spring stays loaded on the balls of your feet — quick lateral move, (2) the body "leans into" the ball, mặt vợt stays slightly closed = downward trajectory, (3) the contact point moves in front of you — clean strike, real pace. | **Khi anh tiến:** (1) lò xo bắp chân còn nạp trên mũi chân — di chuyển ngang nhanh, (2) cơ thể "nghiêng vào" bóng, mặt vợt hơi đóng = quỹ đạo đi xuống, (3) điểm chạm ra trước — chạm sạch, có lực. |
+| When you step back, three things die at once: (1) you lose the calf-spring on your heels — no lateral move, (2) the racket face opens up, ball floats long, (3) the contact point moves behind your body — you reach with the wrist, the ball goes in the net. | Khi bạn lùi, ba thứ chết cùng lúc: (1) mất lò xo bắp chân trên gót — không di chuyển ngang được, (2) mặt vợt mở lên, bóng bay bổng, (3) điểm chạm ra sau người — bạn với bằng cổ tay, bóng vào lưới. |
+| **When you step in:** (1) calf-spring stays loaded on the balls of your feet — quick lateral move, (2) the body "leans into" the ball, mặt vợt stays slightly closed = downward trajectory, (3) the contact point moves in front of you — clean strike, real pace. | **Khi bạn tiến:** (1) lò xo bắp chân còn nạp trên mũi chân — di chuyển ngang nhanh, (2) cơ thể "nghiêng vào" bóng, mặt vợt hơi đóng = quỹ đạo đi xuống, (3) điểm chạm ra trước — chạm sạch, có lực. |
 | **The "Predator Stance"**: stand on the balls of your feet, racket at eye level, body leaning slightly forward. You are the hunter, not the target. | **"Tư thế thợ săn"**: đứng trên mũi chân, vợt ngang tầm mắt, thân hơi đổ về trước. Anh là thợ săn, không phải mục tiêu. |
 
 > 🎯 **Drill — The "1-2 In" | Bài tập "1-2 tiến"**
@@ -194,7 +194,7 @@ There are five core volleys. Each uses the same body framework (Continental, L-s
 ### 1️⃣ The Punch Volley | Volley "đấm"
 
 **Use when:** the ball comes at medium pace and you want to redirect it firmly.
-*Dùng khi:* bóng tới tốc độ trung bình và anh muốn chuyển hướng chắc chắn.
+*Dùng khi:* bóng tới tốc độ trung bình và bạn muốn chuyển hướng chắc chắn.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -226,39 +226,39 @@ There are five core volleys. Each uses the same body framework (Continental, L-s
 ### 3️⃣ The Drop Volley | Drop volley
 
 **Use when:** the opponent is far behind the baseline, and you want to use their depth against them — make them run forward.
-*Dùng khi:* đối thủ ở sâu cuối sân, anh muốn dùng vị trí của họ ngược lại — bắt họ chạy tới.
+*Dùng khi:* đối thủ ở sâu cuối sân, bạn muốn dùng vị trí của họ ngược lại — bắt họ chạy tới.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The drop volley is the highest-skill volley. You meet the ball with the face wide open, almost no forward motion, and just let the ball die over the net. | Drop volley là volley đòi hỏi kỹ năng cao nhất. Anh chạm bóng với mặt vợt mở rộng, gần như không di chuyển tới, và để bóng chết ngay trên lưới. |
-| **The "marble" cue:** imagine the ball is a marble you're placing on a shelf. No force, just placement. | **Tín hiệu "viên bi":** hình dung bóng là viên bi anh đặt lên kệ. Không lực, chỉ đặt. |
+| **The "marble" cue:** imagine the ball is a marble you're placing on a shelf. No force, just placement. | **Tín hiệu "viên bi":** hình dung bóng là viên bi bạn đặt lên kệ. Không lực, chỉ đặt. |
 | **Loose grip is essential.** Pressure 2 to 3 out of 10. The strings give slightly on contact, killing the pace. | **Grip lỏng là thiết yếu.** Áp lực 2 đến 3 trên 10. Dây vợt nhường nhẹ khi chạm, giết chết tốc độ. |
-| **Aiming:** the ball should land within 1 to 2 feet of the net on the other side. If it goes higher, you've added too much pace. | **Nhắm:** bóng nên rơi trong khoảng 30-60 cm từ lưới phía bên kia. Nếu bay cao hơn, anh đã thêm quá nhiều lực. |
+| **Aiming:** the ball should land within 1 to 2 feet of the net on the other side. If it goes higher, you've added too much pace. | **Nhắm:** bóng nên rơi trong khoảng 30-60 cm từ lưới phía bên kia. Nếu bay cao hơn, bạn đã thêm quá nhiều lực. |
 
 > 🧠 **Why the drop volley is 3.5+ in disguise | Tại sao drop volley là level 3.5++**
 > The drop volley requires controlling the face angle to within 2 to 3 degrees AND keeping the body weight perfectly still. Most 3.5 players cannot do this. The good news: you don't need it to win matches. Use it once or twice a match as a surprise weapon. The threat of the drop is more dangerous than the drop itself.
 >
-> *Drop volley đòi hỏi kiểm soát góc mặt vợt trong khoảng 2-3 độ VÀ giữ trọng lượng cơ thể hoàn toàn yên. Hầu hết người 3.5 không làm được. Tin tốt: anh không cần nó để thắng trận. Dùng nó một hai lần mỗi trận như vũ khí bất ngờ. Mối đe dọa của drop nguy hiểm hơn chính cú drop.*
+> *Drop volley đòi hỏi kiểm soát góc mặt vợt trong khoảng 2-3 độ VÀ giữ trọng lượng cơ thể hoàn toàn yên. Hầu hết người 3.5 không làm được. Tin tốt: bạn không cần nó để thắng trận. Dùng nó một hai lần mỗi trận như vũ khí bất ngờ. Mối đe dọa của drop nguy hiểm hơn chính cú drop.*
 
 ---
 
 ### 4️⃣ The Lob Volley | Lob volley
 
 **Use when:** the opponent is at the net and you are also at the net. You need to defend against being passed by going over their head.
-*Dùng khi:* đối thủ ở lưới và anh cũng ở lưới. Anh cần phòng thủ chống bị pass bằng cách đánh qua đầu họ.
+*Dùng khi:* đối thủ ở lưới và bạn cũng ở lưới. Anh cần phòng thủ chống bị pass bằng cách đánh qua đầu họ.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Open the face, lift the ball high and deep. The non-dominant hand reaches UP to track the ball (and to balance the shoulders). | Mở mặt vợt, nâng bóng cao và sâu. Tay không thuận vươn LÊN để theo bóng (và cân bằng vai). |
-| **High contact point:** the lob volley works best when you catch the ball at or above shoulder height. If it's lower, switch to a normal lob. | **Điểm chạm cao:** lob volley hiệu quả nhất khi anh bắt bóng ở hoặc trên tầm vai. Nếu thấp hơn, chuyển sang lob thường. |
-| **Aim deep, not just high.** A short lob gets smashed. A lob landing near the baseline gives you time to recover. | **Nhắm sâu, không chỉ cao.** Lob ngắn bị đập. Lob rơi gần cuối sân cho anh thời gian hồi phục. |
+| **High contact point:** the lob volley works best when you catch the ball at or above shoulder height. If it's lower, switch to a normal lob. | **Điểm chạm cao:** lob volley hiệu quả nhất khi bạn bắt bóng ở hoặc trên tầm vai. Nếu thấp hơn, chuyển sang lob thường. |
+| **Aim deep, not just high.** A short lob gets smashed. A lob landing near the baseline gives you time to recover. | **Nhắm sâu, không chỉ cao.** Lob ngắn bị đập. Lob rơi gần cuối sân cho bạn thời gian hồi phục. |
 
 ---
 
 ### 5️⃣ The Half-Volley | Half-volley
 
 **Use when:** the ball is at your feet and you have no time to let it bounce. This is the "rescue shot" at the net.
-*Dùng khi:* bóng ở chân và anh không có thời gian để nó nảy. Đây là "cú cứu" ở lưới.
+*Dùng khi:* bóng ở chân và bạn không có thời gian để nó nảy. Đây là "cú cứu" ở lưới.
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
@@ -318,7 +318,7 @@ Stand 2 to 3 meters from a wall. Volley continuously, alternating forehand and b
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Tuck a small rolled towel under your hitting-arm armpit. Volley normally. The towel must NOT fall out. | Kẹp khăn cuộn nhỏ dưới nách tay thuận. Volley bình thường. Khăn KHÔNG ĐƯỢC rơi. |
-| **Why it works:** if you "flick" the wrist or swing from the elbow, the towel falls. The drill forces you to use the shoulder and core to generate the punch motion. | **Tại sao hiệu quả:** nếu anh "vẩy" cổ tay hoặc vung bằng khuỷu, khăn rơi. Bài tập ép anh dùng vai và core để tạo động tác đấm. |
+| **Why it works:** if you "flick" the wrist or swing from the elbow, the towel falls. The drill forces you to use the shoulder and core to generate the punch motion. | **Tại sao hiệu quả:** nếu bạn "vẩy" cổ tay hoặc vung bằng khuỷu, khăn rơi. Bài tập ép bạn dùng vai và core để tạo động tác đấm. |
 | **Bonus at 50+:** this drill is gentle on the elbow — it actively prevents the wrist-flick that causes medial tennis elbow. | **Bonus 50+:** bài tập này nhẹ nhàng với khuỷu — nó chủ động ngăn vẩy cổ tay gây tennis elbow phía trong. |
 
 ---
@@ -332,7 +332,7 @@ Stand in front of a mirror. Form the L — racket head above wrist, Continental 
 - Is the racket face slightly open (you should see the strings when looking down at the face)?
 - Can you move the racket 6 inches left and right WITHOUT the face angle changing? (If it changes, your L is collapsing — the grip is too tight or the wrist is bending.)
 
-*V giữa ngón cái và ngón trỏ có chỉ về vai không thuận không? Mặt vợt có hơi mở (anh thấy dây khi nhìn xuống mặt) không? Anh có thể di chuyển vợt 15 cm qua trái phải MÀ góc mặt vợt KHÔNG đổi không? (Nếu đổi, hình L của anh đang sụp — grip quá chặt hoặc cổ tay đang gập.)*
+*V giữa ngón cái và ngón trỏ có chỉ về vai không thuận không? Mặt vợt có hơi mở (bạn thấy dây khi nhìn xuống mặt) không? Anh có thể di chuyển vợt 15 cm qua trái phải MÀ góc mặt vợt KHÔNG đổi không? (Nếu đổi, hình L của bạn đang sụp — grip quá chặt hoặc cổ tay đang gập.)*
 
 ---
 
@@ -350,7 +350,7 @@ Stand in front of a mirror. Form the L — racket head above wrist, Continental 
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Partner stands 4 meters in front of you, at the net. They throw firm balls directly at your chest, alternating forehand-side and backhand-side. Your job: block them back cross-court, no swing, just L-shape and absorb. | Bạn đứng cách 4 mét phía trước, ở lưới. Họ ném bóng chắc thẳng vào ngực, xen kẽ bên thuận và bên trái. Việc anh: chặn ngược chéo sân, không vung, chỉ hình L và hấp thụ. |
+| Partner stands 4 meters in front of you, at the net. They throw firm balls directly at your chest, alternating forehand-side and backhand-side. Your job: block them back cross-court, no swing, just L-shape and absorb. | Bạn đứng cách 4 mét phía trước, ở lưới. Họ ném bóng chắc thẳng vào ngực, xen kẽ bên thuận và bên trái. Việc bạn: chặn ngược chéo sân, không vung, chỉ hình L và hấp thụ. |
 | **Start slow** (underhand toss), then progress to firmer throws, then full racket feeds. | **Bắt đầu chậm** (tung bằng tay), rồi tăng dần lực ném, rồi dùng vợt feed. |
 | **Goal: 10 successful blocks in a row.** | **Mục tiêu: 10 cú chặn thành công liên tiếp.** |
 | **Why it matters at 50+:** this re-trains the brain that body shots are not emergencies. The fear response — the step back, the flinch, the panic swing — is the biggest reason older players lose points at the net. Repetition kills the fear. | **Tại sao quan trọng ở tuổi 50+:** bài này huấn luyện lại não rằng bóng vào thân không phải tình huống khẩn cấp. Phản ứng sợ — lùi lại, giật mình, vung hoảng — là lý do lớn nhất người chơi lớn tuổi mất điểm ở lưới. Lặp đi lặp lại giết chết nỗi sợ. |
@@ -402,7 +402,7 @@ Stand in front of a mirror. Form the L — racket head above wrist, Continental 
 > 🩺 **The single most important 50+ volley rule | Quy tắc volley 50+ quan trọng nhất**
 > **You are not trying to win the point from the volley. You are trying to NOT LOSE the point from the volley.** A blocked ball back in play gives you time. A panicked swing into the net gives your opponent the point. Survival first, then placement, then pace. Always.
 >
-> * **Anh không cố ghi điểm từ volley. Anh cố KHÔNG MẤT điểm từ volley.** Một cú chặn bóng trở lại cuộc chơi cho anh thời gian. Một cú vung hoảng vào lưới cho đối thủ điểm. Sống sót trước, đặt bóng sau, lực sau cùng. Luôn luôn.*
+> * **Anh không cố ghi điểm từ volley. Anh cố KHÔNG MẤT điểm từ volley.** Một cú chặn bóng trở lại cuộc chơi cho bạn thời gian. Một cú vung hoảng vào lưới cho đối thủ điểm. Sống sót trước, đặt bóng sau, lực sau cùng. Luôn luôn.*
 
 ---
 
@@ -526,13 +526,13 @@ After contact:
 
 > Anh,
 >
-> Volley không phải cú đánh khó nhất. Nó là cú đánh *khác biệt* nhất. Nó đòi hỏi anh bỏ đi thói quen "vung vợt cho mạnh" và thay bằng "đặt mặt vợt cho đúng góc." Đó là một sự thay đổi tư duy, không phải thay đổi sức mạnh.
+> Volley không phải cú đánh khó nhất. Nó là cú đánh *khác biệt* nhất. Nó đòi hỏi bạn bỏ đi thói quen "vung vợt cho mạnh" và thay bằng "đặt mặt vợt cho đúng góc." Đó là một sự thay đổi tư duy, không phải thay đổi sức mạnh.
 >
-> Mỗi tuần, làm 5 bài tập trên hai lần. Trong vòng 6 tuần, anh sẽ thấy volley không còn là thứ anh "sợ phải lên lưới" — mà là thứ anh *chủ động muốn lên lưới.*
+> Mỗi tuần, làm 5 bài tập trên hai lần. Trong vòng 6 tuần, bạn sẽ thấy volley không còn là thứ bạn "sợ phải lên lưới" — mà là thứ bạn *chủ động muốn lên lưới.*
 >
 > Thái cực dạy: *Lã Kình* — đừng chặn lực, hãy cuộn nó. Volley dạy điều tương tự: đừng đánh bóng, hãy *chuyển hướng nó.*
 >
-> Chúc anh lên lưới nhiều, đỡ bóng nhiều, và giữ đầu gối khỏe. 🎾
+> Chúc bạn lên lưới nhiều, đỡ bóng nhiều, và giữ đầu gối khỏe. 🎾
 >
 > — Coach Henry's AI
 
@@ -540,4 +540,4 @@ After contact:
 
 *Sources drawn from your `My notes/` folder: `tennis volley technique is that ulnar deviation or supination.md`, `Volley grip.md`, `Tại sao khi volley phải nâng tay cao hơn ngực.md`, `Những lỗi thường gặp và cách khắc phục trong cú volley.md`, `The Art of Redirection: Taichi Principles in the Tennis Volley.md`, `Understanding Tennis Volley: How to Hit a Perfect Volley.md`, `Feedback and Feedforward Control System.md`, and your existing 4-Layer Forehand deep-dive format.*
 
-*Tài liệu tham khảo từ thư mục `My notes/` của anh: 7 tệp về volley + tay trái, grip, thái cực quyền, control system, và định dạng deep-dive forehand hiện có.*
+*Tài liệu tham khảo từ thư mục `My notes/` của bạn: 7 tệp về volley + tay trái, grip, thái cực quyền, control system, và định dạng deep-dive forehand hiện có.*

@@ -28,9 +28,9 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The unit turn is the moment between "I see the ball" and "I start swinging." It's that 0.3-second pause where the shoulders rotate, the chest opens sideways, and the racket is loaded. | Unit turn là khoảnh khắc giữa "tôi thấy bóng" và "tôi bắt đầu vung." Đó là 0,3 giây vai xoay, ngực mở ngang, và vợt được nạp. |
-| Watch Carlos Alcaraz. The instant he reads forehand, his whole upper body rotates as one block. The racket doesn't go "back" — it stays close to the body, pointing up and out. | Xem Carlos Alcaraz. Khoảnh khắc anh đọc forehand, cả thân trên xoay như một khối. Vợt không đi "ra sau" — nó ở gần người, chỉ lên và ra. |
+| Watch Carlos Alcaraz. The instant he reads forehand, his whole upper body rotates as one block. The racket doesn't go "back" — it stays close to the body, pointing up and out. | Xem Carlos Alcaraz. Khoảnh khắc bạn đọc forehand, cả thân trên xoay như một khối. Vợt không đi "ra sau" — nó ở gần người, chỉ lên và ra. |
 | Recreational players do the opposite: they read the ball with their eyes, then reach back with their racket hand. By the time the racket is "loaded," the ball is already past them. | Người chơi nghiệp dư làm ngược: đọc bóng bằng mắt, rồi với tay vợt ra sau. Đến lúc vợt "nạp" thì bóng đã qua mất. |
-| **The unit turn is not a swing. It's a "loading."** Your chest loads like a spring. The arms just come along for the ride. | **Unit turn không phải là vung. Đó là "nạp."** Ngực anh nạp như lò xo. Tay chỉ đi theo. |
+| **The unit turn is not a swing. It's a "loading."** Your chest loads like a spring. The arms just come along for the ride. | **Unit turn không phải là vung. Đó là "nạp."** Ngực bạn nạp như lò xo. Tay chỉ đi theo. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of a slingshot. The unit turn is you pulling the band back. The swing is you letting go. If you skip the "pull back" and just throw the stone, you have no power. **Same with tennis: no unit turn, no whip.**
@@ -42,9 +42,9 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The unit turn is a 2-beat rhythm: **hop → turn.** | Unit turn là nhịp 2 bước: **nhảy → xoay.** |
-| **Beat 1 — Split step:** small hop, both feet land at the same time. This is when you read the ball. | **Nhịp 1 — Split step:** nhảy nhỏ, hai chân chạm đất cùng lúc. Đây là lúc anh đọc bóng. |
-| **Beat 2 — Unit turn:** the moment your feet land, you start rotating. No delay. | **Nhịp 2 — Unit turn:** khoảnh khắc chân chạm đất, anh bắt đầu xoay. Không trễ. |
-| If you turn **before** the split step lands, you lose balance. If you turn **after** the ball crosses the net, you're late. | Nếu xoay **trước** khi split step chạm đất, anh mất thăng bằng. Nếu xoay **sau** khi bóng qua lưới, anh muộn. |
+| **Beat 1 — Split step:** small hop, both feet land at the same time. This is when you read the ball. | **Nhịp 1 — Split step:** nhảy nhỏ, hai chân chạm đất cùng lúc. Đây là lúc bạn đọc bóng. |
+| **Beat 2 — Unit turn:** the moment your feet land, you start rotating. No delay. | **Nhịp 2 — Unit turn:** khoảnh khắc chân chạm đất, bạn bắt đầu xoay. Không trễ. |
+| If you turn **before** the split step lands, you lose balance. If you turn **after** the ball crosses the net, you're late. | Nếu xoay **trước** khi split step chạm đất, bạn mất thăng bằng. Nếu xoay **sau** khi bóng qua lưới, bạn muộn. |
 
 > 💡 **Why timing matters | Tại sao timing quan trọng**
 > The split step is your "ready" reset. The unit turn is your "go" signal. They're a pair. Treat them as one motion.
@@ -56,7 +56,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Your feet stay roughly where they landed. Your knees bend a little. Your hips rotate 45°. Your shoulders rotate 80–90°. Your arms just come along. | Chân giữ nguyên chỗ vừa chạm đất. Gối hơi gập. Hông xoay 45°. Vai xoay 80–90°. Tay chỉ đi theo. |
-| The 80–90° shoulder turn is the key. That's where the "loading" happens. If your shoulders only turn 30°, you have no spring to release. | Vai xoay 80–90° là chìa khóa. Đó là chỗ "nạp." Nếu vai chỉ xoay 30°, anh không có lò xo để thả. |
+| The 80–90° shoulder turn is the key. That's where the "loading" happens. If your shoulders only turn 30°, you have no spring to release. | Vai xoay 80–90° là chìa khóa. Đó là chỗ "nạp." Nếu vai chỉ xoay 30°, bạn không có lò xo để thả. |
 | The racket is held high, in front of your body. It does NOT go behind your back. | Vợt được giữ cao, trước người. KHÔNG đi ra sau lưng. |
 
 > 🎨 **Visual cue | Tín hiệu hình ảnh**
@@ -80,7 +80,7 @@
 | The moment you read forehand, bring your **left hand up to the throat** of the racket (the short part just above the grip). | Khoảnh khắc đọc forehand, đưa **tay trái lên cổ vợt** (phần ngắn ngay trên tay cầm). |
 | Your left hand does NOT hold the grip. It just rests on the throat, like a "guide" finger. | Tay trái KHÔNG cầm grip. Nó chỉ đặt lên cổ vợt, như ngón "dẫn đường." |
 | **Why:** the left hand on the throat keeps your shoulders square to the side fence. It prevents your right hand from yanking the racket back too early. | **Tại sao:** tay trái trên cổ vợt giữ vai vuông góc hàng rào bên. Nó ngăn tay phải kéo vợt ra sau quá sớm. |
-| **Mirror test:** look straight ahead. Can you see the **racket frame between your eyes?** If yes, you're in the right position. | **Test gương:** nhìn thẳng. Có thấy **khung vợt giữa hai mắt** không? Nếu có, anh đúng vị trí. |
+| **Mirror test:** look straight ahead. Can you see the **racket frame between your eyes?** If yes, you're in the right position. | **Test gương:** nhìn thẳng. Có thấy **khung vợt giữa hai mắt** không? Nếu có, bạn đúng vị trí. |
 
 > 🧩 **The "diamond" connection | Kết nối với "khung kim cương"**
 > This is the same diamond frame from the L-angle deep dive. The left hand on the throat is what keeps the diamond intact. If the left hand drops to your side, the diamond breaks and the racket falls behind your back.
@@ -93,13 +93,13 @@
 |---|---|
 | Your **right elbow should be roughly level with your shoulder.** Not lower, not higher. | **Khuỷu phải ngang vai.** Không thấp hơn, không cao hơn. |
 | The **strings of the racket point to the side fence**, not up to the sky. | **Dây vợt chỉ ra hàng rào bên**, không chỉ lên trời. |
-| **Why:** when the elbow is at shoulder height and the racket is vertical, the L is already pre-loaded. When you drop the racket, gravity does the work — you don't have to pull. | **Tại sao:** khi khuỷu ngang vai và vợt đứng, góc L đã được nạp sẵn. Khi thả vợt, trọng lực làm việc — anh không phải kéo. |
+| **Why:** when the elbow is at shoulder height and the racket is vertical, the L is already pre-loaded. When you drop the racket, gravity does the work — you don't have to pull. | **Tại sao:** khi khuỷu ngang vai và vợt đứng, góc L đã được nạp sẵn. Khi thả vợt, trọng lực làm việc — bạn không phải kéo. |
 | **Mirror test:** look at yourself from the side. Your right upper arm should be roughly parallel to the ground. | **Test gương:** nhìn từ bên. Cánh tay trên phải gần song song mặt đất. |
 
 > ⚠️ **Common error at 3.5 | Lỗi thường gặp**
 > Letting the right elbow drop. When the elbow drops below the shoulder, the racket head falls with it, the L collapses, and you end up reaching back for the ball. **Keep the elbow up — it's the "shelf" that holds the racket.**
 >
-> *Để khuỷu phải rơi. Khi khuỷu rơi dưới vai, đầu vợt rơi theo, góc L xẹp, và anh với tay ra sau tìm bóng. **Giữ khuỷu cao — đó là "cái kệ" giữ vợt.***
+> *Để khuỷu phải rơi. Khi khuỷu rơi dưới vai, đầu vợt rơi theo, góc L xẹp, và bạn với tay ra sau tìm bóng. **Giữ khuỷu cao — đó là "cái kệ" giữ vợt.***
 
 ### 🛠️ Drill — The 2-Second Mirror Hold | Giữ gương 2 giây
 
@@ -146,14 +146,14 @@
 > 🪑 **The Chair Drill | Bài tập ghế**
 > Stand with your back to a wall. Slowly squat until your thighs are parallel to the floor, like you're sitting in a chair. Hold 10 seconds. Stand up. Do this 5 times before you practice unit turns. It builds the "sitting muscle memory" you need.
 >
-> *Đứng lưng tựa tường. Từ từ squat tới khi đùi song song mặt đất, như ngồi ghế. Giữ 10 giây. Đứng lên. Làm 5 lần trước khi tập unit turn. Xây "trí nhớ cơ ngồi" anh cần.*
+> *Đứng lưng tựa tường. Từ từ squat tới khi đùi song song mặt đất, như ngồi ghế. Giữ 10 giây. Đứng lên. Làm 5 lần trước khi tập unit turn. Xây "trí nhớ cơ ngồi" bạn cần.*
 
 ### 🛡️ Adjustment 3 — Save the Lower Back | Giữ lưng dưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The unit turn is mostly a hip and shoulder rotation. The lower back should stay relatively still — it should NOT be the main rotator. | Unit turn chủ yếu là xoay hông và vai. Lưng dưới nên giữ tương đối yên — KHÔNG nên là bộ xoay chính. |
-| If you feel your lower back doing the work, you're rotating from the wrong place. Tighten the abs gently, rotate from the hips, and let the shoulders follow. | Nếu thấy lưng dưới làm việc, anh đang xoay sai chỗ. Siết nhẹ bụng, xoay từ hông, để vai theo sau. |
+| If you feel your lower back doing the work, you're rotating from the wrong place. Tighten the abs gently, rotate from the hips, and let the shoulders follow. | Nếu thấy lưng dưới làm việc, bạn đang xoay sai chỗ. Siết nhẹ bụng, xoay từ hông, để vai theo sau. |
 | **The cue:** "core first, shoulders second, lower back last (or never)." | **Tín hiệu:** "core trước, vai sau, lưng dưới sau cùng (hoặc không bao giờ)." |
 
 > 🧊 **Lower back protection at 50+ | Bảo vệ lưng dưới ở tuổi 50+**
@@ -185,7 +185,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Have a friend randomly say "forehand" or "backhand" while you face away. On "forehand," do the hop-turn-rotate and hold. | Nhờ bạn ngẫu nhiên nói "forehand" hoặc "backhand" trong khi anh quay lưng. Nghe "forehand," làm nhảy-xoay-quay và giữ. |
+| Have a friend randomly say "forehand" or "backhand" while you face away. On "forehand," do the hop-turn-rotate and hold. | Nhờ bạn ngẫu nhiên nói "forehand" hoặc "backhand" trong khi bạn quay lưng. Nghe "forehand," làm nhảy-xoay-quay và giữ. |
 | **Why:** this trains the **timing** of the unit turn, not just the shape. Most 3.5 players have the right shape but the wrong timing — they turn too late. | **Tại sao:** bài này tập **timing** của unit turn, không chỉ hình. Hầu hết người 3.5 có hình đúng nhưng timing sai — xoay muộn. |
 
 ### 🛠️ Drill 4 — The 50+ Bridge & Sit (Daily warmup, 5 min) | Cầu & Ngồi cho 50+ (Khởi động mỗi ngày, 5 phút)
@@ -199,7 +199,7 @@
 > ⚠️ **Skipping these is skipping your tennis career | Bỏ qua chúng là bỏ qua sự nghiệp tennis**
 > At 50+, these 5 minutes save your knees and back. They are not optional. Do them before every on-court session, even if you "feel fine."
 >
-> *Ở tuổi 50+, 5 phút này giữ gối và lưng. Chúng không tùy chọn. Làm trước mỗi buổi sân, kể cả khi anh "cảm thấy ổn."*
+> *Ở tuổi 50+, 5 phút này giữ gối và lưng. Chúng không tùy chọn. Làm trước mỗi buổi sân, kể cả khi bạn "cảm thấy ổn."*
 
 ---
 
@@ -223,7 +223,7 @@
 | 1 | **Don't turn before your feet land** — you'll lose balance. | **Đừng xoay trước khi chân chạm đất** — mất thăng bằng. |
 | 2 | **Don't turn after the ball crosses the net** — you'll be late. | **Đừng xoay sau khi bóng qua lưới** — muộn. |
 | 3 | **Don't let the left hand drop early** — the diamond breaks. | **Đừng thả tay trái sớm** — khung vỡ. |
-| 4 | **Don't let the right elbow drop** — the racket falls and you reach. | **Đừng để khuỷu phải rơi** — vợt rơi và anh với. |
+| 4 | **Don't let the right elbow drop** — the racket falls and you reach. | **Đừng để khuỷu phải rơi** — vợt rơi và bạn với. |
 | 5 | **Don't rotate from the lower back** — rotate from the hips. | **Đừng xoay từ lưng dưới** — xoay từ hông. |
 
 ### 🔗 Connection to the L-Angle Deep Dive | Kết nối với deep dive L-Angle
@@ -235,7 +235,7 @@
 | If your unit turn is right, the chest is already coiled. | Nếu unit turn đúng, ngực đã được cuộn. |
 | If your unit turn is right, the late acceleration happens almost by itself. | Nếu unit turn đúng, tăng tốc muộn gần như tự xảy ra. |
 | **Bad unit turn = fighting the ball the whole swing.** | **Unit turn sai = đánh nhau với bóng cả cú.** |
-| **Good unit turn = the ball seems to come to you.** | **Unit turn đúng = bóng dường như đến với anh.** |
+| **Good unit turn = the ball seems to come to you.** | **Unit turn đúng = bóng dường như đến với bạn.** |
 
 ### 🧓 The 50+ Reality Check | Thực tế ở tuổi 50+
 
@@ -243,7 +243,7 @@
 |---|---|
 | The unit turn at 50+ is not a "violent" rotation. It's a **smooth, supported** rotation. | Unit turn ở tuổi 50+ không phải xoay "mạnh." Đó là xoay **mượt, có hỗ trợ.** |
 | The 3 supports: **soft front knee, low hips, stable lower back.** | 3 hỗ trợ: **gối trước mềm, hông thấp, lưng dưới vững.** |
-| If you feel your lower back in the morning after a match, your unit turn is too violent. | Nếu sáng hôm sau thấy đau lưng dưới, unit turn của anh quá mạnh. |
+| If you feel your lower back in the morning after a match, your unit turn is too violent. | Nếu sáng hôm sau thấy đau lưng dưới, unit turn của bạn quá mạnh. |
 | **The goal is consistency, not intensity.** | **Mục tiêu là đều đặn, không phải cường độ.** |
 
 ---
@@ -297,7 +297,7 @@
 │                                                                 │
 │  ⚠️ DỪNG LẠI VÀ RESET NẾU:                                      │
 │     • Sáng hôm sau đau lưng dưới                                │
-│     • Vợt rơi ra sau lưng (anh cần giữ lên)                    │
+│     • Vợt rơi ra sau lưng (bạn cần giữ lên)                    │
 │     • Anh xoay SAU khi bóng qua lưới                           │
 │     • Anh thấy lưng dưới xoay (không phải hông)                │
 │                                                                 │
@@ -314,4 +314,4 @@ Other deep dives from your notes you might want:
 - **Racket Embodiment** (proprioception, automaticity) — the feel layer
 - **Complete Manual** — all 10 parts, full reference
 
-Just say the word, anh. 🎾
+Just say the word, bạn. 🎾

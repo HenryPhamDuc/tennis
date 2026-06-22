@@ -23,13 +23,13 @@
 ---
 
 <a name="chapter-1"></a>
-## Chapter 1 — The Big Idea: Why the Return Loses You Matches | Chương 1 — Ý tưởng cốt lõi: Tại sao trả serve làm anh thua trận
+## Chapter 1 — The Big Idea: Why the Return Loses You Matches | Chương 1 — Ý tưởng cốt lõi: Tại sao trả serve làm bạn thua trận
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Watch any 3.5 match. The server holds serve about 80% of the time. The returner breaks maybe 20% of the time. The single biggest reason? **The returner reacts to the serve. They don't read it.** | Xem bất kỳ trận 3.5 nào. Người giao giữ serve khoảng 80% thời gian. Người trả break khoảng 20% thời gian. Lý do lớn nhất? **Người trả phản ứng với serve. Họ không đọc nó.** |
 | The return is the **most under-practiced** shot in recreational tennis. Players spend 80% of practice time on the forehand, the serve, maybe the backhand. The return? They "see what happens" during the match. | Trả serve là cú **bị tập ít nhất** trong tennis nghiệp dư. Người chơi dành 80% thời gian tập cho forehand, serve, có thể backhand. Trả serve? Họ "xem sao" trong trận đấu. |
-| **At 50+, the return is also the most joint-stressing moment in tennis.** You are off-balance, stretched, reacting to pace, with no time to set up. The shoulder, the back, the wrist — all at risk if you "swing" at a 200 km/h serve. | **Ở tuổi 50+, trả serve cũng là khoảnh khắc căng khớp nhất trong tennis.** Anh mất thăng bằng, vươn, phản ứng với tốc độ, không có thời gian chuẩn bị. Vai, lưng, cổ tay — đều có nguy cơ nếu anh "vung" vào serve 200 km/h. |
+| **At 50+, the return is also the most joint-stressing moment in tennis.** You are off-balance, stretched, reacting to pace, with no time to set up. The shoulder, the back, the wrist — all at risk if you "swing" at a 200 km/h serve. | **Ở tuổi 50+, trả serve cũng là khoảnh khắc căng khớp nhất trong tennis.** Anh mất thăng bằng, vươn, phản ứng với tốc độ, không có thời gian chuẩn bị. Vai, lưng, cổ tay — đều có nguy cơ nếu bạn "vung" vào serve 200 km/h. |
 
 > 🧠 **The 3.5 paradox | Nghịch lý 3.5**
 > The return is the **second most important** shot in tennis (after the serve). The server dictates the rally from the first ball. But it's also the **least practiced**. Recreational players think: "I'll figure it out in the match." Then they double-fault under pressure, hit returns into the net, and wonder why they can't break.
@@ -40,7 +40,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Just like "backhand" is 3 different shots, **"return" is 3 different shots**. You don't pick one. You pick based on what the server gives you. | Giống như "backhand" là 3 cú khác nhau, **"trả serve" là 3 cú khác nhau**. Anh không chọn một. Anh chọn dựa trên cái server cho anh. |
+| Just like "backhand" is 3 different shots, **"return" is 3 different shots**. You don't pick one. You pick based on what the server gives you. | Giống như "backhand" là 3 cú khác nhau, **"trả serve" là 3 cú khác nhau**. Anh không chọn một. Anh chọn dựa trên cái server cho bạn. |
 
 | Return | When to use | Khi nào dùng | Default for 50+? |
 |---|---|---|---|
@@ -51,7 +51,7 @@
 > ⚠️ **The 50+ rule | Quy tắc 50+**
 > **At 50+, the block return is your rational default for first serves.** Not because you can't attack, but because the margin for error is bigger. A block return goes in. A swing return goes into the net. **Survive first, attack second.**
 >
-> * **Ở tuổi 50+, block return là mặc định hợp lý cho serve 1.** Không phải vì anh không thể tấn công, mà vì biên sai số lớn hơn. Block return vào. Swing return vào lưới. **Sống sót trước, tấn công sau.***
+> * **Ở tuổi 50+, block return là mặc định hợp lý cho serve 1.** Không phải vì bạn không thể tấn công, mà vì biên sai số lớn hơn. Block return vào. Swing return vào lưới. **Sống sót trước, tấn công sau.***
 
 > 🎯 **Mental model | Mô hình tư duy**
 > The return is a **conversation**, not a fight. The server says "here's my fastest ball." You say "thank you, I'll redirect it." You're not generating pace — the ball already has pace. You're *catching* pace and *placing* it.
@@ -72,10 +72,10 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The toss tells you the serve before the racket hits the ball.** This is the most reliable signal. | **Cú tung nói cho anh biết serve trước khi vợt chạm bóng.** Đây là tín hiệu đáng tin nhất. |
+| **The toss tells you the serve before the racket hits the ball.** This is the most reliable signal. | **Cú tung nói cho bạn biết serve trước khi vợt chạm bóng.** Đây là tín hiệu đáng tin nhất. |
 | **Toss in front of body + ball tossed to 1 o'clock (right-hander's right):** flat serve, fast, minimal spin. Brace for pace. | **Tung trước thân + bóng tung tới 1 giờ (phải của người thuận phải):** serve phẳng, nhanh, ít spin. Chuẩn bị cho lực. |
-| **Toss more to the side (11 o'clock for right-hander):** slice serve, curving away from your body. The ball will move to your right (if you're a right-hander) — aim left. | **Tung sang bên hơn (11 giờ với người thuận phải):** serve slice, cong ra khỏi thân anh. Bóng sẽ đi sang phải anh (nếu anh thuận phải) — nhắm sang trái. |
-| **Toss behind the head (12-1 o'clock, slightly back):** kick/topspin serve, jumping up at your body. Brace for high bounce. | **Tung ra sau đầu (12-1 giờ, hơi ra sau):** serve kick/topspin, nảy lên vào thân anh. Chuẩn bị cho nảy cao. |
+| **Toss more to the side (11 o'clock for right-hander):** slice serve, curving away from your body. The ball will move to your right (if you're a right-hander) — aim left. | **Tung sang bên hơn (11 giờ với người thuận phải):** serve slice, cong ra khỏi thân bạn. Bóng sẽ đi sang phải bạn (nếu bạn thuận phải) — nhắm sang trái. |
+| **Toss behind the head (12-1 o'clock, slightly back):** kick/topspin serve, jumping up at your body. Brace for high bounce. | **Tung ra sau đầu (12-1 giờ, hơi ra sau):** serve kick/topspin, nảy lên vào thân bạn. Chuẩn bị cho nảy cao. |
 | **The 3.5 trap | Cái bẫy 3.5:** watching the server's body, not the toss. The body can fake. The toss cannot. | **Cái bẫy 3.5:** nhìn thân server, không phải cú tung. Thân có thể giả. Tung thì không. |
 
 > 💡 **Why the toss is the most reliable signal | Tại sao tung là tín hiệu đáng tin nhất**
@@ -87,14 +87,14 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The moment the ball reaches the top of its arc is your split-step trigger.** This is the most reliable split-step timing in tennis. | **Khoảnh khắc bóng tới đỉnh cung là cò split-step của anh.** Đây là thời điểm split-step đáng tin nhất trong tennis. |
+| **The moment the ball reaches the top of its arc is your split-step trigger.** This is the most reliable split-step timing in tennis. | **Khoảnh khắc bóng tới đỉnh cung là cò split-step của bạn.** Đây là thời điểm split-step đáng tin nhất trong tennis. |
 | Why? The server can't change the serve after the toss reaches the top. The toss is committed. The serve is committed. **You have 200-300 ms to read and react.** | Tại sao? Server không thể đổi serve sau khi tung tới đỉnh. Tung đã cam kết. Serve đã cam kết. **Anh có 200-300 ms để đọc và phản ứng.** |
 | The split-step should be a **small hop, both feet, 1-2 cm off the ground**. It loads the legs, sets the body in "ready to explode" mode. | Split-step nên là **nhảy nhỏ, hai chân, 1-2 cm khỏi đất**. Nó nạp chân, đặt cơ thể ở chế độ "sẵn sàng bùng nổ." |
 
 > 🎯 **Drill — Toss-Reading Practice | Bài tập đọc tung**
 > Have a friend stand at the service line (no racket, no ball). They just toss the ball in 3 different positions: front, side, behind. You call out: "flat," "slice," "kick" — based on where the ball goes. Do 30 reps. Your brain learns to read toss position automatically.
 >
-> *Nhờ bạn đứng ở vạch giao bóng (không vợt, không bóng). Họ chỉ tung bóng ở 3 vị trí: trước, bên, sau. Anh gọi: "phẳng," "slice," "kick" — dựa trên vị trí bóng đi. Làm 30 lần. Não anh học tự động đọc vị trí tung.*
+> *Nhờ bạn đứng ở vạch giao bóng (không vợt, không bóng). Họ chỉ tung bóng ở 3 vị trí: trước, bên, sau. Anh gọi: "phẳng," "slice," "kick" — dựa trên vị trí bóng đi. Làm 30 lần. Não bạn học tự động đọc vị trí tung.*
 
 ### 🎯 Signal 3 — The Server's Racket Path | Tín hiệu 3 — Đường vợt server
 
@@ -102,9 +102,9 @@
 |---|---|
 | **The racket path is the third signal — the most subtle, but useful for advanced readers.** | **Đường vợt là tín hiệu thứ ba — tinh tế nhất, nhưng hữu ích cho người đọc nâng cao.** |
 | **Flat serve:** the racket comes UP and THROUGH. The path is roughly straight up-and-over. Contact is in front of the body, at full extension. | **Serve phẳng:** vợt đi LÊN và XUYÊN. Đường thẳng lên-và-qua. Contact phía trước thân, ở tầm với tối đa. |
-| **Slice serve:** the racket path curves from low-right to high-left (for a right-handed server). The racket face is angled to give sidespin. The ball curves away from you. | **Serve slice:** đường vợt cong từ thấp-phải lên cao-trái (với server thuận phải). Mặt vợt nghiêng tạo sidespin. Bóng cong ra xa anh. |
-| **Kick serve:** the racket brushes UP the back of the ball. The path is low-to-high, brushing upward. The ball jumps up at you. | **Serve kick:** vợt quét LÊN phía sau bóng. Đường thấp-lên-cao, quét đi lên. Bóng nhảy lên vào anh. |
-| **The 3.5 rule:** use signal 3 as **confirmation**, not as your primary read. By the time the racket path is clear, you have about 100 ms to react. Too late for many. | **Quy tắc 3.5:** dùng tín hiệu 3 như **xác nhận**, không phải đọc chính. Đến lúc đường vợt rõ, anh có khoảng 100 ms để phản ứng. Quá muộn cho nhiều người. |
+| **Slice serve:** the racket path curves from low-right to high-left (for a right-handed server). The racket face is angled to give sidespin. The ball curves away from you. | **Serve slice:** đường vợt cong từ thấp-phải lên cao-trái (với server thuận phải). Mặt vợt nghiêng tạo sidespin. Bóng cong ra xa bạn. |
+| **Kick serve:** the racket brushes UP the back of the ball. The path is low-to-high, brushing upward. The ball jumps up at you. | **Serve kick:** vợt quét LÊN phía sau bóng. Đường thấp-lên-cao, quét đi lên. Bóng nhảy lên vào bạn. |
+| **The 3.5 rule:** use signal 3 as **confirmation**, not as your primary read. By the time the racket path is clear, you have about 100 ms to react. Too late for many. | **Quy tắc 3.5:** dùng tín hiệu 3 như **xác nhận**, không phải đọc chính. Đến lúc đường vợt rõ, bạn có khoảng 100 ms để phản ứng. Quá muộn cho nhiều người. |
 
 > 🧠 **The reading sequence | Trình tự đọc**
 > **1. Toss (1.0 second before contact)** — what type of serve?
@@ -120,7 +120,7 @@
 > ⚠️ **The 50+ eye warning | Cảnh báo mắt 50+**
 > At 50+, your eyes need **2-3 extra milliseconds** to track the ball. This is a real, measurable change. The fix is NOT to "try harder." The fix is to **start reading earlier** — watch the toss, not the body. Reading the toss gives you an extra 500-700 ms compared to reading the body. That covers your 2-3 ms slowdown easily.
 >
-> *Ở tuổi 50+, mắt anh cần **2-3 phần nghìn giây thêm** để theo bóng. Đây là thay đổi có thể đo được. Sửa không phải bằng "cố hơn." Sửa bằng **đọc sớm hơn** — nhìn tung, không phải thân. Đọc tung cho thêm 500-700 ms so với đọc thân. Bù dễ dàng cho chậm 2-3 ms.*
+> *Ở tuổi 50+, mắt bạn cần **2-3 phần nghìn giây thêm** để theo bóng. Đây là thay đổi có thể đo được. Sửa không phải bằng "cố hơn." Sửa bằng **đọc sớm hơn** — nhìn tung, không phải thân. Đọc tung cho thêm 500-700 ms so với đọc thân. Bù dễ dàng cho chậm 2-3 ms.*
 
 ### The Stance — When to Use Which | Tư thế — Khi nào dùng cái nào
 
@@ -133,7 +133,7 @@
 > 💡 **The 3.5 rule | Quy tắc 3.5**
 > **Platform stance for second serves. Pinpoint for first serves.** Second serves are slower — you have time to set. First serves are fast — you need to attack forward to take time away from the server.
 >
-> * **Platform cho serve 2. Pinpoint cho serve 1.** Serve 2 chậm hơn — anh có thời gian. Serve 1 nhanh — anh cần tấn công tới để lấy thời gian từ server.*
+> * **Platform cho serve 2. Pinpoint cho serve 1.** Serve 2 chậm hơn — bạn có thời gian. Serve 1 nhanh — bạn cần tấn công tới để lấy thời gian từ server.*
 
 ---
 
@@ -142,8 +142,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The block return is the **rational default for 3.5 players at 50+**. It works on first serves, second serves, fast serves, slow serves. It works when you're tired, when you're nervous, when your back hurts. **It always works.** | Block return là **mặc định hợp lý cho người 3.5 ở tuổi 50+**. Nó hiệu quả với serve 1, serve 2, serve nhanh, serve chậm. Hiệu quả khi anh mệt, khi anh hồi hộp, khi lưng đau. **Nó luôn hiệu quả.** |
-| In the volley deep dive, we called the block volley "the billiard ball and the cushion." The block return is the same idea — the racket face is a **cushion**, the ball's pace is **the energy**, and your only job is to **angle the cushion**. | Trong deep dive volley, ta gọi block volley "viên bi-a và băng." Block return cùng ý tưởng — mặt vợt là **băng**, tốc độ bóng là **năng lượng**, và việc duy nhất của anh là **đặt góc băng**. |
+| The block return is the **rational default for 3.5 players at 50+**. It works on first serves, second serves, fast serves, slow serves. It works when you're tired, when you're nervous, when your back hurts. **It always works.** | Block return là **mặc định hợp lý cho người 3.5 ở tuổi 50+**. Nó hiệu quả với serve 1, serve 2, serve nhanh, serve chậm. Hiệu quả khi bạn mệt, khi bạn hồi hộp, khi lưng đau. **Nó luôn hiệu quả.** |
+| In the volley deep dive, we called the block volley "the billiard ball and the cushion." The block return is the same idea — the racket face is a **cushion**, the ball's pace is **the energy**, and your only job is to **angle the cushion**. | Trong deep dive volley, ta gọi block volley "viên bi-a và băng." Block return cùng ý tưởng — mặt vợt là **băng**, tốc độ bóng là **năng lượng**, và việc duy nhất của bạn là **đặt góc băng**. |
 
 ### 🎯 The Block Return Technique | Kỹ thuật block return
 
@@ -175,32 +175,32 @@
 |---|---|
 | **The racket face is open slightly (tilted up 10-15°).** The slice serve has sidespin; the open face neutralizes some of it. | **Mặt vợt mở nhẹ (nghiêng lên 10-15°).** Serve slice có sidespin; mặt mở trung hòa một phần. |
 | **The chip is a tiny underspin slice.** It stays low after the bounce. The server has to hit up on the next ball. | **Chip là slice underspin nhỏ.** Nó giữ thấp sau nảy. Server phải đánh lên ở bóng tiếp theo. |
-| **Aim down-the-line or to the server's feet.** The slice serve pulls you wide. Returning down-the-line catches the server at the net (if they've come in) or off guard. | **Nhắm dọc dây hoặc vào chân server.** Serve slice kéo anh rộng. Trả dọc dây bắt server ở lưới (nếu họ đã lên) hoặc mất cảnh giác. |
+| **Aim down-the-line or to the server's feet.** The slice serve pulls you wide. Returning down-the-line catches the server at the net (if they've come in) or off guard. | **Nhắm dọc dây hoặc vào chân server.** Serve slice kéo bạn rộng. Trả dọc dây bắt server ở lưới (nếu họ đã lên) hoặc mất cảnh giác. |
 
 > 💡 **Why the chip is the 50+ doubles default | Tại sao chip là mặc định 50+ trong doubles**
 > In doubles, the server's partner is at the net. A flat return straight at the net player is an easy put-away. A chip return that stays low forces the net player to **volley up** — and up volleys at 3.5 are usually weak. **Low return = weak volley = your team wins the point.**
 >
-> *Trong doubles, partner server ở lưới. Trả phẳng thẳng vào người lưới là cú kết liễu dễ. Trả chip giữ thấp ép người lưới **volley lên** — và volley lên ở 3.5 thường yếu. **Trả thấp = volley yếu = đội anh thắng điểm.***
+> *Trong doubles, partner server ở lưới. Trả phẳng thẳng vào người lưới là cú kết liễu dễ. Trả chip giữ thấp ép người lưới **volley lên** — và volley lên ở 3.5 thường yếu. **Trả thấp = volley yếu = đội bạn thắng điểm.***
 
 #### Variation 3 — The "Angle" Block (vs Kick Serve) | Biến thể 3 — Block "góc" (chống serve kick)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The kick serve jumps up at your body. Your only option is to block it back at a sharp downward angle.** | **Serve kick nhảy lên vào thân anh. Lựa chọn duy nhất là chặn ngược góc xuống dốc.** |
+| **The kick serve jumps up at your body. Your only option is to block it back at a sharp downward angle.** | **Serve kick nhảy lên vào thân bạn. Lựa chọn duy nhất là chặn ngược góc xuống dốc.** |
 | **Contact point: high — at chest or shoulder level.** The high contact forces the downward angle. | **Điểm contact: cao — ngang ngực hoặc vai.** Contact cao ép góc đi xuống. |
 | **Aim: deep, cross-court, low.** The ball lands short of the service line on the server's side. The server has to hit the next ball on the rise or from inside the baseline. | **Nhắm: sâu, chéo sân, thấp.** Bóng rơi ngắn hơn vạch giao bóng phía server. Server phải đánh bóng tiếp theo trên đường lên hoặc từ trong baseline. |
 
 > 🧘 **Tai chi parallel: *Lã Kình* (捋勁) on the return | Liên hệ thái cực: Lã Kình trong trả serve**
 > In tai chi, *Lã Kình* is "rollback energy" — you yield to incoming force and redirect it. The block return is *Lã Kình* applied to tennis. The server brings 150 km/h of energy. You don't fight it. You **yield** (soft grip, no swing) and **redirect** (angle the face). The energy is the server's. The placement is yours.
 >
-> *Trong thái cực, *Lã Kình* là "năng lượng cuộn lại" — anh nhường lực đang tới rồi chuyển hướng. Block return là *Lã Kình* áp dụng vào tennis. Server mang 150 km/h năng lượng. Anh không chống lại. Anh **nhường** (grip mềm, không vung) và **chuyển hướng** (đặt góc mặt). Năng lượng là của server. Đặt bóng là của anh.*
+> *Trong thái cực, *Lã Kình* là "năng lượng cuộn lại" — bạn nhường lực đang tới rồi chuyển hướng. Block return là *Lã Kình* áp dụng vào tennis. Server mang 150 km/h năng lượng. Anh không chống lại. Anh **nhường** (grip mềm, không vung) và **chuyển hướng** (đặt góc mặt). Năng lượng là của server. Đặt bóng là của bạn.*
 
 ### 🛠️ Drill — The "20-Ball Block" Rally | Bài tập "20 bóng block"
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Have a friend at the baseline hit firm forehands to you at the service line. You block them back, no swing. **Goal: 20 consecutive balls back in play.** | Nhờ bạn ở baseline đánh forehand chắc về phía anh ở vạch giao bóng. Anh block ngược, không vung. **Mục tiêu: 20 bóng liên tiếp trở lại cuộc chơi.** |
-| **Listen for the "bịch" sound.** A clean block sounds dull and absorbed ("bịch"). A swing sounds sharp ("cốc"). The "bịch" means you're yielding. The "cốc" means you're fighting. | **Nghe tiếng "bịch."** Block sạch nghe đục và hấp thụ ("bịch"). Vung nghe sắc ("cốc"). "Bịch" nghĩa là anh nhường. "Cốc" nghĩa là anh chống. |
+| Have a friend at the baseline hit firm forehands to you at the service line. You block them back, no swing. **Goal: 20 consecutive balls back in play.** | Nhờ bạn ở baseline đánh forehand chắc về phía bạn ở vạch giao bóng. Anh block ngược, không vung. **Mục tiêu: 20 bóng liên tiếp trở lại cuộc chơi.** |
+| **Listen for the "bịch" sound.** A clean block sounds dull and absorbed ("bịch"). A swing sounds sharp ("cốc"). The "bịch" means you're yielding. The "cốc" means you're fighting. | **Nghe tiếng "bịch."** Block sạch nghe đục và hấp thụ ("bịch"). Vung nghe sắc ("cốc"). "Bịch" nghĩa là bạn nhường. "Cốc" nghĩa là bạn chống. |
 | **Progress to serves:** after 20 balls, have the friend move to the baseline and serve. You block returns. Same goal: 20 in play. | **Tiến tới serve:** sau 20 bóng, bạn lùi về baseline và giao. Anh block return. Cùng mục tiêu: 20 bóng vào. |
 
 > 🩺 **The 50+ block-return rule | Quy tắc block return 50+**
@@ -224,7 +224,7 @@
 | Serve | Your Return | Why | Tại sao |
 |---|---|---|---|
 | **Fast first serve** (>150 km/h) | **Block return** (Ch 3) | Survival — pace is too much to swing at | Sống sót — lực quá nhiều để vung |
-| **Medium first serve** (130-150 km/h) | **Block or chip** | Borderline — chip if you're in position | Ranh giới — chip nếu anh đúng vị trí |
+| **Medium first serve** (130-150 km/h) | **Block or chip** | Borderline — chip if you're in position | Ranh giới — chip nếu bạn đúng vị trí |
 | **Second serve** (<130 km/h) | **Drive return** (this chapter) | Free money — attack! | Tiền miễn phí — tấn công! |
 | **Short second serve** (lobbed or weak) | **Drive return + approach** | Approach behind the attack | Lên lưới theo cú tấn công |
 
@@ -238,17 +238,17 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **Grip:** your normal 2-handed backhand grip (Semi-Western or Eastern on dominant hand, Continental on non-dom hand). | **Grip:** grip 2HB backhand bình thường (Semi-Western hoặc Eastern tay thuận, Continental tay không thuận). |
-| **Setup:** early. The moment you read "second serve" from the toss (about 1 second before contact), you start the unit turn. **You have more time than you think.** | **Khởi động:** sớm. Khoảnh khắc anh đọc "serve 2" từ tung (khoảng 1 giây trước contact), anh bắt đầu unit turn. **Anh có nhiều thời gian hơn anh nghĩ.** |
+| **Setup:** early. The moment you read "second serve" from the toss (about 1 second before contact), you start the unit turn. **You have more time than you think.** | **Khởi động:** sớm. Khoảnh khắc bạn đọc "serve 2" từ tung (khoảng 1 giây trước contact), bạn bắt đầu unit turn. **Anh có nhiều thời gian hơn bạn nghĩ.** |
 | **Takeback:** standard 2HB backhand takeback (D-loop). Same as your rally backhand. | **Takeback:** takeback 2HB backhand bình thường (D-loop). Giống backhand rally. |
-| **Contact:** in front of the body, at about waist-to-chest height. The ball is bouncing up to you — meet it at the top of its bounce. | **Contact:** phía trước thân, ngang hông-đến-ngực. Bóng nảy lên tới anh — gặp nó ở đỉnh nảy. |
-| **Swing length:** about 80% of your normal rally backhand. **Not full.** The second serve is slower, so you don't need full L-release. A shorter, more controlled swing produces fewer errors. | **Chiều dài vung:** khoảng 80% backhand rally bình thường. **Không hết.** Serve 2 chậm hơn, nên anh không cần L-release đầy đủ. Vung ngắn, kiểm soát hơn, sai ít hơn. |
+| **Contact:** in front of the body, at about waist-to-chest height. The ball is bouncing up to you — meet it at the top of its bounce. | **Contact:** phía trước thân, ngang hông-đến-ngực. Bóng nảy lên tới bạn — gặp nó ở đỉnh nảy. |
+| **Swing length:** about 80% of your normal rally backhand. **Not full.** The second serve is slower, so you don't need full L-release. A shorter, more controlled swing produces fewer errors. | **Chiều dài vung:** khoảng 80% backhand rally bình thường. **Không hết.** Serve 2 chậm hơn, nên bạn không cần L-release đầy đủ. Vung ngắn, kiểm soát hơn, sai ít hơn. |
 | **Aim:** deep, cross-court, with a slight angle. The angle pulls the server wide and opens the next shot. | **Nhắm:** sâu, chéo sân, góc nhẹ. Góc kéo server rộng và mở cú tiếp theo. |
 | **Follow-through:** medium. Not as high as a rally backhand. The drive return is a **controlled explosion**, not a full expression. | **Follow-through:** vừa. Không cao như backhand rally. Drive return là **bùng nổ kiểm soát**, không phải biểu đạt đầy đủ. |
 
 > 🎨 **The drive return is a 70% rally backhand | Drive return là backhand rally 70%**
 > A rally backhand has 100% of your normal swing. A drive return has about 70-80%. The shorter swing is on purpose: it gives you **more margin for error**, more control, more consistency. **The faster the ball is coming, the shorter your swing should be.** This is the opposite of what most 3.5 players do.
 >
-> *Backhand rally có 100% cú vung bình thường. Drive return có khoảng 70-80%. Vung ngắn là cố ý: nó cho anh **nhiều biên sai số hơn**, kiểm soát nhiều hơn, ổn định hơn. **Bóng càng nhanh, vung càng ngắn.** Đây là điều ngược với cách hầu hết người 3.5 làm.*
+> *Backhand rally có 100% cú vung bình thường. Drive return có khoảng 70-80%. Vung ngắn là cố ý: nó cho bạn **nhiều biên sai số hơn**, kiểm soát nhiều hơn, ổn định hơn. **Bóng càng nhanh, vung càng ngắn.** Đây là điều ngược với cách hầu hết người 3.5 làm.*
 
 ### 🎯 The Drive Return on the Forehand Side | Drive return bên forehand
 
@@ -256,8 +256,8 @@
 |---|---|
 | **The forehand drive return is the most natural attacking return.** Your forehand is your strongest groundstroke. Use it. | **Forehand drive return là cú trả tấn công tự nhiên nhất.** Forehand là groundstroke mạnh nhất. Dùng nó. |
 | **Setup:** same as your rally forehand — L1-L4 system. The 70% rule applies. | **Khởi động:** giống forehand rally — hệ L1-L4. Quy tắc 70% áp dụng. |
-| **The position shift:** on a serve to the forehand, you can start a step or two inside the baseline. This gives you more time to set up. The pinpoint stance works well here. | **Dịch vị trí:** với serve vào forehand, anh có thể bắt đầu lùi vài bước trong baseline. Cho anh nhiều thời gian chuẩn bị hơn. Pinpoint stance hiệu quả ở đây. |
-| **The "step-in" cue:** as you read second serve, take 1-2 small adjustment steps toward the baseline. You are shortening the distance the ball has to travel to you. | **Tín hiệu "bước vào":** khi anh đọc serve 2, bước 1-2 bước chỉnh nhỏ về phía baseline. Anh rút ngắn khoảng cách bóng phải đi tới anh. |
+| **The position shift:** on a serve to the forehand, you can start a step or two inside the baseline. This gives you more time to set up. The pinpoint stance works well here. | **Dịch vị trí:** với serve vào forehand, bạn có thể bắt đầu lùi vài bước trong baseline. Cho bạn nhiều thời gian chuẩn bị hơn. Pinpoint stance hiệu quả ở đây. |
+| **The "step-in" cue:** as you read second serve, take 1-2 small adjustment steps toward the baseline. You are shortening the distance the ball has to travel to you. | **Tín hiệu "bước vào":** khi bạn đọc serve 2, bước 1-2 bước chỉnh nhỏ về phía baseline. Anh rút ngắn khoảng cách bóng phải đi tới bạn. |
 | **The "aim for the server's feet" cue:** on a deep second serve, the drive return down-the-line catches the server at their feet, before they've recovered. **This is the highest-percentage attacking return at 3.5.** | **Tín hiệu "nhắm chân server":** với serve 2 sâu, drive return dọc dây bắt server ở chân, trước khi họ hồi phục. **Đây là cú trả tấn công tỷ lệ cao nhất ở 3.5.** |
 
 ### 🎯 The 3 Drive-Return Aims | 3 hướng drive return
@@ -266,7 +266,7 @@
 |---|---|---|---|---|
 | **Deep cross-court** | Default safe attack | Tấn công an toàn mặc định | Ball lands near opponent's baseline, angles them wide | Bóng rơi gần baseline đối phương, kéo rộng |
 | **Down-the-line at server's feet** | Short or weak second serve | Serve 2 ngắn hoặc yếu | Server can't get set, often a forced error | Server không kịp, thường lỗi bị ép |
-| **Inside-out forehand** (runaround) | Serve to the backhand, you have time | Serve vào backhand, anh có thời gian | You run around the backhand, hit forehand cross-court | Chạy vòng qua backhand, forehand chéo |
+| **Inside-out forehand** (runaround) | Serve to the backhand, you have time | Serve vào backhand, bạn có thời gian | You run around the backhand, hit forehand cross-court | Chạy vòng qua backhand, forehand chéo |
 
 > 🧠 **The 3.5 mistake | Lỗi 3.5**
 > **Trying to drive the first serve.** The first serve at 3.5 is typically 150-180 km/h. That's not a drive return — that's a block return. The 3.5 player who tries to drive first serves hits 70% of them into the net. **Block first serves. Drive second serves.**
@@ -278,9 +278,9 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Have a friend serve second serves only (slow, predictable). You drive returns, alternating forehand and backhand. **Goal: 10 drive returns in a row, all landing past the service line on the friend's side.** | Nhờ bạn chỉ giao serve 2 (chậm, dễ đoán). Anh drive return, xen kẽ forehand và backhand. **Mục tiêu: 10 drive return liên tiếp, tất cả rơi sau vạch giao bóng phía bạn.** |
-| **Count your errors.** If you hit 5/10 in, that's a 50% return rate. At 3.5, you want 70%+ on second serves. | **Đếm lỗi.** Nếu anh đưa 5/10 vào, đó là 50% tỷ lệ trả. Ở 3.5, anh muốn 70%+ trên serve 2. |
-| **If you're hitting long:** shorten the swing. The most common 3.5 error is over-swinging on second serves. | **Nếu anh đánh dài:** rút ngắn cú vung. Lỗi 3.5 phổ biến nhất là over-swing trên serve 2. |
-| **If you're hitting into the net:** contact point is too far back. Step in earlier. | **Nếu anh đánh vào lưới:** điểm contact quá xa sau. Bước vào sớm hơn. |
+| **Count your errors.** If you hit 5/10 in, that's a 50% return rate. At 3.5, you want 70%+ on second serves. | **Đếm lỗi.** Nếu bạn đưa 5/10 vào, đó là 50% tỷ lệ trả. Ở 3.5, bạn muốn 70%+ trên serve 2. |
+| **If you're hitting long:** shorten the swing. The most common 3.5 error is over-swinging on second serves. | **Nếu bạn đánh dài:** rút ngắn cú vung. Lỗi 3.5 phổ biến nhất là over-swing trên serve 2. |
+| **If you're hitting into the net:** contact point is too far back. Step in earlier. | **Nếu bạn đánh vào lưới:** điểm contact quá xa sau. Bước vào sớm hơn. |
 
 > 🧘 **Tai chi parallel: *Phóng Tùng* (放鬆) on the drive | Liên hệ thái cực: Phóng Tùng trong drive**
 > In tai chi, *Phóng Tùng* is "release tension." The drive return is *Phóng Tùng* applied to the second serve. Most 3.5 players are TENSE on second serves (because they think "I have to attack!"). Tension kills the drive — arm tightens, swing shortens, ball goes into the net. The fix is to **breathe out** on contact and **release the shoulders**. The drive return requires more relaxation, not more force.
@@ -308,15 +308,15 @@
 |---|---|
 | Have a friend serve from the baseline. **You do NOT try to return.** You just split-step at the right moment. Their only feedback: "early," "perfect," or "late." | Nhờ bạn giao từ baseline. **Anh KHÔNG cố trả.** Anh chỉ split-step đúng lúc. Họ chỉ phản hồi: "sớm," "hoàn hảo," hoặc "muộn." |
 | The goal: **8/10 split-steps at "perfect"** (when the ball is at the top of the toss). | Mục tiêu: **8/10 split-step "hoàn hảo"** (khi bóng ở đỉnh tung). |
-| This trains the **automatic split-step reflex**. Without it, you are always one step late. | Cái này huấn luyện **phản xạ split-step tự động**. Không có nó, anh luôn chậm một bước. |
+| This trains the **automatic split-step reflex**. Without it, you are always one step late. | Cái này huấn luyện **phản xạ split-step tự động**. Không có nó, bạn luôn chậm một bước. |
 
 #### Drill 3 — The "20-Ball Block" Service-Line Rally (3x/week, 10 min) | Rally block 20 bóng ở vạch giao bóng
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand at the service line. Friend at the baseline hits firm forehands to you. **You block them back, no swing.** Goal: 20 in a row. | Đứng ở vạch giao bóng. Bạn ở baseline đánh forehand chắc về phía anh. **Anh block ngược, không vung.** Mục tiêu: 20 liên tiếp. |
-| **Progress:** move to actual serves. Friend serves from the baseline, you block returns. Same goal: 20 in play. | **Tiến:** chuyển sang serve thật. Bạn giao từ baseline, anh block return. Cùng mục tiêu: 20 bóng vào. |
-| **Listen for the "bịch" sound.** The dull, absorbed sound means you're yielding to pace. The sharp "cốc" means you're fighting it. | **Nghe tiếng "bịch."** Tiếng đục, hấp thụ nghĩa là anh nhường lực. Tiếng sắc "cốc" nghĩa là anh chống. |
+| Stand at the service line. Friend at the baseline hits firm forehands to you. **You block them back, no swing.** Goal: 20 in a row. | Đứng ở vạch giao bóng. Bạn ở baseline đánh forehand chắc về phía bạn. **Anh block ngược, không vung.** Mục tiêu: 20 liên tiếp. |
+| **Progress:** move to actual serves. Friend serves from the baseline, you block returns. Same goal: 20 in play. | **Tiến:** chuyển sang serve thật. Bạn giao từ baseline, bạn block return. Cùng mục tiêu: 20 bóng vào. |
+| **Listen for the "bịch" sound.** The dull, absorbed sound means you're yielding to pace. The sharp "cốc" means you're fighting it. | **Nghe tiếng "bịch."** Tiếng đục, hấp thụ nghĩa là bạn nhường lực. Tiếng sắc "cốc" nghĩa là bạn chống. |
 
 #### Drill 4 — The "Drive 10 Second Serves" (With Partner, 10 min) | Drive 10 serve 2 (với bạn, 10 phút)
 
@@ -331,7 +331,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Play a set where the **server gets only 2 serves** (one first, one second). The returner must **block the first serve** and **drive the second serve**. Switch every 4 games. | Đánh một set nơi **server chỉ có 2 serve** (một 1, một 2). Người trả phải **block serve 1** và **drive serve 2**. Đổi mỗi 4 game. |
-| This trains the **automatic decision** (block vs drive) based on the serve. In a real match, you don't have time to think — you have to know. | Cái này huấn luyện **quyết định tự động** (block vs drive) dựa trên serve. Trong trận thật, anh không có thời gian nghĩ — anh phải biết. |
+| This trains the **automatic decision** (block vs drive) based on the serve. In a real match, you don't have time to think — you have to know. | Cái này huấn luyện **quyết định tự động** (block vs drive) dựa trên serve. Trong trận thật, bạn không có thời gian nghĩ — bạn phải biết. |
 | **Score the set normally.** This is the closest simulation to a real match at 3.5. | **Tính set bình thường.** Đây là mô phỏng gần trận thật nhất ở 3.5. |
 
 ### 🧠 The Master Cue List | Danh sách tín hiệu của bậc thầy
@@ -548,5 +548,5 @@ Other deep dives from your knowledge base you might want:
 - **Complete Manual v2** — fold this into the 10-part master reference as Part 6
 - **Serve Return Drills Plan** — a 4-week progressive drill calendar
 
-Just say the word, anh. 🎾
+Just say the word, bạn. 🎾
 |

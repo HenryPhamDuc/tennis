@@ -62,7 +62,7 @@ I designed it as **Chapter 0** of the forehand series — the setup before the s
 | **Complete Manual** | All 10 parts in one — the master reference, ~50-70 pages |
 | **Something else** | Just say the word |
 
-Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual", anh. 🎾
+Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual", bạn. 🎾
 
 Done. Deep dive #3 saved to:**`C:\Users\Henry\Documents\New Tennis Knowledge\Deep Dives\Khoa Vai Thuc Hu Axis.md`**(36 KB — the longest of the three, because this one ties everything together)
 
@@ -93,7 +93,7 @@ Read them in this order: **#3 (axis) → #2 (turn) → #1 (swing)** — the axis
 
 ### The single most important line from this deep dive
 
-> *"Nếu anh chỉ học một kỹ thuật từ cả loạt, hãy học cái này."* — The thực-hư axis is the most 50+-friendly technique in the whole series.
+> *"Nếu bạn chỉ học một kỹ thuật từ cả loạt, hãy học cái này."* — The thực-hư axis is the most 50+-friendly technique in the whole series.
 
 ### Want me to continue?
 
@@ -157,4 +157,4 @@ You have a few options:
 
 Chỉ cần nói "làm complete_manual", "make practice plan", "topic [tên]", hoặc "stop" và tôi sẽ theo. 🎾
 
-Chúc anh tập vui ở Surrey. Hy vọng 4 tuần nữa anh sẽ thấy bóng "cắn" dây nhiều hơn mà tay không mỏi.
+Chúc bạn tập vui ở Surrey. Hy vọng 4 tuần nữa bạn sẽ thấy bóng "cắn" dây nhiều hơn mà tay không mỏi.

@@ -28,16 +28,16 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| In singles, the slice family is **7 variations for 1 player**. In doubles, the slice family is **8 variations for 2 players** (the 8th is the Slice Wide Serve, the one you serve with). | Trong singles, gia đình slice là **7 biến thể cho 1 người chơi**. Trong đôi, gia đình slice là **8 biến thể cho 2 người chơi** (cái thứ 8 là Slice Wide Serve, cái anh dùng để giao). |
+| In singles, the slice family is **7 variations for 1 player**. In doubles, the slice family is **8 variations for 2 players** (the 8th is the Slice Wide Serve, the one you serve with). | Trong singles, gia đình slice là **7 biến thể cho 1 người chơi**. Trong đôi, gia đình slice là **8 biến thể cho 2 người chơi** (cái thứ 8 là Slice Wide Serve, cái bạn dùng để giao). |
 | But the math doesn't stop there. **Each slice variation has a doubles angle** — the partner is a third variable. | Nhưng toán không dừng ở đó. **Mỗi biến thể slice có góc đôi** — partner là biến thứ ba. |
 | - The **Slice Return** in singles: block & redirect, deep middle. | - **Slice Return** trong singles: chặn & đổi hướng, giữa sân sâu. |
-| - The **Slice Return** in doubles: block & redirect, deep middle — **BUT now you have a partner to set up at the net, and an opponent's partner to avoid at the net**. | - **Slice Return** trong đôi: chặn & đổi hướng, giữa sân sâu — **NHƯNG giờ anh có partner để setup ở lưới, và partner đối thủ để tránh ở lưới**. |
+| - The **Slice Return** in doubles: block & redirect, deep middle — **BUT now you have a partner to set up at the net, and an opponent's partner to avoid at the net**. | - **Slice Return** trong đôi: chặn & đổi hướng, giữa sân sâu — **NHƯNG giờ bạn có partner để setup ở lưới, và partner đối thủ để tránh ở lưới**. |
 | **The doubles slice = singles slice + partner coordination.** Every slice has a doubles angle, a partner's role, and a poach risk. | **Slice đôi = slice singles + phối hợp partner.** Mỗi slice có góc đôi, vai trò partner, và rủi ro cắt. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of the slice × doubles integration as a **chess game with 4 pieces** (you, your partner, the server, the server's partner). Every slice you hit is a chess move that affects all 4 pieces. **A slice return that goes to the deep middle isn't just a return — it's a setup for your partner's poach, a denial of the opponent's angle, AND a positioning cue for the server.** One shot, three jobs.
 >
-> *Hình dung tích hợp slice × đôi như **ván cờ với 4 quân** (anh, partner anh, server, partner server). Mỗi slice anh đánh là nước cờ ảnh hưởng cả 4 quân. **Slice return đi giữa sân sâu không chỉ là return — đó là setup cho cắt của partner, từ chối góc đối thủ, VÀ tín hiệu vị trí cho server.** Một cú, ba việc.*
+> *Hình dung tích hợp slice × đôi như **ván cờ với 4 quân** (bạn, partner bạn, server, partner server). Mỗi slice bạn đánh là nước cờ ảnh hưởng cả 4 quân. **Slice return đi giữa sân sâu không chỉ là return — đó là setup cho cắt của partner, từ chối góc đối thủ, VÀ tín hiệu vị trí cho server.** Một cú, ba việc.*
 
 ### The 8 Slice Variations × Doubles Angle | 8 Biến Thể Slice × Góc Đôi
 
@@ -46,7 +46,7 @@
 | **0** | **Slice Wide Serve** | Pull returner wide, set up poach | Kéo người trả rộng, setup cắt | 🇺🇸 Server | 🇻🇳 Server | 🇺🇸 Poach (the 50% rule) | 🇻🇳 Cắt (quy tắc 50%) | 🇺🇸 High (poach is the plan) | 🇻🇳 Cao (cắt là kế hoạch) |
 | **1** | **Slice Return** | Deep middle, set up partner | Giữa sân sâu, setup partner | 🇺🇸 Returner | 🇻🇳 Người trả | 🇺🇸 Poach if ball is high | 🇻🇳 Cắt nếu bóng cao | 🇺🇸 Medium (avoid the net player) | 🇻🇳 TB (tránh người lưới) |
 | **2** | **Slice Low Ball** | Defensive baseline rally | Rally baseline phòng thủ | 🇺🇸 Either | 🇻🇳 Bất kỳ | 🇺🇸 Stay at net, don't poach | 🇻🇳 Ở lưới, đừng cắt | 🇺🇸 Low (safe to dig out) | 🇻🇳 Thấp (an toàn để đào) |
-| **3** | **Slice Volley** | At the net, finish the point | Ở lưới, kết thúc điểm | 🇺🇸 Net player | 🇻🇳 Người lưới | 🇺🇸 Cover the alley | 🇻🇳 Che biên ngoài | 🇺🇸 N/A (you're the poach) | 🇻🇳 N/A (anh là người cắt) |
+| **3** | **Slice Volley** | At the net, finish the point | Ở lưới, kết thúc điểm | 🇺🇸 Net player | 🇻🇳 Người lưới | 🇺🇸 Cover the alley | 🇻🇳 Che biên ngoài | 🇺🇸 N/A (you're the poach) | 🇻🇳 N/A (bạn là người cắt) |
 | **4** | **Slice Drop Shot** | At the net, change-up | Ở lưới, đổi nhịp | 🇺🇸 Net player | 🇻🇳 Người lưới | 🇺🇸 Cover the alley (opp will dig) | 🇻🇳 Che biên (đối thủ sẽ đào) | 🇺🇸 N/A | 🇻🇳 N/A |
 | **5** | **Slice Defensive Lob** | Reset the point when opp at net | Reset điểm khi đối thủ ở lưới | 🇺🇸 Either (defensive) | 🇻🇳 Bất kỳ (phòng thủ) | 🇺🇸 Move back to baseline | 🇻🇳 Lùi về baseline | 🇺🇸 N/A (the lob is the escape) | 🇻🇳 N/A (lob là lối thoát) |
 | **6** | **Slice Counter-Punch** | Stretched wide, neutral | Bị kéo rộng, trung lập | 🇺🇸 Either | 🇻🇳 Bất kỳ | 🇺🇸 Cover the open court | 🇻🇳 Che sân mở | 🇺🇸 Low (defensive shot) | 🇻🇳 Thấp (cú phòng thủ) |
@@ -90,7 +90,7 @@
 | **The Slice Wide Serve is the doubles #1 default.** Slice to the backhand corner, pull the returner wide off the court, set up the poach. | **Slice Wide Serve là mặc định #1 đôi.** Slice vào góc backhand, kéo người trả rộng ra khỏi sân, setup cắt. |
 | **The 3 reasons it's #1 in doubles:** | **3 lý do nó là #1 trong đôi:** |
 | 1. **It pulls the returner wide.** They have to run to reach the ball. The return is a defensive slice, floating back to the middle. | 1. **Nó kéo người trả rộng.** Họ phải chạy để tới bóng. Return là slice phòng thủ, lửng lại giữa. |
-| 2. **It sets up the poach.** Your partner, at the net, has a high-percentage poach. The poach wins the point. | 2. **Nó setup cắt.** Partner anh, ở lưới, có cắt tỷ lệ cao. Cú cắt thắng điểm. |
+| 2. **It sets up the poach.** Your partner, at the net, has a high-percentage poach. The poach wins the point. | 2. **Nó setup cắt.** Partner bạn, ở lưới, có cắt tỷ lệ cao. Cú cắt thắng điểm. |
 | 3. **It avoids the opponent's net player.** The wide serve pulls the returner to the OUTSIDE — the OPPOSITE of where the net player is poaching. The two threats (returner + net player) are separated. | 3. **Nó tránh người lưới đối thủ.** Serve rộng kéo người trả ra NGOÀI — NGƯỢC với nơi người lưới đang cắt. Hai đe dọa (người trả + người lưới) bị tách ra. |
 
 > 💡 **The "separated threats" principle | Nguyên lý "đe dọa tách rời"**
@@ -110,7 +110,7 @@
 > 🩺 **The 50+ coordination tip | Mẹo phối hợp 50+**
 > **At 50+, you may not hear your partner's "Poach!" call.** Use the **pre-serve hand signal** (fist = poach, open hand = stay). The signal is silent, visible, and 50+ reliable. **Every doubles serve should have a hand signal before the toss.**
 >
-> *Ở tuổi 50+, anh có thể không nghe tiếng "Cắt!" của partner. Dùng **tín hiệu tay trước serve** (nắm đấm = cắt, tay mở = ở). Tín hiệu im, thấy được, đáng tin ở 50+. **Mỗi serve đôi nên có tín hiệu tay trước khi tung.***
+> *Ở tuổi 50+, bạn có thể không nghe tiếng "Cắt!" của partner. Dùng **tín hiệu tay trước serve** (nắm đấm = cắt, tay mở = ở). Tín hiệu im, thấy được, đáng tin ở 50+. **Mỗi serve đôi nên có tín hiệu tay trước khi tung.***
 
 ### 2B. Slice Return — The "Block & Set Up" | Slice Return — "Chặn & Setup"
 
@@ -131,7 +131,7 @@
 
 | Situation | English | Tiếng Việt | Target | Mục tiêu | Why |
 |---|---|---|---|---|---|
-| **Partner is poaching (fist signal)** | 🇺🇸 Your partner is going | 🇻🇳 Partner anh sẽ cắt | 🇺🇸 Deep middle (poacher's wheelhouse) | 🇻🇳 Giữa sân sâu (vùng ngon người cắt) | 🇺🇸 Sets up the poach |
+| **Partner is poaching (fist signal)** | 🇺🇸 Your partner is going | 🇻🇳 Partner bạn sẽ cắt | 🇺🇸 Deep middle (poacher's wheelhouse) | 🇻🇳 Giữa sân sâu (vùng ngon người cắt) | 🇺🇸 Sets up the poach |
 | **Opponent is poaching (you see them at net)** | 🇺🇸 The opponent is going | 🇻🇳 Đối thủ sẽ cắt | 🇺🇸 Cross-court (away from poach) | 🇻🇳 Chéo sân (xa cú cắt) | 🇺🇸 Denies the poach |
 | **Server is following to net (Serve + Volley)** | 🇺🇸 The server is coming in | 🇻🇳 Server đang vào | 🇺🇸 At server's feet | 🇻🇳 Vào chân server | 🇺🇸 Jams the volley |
 | **Default (no signal, no read)** | 🇺🇸 Nothing to read | 🇻🇳 Không có gì để đọc | 🇺🇸 Deep middle (50+ default) | 🇻🇳 Giữa sân sâu (mặc định 50+) | 🇺🇸 Safe + sets up next shot |
@@ -158,7 +158,7 @@
 |---|---|
 | **The Net Player's Slice is the slice the NET PLAYER hits.** In doubles, the net player is the SECOND actor. The net player's slice finishes the point. The server's slice sets up the net player's put-away. | **Slice Của Người Lưới là slice NGƯỜI LƯỚI đánh.** Trong đôi, người lưới là TÁC NHÂN THỨ HAI. Slice người lưới kết thúc điểm. Slice server setup cú kết liễu của người lưới. |
 | **The Net Player has 2 slice variations in the middle game:** | **Người Lưới có 2 biến thể slice trong trung cuộc:** |
-| 1. **Slice Approach** — the slice from the baseline that brings you to the net (the Return + Approach pattern). | 1. **Slice Approach** — slice từ baseline đưa anh lên lưới (pattern Return + Approach). |
+| 1. **Slice Approach** — the slice from the baseline that brings you to the net (the Return + Approach pattern). | 1. **Slice Approach** — slice từ baseline đưa bạn lên lưới (pattern Return + Approach). |
 | 2. **Slice Volley** — the compact volley with underspin at the net. | 2. **Slice Volley** — volley gọn với underspin ở lưới. |
 
 ### 3A. Slice Approach — The "Return + Approach" Pattern | Slice Approach — Pattern "Return + Approach"
@@ -175,7 +175,7 @@
 > 🧠 **The "4-step doubles approach" mental model | Mô hình "approach đôi 4 bước"**
 > **In doubles, the slice approach is 4 actors in sequence:** (1) you decide, (2) you slice, (3) the returner hits back, (4) you and your partner volley. **The approach is not 1 shot — it's a 4-act play.** The slice sets up the play. The volley wins the play.
 >
-> *Trong đôi, slice approach là 4 tác nhân theo chuỗi: (1) anh quyết định, (2) anh slice, (3) người trả đánh lại, (4) anh và partner volley. **Approach không phải 1 cú — đó là vở kịch 4 hồi.** Slice setup vở. Volley thắng vở.*
+> *Trong đôi, slice approach là 4 tác nhân theo chuỗi: (1) bạn quyết định, (2) bạn slice, (3) người trả đánh lại, (4) bạn và partner volley. **Approach không phải 1 cú — đó là vở kịch 4 hồi.** Slice setup vở. Volley thắng vở.*
 
 #### The Slice Approach Doubles Decision Tree | Cây Quyết Định Slice Approach Đôi
 
@@ -250,7 +250,7 @@
 |---|---|
 | **The Slice Drop Shot in doubles is the net player's surprise weapon.** You're at the net, the returner is at the baseline, the ball is a soft, short slice that dies at the net. | **Slice Drop Shot trong đôi là vũ khí bất ngờ của người lưới.** Anh ở lưới, người trả ở baseline, bóng là slice mềm, ngắn chết ở lưới. |
 | **The 3 doubles-specific situations:** | **3 tình huống đôi-cụ thể:** |
-| 1. **At the net, opp deep, you see the angle** — drop shot wins. | 1. **Ở lưới, đối thủ sâu, anh thấy góc** — drop shot thắng. |
+| 1. **At the net, opp deep, you see the angle** — drop shot wins. | 1. **Ở lưới, đối thủ sâu, bạn thấy góc** — drop shot thắng. |
 | 2. **At the net, opp at the baseline, lazy stance** — drop shot wins. | 2. **Ở lưới, đối thủ ở baseline, tư thế lười** — drop shot thắng. |
 | 3. **At the net, opp just hit a defensive lob** — drop shot wins. | 3. **Ở lưới, đối thủ vừa lob phòng thủ** — drop shot thắng. |
 
@@ -274,8 +274,8 @@
 | **The Slice Defensive Lob in doubles is the "Return + Lob" pattern** (covered in the Doubles Return Patterns deep dive). Lob over both opponents, deep into the corner, reset the point. | **Slice Defensive Lob trong đôi là pattern "Return + Lob"** (cover trong Doubles Return Patterns deep dive). Lob qua cả hai đối thủ, sâu vào góc, reset điểm. |
 | **Why it's the 50+ default in doubles:** | **Tại sao nó là mặc định 50+ trong đôi:** |
 | 1. **It avoids BOTH opponents.** The lob goes over the server AND the server's partner at the net. | 1. **Nó tránh CẢ HAI đối thủ.** Lob qua server VÀ partner server ở lưới. |
-| 2. **It buys TIME.** The opponents have to recover from the net to the baseline. The lob gives you 3-5 seconds. | 2. **Nó mua THỜI GIAN.** Đối thủ phải hồi phục từ lưới về baseline. Lob cho anh 3-5 giây. |
-| 3. **It sets up BOTH teammates.** After the lob, you and your partner are BOTH at the baseline, ready for the next shot. | 3. **Nó setup CẢ HAI teammate.** Sau lob, anh và partner CẢ HAI ở baseline, sẵn sàng cho cú tiếp. |
+| 2. **It buys TIME.** The opponents have to recover from the net to the baseline. The lob gives you 3-5 seconds. | 2. **Nó mua THỜI GIAN.** Đối thủ phải hồi phục từ lưới về baseline. Lob cho bạn 3-5 giây. |
+| 3. **It sets up BOTH teammates.** After the lob, you and your partner are BOTH at the baseline, ready for the next shot. | 3. **Nó setup CẢ HAI teammate.** Sau lob, bạn và partner CẢ HAI ở baseline, sẵn sàng cho cú tiếp. |
 | 4. **It loads nothing.** The lob is a high arc, low racket speed, no sprint. Joint-friendly. | 4. **Nó không tải gì.** Lob là vòng cung cao, tốc độ vợt thấp, không sprint. Thân thiện khớp. |
 
 > 🩺 **The 50+ doubles insurance principle | Nguyên lý bảo hiểm đôi 50+**
@@ -287,7 +287,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The Slice Counter-Punch in doubles is different from singles.** In doubles, you're stretched wide AND there's a net player waiting to poach. **The counter-punch has to go to the deep corner, away from the net player.** | **Slice Counter-Punch trong đôi khác singles.** Trong đôi, anh bị kéo rộng VÀ có người lưới chờ cắt. **Counter-punch phải đi góc sâu, xa người lưới.** |
+| **The Slice Counter-Punch in doubles is different from singles.** In doubles, you're stretched wide AND there's a net player waiting to poach. **The counter-punch has to go to the deep corner, away from the net player.** | **Slice Counter-Punch trong đôi khác singles.** Trong đôi, bạn bị kéo rộng VÀ có người lưới chờ cắt. **Counter-punch phải đi góc sâu, xa người lưới.** |
 | **The 3 doubles-specific targets for the counter-punch:** | **3 mục tiêu đôi-cụ thể cho counter-punch:** |
 | 1. **Deep corner, AWAY from the net player** — the longest distance, denies the poach. | 1. **Góc sâu, XA người lưới** — khoảng cách dài nhất, từ chối cắt. |
 | 2. **Lob over the net player** — if very stretched, the lob escapes. | 2. **Lob qua người lưới** — nếu bị kéo rất rộng, lob thoát. |
@@ -296,7 +296,7 @@
 > 💡 **The "escape + recovery" principle | Nguyên lý "thoát + hồi phục"**
 > **In doubles, the counter-punch is a 2-in-1 shot:** escape + recovery. You escape the stretched position (the ball goes to the deep corner), AND you recover (your partner covers the alley, you get back to ready position). **The 3.5 player who tries to "win" the counter-punch loses 70% of the time.** The counter-punch is a survival shot, not a winning shot.
 >
-> *Trong đôi, counter-punch là cú 2-trong-1: thoát + hồi phục. Anh thoát vị trí bị kéo (bóng đi góc sâu), VÀ anh hồi phục (partner che biên, anh về vị trí sẵn sàng). **Người 3.5 cố "thắng" counter-punch thua 70% thời gian.** Counter-punch là cú sinh tồn, không phải cú thắng.*
+> *Trong đôi, counter-punch là cú 2-trong-1: thoát + hồi phục. Anh thoát vị trí bị kéo (bóng đi góc sâu), VÀ bạn hồi phục (partner che biên, bạn về vị trí sẵn sàng). **Người 3.5 cố "thắng" counter-punch thua 70% thời gian.** Counter-punch là cú sinh tồn, không phải cú thắng.*
 
 ### The Change-Up Slice Cheat Sheet | Bảng Tóm Tắt Slice Đổi Nhịp
 
@@ -337,7 +337,7 @@
 > 🩺 **The 50+ communication tip | Mẹo giao tiếp 50+**
 > **At 50+, you may not hear your partner's call.** Use hand signals. The signals are silent, visible, and 50+ reliable. **Before every serve, the net player shows a hand signal. Before every return, the partner shows a hand signal. The signals are the language of 50+ doubles.**
 >
-> *Ở tuổi 50+, anh có thể không nghe tiếng gọi của partner. Dùng tín hiệu tay. Tín hiệu im, thấy được, đáng tin ở 50+. **Trước mỗi serve, người lưới cho tín hiệu tay. Trước mỗi return, partner cho tín hiệu tay. Tín hiệu là ngôn ngữ của đôi 50+.***
+> *Ở tuổi 50+, bạn có thể không nghe tiếng gọi của partner. Dùng tín hiệu tay. Tín hiệu im, thấy được, đáng tin ở 50+. **Trước mỗi serve, người lưới cho tín hiệu tay. Trước mỗi return, partner cho tín hiệu tay. Tín hiệu là ngôn ngữ của đôi 50+.***
 
 ### 5B. The Slice × Doubles Decision Tree (All 8 Variations) | Cây Quyết Định Slice × Đôi (Cả 8 Biến Thể)
 
@@ -367,10 +367,10 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| You serve (slice wide), your partner is at the net. **The partner shows a hand signal BEFORE your serve:** | Anh giao (slice rộng), partner ở lưới. **Partner cho tín hiệu tay TRƯỚC khi anh giao:** |
+| You serve (slice wide), your partner is at the net. **The partner shows a hand signal BEFORE your serve:** | Anh giao (slice rộng), partner ở lưới. **Partner cho tín hiệu tay TRƯỚC khi bạn giao:** |
 | - **Fist = poach.** You serve, partner poaches. | - **Nắm đấm = cắt.** Anh giao, partner cắt. |
 | - **Open hand = stay.** You serve, partner stays. | - **Tay mở = ở.** Anh giao, partner ở. |
-| - **Point to alley = cover alley.** You serve, partner poaches, you cover alley. | - **Chỉ biên = che biên.** Anh giao, partner cắt, anh che biên. |
+| - **Point to alley = cover alley.** You serve, partner poaches, you cover alley. | - **Chỉ biên = che biên.** Anh giao, partner cắt, bạn che biên. |
 | **Goal: 20 serves, 18 with correct poach coverage.** | **Mục tiêu: 20 serve, 18 che cắt đúng.** |
 
 #### Drill 3 — The "Slice Return + Partner" Practice (With Partner, 10 min) | Tập Slice Return + Partner
@@ -388,8 +388,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Play a practice doubles set. **Each time you receive a short ball, decide: approach or stay?** If approach, hit the slice approach, follow at 70%, volley finish. | Đánh set đôi tập. **Mỗi lần anh nhận bóng ngắn, quyết định: approach hay ở?** Nếu approach, đánh slice approach, theo 70%, volley kết thúc. |
-| **Your partner:** stay at the net when you approach, cover the alley when you volley. | **Partner anh:** ở lưới khi anh approach, che biên khi anh volley. |
+| Play a practice doubles set. **Each time you receive a short ball, decide: approach or stay?** If approach, hit the slice approach, follow at 70%, volley finish. | Đánh set đôi tập. **Mỗi lần bạn nhận bóng ngắn, quyết định: approach hay ở?** Nếu approach, đánh slice approach, theo 70%, volley kết thúc. |
+| **Your partner:** stay at the net when you approach, cover the alley when you volley. | **Partner bạn:** ở lưới khi bạn approach, che biên khi bạn volley. |
 | **Goal: 1 approach per game, all 4 questions answered YES before the approach.** | **Mục tiêu: 1 approach mỗi game, cả 4 câu hỏi trả lời CÓ trước approach.** |
 
 #### Drill 5 — The "Slice Family × Doubles" Match Practice (Solo or With Partner, 10 min) | Tập Trận Slice Family × Đôi
@@ -397,7 +397,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Play a practice doubles set. **Try to use each of the 8 slice variations at least once per set** (Slice Wide Serve, Slice Return, Slice Low Ball, Slice Approach, Slice Volley, Slice Drop Shot, Slice Defensive Lob, Slice Counter-Punch). | Đánh set đôi tập. **Cố dùng mỗi 8 biến thể slice ít nhất một lần mỗi set** (Slice Wide Serve, Slice Return, Slice Low Ball, Slice Approach, Slice Volley, Slice Drop Shot, Slice Defensive Lob, Slice Counter-Punch). |
-| **After each set, count: which variations did you use? Which did you miss?** | **Sau mỗi set, đếm: biến thể nào anh đã dùng? Cái nào anh bỏ lỡ?** |
+| **After each set, count: which variations did you use? Which did you miss?** | **Sau mỗi set, đếm: biến thể nào bạn đã dùng? Cái nào bạn bỏ lỡ?** |
 | **Goal: 8/8 variations used in 1 set.** | **Mục tiêu: 8/8 biến thể dùng trong 1 set.** |
 
 ---
@@ -577,11 +577,11 @@ STRETCHED WIDE:
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Trong đôi, slice không phải một cú. Slice là cú ĐỘI. Anh và partner của anh có 8 biến thể slice mỗi người — nhưng các biến thể kết nối. Slice Wide Serve của anh setup Slice Volley của partner. Slice Return của anh setup Slice Approach của partner. Slice Defensive Lob của anh cho partner thời gian setup. **Một grip. Tám biến thể. Hai người. Hai mươi năm chơi đôi.***
+> *Trong đôi, slice không phải một cú. Slice là cú ĐỘI. Anh và partner của bạn có 8 biến thể slice mỗi người — nhưng các biến thể kết nối. Slice Wide Serve của bạn setup Slice Volley của partner. Slice Return của bạn setup Slice Approach của partner. Slice Defensive Lob của bạn cho partner thời gian setup. **Một grip. Tám biến thể. Hai người. Hai mươi năm chơi đôi.***
 >
 > *In doubles, the slice is not a shot. The slice is a TEAM shot. You and your partner have 8 slice variations each — but the variations CONNECT. Your Slice Wide Serve sets up your partner's Slice Volley. Your Slice Return sets up your partner's Slice Approach. Your Slice Defensive Lob gives your partner time to set up. **One grip. Eight variations. Two players. Twenty years of doubles.***
 
-Bắt đầu tuần này với **Drill 1** (hand signal, 3 phút/ngày) — đó là nền tảng cho mọi phối hợp. Rồi thêm **Drill 2** (slice wide + poach, 10 phút) cho cắt. Trong 4 tuần, anh và partner sẽ có playbook 16 cú cho 16 tình huống ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (hand signal, 3 phút/ngày) — đó là nền tảng cho mọi phối hợp. Rồi thêm **Drill 2** (slice wide + poach, 10 phút) cho cắt. Trong 4 tuần, bạn và partner sẽ có playbook 16 cú cho 16 tình huống ở Surrey. 🎾
 
 ---
 

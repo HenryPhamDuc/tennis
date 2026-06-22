@@ -67,7 +67,7 @@
 | 1. **Hold the racket out in front of you.** Lay your hand flat on the strings. | 1. **Đưa vợt ra trước mặt.** Đặt tay phẳng lên dây. |
 | 2. **Slide your hand down to the grip** without rotating. | 2. **Trượt tay xuống cán** không xoay. |
 | 3. **Close your fingers.** The V between thumb and index sits on bevel #2. | 3. **Nắm tay lại.** Chữ V giữa ngón cái và trỏ nằm trên cạnh số 2. |
-| **Once you have the Continental grip, the 7 slices share it.** The variation comes from the swing path, not the grip. | **Khi anh đã có Continental, 7 slice chia sẻ nó.** Biến thể đến từ đường vung, không phải grip. |
+| **Once you have the Continental grip, the 7 slices share it.** The variation comes from the swing path, not the grip. | **Khi bạn đã có Continental, 7 slice chia sẻ nó.** Biến thể đến từ đường vung, không phải grip. |
 
 > 💡 **The "one grip, seven shots" principle | Nguyên lý "một grip, bảy cú"**
 > **The Continental grip is the same for ALL 7 variations.** The slice return uses the same grip as the slice drop shot, the slice volley, the slice lob, and the slice approach. **This is the magic of the slice family — one grip, seven shots.** A 50+ player who has the Continental in their hand has 7 options, not 1.
@@ -107,20 +107,20 @@
 | 1. **Split-step** as the server contacts. | 1. **Split-step** khi server chạm bóng. |
 | 2. **Block** (no swing, just a firm wrist and a 6-inch punch). | 2. **Chặn** (không vung, chỉ cổ tay chắc và cú đấm 15 cm). |
 | 3. **Redirect** to the deep middle (or to the open court). | 3. **Đổi hướng** tới giữa sân sâu (hoặc tới sân mở). |
-| **The Slice Return is NOT a "soft" return.** It's a firm, compact return that uses the server's pace. **The server hit it 100 mph. You returned it 80 mph. The 20 mph difference is your grip + angle.** | **Slice Return KHÔNG phải return "mềm."** Đó là return chắc, gọn, dùng lực server. **Server đánh 100 mph. Anh return 80 mph. Khác biệt 20 mph là grip + góc của anh.** |
+| **The Slice Return is NOT a "soft" return.** It's a firm, compact return that uses the server's pace. **The server hit it 100 mph. You returned it 80 mph. The 20 mph difference is your grip + angle.** | **Slice Return KHÔNG phải return "mềm."** Đó là return chắc, gọn, dùng lực server. **Server đánh 100 mph. Anh return 80 mph. Khác biệt 20 mph là grip + góc của bạn.** |
 
 > 💡 **The "block, don't swing" cue | Tín hiệu "chặn, không vung"**
 > **A 3.5 player who swings at a big serve is a 3.5 player who misses.** The serve's pace is the swing. Your job is to add CONTROL (the angle) and use a firm wrist (the direction). **The block is a 6-inch punch, not a 3-foot swing.** Compact, firm, redirect. The ball goes back, deep, into the middle.
 >
-> *Người 3.5 vung vợt vào serve lớn là người 3.5 trượt. Lực serve là cú vung. Việc của anh là thêm KIỂM SOÁT (góc) và dùng cổ tay chắc (hướng). **Chặn là cú đấm 15 cm, không phải cú vung 90 cm.** Gọn, chắc, đổi hướng. Bóng đi về, sâu, vào giữa.*
+> *Người 3.5 vung vợt vào serve lớn là người 3.5 trượt. Lực serve là cú vung. Việc của bạn là thêm KIỂM SOÁT (góc) và dùng cổ tay chắc (hướng). **Chặn là cú đấm 15 cm, không phải cú vung 90 cm.** Gọn, chắc, đổi hướng. Bóng đi về, sâu, vào giữa.*
 
 #### The 3-Target Decision for Slice Returns | 3 Quyết Định Mục Tiêu Cho Slice Return
 
 | Target | English | Tiếng Việt | When | Khi nào | Risk | Rủi ro |
 |---|---|---|---|---|---|---|
-| **Deep middle** | 🇺🇸 The safe, neutral target | 🇻🇳 Mục tiêu an toàn, trung lập | 🇺🇸 Big serve, you're out of position | 🇻🇳 Serve lớn, anh lệch vị trí | **Low (the 50+ default)** | **Thấp (mặc định 50+)** |
+| **Deep middle** | 🇺🇸 The safe, neutral target | 🇻🇳 Mục tiêu an toàn, trung lập | 🇺🇸 Big serve, you're out of position | 🇻🇳 Serve lớn, bạn lệch vị trí | **Low (the 50+ default)** | **Thấp (mặc định 50+)** |
 | **At server's feet** | 🇺🇸 Block the return at the server's body | 🇻🇳 Chặn return vào thân server | 🇺🇸 Server is following to the net (Serve + Volley) | 🇻🇳 Server theo lên lưới (Serve + Volley) | **Medium** | **Trung bình** |
-| **Cross-court** | 🇺🇸 Block cross-court, away from the server | 🇻🇳 Chặn chéo sân, ra xa server | 🇺🇸 Wide serve, you have time | 🇻🇳 Serve rộng, anh có thời gian | **Higher (the offensive option)** | **Cao hơn (tùy chọn tấn công)** |
+| **Cross-court** | 🇺🇸 Block cross-court, away from the server | 🇻🇳 Chặn chéo sân, ra xa server | 🇺🇸 Wide serve, you have time | 🇻🇳 Serve rộng, bạn có thời gian | **Higher (the offensive option)** | **Cao hơn (tùy chọn tấn công)** |
 
 > 🩺 **The 50+ default: deep middle | Mặc định 50+: giữa sân sâu**
 > **The 50+ player should default to the deep middle on every slice return.** Why? The deep middle removes the opponent's angle, the ball lands in the no-man's-land between the server and the net player, and the next shot is the partner's setup. **Don't try to win the return. Try to set up the next shot.**
@@ -208,7 +208,7 @@
 |---|---|---|---|---|---|
 | **Cross-court (default)** | 🇺🇸 Slice cross-court, away from opponent | 🇻🇳 Slice chéo sân, ra xa đối thủ | 🇺🇸 At the net, normal pace | 🇻🇳 Ở lưới, nhịp bình thường | **60% of slice volleys** |
 | **Down the line** | 🇺🇸 Slice down the line, surprise | 🇻🇳 Slice xuôi biên, bất ngờ | 🇺🇸 Opponent expects cross-court | 🇻🇳 Đối thủ chờ chéo sân | 20% of slice volleys |
-| **Drop volley (offensive)** | 🇺🇸 Soft slice that dies at the net | 🇻🇳 Slice mềm chết ở lưới | 🇺🇸 Opponent deep, you see the angle | 🇻🇳 Đối thủ sâu, anh thấy góc | 10% of slice volleys |
+| **Drop volley (offensive)** | 🇺🇸 Soft slice that dies at the net | 🇻🇳 Slice mềm chết ở lưới | 🇺🇸 Opponent deep, you see the angle | 🇻🇳 Đối thủ sâu, bạn thấy góc | 10% of slice volleys |
 | **Half-volley (low ball)** | 🇺🇸 Volley a ball that bounced | 🇻🇳 Volley bóng đã nảy | 🇺🇸 Ball is below net height | 🇻🇳 Bóng dưới tầng lưới | 5% of slice volleys |
 | **Lob volley (emergency)** | 🇺🇸 Volley as a lob, high over opponent | 🇻🇳 Volley như lob, cao qua đối thủ | 🇺🇸 Opponent is closing in at the net | 🇻🇳 Đối thủ đang vào lưới | 5% of slice volleys |
 
@@ -263,17 +263,17 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The Slice Defensive Lob and the Slice Counter-Punch are the two EMERGENCY variations.** They save you when you're in trouble — stretched wide, opponent at the net, no time to attack. | **Slice Defensive Lob và Slice Counter-Punch là hai biến thể KHẨN CẤP.** Chúng cứu anh khi anh gặp rắc rối — bị kéo rộng, đối thủ ở lưới, không có thời gian tấn công. |
+| **The Slice Defensive Lob and the Slice Counter-Punch are the two EMERGENCY variations.** They save you when you're in trouble — stretched wide, opponent at the net, no time to attack. | **Slice Defensive Lob và Slice Counter-Punch là hai biến thể KHẨN CẤP.** Chúng cứu bạn khi bạn gặp rắc rối — bị kéo rộng, đối thủ ở lưới, không có thời gian tấn công. |
 | **Why emergency matters at 50+:** | **Tại sao khẩn cấp quan trọng ở 50+:** |
-| - At 50+, the reflexes are 2-3 ms slower. The opponent catches you out of position more often. | - Ở tuổi 50+, phản xạ chậm hơn 2-3 ms. Đối thủ bắt anh lệch vị trí thường xơn hơn. |
-| - The Slice Defensive Lob and the Slice Counter-Punch get you OUT of trouble and BACK in the point. | - Slice Defensive Lob và Slice Counter-Punch đưa anh RA khỏi rắc rối và VÀO lại điểm. |
+| - At 50+, the reflexes are 2-3 ms slower. The opponent catches you out of position more often. | - Ở tuổi 50+, phản xạ chậm hơn 2-3 ms. Đối thủ bắt bạn lệch vị trí thường xơn hơn. |
+| - The Slice Defensive Lob and the Slice Counter-Punch get you OUT of trouble and BACK in the point. | - Slice Defensive Lob và Slice Counter-Punch đưa bạn RA khỏi rắc rối và VÀO lại điểm. |
 | - The 50+ player who has 7 variations wins 60% of trouble situations. The 50+ player with 1-2 variations wins 30%. | - Người 50+ có 7 biến thể thắng 60% tình huống rắc rối. Người 50+ có 1-2 biến thể thắng 30%. |
 | **The emergency group is the 50+ player's safety net.** | **Nhóm khẩn cấp là lưới an toàn của người 50+.** |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of the emergency group as **the parachute.** You don't open it on every jump. You open it when the main fails. **The Slice Defensive Lob is the parachute when the opponent is at the net. The Slice Counter-Punch is the parachute when you're stretched wide.** The 50+ player carries the parachute everywhere. The 30-year-old doesn't think they need it.
 >
-> *Hình dung nhóm khẩn cấp như **dù.** Anh không mở mỗi lần nhảy. Anh mở khi dù chính hỏng. **Slice Defensive Lob là dù khi đối thủ ở lưới. Slice Counter-Punch là dù khi anh bị kéo rộng.** Người 50+ mang dù khắp nơi. Người 30 không nghĩ họ cần.*
+> *Hình dung nhóm khẩn cấp như **dù.** Anh không mở mỗi lần nhảy. Anh mở khi dù chính hỏng. **Slice Defensive Lob là dù khi đối thủ ở lưới. Slice Counter-Punch là dù khi bạn bị kéo rộng.** Người 50+ mang dù khắp nơi. Người 30 không nghĩ họ cần.*
 
 ### 4A. The Slice Defensive Lob — The "Rainbow" | Slice Defensive Lob — "Cầu Vồng"
 
@@ -289,21 +289,21 @@
 > 🧠 **The "rainbow over the net player" mental model | Mô hình "cầu vồng qua người lưới"**
 > **Imagine a rainbow** that goes from your racket, UP and OVER the opponent at the net, and DOWN into the deep corner of their baseline. The arc clears the opponent's reach. The underspin makes the bounce low. **The rainbow is the 50+ defensive lob — the most joint-friendly lob in tennis.**
 >
-> *Hình dung **cầu vồng** đi từ vợt anh, LÊN và QUA đối thủ ở lưới, và XUỐNG vào góc sâu baseline họ. Vòng cung qua tầm với đối thủ. Underspin làm nảy thấp. **Cầu vồng là lob phòng thủ 50+ — lob thân thiện khớp nhất trong tennis.***
+> *Hình dung **cầu vồng** đi từ vợt bạn, LÊN và QUA đối thủ ở lưới, và XUỐNG vào góc sâu baseline họ. Vòng cung qua tầm với đối thủ. Underspin làm nảy thấp. **Cầu vồng là lob phòng thủ 50+ — lob thân thiện khớp nhất trong tennis.***
 
 #### The 3-Lob Decision Tree | Cây Quyết Định 3 Lob
 
 | Lob Type | English | Tiếng Việt | When | Khi nào | Spin | Xoáy |
 |---|---|---|---|---|---|---|
-| **Slice Defensive Lob** | 🇺🇸 High, deep, underspin, clears the net player | 🇻🇳 Cao, sâu, underspin, qua người lưới | 🇺🇸 Opponent at the net, you need time | 🇻🇳 Đối thủ ở lưới, anh cần thời gian | Slice (underspin) | Slice (underspin) |
+| **Slice Defensive Lob** | 🇺🇸 High, deep, underspin, clears the net player | 🇻🇳 Cao, sâu, underspin, qua người lưới | 🇺🇸 Opponent at the net, you need time | 🇻🇳 Đối thủ ở lưới, bạn cần thời gian | Slice (underspin) | Slice (underspin) |
 | **Topspin Lob** | 🇺🇸 Higher arc, more forward, used to lob a baseline player | 🇻🇳 Vòng cung cao hơn, tới nhiều hơn, dùng lob người baseline | 🇺🇸 Opponent at the baseline, deep court available | 🇻🇳 Đối thủ ở baseline, sân sâu có sẵn | Topspin | Topspin |
-| **Slice Approach Lob** | 🇺🇸 Lob that brings you to the net | 🇻🇳 Lob đưa anh lên lưới | 🇺🇸 After a deep lob, you follow to the net | 🇻🇳 Sau lob sâu, anh theo lên lưới | Slice | Slice |
+| **Slice Approach Lob** | 🇺🇸 Lob that brings you to the net | 🇻🇳 Lob đưa bạn lên lưới | 🇺🇸 After a deep lob, you follow to the net | 🇻🇳 Sau lob sâu, bạn theo lên lưới | Slice | Slice |
 
 ### 4B. The Slice Counter-Punch — The "Stretch Saver" | Slice Counter-Punch — "Cứu Bóng Bị Kéo"
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The Slice Counter-Punch is the most emergency slice variation.** A defensive slice from a stretched position. The opponent hits a hard, angled ball, you have no time to topspin, you slice-block the ball back. | **Slice Counter-Punch là biến thể slice khẩn cấp nhất.** Slice phòng thủ từ vị trí bị kéo. Đối thủ đánh bóng cứng, góc, anh không có thời gian topspin, anh slice-chặn bóng về. |
+| **The Slice Counter-Punch is the most emergency slice variation.** A defensive slice from a stretched position. The opponent hits a hard, angled ball, you have no time to topspin, you slice-block the ball back. | **Slice Counter-Punch là biến thể slice khẩn cấp nhất.** Slice phòng thủ từ vị trí bị kéo. Đối thủ đánh bóng cứng, góc, bạn không có thời gian topspin, bạn slice-chặn bóng về. |
 | **The Slice Counter-Punch is similar to the Slice Low Ball** (scoop and slide), but the slice is from a STRETCHED position (not a low ball). | **Slice Counter-Punch giống Slice Low Ball** (múc và trượt), nhưng slice từ vị trí BỊ KÉO (không phải bóng thấp). |
 | **The 3 unique mechanics:** | **3 cơ chế độc đáo:** |
 | 1. **Reach with the racket, not the body.** Lean on the front leg, racket extends out, body stays centered. | 1. **Vươn vợt, không vươn người.** Dồn lên chân trước, vợt vươn ra, người giữa. |
@@ -399,19 +399,19 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Your partner feeds you 3 types of balls: | Partner của anh feed anh 3 loại bóng: |
-| 1. **Fast ball at the body** (you slice return). | 1. **Bóng nhanh vào thân** (anh slice return). |
-| 2. **Low, skidding ball** (you slice low ball). | 2. **Bóng thấp, skidding** (anh slice low ball). |
-| 3. **Wide ball, you have to stretch** (you slice counter-punch). | 3. **Bóng rộng, anh phải vươn** (anh slice counter-punch). |
+| Your partner feeds you 3 types of balls: | Partner của bạn feed bạn 3 loại bóng: |
+| 1. **Fast ball at the body** (you slice return). | 1. **Bóng nhanh vào thân** (bạn slice return). |
+| 2. **Low, skidding ball** (you slice low ball). | 2. **Bóng thấp, skidding** (bạn slice low ball). |
+| 3. **Wide ball, you have to stretch** (you slice counter-punch). | 3. **Bóng rộng, bạn phải vươn** (bạn slice counter-punch). |
 | **Goal: 20 feeds, 18 with the right slice variation.** | **Mục tiêu: 20 feed, 18 đúng biến thể slice.** |
 
 #### Drill 4 — The "Touch at the Net" Practice (With Partner, 10 min) | Tập Tinh Tế Ở Lưới
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand at the net. Your partner feeds you 2 types of balls: | Đứng ở lưới. Partner feed anh 2 loại bóng: |
-| 1. **Normal-pace volley** (you slice volley, cross-court). | 1. **Volley nhịp bình thường** (anh slice volley, chéo sân). |
-| 2. **Short, slow ball** (you slice drop shot, just over the net). | 2. **Bóng ngắn, chậm** (anh slice drop shot, vừa qua lưới). |
+| Stand at the net. Your partner feeds you 2 types of balls: | Đứng ở lưới. Partner feed bạn 2 loại bóng: |
+| 1. **Normal-pace volley** (you slice volley, cross-court). | 1. **Volley nhịp bình thường** (bạn slice volley, chéo sân). |
+| 2. **Short, slow ball** (you slice drop shot, just over the net). | 2. **Bóng ngắn, chậm** (bạn slice drop shot, vừa qua lưới). |
 | **Goal: 20 feeds, 15 drop shots that land in the service box.** | **Mục tiêu: 20 feed, 15 drop shot rơi trong service box.** |
 
 #### Drill 5 — The "Slice Family" Match Practice (Solo, 10 min) | Tập Trận Gia Đình Slice
@@ -419,7 +419,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Play a practice match against yourself (or with a partner). **Try to use each of the 7 slice variations at least once per set.** | Đánh trận tập với chính mình (hoặc với partner). **Cố dùng mỗi 7 biến thể slice ít nhất một lần mỗi set.** |
-| **After each set, count: which variations did you use? Which did you miss?** | **Sau mỗi set, đếm: biến thể nào anh đã dùng? Cái nào anh bỏ lỡ?** |
+| **After each set, count: which variations did you use? Which did you miss?** | **Sau mỗi set, đếm: biến thể nào bạn đã dùng? Cái nào bạn bỏ lỡ?** |
 | **Goal: 7/7 variations used in 1 set.** | **Mục tiêu: 7/7 biến thể dùng trong 1 set.** |
 
 ---
@@ -584,11 +584,11 @@ AFTER EVERY SLICE:
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Slice không phải một cú. Slice là một gia đình — 7 biến thể, 1 grip. Continental mở khóa cả 7. Ở tuổi 50+, anh có thể cầm vợt với Continental và có 7 tùy chọn cho 7 tình huống. Serve lớn tới? Slice return. Bóng thấp? Slice low ball. Ở lưới? Slice volley. Bóng ngắn? Slice drop shot. Đối thủ ở lưới? Slice defensive lob. Bị kéo rộng? Slice counter-punch. Lên lưới? Slice approach. **Một grip. Bảy cú. Hai mươi năm chơi tennis.***
+> *Slice không phải một cú. Slice là một gia đình — 7 biến thể, 1 grip. Continental mở khóa cả 7. Ở tuổi 50+, bạn có thể cầm vợt với Continental và có 7 tùy chọn cho 7 tình huống. Serve lớn tới? Slice return. Bóng thấp? Slice low ball. Ở lưới? Slice volley. Bóng ngắn? Slice drop shot. Đối thủ ở lưới? Slice defensive lob. Bị kéo rộng? Slice counter-punch. Lên lưới? Slice approach. **Một grip. Bảy cú. Hai mươi năm chơi tennis.***
 >
 > *The slice is not one shot. The slice is a family — 7 variations, 1 grip. Continental unlocks all 7. At 50+, you can hold the racket with the Continental and have 7 options for 7 situations. Big serve? Slice return. Low ball? Slice low ball. At the net? Slice volley. Short ball? Slice drop shot. Opponent at the net? Slice defensive lob. Stretched wide? Slice counter-punch. Coming to the net? Slice approach. **One grip. Seven shots. Twenty years of tennis.***
 
-Bắt đầu tuần này với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, anh sẽ có 7 tùy chọn trong tay ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (Continental only, 5 phút/ngày) — đó là nền tảng cho cả 7. Rồi thêm **Drill 2** (slice family shadow, 5 phút/ngày) — đó là rehearsal cho mỗi biến thể. Trong 4 tuần, bạn sẽ có 7 tùy chọn trong tay ở Surrey. 🎾
 
 ---
 

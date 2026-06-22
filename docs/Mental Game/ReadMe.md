@@ -92,4 +92,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "5 pha" và "4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, anh sẽ thấy mình bình tĩnh hơn người 30 trên sân.
+Hy vọng tuần này bạn sẽ thêm "5 pha" và "4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, bạn sẽ thấy mình bình tĩnh hơn người 30 trên sân.

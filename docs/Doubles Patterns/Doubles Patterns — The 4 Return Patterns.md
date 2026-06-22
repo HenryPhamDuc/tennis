@@ -29,14 +29,14 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | In singles, the return is a survival shot. In doubles, **the return is a setup shot**. | Trong singles, trả serve là cú sinh tồn. Trong đôi, **trả serve là cú setup**. |
-| The reason: in doubles, there's a net player on the OTHER team waiting to poach. Your return has to deal with TWO threats at once — the server's next shot AND the poacher's interception. | Lý do: trong đôi, có người lưới ở đội BÊN KIA chờ cắt bóng. Return của anh phải đối phó HAI mối đe dọa cùng lúc — cú tiếp theo của server VÀ sự chặn của người cắt. |
+| The reason: in doubles, there's a net player on the OTHER team waiting to poach. Your return has to deal with TWO threats at once — the server's next shot AND the poacher's interception. | Lý do: trong đôi, có người lưới ở đội BÊN KIA chờ cắt bóng. Return của bạn phải đối phó HAI mối đe dọa cùng lúc — cú tiếp theo của server VÀ sự chặn của người cắt. |
 | The 3.5 player who treats the doubles return like a singles return loses the point 80% of the time. Why? Because the singles return goes cross-court — right into the poacher's wheelhouse. | Người 3.5 đối xử return đôi như return singles thua điểm 80% thời gian. Tại sao? Vì return singles đi chéo sân — ngay vào "vùng ngon" của người cắt. |
 | **The 4 return patterns are the answer.** Each pattern is a complete plan: what return to hit, what to do AFTER the return, and how to coordinate with your partner. | **4 mẫu trả là câu trả lời.** Mỗi mẫu là kế hoạch hoàn chỉnh: trả gì, làm gì SAU return, và phối hợp với partner thế nào. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Imagine a chess opening. In chess, you have many first moves — pawn, knight, bishop — and each leads to a different middle game. The "return" in doubles is your first move. **The 4 patterns are the 4 most common chess openings in doubles.** Each has a different middle game. The smart player picks the pattern that fits the situation.
 >
-> *Hình dung khai cuộc cờ vua. Trong cờ, anh có nhiều nước đi đầu — tốt, mã, tượng — và mỗi nước dẫn tới trung cuộc khác nhau. "Return" trong đôi là nước đi đầu của anh. **4 mẫu là 4 khai cuộc phổ biến nhất trong đôi.** Mỗi mẫu có trung cuộc khác nhau. Người chơi thông minh chọn mẫu phù hợp tình huống.*
+> *Hình dung khai cuộc cờ vua. Trong cờ, bạn có nhiều nước đi đầu — tốt, mã, tượng — và mỗi nước dẫn tới trung cuộc khác nhau. "Return" trong đôi là nước đi đầu của bạn. **4 mẫu là 4 khai cuộc phổ biến nhất trong đôi.** Mỗi mẫu có trung cuộc khác nhau. Người chơi thông minh chọn mẫu phù hợp tình huống.*
 
 ### Why the Doubles Return Is Different from Singles | Tại Sao Return Đôi Khác Return Singles
 
@@ -60,7 +60,7 @@
 |---|---|---|---|---|---|---|
 | **1** | **Return + Lob** | 🇺🇸 Hit a high, deep lob over both opponents | 🇻🇳 Trả lob cao, sâu qua cả hai đối thủ | 🇺🇸 First serve, net player aggressive, you need to reset | 🇻🇳 Serve 1, người lưới tích cực, cần reset | **✅ YES (50+ default)** |
 | **2** | **Return + 1** | 🇺🇸 Hit a low, controlled return down the middle, partner poaches | 🇻🇳 Trả thấp, kiểm soát xuôi giữa, partner cắt | Second serve, partner ready to poach | Serve 2, partner sẵn sàng cắt | **Smart option** |
-| **3** | **Return + Approach** | 🇺🇸 Hit a deep slice approach, you + partner both move to net | 🇻🇳 Trả slice approach sâu, anh + partner cùng lên lưới | Short return, both you and partner can attack | Return ngắn, cả hai cùng tấn công | **Next step** |
+| **3** | **Return + Approach** | 🇺🇸 Hit a deep slice approach, you + partner both move to net | 🇻🇳 Trả slice approach sâu, bạn + partner cùng lên lưới | Short return, both you and partner can attack | Return ngắn, cả hai cùng tấn công | **Next step** |
 | **4** | **Return + 2** | 🇺🇸 Hit a hard topspin drive, both you and partner stay at baseline | 🇻🇳 Trả drive topspin mạnh, cả hai ở baseline | Weak second serve, both you and partner are baseliners | Serve 2 yếu, cả hai là người cuối sân | **For the brave** |
 
 > 🧠 **The "first move determines the middle game" principle | Nguyên lý "nước đi đầu quyết định trung cuộc"**
@@ -101,7 +101,7 @@ RETURN IS INCOMING → What's the situation?
 > 🩺 **The 50+ framing | Khung 50+**
 > **At 50+, Return + Lob should be your default against first serves.** First serves are fast, the net player is poised to poach, and your 50+ shoulder doesn't love reacting to pace. A high, deep lob takes the net player OUT of the equation and gives you time to recover. **It's not defensive — it's strategic.** A well-placed lob in doubles is worth its weight in gold.
 >
-> *Ở tuổi 50+, Return + Lob nên là mặc định chống serve 1. Serve 1 nhanh, người lưới sẵn cắt, và vai 50+ không thích phản ứng với tốc độ. Lob cao, sâu đưa người lưới RA KHỎI phương trình và cho anh thời gian hồi phục. **Đó không phải phòng thủ — đó là chiến thuật.** Lob đặt đúng chỗ trong đôi đáng giá vàng.*
+> *Ở tuổi 50+, Return + Lob nên là mặc định chống serve 1. Serve 1 nhanh, người lưới sẵn cắt, và vai 50+ không thích phản ứng với tốc độ. Lob cao, sâu đưa người lưới RA KHỎI phương trình và cho bạn thời gian hồi phục. **Đó không phải phòng thủ — đó là chiến thuật.** Lob đặt đúng chỗ trong đôi đáng giá vàng.*
 >
 > *Trả serve và lên lưới.*
 
@@ -113,7 +113,7 @@ RETURN IS INCOMING → What's the situation?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The Return + Lob is the most under-used pattern in 3.5 doubles. Recreational players see a fast first serve and panic. They try to "drive" the return. They hit it into the net, or long, or right at the poacher. | Return + Lob là mẫu bị dùng ít nhất trong đôi 3.5. Người nghiệp dư thấy serve 1 nhanh và hoảng. Họ cố "đánh" return. Họ đánh vào lưới, hoặc dài, hoặc ngay vào người cắt. |
-| The Return + Lob is the answer to all three problems. **The lob takes pace OFF the ball**, it clears the net player, and it gives you time to recover. | Return + Lob là câu trả lời cho cả ba vấn đề. **Lob lấy tốc độ RA KHỎI bóng**, nó qua người lưới, và cho anh thời gian hồi phục. |
+| The Return + Lob is the answer to all three problems. **The lob takes pace OFF the ball**, it clears the net player, and it gives you time to recover. | Return + Lob là câu trả lời cho cả ba vấn đề. **Lob lấy tốc độ RA KHỎI bóng**, nó qua người lưới, và cho bạn thời gian hồi phục. |
 | This is the same lob from the Lob and Overhead deep dive (Ch 2 — defensive slice lob). Same grip (Continental), same backswing (high), same aim (deep, into the corner). **Nothing new to learn.** | Đây là cùng lob từ Lob và Overhead deep dive (Ch 2 — defensive slice lob). Cùng grip (Continental), cùng backswing (cao), cùng nhắm (sâu, vào góc). **Không có gì mới.** |
 
 > 🧠 **Mental model | Mô hình tư duy**
@@ -136,7 +136,7 @@ RETURN IS INCOMING → What's the situation?
 | **The read is 3 things, all at once:** | **Đọc là 3 thứ, cùng lúc:** |
 | 1. **The serve is fast** (first serve, or a hard second serve). | 1. **Serve nhanh** (serve 1, hoặc serve 2 mạnh). |
 | 2. **The net player is forward** (1-2 meters from the net, ready to poach). | 2. **Người lưới ở trước** (cách lưới 1-2 mét, sẵn sàng cắt). |
-| 3. **The ball lands deep in the service box** (you can't attack a short return from a deep bounce). | 3. **Bóng rơi sâu trong service box** (anh không thể tấn công return ngắn từ nảy sâu). |
+| 3. **The ball lands deep in the service box** (you can't attack a short return from a deep bounce). | 3. **Bóng rơi sâu trong service box** (bạn không thể tấn công return ngắn từ nảy sâu). |
 | **If all 3 are YES, the Return + Lob is the play.** If even one is NO, consider a different pattern. | **Nếu cả 3 CÓ, Return + Lob là lựa chọn. Nếu chỉ một KHÔNG, cân nhắc mẫu khác.** |
 
 > 💡 **The "first-serve lob" rule | Quy tắc "lob serve 1"**
@@ -148,7 +148,7 @@ RETURN IS INCOMING → What's the situation?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Grip: Continental.** The same V-to-bevel-2 grip you use for volleys and overheads. **This is non-negotiable.** Semi-Western grip on a lob = the ball flies long. | **Grip: Continental.** Cùng chữ V trên cạnh số 2 anh dùng cho volley và overhead. **Đây không thương lượng.** Semi-Western trên lob = bóng bay dài. |
+| **Grip: Continental.** The same V-to-bevel-2 grip you use for volleys and overheads. **This is non-negotiable.** Semi-Western grip on a lob = the ball flies long. | **Grip: Continental.** Cùng chữ V trên cạnh số 2 bạn dùng cho volley và overhead. **Đây không thương lượng.** Semi-Western trên lob = bóng bay dài. |
 | **Stance: open or semi-open.** Same as the slice lob. The open stance lets the chest rotate UP. | **Tư thế: mở hoặc bán mở.** Cùng slice lob. Tư thế mở cho ngực xoay LÊN. |
 | **Backswing: HIGH — "scratch your back."** The racket goes up, elbow bent, like you're about to scratch your back with the racket. **The high backswing is what gives the lob its arc.** A low backswing = a flat shot = an overhead for the opponent. | **Backswing: CAO — "gãi lưng."** Vợt đưa lên, khuỷu gập, như sắp gãi lưng bằng vợt. **Backswing cao là thứ tạo vòng cung cho lob.** Backswing thấp = cú phẳng = overhead cho đối thủ. |
 | **Contact: in front of the body, chest-to-shoulder height.** The lob is caught at the same height as a groundstroke lob. | **Tiếp xúc: phía trước cơ thể, tầm ngực-đến-vai.** Lob bắt ở cùng tầm groundstroke lob. |
@@ -166,14 +166,14 @@ RETURN IS INCOMING → What's the situation?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **After the lob is in the air, side-shuffle BACK to the center of the baseline.** The lob's purpose is to buy time — use the time to recover. | **Sau khi lob ở trên không, side-shuffle LÙI về giữa baseline.** Mục đích lob là mua thời gian — dùng thời gian để hồi phục. |
-| **Don't stay where you hit the return.** You hit it at the service line (or near it). The center of the baseline is 6-7 meters back. Get there. | **Đừng ở chỗ anh trả.** Anh trả ở vạch service (hoặc gần). Giữa baseline là 6-7 mét lùi. Tới đó. |
-| **Your partner should also recover.** If your partner was at the net, the lob over the server's net player has bought time. Your partner can also retreat to the baseline. **The team resets to Both Back.** | **Partner anh cũng nên hồi phục.** Nếu partner ở lưới, lob qua người lưới server đã mua thời gian. Partner cũng có thể lùi về baseline. **Đội reset về Cả Hai Dưới.** |
+| **Don't stay where you hit the return.** You hit it at the service line (or near it). The center of the baseline is 6-7 meters back. Get there. | **Đừng ở chỗ bạn trả.** Anh trả ở vạch service (hoặc gần). Giữa baseline là 6-7 mét lùi. Tới đó. |
+| **Your partner should also recover.** If your partner was at the net, the lob over the server's net player has bought time. Your partner can also retreat to the baseline. **The team resets to Both Back.** | **Partner bạn cũng nên hồi phục.** Nếu partner ở lưới, lob qua người lưới server đã mua thời gian. Partner cũng có thể lùi về baseline. **Đội reset về Cả Hai Dưới.** |
 | **The opponent's next shot is now a groundstroke (or an overhead if they retrieved your lob).** You have time. Use it. | **Cú tiếp theo đối thủ giờ là groundstroke (hoặc overhead nếu họ cứu lob).** Anh có thời gian. Dùng nó. |
 
 > 🧠 **The "reset" mental model | Mô hình "reset"**
 > The Return + Lob is a chess move that resets the board. The opponent's net player is now back at the baseline. Your team is also back at the baseline. The point continues from a NEUTRAL position. **You didn't win the point, but you didn't lose it either. The next shot is 50/50.** That's the value of the Return + Lob.
 >
-> *Return + Lob là nước cờ reset bàn cờ. Người lưới đối thủ giờ ở baseline. Đội anh cũng ở baseline. Điểm tiếp tục từ vị trí TRUNG LẬP. **Anh chưa thắng điểm, nhưng cũng chưa thua. Cú tiếp theo là 50/50.** Đó là giá trị của Return + Lob.*
+> *Return + Lob là nước cờ reset bàn cờ. Người lưới đối thủ giờ ở baseline. Đội bạn cũng ở baseline. Điểm tiếp tục từ vị trí TRUNG LẬP. **Anh chưa thắng điểm, nhưng cũng chưa thua. Cú tiếp theo là 50/50.** Đó là giá trị của Return + Lob.*
 
 ### The Return + Lob Cheat Sheet | Bảng Tóm Tắt Return + Lob
 
@@ -245,16 +245,16 @@ RETURN IS INCOMING → What's the situation?
 > 🎯 **The "geometric sweet spot" mental model | Mô hình "điểm ngọt hình học"**
 > Imagine a triangle. The server is at one corner. The poacher is at the second corner. You (the returner) are at the third corner. The middle of the service box is the **centroid** of this triangle. A ball hit to the centroid is equidistant from all three players — **the closest one (the poacher) gets it first.** Your job is to hit the ball to the centroid.
 >
-> *Hình dung tam giác. Server ở một góc. Người cắt ở góc thứ hai. Anh (người trả) ở góc thứ ba. Giữa service box là **trọng tâm** của tam giác này. Bóng đánh vào trọng tâm cách đều cả ba người chơi — **người gần nhất (người cắt) được nó trước.** Việc anh là đánh bóng vào trọng tâm.*
+> *Hình dung tam giác. Server ở một góc. Người cắt ở góc thứ hai. Anh (người trả) ở góc thứ ba. Giữa service box là **trọng tâm** của tam giác này. Bóng đánh vào trọng tâm cách đều cả ba người chơi — **người gần nhất (người cắt) được nó trước.** Việc bạn là đánh bóng vào trọng tâm.*
 
 #### 🎯 Part 3 — The Poach (Your Partner's Job) | Cú Cắt (Việc Partner Anh)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **You can't control the poach — that's your partner's job.** But you can SUPPORT the poach by: | **Anh không kiểm soát cú cắt — đó là việc partner. Nhưng anh có thể HỖ TRỢ cú cắt bằng:** |
+| **You can't control the poach — that's your partner's job.** But you can SUPPORT the poach by: | **Anh không kiểm soát cú cắt — đó là việc partner. Nhưng bạn có thể HỖ TRỢ cú cắt bằng:** |
 | 1. **Calling "Poach!" or "Switch!"** before the returner hits. This tells your partner it's safe to cross. | 1. **Gọi "Cắt!" hoặc "Đổi!"** trước khi người trả đánh. Cái này nói với partner an toàn để vượt. |
-| 2. **Recovering to the alley** if the poach happens. The poacher covers the middle; you cover the alley. | 2. **Hồi về biên ngoài** nếu cú cắt xảy ra. Người cắt che giữa; anh che biên ngoài. |
-| 3. **Watching the lob** over the poacher's head. If the opponent lobs over the poach, **you're the backstop.** | 3. **Canh lob** qua đầu người cắt. Nếu đối thủ lob qua cú cắt, **anh là backstop.** |
+| 2. **Recovering to the alley** if the poach happens. The poacher covers the middle; you cover the alley. | 2. **Hồi về biên ngoài** nếu cú cắt xảy ra. Người cắt che giữa; bạn che biên ngoài. |
+| 3. **Watching the lob** over the poacher's head. If the opponent lobs over the poach, **you're the backstop.** | 3. **Canh lob** qua đầu người cắt. Nếu đối thủ lob qua cú cắt, **bạn là backstop.** |
 
 > 💡 **The "hittable ball" principle | Nguyên lý "bóng để cắt được"**
 > A good Return + 1 returner thinks: **"Where can my partner hit a volley?"** — not "Where can I win the point?" The poacher needs a ball at knee-to-waist height, in the middle, with controlled pace. **A returner who thinks about the poacher's volley position will hit better Return + 1 returns than a returner who thinks about winning the point themselves.**
@@ -272,7 +272,7 @@ RETURN IS INCOMING → What's the situation?
 | **Trajectory** | Low (1-2 ft over net) | Thấp (30-60 cm qua lưới) |
 | **Pace** | Medium, controlled | Trung bình, kiểm soát |
 | **Your recovery** | Cover the alley (poacher covers middle) | Che biên ngoài (người cắt che giữa) |
-| **Why it works** | Poacher intercepts, you cover the alley | Người cắt chặn, anh che biên |
+| **Why it works** | Poacher intercepts, you cover the alley | Người cắt chặn, bạn che biên |
 | **When NOT to use** | First serve (use Return + Lob instead) | Serve 1 (dùng Return + Lob thay) |
 
 ---
@@ -282,7 +282,7 @@ RETURN IS INCOMING → What's the situation?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The Return + Approach is the **net conversion** pattern. After the return, both you AND your partner move to the net. This is the offensive version of doubles. | Return + Approach là mẫu **chuyển đổi lưới**. Sau return, cả anh VÀ partner cùng lên lưới. Đây là phiên bản tấn công của đôi. |
+| The Return + Approach is the **net conversion** pattern. After the return, both you AND your partner move to the net. This is the offensive version of doubles. | Return + Approach là mẫu **chuyển đổi lưới**. Sau return, cả bạn VÀ partner cùng lên lưới. Đây là phiên bản tấn công của đôi. |
 | The pattern: **returner hits a deep slice approach (the same slice approach from the Slice Approach deep dive). Partner is already at the net. Both poach / volley the next shot.** | Mẫu: **người trả đánh slice approach sâu (cùng slice approach từ Slice Approach deep dive). Partner đã ở lưới. Cả hai cắt/volley cú tiếp theo.** |
 | This is the most aggressive pattern in the 4 — and the most joint-stressing. **At 50+, this is a "next step" pattern, not a default.** Lead with Return + Lob or Return + 1 first. | Đây là mẫu tích cực nhất trong 4 — và căng khớp nhất. **Ở tuổi 50+, đây là mẫu "bước tiếp", không phải mặc định.** Dẫn đầu với Return + Lob hoặc Return + 1 trước. |
 
@@ -295,7 +295,7 @@ RETURN IS INCOMING → What's the situation?
 
 | Condition | English | Tiếng Việt |
 |---|---|---|
-| **Soft second serve** | 🇺🇸 The serve is slow enough that you can attack | 🇻🇳 Serve đủ chậm để anh tấn công |
+| **Soft second serve** | 🇺🇸 The serve is slow enough that you can attack | 🇻🇳 Serve đủ chậm để bạn tấn công |
 | **Short return position** | 🇺🇸 You can hit a deep slice from the service line (your position after the return) | 🇻🇳 Anh có thể đánh slice sâu từ vạch service (vị trí sau return) |
 | **Partner ready to poach** | 🇺🇸 Your partner is at the net, ready to intercept | 🇻🇳 Partner ở lưới, sẵn sàng chặn |
 | **You have gas in the tank** | 🇺🇸 Your legs and shoulders feel good enough for the transition | 🇻🇳 Chân và vai đủ tốt cho chuyển tiếp |
@@ -304,7 +304,7 @@ RETURN IS INCOMING → What's the situation?
 > ⚠️ **The 50+ reality | Thực tế 50+**
 > **The Return + Approach at 50+ has a hard limit: the transition sprint.** The slice approach itself is joint-friendly (small swing, no shoulder load). But the **70% sprint** to the net — that's the risk. **At 50+, use Return + Approach once or twice per set, not every point.** Your heart, your knees, and your back will thank you.
 >
-> *Return + Approach ở 50+ có giới hạn cứng: chạy chuyển tiếp. Bản thân slice approach thân thiện khớp (vung nhỏ, không tải vai). Nhưng **chạy 70%** tới lưới — đó là rủi ro. **Ở tuổi 50+, dùng Return + Approach một hai lần mỗi set, không mỗi điểm.** Tim, gối, và lưng anh sẽ cảm ơn.*
+> *Return + Approach ở 50+ có giới hạn cứng: chạy chuyển tiếp. Bản thân slice approach thân thiện khớp (vung nhỏ, không tải vai). Nhưng **chạy 70%** tới lưới — đó là rủi ro. **Ở tuổi 50+, dùng Return + Approach một hai lần mỗi set, không mỗi điểm.** Tim, gối, và lưng bạn sẽ cảm ơn.*
 
 ### The 4-Step Return + Approach Sequence | Chuỗi 4 Bước Return + Approach
 
@@ -323,10 +323,10 @@ RETURN IS INCOMING → What's the situation?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The Return + Approach starts with a deep slice.** This is the same slice approach from the Slice Approach deep dive (Ch 2), but the context is different: you're returning a serve, not hitting a regular groundstroke. | **Return + Approach bắt đầu bằng slice sâu.** Đây là cùng slice approach từ Slice Approach deep dive (Ch 2), nhưng ngữ cảnh khác: anh đang trả serve, không đánh groundstroke thường. |
+| **The Return + Approach starts with a deep slice.** This is the same slice approach from the Slice Approach deep dive (Ch 2), but the context is different: you're returning a serve, not hitting a regular groundstroke. | **Return + Approach bắt đầu bằng slice sâu.** Đây là cùng slice approach từ Slice Approach deep dive (Ch 2), nhưng ngữ cảnh khác: bạn đang trả serve, không đánh groundstroke thường. |
 | **Grip: Continental.** Same as the slice approach. | **Grip: Continental.** Cùng slice approach. |
 | **Stance: open or semi-open.** Same as the slice approach. | **Tư thế: mở hoặc bán mở.** Cùng slice approach. |
-| **Backswing: medium-high.** The slice approach backswing is the "scratch your back" cue, but on a return you have less time. **The medium-high backswing is a compromise between a full lob backswing and a regular slice backswing.** | **Backswing: vừa-cao.** Backswing slice approach là tín hiệu "gãi lưng", nhưng lúc trả anh có ít thời gian hơn. **Backswing vừa-cao là thỏa hiệp giữa backswing lob đầy đủ và backswing slice thường.** |
+| **Backswing: medium-high.** The slice approach backswing is the "scratch your back" cue, but on a return you have less time. **The medium-high backswing is a compromise between a full lob backswing and a regular slice backswing.** | **Backswing: vừa-cao.** Backswing slice approach là tín hiệu "gãi lưng", nhưng lúc trả bạn có ít thời gian hơn. **Backswing vừa-cao là thỏa hiệp giữa backswing lob đầy đủ và backswing slice thường.** |
 | **Contact: in front of the body, chest-to-shoulder height.** Same as the slice approach. | **Tiếp xúc: phía trước cơ thể, tầm ngực-đến-vai.** Cùng slice approach. |
 | **Aim: deep, into the corner.** Land within 3 feet of the baseline. | **Nhắm: sâu, vào góc.** Rơi trong 90 cm từ baseline. |
 | **Sound: "phập" = clean (good) | "bộp" = flat (bad).** | **Âm thanh: "phập" = sạch (tốt) | "bộp" = phẳng (xấu).** |
@@ -334,7 +334,7 @@ RETURN IS INCOMING → What's the situation?
 > 💡 **The "context shift" note | Ghi chú "chuyển ngữ cảnh"**
 > The slice approach technique is the same. The CONTEXT is different: on a return, the ball is coming AT you (from the server's racquet) and you have less time. The slice approach from the Slice Approach deep dive is for a regular groundstroke. **Practicing both — the regular slice approach AND the return slice approach — will build the muscle memory for both situations.**
 >
-> *Kỹ thuật slice approach giống nhau. NGỮ CẢNH khác: lúc trả, bóng đang TỚI anh (từ vợt server) và anh có ít thời gian hơn. Slice approach từ Slice Approach deep dive dành cho groundstroke thường. **Tập cả hai — slice approach thường VÀ slice approach trả — sẽ xây muscle memory cho cả hai tình huống.***
+> *Kỹ thuật slice approach giống nhau. NGỮ CẢNH khác: lúc trả, bóng đang TỚI bạn (từ vợt server) và bạn có ít thời gian hơn. Slice approach từ Slice Approach deep dive dành cho groundstroke thường. **Tập cả hai — slice approach thường VÀ slice approach trả — sẽ xây muscle memory cho cả hai tình huống.***
 
 #### 🎯 Part 2 — The Transition (The Sprint to the Net) | Chuyển Tiếp (Chạy Tới Lưới)
 
@@ -351,18 +351,18 @@ RETURN IS INCOMING → What's the situation?
 > 🩺 **The 50+ transition rule | Quy tắc chuyển tiếp 50+**
 > **The transition sprint is the highest-risk moment in the Return + Approach at 50+.** If your body says "no sprint today," DON'T DO THE APPROACH. Hit a Return + Lob instead. **The Return + Lob is always available. The Return + Approach is optional.** Choose based on your body's signal, not your ego.
 >
-> *Chạy chuyển tiếp là khoảnh khắc rủi ro nhất trong Return + Approach ở 50+. Nếu cơ thể anh nói "không chạy hôm nay," ĐỪNG LÀM APPROACH. Đánh Return + Lob thay. **Return + Lob luôn có sẵn. Return + Approach là tùy chọn.** Chọn dựa trên tín hiệu cơ thể, không phải ego.*
+> *Chạy chuyển tiếp là khoảnh khắc rủi ro nhất trong Return + Approach ở 50+. Nếu cơ thể bạn nói "không chạy hôm nay," ĐỪNG LÀM APPROACH. Đánh Return + Lob thay. **Return + Lob luôn có sẵn. Return + Approach là tùy chọn.** Chọn dựa trên tín hiệu cơ thể, không phải ego.*
 
 #### 🎯 Part 3 — The Net Finish (2-on-2 Net Battle) | Kết Thúc Ở Lưới (Trận Chiến Lưới 2 Chống 2)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Once both you and your partner are at the net, you're in a 2-on-2 net battle.** The 3 net battle weapons from the Doubles Tactics deep dive (Ch 4 — Pattern 4) apply: | **Khi cả anh và partner ở lưới, anh ở trong trận chiến lưới 2 chống 2.** 3 vũ khí chiến lưới từ Doubles Tactics deep dive (Ch 4 — Mẫu 4) áp dụng: |
+| **Once both you and your partner are at the net, you're in a 2-on-2 net battle.** The 3 net battle weapons from the Doubles Tactics deep dive (Ch 4 — Pattern 4) apply: | **Khi cả bạn và partner ở lưới, bạn ở trong trận chiến lưới 2 chống 2.** 3 vũ khí chiến lưới từ Doubles Tactics deep dive (Ch 4 — Mẫu 4) áp dụng: |
 | 1. **Crosscourt volley** (the default — safe, deep, denies the angle). | 1. **Volley chéo** (mặc định — an toàn, sâu, chặn góc). |
 | 2. **Body shot** (at the opponent in the middle). | 2. **Bóng vào thân** (vào đối thủ ở giữa). |
 | 3. **Down-the-line angle** (the killer — for 4.5+ only). | 3. **Góc dọc dây** (cú giết — chỉ cho 4.5+). |
 | **At 3.5, the default is crosscourt volley.** Same as the Doubles Tactics deep dive. | **Ở 3.5, mặc định là volley chéo.** Cùng Doubles Tactics deep dive. |
-| **The "seesaw" model from the Slice Approach deep dive (Ch 4) applies:** the open court is the side OPPOSITE to where you approached. | **Mô hình "bập bênh" từ Slice Approach deep dive (Ch 4) áp dụng:** sân mở là bên ĐỐI DIỆN nơi anh approach. |
+| **The "seesaw" model from the Slice Approach deep dive (Ch 4) applies:** the open court is the side OPPOSITE to where you approached. | **Mô hình "bập bênh" từ Slice Approach deep dive (Ch 4) áp dụng:** sân mở là bên ĐỐI DIỆN nơi bạn approach. |
 | **The "punch + cross" or "block + wait" patterns from the Slice Approach deep dive apply.** Same volley mechanics. | **Mẫu "đấm + chéo" hoặc "chặn + chờ" từ Slice Approach deep dive áp dụng.** Cùng cơ chế volley. |
 
 > 🧠 **The "joint at the net" mental model | Mô hình "khớp ở lưới"**
@@ -399,12 +399,12 @@ RETURN IS INCOMING → What's the situation?
 | 2. The groundstroke duel that follows is a singles-style exchange — long rallies, baseline running, more joint stress. | 2. Đấu groundstroke theo sau là trao đổi kiểu singles — rally dài, chạy baseline, nhiều stress khớp. |
 | 3. The advantage often goes to the OPPONENTS at the net, not the returner's team at the baseline. | 3. Lợi thế thường thuộc về ĐỐI THỦ ở lưới, không phải đội người trả ở baseline. |
 | **When it works:** when the second serve is WEAK (slow, short, loopy) and your partner is also a baseliner. | **Khi nào hiệu quả:** khi serve 2 YẾU (chậm, ngắn, vòng) và partner cũng là người cuối sân. |
-| **When it fails:** when the second serve is medium (and you can't attack) OR when your partner is at the net (and you should support the poach instead). | **Khi nào thất bại:** khi serve 2 trung bình (và anh không tấn công được) HOẶC khi partner ở lưới (và anh nên hỗ trợ cú cắt thay). |
+| **When it fails:** when the second serve is medium (and you can't attack) OR when your partner is at the net (and you should support the poach instead). | **Khi nào thất bại:** khi serve 2 trung bình (và bạn không tấn công được) HOẶC khi partner ở lưới (và bạn nên hỗ trợ cú cắt thay). |
 
 > ⚠️ **The 50+ warning on Return + 2 | Cảnh báo 50+ về Return + 2**
 > **The Return + 2 is the most singles-like pattern in doubles.** At 3.5, it works 40% of the time. At 50+, it works 25% of the time. The reasons: (1) hard drives load the shoulder, (2) baseline rallies load the knees and the back, (3) the net player's poach often wins the point before the rally develops. **At 50+, lead with Return + Lob. Add Return + 2 only when you and your partner are both baseliners AND the second serve is genuinely weak.**
 >
-> *Return + 2 là mẫu giống singles nhất trong đôi. Ở 3.5, nó hiệu quả 40% thời gian. Ở 50+, hiệu quả 25% thời gian. Lý do: (1) drive mạnh tải vai, (2) rally baseline tải gối và lưng, (3) cú cắt của người lưới thường thắng điểm trước khi rally phát triển. **Ở tuổi 50+, dẫn đầu với Return + Lob. Thêm Return + 2 chỉ khi anh và partner đều là người cuối sân VÀ serve 2 thực sự yếu.***
+> *Return + 2 là mẫu giống singles nhất trong đôi. Ở 3.5, nó hiệu quả 40% thời gian. Ở 50+, hiệu quả 25% thời gian. Lý do: (1) drive mạnh tải vai, (2) rally baseline tải gối và lưng, (3) cú cắt của người lưới thường thắng điểm trước khi rally phát triển. **Ở tuổi 50+, dẫn đầu với Return + Lob. Thêm Return + 2 chỉ khi bạn và partner đều là người cuối sân VÀ serve 2 thực sự yếu.***
 
 ### The Return + 2 Cheat Sheet | Bảng Tóm Tắt Return + 2
 
@@ -429,7 +429,7 @@ RETURN IS INCOMING → What's the situation?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Stand on the baseline. Have a friend call out ONE of 4 patterns: "Lob!" "One!" "Approach!" or "Two!" (or "Three!" for Return + Approach). | Đứng ở baseline. Nhờ bạn gọi MỘT trong 4 mẫu: "Lob!" "Một!" "Approach!" hoặc "Hai!" (hoặc "Ba!" cho Return + Approach). |
-| **Your job: take 1 step in the corresponding direction.** "Lob" = back foot. "One" = no movement (poach happens). "Approach" = forward. "Two" = no movement (stay back). | **Việc anh: lấy 1 bước theo hướng tương ứng.** "Lob" = chân sau. "Một" = không di chuyển (cắt xảy ra). "Approach" = tới. "Hai" = không di chuyển (ở lại). |
+| **Your job: take 1 step in the corresponding direction.** "Lob" = back foot. "One" = no movement (poach happens). "Approach" = forward. "Two" = no movement (stay back). | **Việc bạn: lấy 1 bước theo hướng tương ứng.** "Lob" = chân sau. "Một" = không di chuyển (cắt xảy ra). "Approach" = tới. "Hai" = không di chuyển (ở lại). |
 | **Repeat 20 times, mixing the 4 patterns randomly.** | **Lặp 20 lần, trộn 4 mẫu ngẫu nhiên.** |
 | **Why this works:** the drill builds the decision-making habit. At 3.5, the wrong pattern is the #1 doubles mistake. **Train the decision first, the shot second.** | **Tại sao hiệu quả:** bài tập xây thói quen quyết định. Ở 3.5, sai mẫu là lỗi đôi #1. **Tập quyết định trước, cú đánh sau.** |
 
@@ -464,7 +464,7 @@ RETURN IS INCOMING → What's the situation?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Play a normal doubles point, but **before each return, call out the pattern you're going to use.** "Lob!" "One!" "Approach!" or "Two!" | Đánh điểm đôi bình thường, nhưng **trước mỗi return, gọi mẫu anh sẽ dùng.** "Lob!" "Một!" "Approach!" hoặc "Hai!" |
+| Play a normal doubles point, but **before each return, call out the pattern you're going to use.** "Lob!" "One!" "Approach!" or "Two!" | Đánh điểm đôi bình thường, nhưng **trước mỗi return, gọi mẫu bạn sẽ dùng.** "Lob!" "Một!" "Approach!" hoặc "Hai!" |
 | **After the point, discuss: did the pattern match the situation? Would a different pattern have been better?** | **Sau điểm, thảo luận: mẫu có khớp tình huống không? Mẫu khác có tốt hơn không?** |
 | **Goal: 10 points, all 4 patterns used at least once.** | **Mục tiêu: 10 điểm, cả 4 mẫu dùng ít nhất một lần.** |
 | **Why this works:** the drill builds the situation→pattern matching habit. After 10 reps, the body knows: "fast serve = lob, soft serve = one, etc." | **Tại sao hiệu quả:** bài tập xây thói quen khớp tình huống→mẫu. Sau 10 lần, cơ thể biết: "serve nhanh = lob, serve mềm = một, v.v." |
@@ -522,7 +522,7 @@ RETURN IS INCOMING → What's the situation?
 > 🩺 **The single most important 50+ doubles return rule | Quy tắc return đôi 50+ quan trọng nhất**
 > **The Return + Lob is the 50+ doubles insurance policy.** Against a fast first serve, lob. Against an aggressive net player, lob. On a bad-body day, lob. The lob buys time, removes the net player, and gives you and your partner the chance to reset. **A 50+ player who lobs 80% of first serves and uses Return + 1 on second serves is playing the smartest doubles possible.** The body that doesn't load the shoulder on every return is the body that plays for 20 more years.
 >
-> *Return + Lob là chính sách bảo hiểm đôi 50+. Chống serve 1 nhanh, lob. Chống người lưới tích cực, lob. Ngày cơ thể tệ, lob. Lob mua thời gian, loại người lưới, và cho anh và partner cơ hội reset. **Người 50+ lob 80% serve 1 và dùng Return + 1 cho serve 2 đang chơi đôi thông minh nhất có thể.** Cơ thể không tải vai mỗi return là cơ thể chơi 20 năm tới.*
+> *Return + Lob là chính sách bảo hiểm đôi 50+. Chống serve 1 nhanh, lob. Chống người lưới tích cực, lob. Ngày cơ thể tệ, lob. Lob mua thời gian, loại người lưới, và cho bạn và partner cơ hội reset. **Người 50+ lob 80% serve 1 và dùng Return + 1 cho serve 2 đang chơi đôi thông minh nhất có thể.** Cơ thể không tải vai mỗi return là cơ thể chơi 20 năm tới.*
 
 ---
 
@@ -665,7 +665,7 @@ THE TEAM (always):
 >
 > *In doubles, the return is not a survival shot. The return is a setup shot. And the 4 return patterns are 4 different setups for 4 different situations. At 50+, the default answer — 80% of first serves, 50% of second serves — is Return + Lob. That's not defensive. That's strategic. That's longevity.*
 
-Bắt đầu tuần này với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
 
 ---
 

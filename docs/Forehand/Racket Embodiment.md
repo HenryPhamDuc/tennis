@@ -35,7 +35,7 @@
 |---|---|
 | Most 3.5 players practice **form**: they watch YouTube videos, take lessons, do mirror reps. They get the shape right. Then they go on court and miss the same shots. | Hầu hết người chơi 3.5 tập **hình thức**: xem YouTube, đi học, tập trước gương. Họ làm đúng hình. Rồi ra sân và đánh hỏng cùng một kiểu. |
 | Why? Because they practiced the **shape** of the swing, not the **feel** of the swing. The body doesn't remember shapes — it remembers sensations. | Tại sao? Vì họ tập **hình** của cú vung, không phải **cảm giác**. Cơ thể không nhớ hình — nó nhớ cảm giác. |
-| Think about brushing your teeth. You don't look in the mirror to plan each stroke. Your hand just knows where your mouth is. **That's proprioception.** | Hãy nghĩ lúc đánh răng. Anh không nhìn gương lập kế hoạch từng động tác. Tay anh tự biết miệng ở đâu. **Đó là cảm giác bản thể (proprioception).** |
+| Think about brushing your teeth. You don't look in the mirror to plan each stroke. Your hand just knows where your mouth is. **That's proprioception.** | Hãy nghĩ lúc đánh răng. Anh không nhìn gương lập kế hoạch từng động tác. Tay bạn tự biết miệng ở đâu. **Đó là cảm giác bản thể (proprioception).** |
 | Tennis at 3.5 is mostly a proprioception problem, not a form problem. **You need to feel the ball through the racket, not see the ball through the racket.** | Tennis ở level 3.5 phần lớn là vấn đề cảm giác bản thể, không phải hình thức. **Anh cần cảm bóng qua vợt, không phải nhìn bóng qua vợt.** |
 
 > 🧠 **Mental model | Mô hình tư duy**
@@ -53,8 +53,8 @@
 |---|---|
 | After every good shot, **stop for 2 seconds.** Don't rush to the next ball. | Sau mỗi cú đánh tốt, **dừng 2 giây.** Đừng vội bóng tiếp. |
 | In those 2 seconds, **notice the feeling in your hand.** How heavy is the racket? Where is the sweet spot? What did the ball feel like on the strings? | Trong 2 giây đó, **chú ý cảm giác ở tay.** Vợt nặng bao nhiêu? Sweet spot ở đâu? Bóng cảm thấy thế nào trên dây? |
-| This is the **"feel memory"** trick. It's how your body learns. | Đây là mẹo **"ký ức cảm giác."** Đó là cách cơ thể anh học. |
-| If you don't pause, you lose the memory. If you pause, you build a library. | Nếu không dừng, anh mất ký ức. Nếu dừng, anh xây thư viện. |
+| This is the **"feel memory"** trick. It's how your body learns. | Đây là mẹo **"ký ức cảm giác."** Đó là cách cơ thể bạn học. |
+| If you don't pause, you lose the memory. If you pause, you build a library. | Nếu không dừng, bạn mất ký ức. Nếu dừng, bạn xây thư viện. |
 
 > ⚠️ **Why most players plateau at 3.5 | Tại sao hầu hết người chơi bị đình ở 3.5**
 > They hit 100 balls in an hour. They remember maybe 3. Their body remembers nothing. The fix is not more balls. **The fix is 30 balls with 2-second pauses.** Less volume, more memory.
@@ -65,8 +65,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| When you pick up a pencil, you don't think "I am holding a pencil." It's part of your hand. **You want the racket to be like that.** | Khi anh cầm bút, anh không nghĩ "tôi đang cầm bút." Nó là một phần tay. **Anh muốn vợt như vậy.** |
-| When the racket is embodied, you don't think "I need to keep my L-angle." You just *feel* the racket head lag behind your hand, and the whip happens. | Khi vợt đã nhập thể, anh không nghĩ "tôi cần giữ góc L." Anh chỉ *cảm* đầu vợt trễ sau tay, và roi tự quất. |
+| When you pick up a pencil, you don't think "I am holding a pencil." It's part of your hand. **You want the racket to be like that.** | Khi bạn cầm bút, bạn không nghĩ "tôi đang cầm bút." Nó là một phần tay. **Anh muốn vợt như vậy.** |
+| When the racket is embodied, you don't think "I need to keep my L-angle." You just *feel* the racket head lag behind your hand, and the whip happens. | Khi vợt đã nhập thể, bạn không nghĩ "tôi cần giữ góc L." Anh chỉ *cảm* đầu vợt trễ sau tay, và roi tự quất. |
 | **The L-angle, the unit turn, the axis — they all become automatic when the racket is embodied.** | **Góc L, unit turn, trục — tất cả tự động khi vợt đã nhập thể.** |
 
 > 🎨 **Visual cue | Tín hiệu hình ảnh**
@@ -84,7 +84,7 @@
 | You can't feel the racket if you can't feel the floor. **The body learns proprioception from the ground up.** | Anh không thể cảm vợt nếu không cảm được sàn. **Cơ thể học cảm giác bản thể từ mặt đất lên.** |
 | Most 3.5 players have **dead feet.** They wear thick-soled shoes, they shuffle, they don't feel the ground pressure. | Hầu hết người 3.5 có **chân chết.** Họ mang giày đế dày, họ trượt chân, họ không cảm được áp lực mặt đất. |
 | The fix is simple: **spend 5 minutes a day barefoot at home.** No racket. No ball. Just walk, balance, and feel. | Cách sửa đơn giản: **dành 5 phút mỗi ngày đi chân đất ở nhà.** Không vợt. Không bóng. Chỉ đi, thăng bằng, và cảm. |
-| This is Level 1: **the human operating system.** Before you build software (technique), you need hardware (the body's sensing system) to work. | Đây là Tầng 1: **hệ điều hành cơ thể.** Trước khi xây phần mềm (kỹ thuật), anh cần phần cứng (hệ cảm biến của cơ thể) hoạt động. |
+| This is Level 1: **the human operating system.** Before you build software (technique), you need hardware (the body's sensing system) to work. | Đây là Tầng 1: **hệ điều hành cơ thể.** Trước khi xây phần mềm (kỹ thuật), bạn cần phần cứng (hệ cảm biến của cơ thể) hoạt động. |
 
 ### 🛠️ Sub-Drill 1 — Barefoot Walk (5 min) | Đi chân đất (5 phút)
 
@@ -117,7 +117,7 @@
 | Stand on your **right leg** (forehand's back leg). Hold 30 seconds. | Đứng trên **chân phải** (chân sau của forehand). Giữ 30 giây. |
 | Then **left leg** (forehand's front leg). Hold 30 seconds. | Rồi **chân trái** (chân trước của forehand). Giữ 30 giây. |
 | **Eyes open for 30 sec, eyes closed for 10 sec.** | **Mắt mở 30 giây, mắt nhắm 10 giây.** |
-| This builds the **single-leg stability** you need for the thực-hư axis (deep dive #3). | Cái này xây **ổn định một chân** anh cần cho trục thực-hư (deep dive #3). |
+| This builds the **single-leg stability** you need for the thực-hư axis (deep dive #3). | Cái này xây **ổn định một chân** bạn cần cho trục thực-hư (deep dive #3). |
 | At 50+, this is critical. Most tennis injuries happen when the front leg wobbles. | Ở tuổi 50+, điều này tối quan trọng. Hầu hết chấn thương tennis xảy ra khi chân trước chao đảo. |
 
 > ⚠️ **Don't skip Level 1 | Đừng bỏ qua Tầng 1**
@@ -128,13 +128,13 @@
 ---
 
 <a name="chapter-3"></a>
-## Chapter 3 — Level 2: Body Schema — Make the Racket Part of You | Chương 3 — Tầng 2: Sơ đồ cơ thể — Biến vợt thành một phần anh
+## Chapter 3 — Level 2: Body Schema — Make the Racket Part of You | Chương 3 — Tầng 2: Sơ đồ cơ thể — Biến vợt thành một phần bạn
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Once the feet are awake, we can add the racket. **Level 2 is about teaching your brain that the racket is an extension of your hand.** | Khi chân đã tỉnh, ta thêm vợt. **Tầng 2 là dạy não rằng vợt là phần mở rộng của tay.** |
 | This is called **body schema expansion** — your brain's internal map of "where my body ends" gets bigger to include the racket. | Đây gọi là **mở rộng sơ đồ cơ thể** — bản đồ nội tại "cơ thể tôi kết thúc ở đâu" của não nở rộng để bao gồm vợt. |
-| Once the racket is in the schema, you don't have to "think" about the L-angle, the unit turn, or the axis. **Your hand just knows where the racket is.** | Khi vợt đã ở trong sơ đồ, anh không phải "nghĩ" về góc L, unit turn, hay trục. **Tay anh tự biết vợt ở đâu.** |
+| Once the racket is in the schema, you don't have to "think" about the L-angle, the unit turn, or the axis. **Your hand just knows where the racket is.** | Khi vợt đã ở trong sơ đồ, bạn không phải "nghĩ" về góc L, unit turn, hay trục. **Tay bạn tự biết vợt ở đâu.** |
 | This is the difference between holding a tennis racket and holding a hammer. The hammer stays a "tool." The racket becomes a "limb." | Đây là khác biệt giữa cầm vợt tennis và cầm búa. Búa vẫn là "công cụ." Vợt thành "chi." |
 
 ### 🛠️ Sub-Drill 1 — Slow Racket Rotation, Eyes Closed (5 min) | Xoay vợt chậm, nhắm mắt (5 phút)
@@ -144,12 +144,12 @@
 | Stand still. Hold the racket loosely. **Close your eyes.** | Đứng yên. Cầm vợt lỏng. **Nhắm mắt.** |
 | Slowly rotate the racket head in circles — figure-8, side to side, up and down. | Từ từ xoay đầu vợt thành vòng — số 8, qua lại, lên xuống. |
 | **Notice:** the weight of the racket head. Where is it in space? Can you feel it? | **Chú ý:** trọng lượng đầu vợt. Nó ở đâu trong không gian? Anh cảm được không? |
-| Do this 5 minutes a day for 2 weeks. By the end, you'll know where the racket is **without looking.** | Làm 5 phút/ngày trong 2 tuần. Cuối cùng, anh sẽ biết vợt ở đâu **mà không cần nhìn.** |
+| Do this 5 minutes a day for 2 weeks. By the end, you'll know where the racket is **without looking.** | Làm 5 phút/ngày trong 2 tuần. Cuối cùng, bạn sẽ biết vợt ở đâu **mà không cần nhìn.** |
 
 > 🎯 **The "sweet spot" discovery | Khám phá "sweet spot"**
 > Tap the racket strings with your finger (eyes closed). Find the **center of the strings** — the spot that doesn't vibrate. That's the sweet spot. Now hold the racket so your finger is always aware of where the sweet spot is. **This is the racket becoming part of you.**
 >
-> *Gõ ngón tay vào dây vợt (nhắm mắt). Tìm **giữa dây** — điểm không rung. Đó là sweet spot. Giờ giữ vợt sao cho ngón tay luôn biết sweet spot ở đâu. **Đây là lúc vợt trở thành một phần anh.***
+> *Gõ ngón tay vào dây vợt (nhắm mắt). Tìm **giữa dây** — điểm không rung. Đó là sweet spot. Giờ giữ vợt sao cho ngón tay luôn biết sweet spot ở đâu. **Đây là lúc vợt trở thành một phần bạn.***
 
 ### 🛠️ Sub-Drill 2 — Bounce Ball Blindfolded (3 min) | Bóng nảy bịt mắt (3 phút)
 
@@ -165,7 +165,7 @@
 > 💡 **Why this works | Tại sao cái này hiệu quả**
 > Sound travels faster than vision. At 50+, vision slows down. But your ears don't. **Training the ear is one of the few 50+ "hacks" that gives you a real competitive edge.**
 >
-> *Âm thanh đi nhanh hơn thị giác. Ở tuổi 50+, thị giác chậm đi. Nhưng tai không. **Tập tai là một trong vài "mánh" 50+ cho anh lợi thế thật.***
+> *Âm thanh đi nhanh hơn thị giác. Ở tuổi 50+, thị giác chậm đi. Nhưng tai không. **Tập tai là một trong vài "mánh" 50+ cho bạn lợi thế thật.***
 
 ### 🛠️ Sub-Drill 3 — Mini Tennis, No Power (10 min) | Tennis mini, không lực (10 phút)
 
@@ -173,12 +173,12 @@
 |---|---|
 | Stand 3 meters from a partner. Rally, but **no power allowed.** Soft hands only. | Đứng cách bạn 3 mét. Rally, nhưng **không được dùng lực.** Tay mềm thôi. |
 | The goal is not speed. The goal is **sensitivity** — feel the ball, hear the ball, place the ball. | Mục tiêu không phải tốc độ. Mục tiêu là **độ nhạy** — cảm bóng, nghe bóng, đặt bóng. |
-| This trains the **"soft hand"** feel that you need for the late acceleration (deep dive #1). | Cái này tập cảm giác **"tay mềm"** mà anh cần cho tăng tốc muộn (deep dive #1). |
+| This trains the **"soft hand"** feel that you need for the late acceleration (deep dive #1). | Cái này tập cảm giác **"tay mềm"** mà bạn cần cho tăng tốc muộn (deep dive #1). |
 
 > ⚠️ **The "no power" rule is the whole point | Quy tắc "không lực" là toàn bộ ý**
 > 3.5 players love to swing hard. They think power = improvement. Wrong. **Power hides mistakes.** Without power, you feel every mistake in your hand. That's how you learn.
 >
-> *Người chơi 3.5 thích vung mạnh. Họ nghĩ lực = tiến bộ. Sai. **Lực che lỗi.** Không lực, anh cảm mọi lỗi trong tay. Đó là cách anh học.*
+> *Người chơi 3.5 thích vung mạnh. Họ nghĩ lực = tiến bộ. Sai. **Lực che lỗi.** Không lực, bạn cảm mọi lỗi trong tay. Đó là cách bạn học.*
 
 ---
 
@@ -187,7 +187,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The final level. Your feet are awake, your racket is embodied, and now we connect it to the ball. **The goal: see the ball, body moves — no thinking in between.** | Tầng cuối. Chân anh tỉnh, vợt đã nhập thể, và giờ ta nối với bóng. **Mục tiêu: thấy bóng, cơ thể chuyển — không nghĩ ở giữa.** |
+| The final level. Your feet are awake, your racket is embodied, and now we connect it to the ball. **The goal: see the ball, body moves — no thinking in between.** | Tầng cuối. Chân bạn tỉnh, vợt đã nhập thể, và giờ ta nối với bóng. **Mục tiêu: thấy bóng, cơ thể chuyển — không nghĩ ở giữa.** |
 | Most 3.5 players: **See → Think → Move.** They see the ball, decide what to do, then move. By then, the ball is past them. | Hầu hết người 3.5: **Thấy → Nghĩ → Chuyển.** Họ thấy bóng, quyết định làm gì, rồi mới chuyển. Đến lúc đó bóng đã qua. |
 | Good players: **See → Move → See → Move.** It's a continuous loop, not a 3-step process. | Người giỏi: **Thấy → Chuyển → Thấy → Chuyển.** Đó là vòng lặp liên tục, không phải quy trình 3 bước. |
 | The embodied training for this is **random, fast, decision-making drills.** No time to think. | Tập nhập thể cho việc này là **bài tập quyết định nhanh, ngẫu nhiên.** Không có thời gian để nghĩ. |
@@ -197,10 +197,10 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Stand at the baseline. A coach (or friend) points **left or right** randomly. | Đứng ở baseline. HLV (hoặc bạn) chỉ **trái hoặc phải** ngẫu nhiên. |
-| On the signal, you do **split step → unit turn → direction.** | Nghe tín hiệu, anh làm **split step → unit turn → hướng.** |
+| On the signal, you do **split step → unit turn → direction.** | Nghe tín hiệu, bạn làm **split step → unit turn → hướng.** |
 | **No thinking. Move first.** | **Không nghĩ. Chuyển trước.** |
 | Goal: 20 reps in 60 seconds. | Mục tiêu: 20 lần trong 60 giây. |
-| This trains the **see-move loop.** Your brain learns to bypass the "thinking" step. | Cái này tập **vòng thấy-chuyển.** Não anh học bỏ qua bước "nghĩ." |
+| This trains the **see-move loop.** Your brain learns to bypass the "thinking" step. | Cái này tập **vòng thấy-chuyển.** Não bạn học bỏ qua bước "nghĩ." |
 
 ### 🛠️ Sub-Drill 2 — Random Feed (10 min) | Bóng ngẫu nhiên (10 phút)
 
@@ -253,13 +253,13 @@
 > *L1 (Góc L) là **móng** — cú vung. Không có nó, bóng không đi đâu.*
 >
 > **L2 (Unit Turn)** is the **walls** — the loading. Without it, you can't get the L.
-> *L2 (Unit Turn) là **tường** — nạp. Không có nó, anh không có góc L.*
+> *L2 (Unit Turn) là **tường** — nạp. Không có nó, bạn không có góc L.*
 >
 > **L3 (Thực-Hư Axis)** is the **roof trusses** — the rotation. Without it, the swing is just an arm.
 > *L3 (Trục Thực-Hư) là **kèo mái** — xoay. Không có nó, cú vung chỉ là tay.*
 >
 > **L4 (Embodiment)** is the **paint and windows** — the feel. Without it, you have to think about every layer.
-> *L4 (Nhập thể) là **sơn và cửa sổ** — cảm giác. Không có nó, anh phải nghĩ từng tầng.*
+> *L4 (Nhập thể) là **sơn và cửa sổ** — cảm giác. Không có nó, bạn phải nghĩ từng tầng.*
 
 ### 🔄 The 4-Week Practice Plan | Kế hoạch tập 4 tuần
 
@@ -284,7 +284,7 @@
 > 🌟 **The big takeaway | Điểm chính**
 > "Tennis is a sport you can play for life, but only if you play it differently as you age. The 25-year-old's tennis is eye-driven. The 50+ tennis is body-driven. **Body-driven tennis is also more efficient, more repeatable, and more enjoyable.**"
 >
-> *"Tennis là môn có thể chơi cả đời, nhưng chỉ nếu anh chơi khác đi khi lớn tuổi. Tennis tuổi 25 là do mắt dẫn. Tennis 50+ là do cơ thể dẫn. **Tennis do cơ thể dẫn cũng hiệu quả hơn, lặp lại được hơn, và thú vị hơn.**"*
+> *"Tennis là môn có thể chơi cả đời, nhưng chỉ nếu bạn chơi khác đi khi lớn tuổi. Tennis tuổi 25 là do mắt dẫn. Tennis 50+ là do cơ thể dẫn. **Tennis do cơ thể dẫn cũng hiệu quả hơn, lặp lại được hơn, và thú vị hơn.**"*
 
 ---
 
@@ -297,7 +297,7 @@
 |---|---|
 | 5 minutes of barefoot walking at home. Notice pressure, weight shift, floor texture. | 5 phút đi chân đất ở nhà. Chú ý áp lực, chuyển trọng lượng, kết cấu sàn. |
 | This is **Level 1** (Foundation). | Đây là **Tầng 1** (Nền tảng). |
-| **Goal:** 5 minutes daily for 2 weeks. Your feet will "wake up." | **Mục tiêu:** 5 phút/ngày trong 2 tuần. Chân anh sẽ "tỉnh." |
+| **Goal:** 5 minutes daily for 2 weeks. Your feet will "wake up." | **Mục tiêu:** 5 phút/ngày trong 2 tuần. Chân bạn sẽ "tỉnh." |
 
 ### 🛠️ Drill 2 — The 2-Second Pause (Every ball, forever) | Dừng 2 giây (Mỗi bóng, mãi mãi)
 
@@ -367,7 +367,7 @@
 |---|---|
 | **Racket embodiment is the single most important skill for the 50+ player.** | **Nhập thể vợt là kỹ năng quan trọng nhất cho người chơi 50+.** |
 | Vision slows down. Proprioception doesn't. | Thị giác chậm đi. Cảm giác bản thể không. |
-| If you only have time to practice one thing, **practice the 2-second pause.** It costs you nothing. It gives you everything. | Nếu anh chỉ có thời gian tập một thứ, **hãy tập dừng 2 giây.** Nó không tốn gì. Nó cho anh tất cả. |
+| If you only have time to practice one thing, **practice the 2-second pause.** It costs you nothing. It gives you everything. | Nếu bạn chỉ có thời gian tập một thứ, **hãy tập dừng 2 giây.** Nó không tốn gì. Nó cho bạn tất cả. |
 | The other 3 deep dives are technique. **This one is transformation.** | 3 deep dive kia là kỹ thuật. **Cái này là chuyển hóa.** |
 
 ---
@@ -443,7 +443,7 @@ Deep Dives/
 
 **You now have a complete system.** Read them in order. Practice the drills. After 4 weeks, you should feel the difference — not in your head, but in your hand.
 
-**Anh giờ có một hệ thống hoàn chỉnh.** Đọc theo thứ tự. Tập các bài. Sau 4 tuần, anh sẽ cảm thấy khác biệt — không phải trong đầu, mà trong tay.
+**Anh giờ có một hệ thống hoàn chỉnh.** Đọc theo thứ tự. Tập các bài. Sau 4 tuần, bạn sẽ cảm thấy khác biệt — không phải trong đầu, mà trong tay.
 
 ---
 

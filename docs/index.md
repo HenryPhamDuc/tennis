@@ -66,7 +66,7 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| This is a **map**. The 22 stroke deep dives (`Deep Dives/`) + 8 anatomy deep dives (`Anatomy_Lab/`) = **30 total**. Parts 1–14 cover stroke mechanics, mental game, strategy. Part 15 (new) covers anatomy | Đây là **bản đồ**. 22 deep dives trong thư mục `Deep Dives/` là **lãnh thổ**. Mỗi phần dưới đây tóm tắt ý chính, rồi chỉ anh tới deep dive đi sâu hơn. |
+| This is a **map**. The 22 stroke deep dives (`Deep Dives/`) + 8 anatomy deep dives (`Anatomy_Lab/`) = **30 total**. Parts 1–14 cover stroke mechanics, mental game, strategy. Part 15 (new) covers anatomy | Đây là **bản đồ**. 22 deep dives trong thư mục `Deep Dives/` là **lãnh thổ**. Mỗi phần dưới đây tóm tắt ý chính, rồi chỉ bạn tới deep dive đi sâu hơn. |
 | **Read the manual first** (1.5 hours). Pick **one** part to focus on for 2 weeks. Practice the drills. Then move to the next. | **Đọc manual trước** (1.5 giờ). Chọn **một** phần để tập trung 2 tuần. Tập các bài. Rồi chuyển phần tiếp. |
 | **Print the 2-page cheat sheet at the end** (Part 14). Fold it. Put it in your racquet bag. Use it on court. | **In bảng cheat sheet 2 trang ở cuối** (Phần 14). Gấp lại. Bỏ vào túi vợt. Dùng trên sân. |
 
@@ -160,8 +160,8 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Everything you do on a tennis court rests on three things: your grip, your stance, and your awareness. | Mọi thứ anh làm trên sân tennis đều dựa trên ba thứ: cách cầm vợt, tư thế, và nhận thức. |
-| At 50+, the third one matters most. Your eyes will slow down. Your grip and stance — these you can train at any age. | Ở tuổi 50+, thứ ba quan trọng nhất. Mắt anh sẽ chậm đi. Cầm vợt và tư thế — những thứ này anh tập ở tuổi nào cũng được. |
+| Everything you do on a tennis court rests on three things: your grip, your stance, and your awareness. | Mọi thứ bạn làm trên sân tennis đều dựa trên ba thứ: cách cầm vợt, tư thế, và nhận thức. |
+| At 50+, the third one matters most. Your eyes will slow down. Your grip and stance — these you can train at any age. | Ở tuổi 50+, thứ ba quan trọng nhất. Mắt bạn sẽ chậm đi. Cầm vợt và tư thế — những thứ này bạn tập ở tuổi nào cũng được. |
 | In v2, grip is **a family of 4 deep dives** — the on-ramp, the bevel choices, and the dial you control every shot. | Trong v2, grip là **gia đình 4 deep dives** — on-ramp, lựa chọn bevel, và dial bạn điều khiển mỗi cú. |
 
 ## 1.1 — The Grip Family Map | Bản đồ Gia đình Grip
@@ -215,8 +215,8 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| When you practice holding and swinging a racket, your brain updates its internal "body schema" to treat the racket **as a literal extension of your arm**. This is **embodied cognition** — your body is thinking. | Khi anh tập cầm và vung vợt, não cập nhật "lược đồ cơ thể" nội tại để xử lý vợt **như phần mở rộng của cánh tay**. Đây là **nhận thức embodied** — cơ thể anh đang suy nghĩ. |
-| At 50+, this is your **superpower**. Vision slows with age. Body schema doesn't. Train the racket-as-finger feel, and you react faster than younger players who only "see" the ball. | Ở tuổi 50+, đây là **sức mạnh** của anh. Thị lực chậm theo tuổi. Lược đồ cơ thể thì không. Tập cảm giác "vợt như ngón tay", và anh phản ứng nhanh hơn người trẻ chỉ "nhìn" bóng. |
+| When you practice holding and swinging a racket, your brain updates its internal "body schema" to treat the racket **as a literal extension of your arm**. This is **embodied cognition** — your body is thinking. | Khi bạn tập cầm và vung vợt, não cập nhật "lược đồ cơ thể" nội tại để xử lý vợt **như phần mở rộng của cánh tay**. Đây là **nhận thức embodied** — cơ thể bạn đang suy nghĩ. |
+| At 50+, this is your **superpower**. Vision slows with age. Body schema doesn't. Train the racket-as-finger feel, and you react faster than younger players who only "see" the ball. | Ở tuổi 50+, đây là **sức mạnh** của bạn. Thị lực chậm theo tuổi. Lược đồ cơ thể thì không. Tập cảm giác "vợt như ngón tay", và bạn phản ứng nhanh hơn người trẻ chỉ "nhìn" bóng. |
 | **The 2-second pause trick:** after every good shot, pause for 2 seconds. Notice what your hand did. Notice where the contact was. Notice the racket's angle. This builds body schema faster than 1000 unconscious reps. | **Mẹo dừng 2 giây:** sau mỗi cú tốt, dừng 2 giây. Để ý tay đã làm gì. Để ý điểm tiếp xúc. Để ý góc vợt. Cái này xây lược đồ cơ thể nhanh hơn 1000 lần lặp vô thức. |
 
 > 🧠 **Read deeper | Đọc sâu hơn**
@@ -230,7 +230,7 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 |---|---|
 | This is the single most important principle in the entire manual. **Tense muscle = slow muscle.** A tense arm cannot rotate fast around its axis. A tense shoulder cannot fire the kinetic chain. A tense grip cannot feel the ball. | Đây là nguyên lý quan trọng nhất trong cả manual. **Cơ căng = cơ chậm.** Căng tay không xoay nhanh quanh trục. Căng vai không bắn chuỗi động lực. Căng grip không cảm được bóng. |
 | The order: **relax → load → fire.** You relax to load (the racket drops, the body coils). You fire to release (the legs push, the chest opens). The fire is brief. The relaxation is most of the motion. | Thứ tự: **lỏng → nạp → bắn.** Anh lỏng để nạp (vợt rơi, thân cuộn). Anh bắn để thả (chân đẩy, ngực mở). Bắn thì ngắn. Lỏng thì phần lớn động tác. |
-| This is also a 50+ principle: the older you get, the more your body tenses up by default (a survival reflex). Conscious relaxation is your training. | Đây cũng là nguyên lý 50+: càng lớn tuổi, cơ thể càng căng theo mặc định (phản xạ sinh tồn). Lỏng có ý thức là bài tập của anh. |
+| This is also a 50+ principle: the older you get, the more your body tenses up by default (a survival reflex). Conscious relaxation is your training. | Đây cũng là nguyên lý 50+: càng lớn tuổi, cơ thể càng căng theo mặc định (phản xạ sinh tồn). Lỏng có ý thức là bài tập của bạn. |
 | **For the full pressure dial — see Part 12.** | **Đầy đủ về dial áp lực — xem Phần 12.** |
 
 ---
@@ -241,7 +241,7 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 
 > "Tennis is 80% footwork." This is a cliché. It's also true. The shots that go in are the shots where your feet got you to the ball in time with your body in position.
 >
-> *"Tennis là 80% bộ chân." Đây là sáo rỗng. Cũng đúng. Cú vào lưới là cú mà chân đưa anh tới bóng đúng lúc với cơ thể đúng vị trí.*
+> *"Tennis là 80% bộ chân." Đây là sáo rỗng. Cũng đúng. Cú vào lưới là cú mà chân đưa bạn tới bóng đúng lúc với cơ thể đúng vị trí.*
 
 At 50+, footwork is also the **first thing to break down** and the **easiest thing to train** without injury. The knees are safer than the shoulders.
 
@@ -279,9 +279,9 @@ At 50+, footwork is also the **first thing to break down** and the **easiest thi
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | The split-step is the most under-trained movement in recreational tennis. It's a small hop (just 2-5 cm off the ground) as your opponent makes contact with the ball. | Bước tách là động tác bị tập ít nhất trong tennis nghiệp dư. Đó là một cú nhảy nhỏ (chỉ 2-5 cm khỏi mặt đất) khi đối thủ chạm bóng. |
-| **The hop loads the legs** — the calf and quad muscles get pre-stretched. When you land, you can push off in any direction in 0.1 seconds. | **Cú nhảy nạp chân** — cơ bắp chuối và đùi được kéo giãn sẵn. Khi anh đáp, anh có thể đẩy theo bất kỳ hướng nào trong 0,1 giây. |
-| **The timing** is everything: hop when the opponent **starts the forward swing**, not when they hit. By the time they hit, your feet are already loaded. | **Nhịp** là tất cả: nhảy khi đối thủ **bắt đầu vung tới**, không phải khi họ đánh. Khi họ đánh, chân anh đã nạp rồi. |
-| **The mistake:** hopping too high (becomes a jump, kills recovery), or hopping too late (you start moving after the ball is in flight). | **Sai lầm:** nhảy quá cao (thành nhảy, mất hồi phục), hoặc nhảy quá muộn (anh bắt đầu di chuyển sau khi bóng đã bay). |
+| **The hop loads the legs** — the calf and quad muscles get pre-stretched. When you land, you can push off in any direction in 0.1 seconds. | **Cú nhảy nạp chân** — cơ bắp chuối và đùi được kéo giãn sẵn. Khi bạn đáp, bạn có thể đẩy theo bất kỳ hướng nào trong 0,1 giây. |
+| **The timing** is everything: hop when the opponent **starts the forward swing**, not when they hit. By the time they hit, your feet are already loaded. | **Nhịp** là tất cả: nhảy khi đối thủ **bắt đầu vung tới**, không phải khi họ đánh. Khi họ đánh, chân bạn đã nạp rồi. |
+| **The mistake:** hopping too high (becomes a jump, kills recovery), or hopping too late (you start moving after the ball is in flight). | **Sai lầm:** nhảy quá cao (thành nhảy, mất hồi phục), hoặc nhảy quá muộn (bạn bắt đầu di chuyển sau khi bóng đã bay). |
 
 > 🛠️ **Drill — The Solo Split-Step | Tập split-step một mình**
 > 1. Stand at the baseline in ready position.
@@ -290,7 +290,7 @@ At 50+, footwork is also the **first thing to break down** and the **easiest thi
 > 4. Goal: 30 reps in 60 seconds, smooth rhythm.
 > 5. Then have a partner feed balls — you split-step before each feed.
 >
-> *1. Đứng cuối sân ở thế sẵn sàng.* *2. Tung bóng lên và bắt. Rồi nhảy khi tay **bắt đầu thả** bóng.* *3. Bắt bóng. Nhảy. Bắt. Nhảy.* *4. Mục tiêu: 30 lần trong 60 giây, nhịp mượt.* *5. Rồi nhờ bạn feed bóng — anh split-step trước mỗi feed.*
+> *1. Đứng cuối sân ở thế sẵn sàng.* *2. Tung bóng lên và bắt. Rồi nhảy khi tay **bắt đầu thả** bóng.* *3. Bắt bóng. Nhảy. Bắt. Nhảy.* *4. Mục tiêu: 30 lần trong 60 giây, nhịp mượt.* *5. Rồi nhờ bạn feed bóng — bạn split-step trước mỗi feed.*
 
 ## 2.3 — Court Positioning | Vị trí sân
 
@@ -404,7 +404,7 @@ The one-handed backhand is beautiful but high-maintenance. It requires excellent
 
 > The serve is the only stroke you control. No opponent, no pressure, no surprise. You have unlimited first serves. Use them to practice, to learn, to grow.
 >
-> *Serve là cú duy nhất anh kiểm soát. Không đối thủ, không áp lực, không bất ngờ. Anh có vô hạn serve 1. Dùng chúng để tập, học, lớn lên.*
+> *Serve là cú duy nhất bạn kiểm soát. Không đối thủ, không áp lực, không bất ngờ. Anh có vô hạn serve 1. Dùng chúng để tập, học, lớn lên.*
 
 The big idea: **a gravity serve, not a muscle serve.** Legs load, body fires, racket whips.
 
@@ -450,7 +450,7 @@ The big idea: **a gravity serve, not a muscle serve.** Legs load, body fires, ra
 
 > The volley is not a mini groundstroke. It's a **redirection**. The ball comes to you, you set the face, you let the ball push through. **Lã Kình** in taichi — the redirecting force.
 >
-> *Volley không phải cú groundstroke thu nhỏ. Nó là **chuyển hướng**. Bóng bay tới, anh đặt mặt vợt, để bóng đẩy qua. **Lã Kình** trong thái cực quyền — lực chuyển hướng.*
+> *Volley không phải cú groundstroke thu nhỏ. Nó là **chuyển hướng**. Bóng bay tới, bạn đặt mặt vợt, để bóng đẩy qua. **Lã Kình** trong thái cực quyền — lực chuyển hướng.*
 
 At 50+, the volley is **your friend**. It shortens points, it uses your opponent's pace, and it requires only a small swing.
 
@@ -512,7 +512,7 @@ At 50+, the return is also the most **joint-stressing** moment in the rally. You
 > 💡 **The 3.5 rule: platform stance for second serves, pinpoint for first serves**
 > Second serves are slower — you have time to set. First serves are fast — you need to attack forward to take time away.
 >
-> *Serve 2 chậm hơn — anh có thời gian chuẩn bị. Serve 1 nhanh — anh cần tấn công tới để lấy thời gian.*
+> *Serve 2 chậm hơn — bạn có thời gian chuẩn bị. Serve 1 nhanh — bạn cần tấn công tới để lấy thời gian.*
 
 ## 6.2 — The 5 Return Cues | 5 tín hiệu trả serve
 
@@ -617,19 +617,19 @@ The 5 rules below work at 3.5. At 4.0+ they get refined. At 5.0 they evolve comp
 
 | English | Tiếng Việt |
 |---|---|
-| Best for: recreational 3.5 with no big weapons. Build the point with depth and patience. The opponent will eventually give you a short ball. Then attack. | Tốt cho: người 3.5 nghiệp dư không có vũ khí lớn. Xây điểm bằng chiều sâu và kiên nhẫn. Đối thủ sẽ cuối cùng cho anh bóng ngắn. Rồi tấn công. |
+| Best for: recreational 3.5 with no big weapons. Build the point with depth and patience. The opponent will eventually give you a short ball. Then attack. | Tốt cho: người 3.5 nghiệp dư không có vũ khí lớn. Xây điểm bằng chiều sâu và kiên nhẫn. Đối thủ sẽ cuối cùng cho bạn bóng ngắn. Rồi tấn công. |
 
 ## 7.4 — The 50+ Strategic Edge | Lợi thế chiến thuật 50+
 
-> *"All-court + đầu óc chiến thuật"* — từ ghi chú của anh về cách đánh bại người trẻ hơn
+> *"All-court + đầu óc chiến thuật"* — từ ghi chú của bạn về cách đánh bại người trẻ hơn
 
 | Principle | English | Tiếng Việt |
 |---|---|---|
 | **Patience** | At 50+, your opponent is usually faster. You won't win with pace. You win with **patience, depth, and pattern play**. | Ở tuổi 50+, đối thủ thường nhanh hơn. Anh không thắng bằng tốc độ. Anh thắng bằng **kiên nhẫn, chiều sâu, và chơi mẫu**. |
 | **Consistency** | The 50+ player who gets 8/10 balls in beats the younger player who hits 4/10 winners. | Người 50+ đưa 8/10 bóng vào đánh bại người trẻ đánh 4/10 winner. |
-| **Reading** | At 50+, your eyes may be slower, but your **pattern recognition** is faster. You've seen more tennis. Use it. | Ở tuổi 50+, mắt anh có thể chậm, nhưng **nhận diện mẫu** của anh nhanh hơn. Anh đã xem nhiều tennis hơn. Dùng nó. |
+| **Reading** | At 50+, your eyes may be slower, but your **pattern recognition** is faster. You've seen more tennis. Use it. | Ở tuổi 50+, mắt bạn có thể chậm, nhưng **nhận diện mẫu** của bạn nhanh hơn. Anh đã xem nhiều tennis hơn. Dùng nó. |
 | **Placement** | You don't need to hit harder. Hit **smarter**. A 70% shot to the open court beats an 100% shot to the middle. | Anh không cần đánh mạnh hơn. Đánh **thông minh hơn**. Cú 70% vào chỗ trống đánh bại cú 100% vào giữa sân. |
-| **Net game** | At 50+, the net is **your friend**. Doubles especially. You don't have to hit through people — you just have to put the ball away. | Ở tuổi 50+, lưới là **bạn**. Đặc biệt doubles. Anh không cần đánh xuyên — anh chỉ cần kết liễu. |
+| **Net game** | At 50+, the net is **your friend**. Doubles especially. You don't have to hit through people — you just have to put the ball away. | Ở tuổi 50+, lưới là **bạn**. Đặc biệt doubles. Anh không cần đánh xuyên — bạn chỉ cần kết liễu. |
 
 ---
 
@@ -664,8 +664,8 @@ At 50+, doubles is the **smart choice** for longevity — shorter points, less c
 
 | # | Cue | Tín hiệu |
 |---|---|---|
-| 1 | **"Talk to your partner"** — every point, share what you see | **"Nói với partner"** — mỗi điểm, chia sẻ điều anh thấy |
-| 2 | **"Move as a unit"** — if your partner goes right, you cover left | **"Di chuyển như một"** — partner đi phải, anh che trái |
+| 1 | **"Talk to your partner"** — every point, share what you see | **"Nói với partner"** — mỗi điểm, chia sẻ điều bạn thấy |
+| 2 | **"Move as a unit"** — if your partner goes right, you cover left | **"Di chuyển như một"** — partner đi phải, bạn che trái |
 | 3 | **"Serve to the T or the body"** — wide serves leave your partner alone | **"Giao về T hoặc thân"** — serve rộng bỏ partner một mình |
 | 4 | **"Poach on a high ball"** — cross over and intercept | **"Cắt bóng trên bóng cao"** — vượt qua chặn |
 | 5 | **"Lob over the net player"** — when in doubt, lob | **"Lob qua người lưới"** — khi phân vân, lob |
@@ -707,7 +707,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 | Principle | English | Tiếng Việt |
 |---|---|---|
 | **Communication** | At 50+, hearing may be softer. Use clear hand signals. Tap the racquet for "mine." Point for "yours." | Ở tuổi 50+, thính giác có thể kém. Dùng tín hiệu tay rõ ràng. Gõ vợt cho "của tôi." Chỉ cho "của bạn." |
-| **Positioning** | At 50+, you cover less court. Stay closer to the center. Trust your partner to cover the alley. | Ở tuổi 50+, anh che ít sân hơn. Đứng gần giữa hơn. Tin partner che ngoài biên. |
+| **Positioning** | At 50+, you cover less court. Stay closer to the center. Trust your partner to cover the alley. | Ở tuổi 50+, bạn che ít sân hơn. Đứng gần giữa hơn. Tin partner che ngoài biên. |
 | **Pace** | At 50+, big pace is risky. Use **placement, spin, and angles** instead. | Ở tuổi 50+, tốc độ lớn là mạo hiểm. Dùng **đặt bóng, xoáy, và góc** thay thế. |
 | **Longevity** | Doubles extends your tennis career. It's the most 50+-friendly format. | Đôi kéo dài sự nghiệp tennis. Nó là định dạng thân thiện 50+ nhất. |
 
@@ -719,7 +719,7 @@ In trouble → Lob over both opponents → Recover to center → Reset
 
 > 🆕 **NEW in v2** — The vertical game was missing from v1. Lob and overhead are the two shots that decide whether you survive the net or die at it.
 >
-> *Trò chơi thẳng đứng bị thiếu trong v1. Lob và smash là hai cú quyết định anh sống sót ở lưới hay chết ở đó.*
+> *Trò chơi thẳng đứng bị thiếu trong v1. Lob và smash là hai cú quyết định bạn sống sót ở lưới hay chết ở đó.*
 
 ## 9.1 — Why the Vertical Game Matters | Tại sao Trò chơi Thẳng đứng quan trọng
 
@@ -847,7 +847,7 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 > 💡 **The 50+ warmup rule: never start at 100%**
 > Your body needs to wake up. Muscles need blood. Joints need synovial fluid. **Spend 10 minutes at 50% before going to 80%**. The first 10 minutes of the match are **practice**, not the match.
 >
-> *Cơ thể anh cần thức dậy. Cơ cần máu. Khớp cần dịch khớp. **Bỏ 10 phút ở 50% trước khi lên 80%.** 10 phút đầu trận là **tập**, không phải trận.*
+> *Cơ thể bạn cần thức dậy. Cơ cần máu. Khớp cần dịch khớp. **Bỏ 10 phút ở 50% trước khi lên 80%.** 10 phút đầu trận là **tập**, không phải trận.*
 
 ## 11.3 — The 7-Point Conditioning Plan for 50+ | Kế hoạch thể lực 7 điểm cho 50+
 
@@ -1037,9 +1037,9 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 
 | Principle | English | Tiếng Việt |
 |---|---|---|
-| **Perspective** | At 52, you have perspective younger players don't. One match doesn't define your season. One point doesn't define your match. | Ở tuổi 52, anh có viễn kiến người trẻ không có. Một trận không định nghĩa mùa giải. Một điểm không định nghĩa trận đấu. |
+| **Perspective** | At 52, you have perspective younger players don't. One match doesn't define your season. One point doesn't define your match. | Ở tuổi 52, bạn có viễn kiến người trẻ không có. Một trận không định nghĩa mùa giải. Một điểm không định nghĩa trận đấu. |
 | **Patience** | Younger players get frustrated faster. You can outlast them. The match is long. Be the patient one. | Người trẻ nản nhanh hơn. Anh có thể bền hơn họ. Trận đấu dài. Hãy là người kiên nhẫn. |
-| **Acceptance** | At 50+, your body has limits. Accept them. Build your game around what you can do, not what you can't. | Ở tuổi 50+, cơ thể có giới hạn. Chấp nhận chúng. Xây trò chơi quanh những gì anh làm được, không phải những gì anh không thể. |
+| **Acceptance** | At 50+, your body has limits. Accept them. Build your game around what you can do, not what you can't. | Ở tuổi 50+, cơ thể có giới hạn. Chấp nhận chúng. Xây trò chơi quanh những gì bạn làm được, không phải những gì bạn không thể. |
 | **Joy** | You are playing tennis in your 50s. That's a privilege. Most people your age can't. **Play with joy, not just to win.** | Anh đang chơi tennis ở tuổi 50. Đó là đặc ân. Hầu hết người cùng tuổi không làm được. **Chơi vui, không chỉ để thắng.** |
 
 > The 50+ player has a mental advantage most younger players don't: **perspective.** The 30-year-old's whole identity is on the line. The 50-year-old knows the match is a match. **The 50+ mental edge is the only tennis advantage that GROWS with age.**
@@ -1175,7 +1175,7 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 │    And you are playing a 20-year game."                                      │
 │                                                                              │
 │   "Tennis là môn roi da, không phải môn búa.                                 │
-│    Và anh đang chơi môn 20 năm."                                            │
+│    Và bạn đang chơi môn 20 năm."                                            │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -1194,7 +1194,7 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 
 > ⚠️ **No PDF version** — by user directive, this manual is web-first only. The HTML version prints cleanly from any browser (`Ctrl+P` / `Cmd+P` → enable "Background graphics" for the colour bands on Part 14). Do not add a PDF stage back to the build script.
 >
-> *Không có phiên bản PDF — theo chỉ dẫn của anh, manual này chỉ phát hành dạng web. Phiên bản HTML in ra rõ từ bất kỳ trình duyệt nào. Đừng thêm giai đoạn PDF vào script build.*
+> *Không có phiên bản PDF — theo chỉ dẫn của bạn, manual này chỉ phát hành dạng web. Phiên bản HTML in ra rõ từ bất kỳ trình duyệt nào. Đừng thêm giai đoạn PDF vào script build.*
 
 ---
 
@@ -1312,7 +1312,7 @@ At 50+, injury prevention is **not optional**. It's the difference between playi
 
 ---
 
-*🎾 Chúc anh chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives cú đánh + 8 deep dives giải phẫu = 30 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của anh. Bắt đầu từ gốc, mọi thứ tự đến.*
+*🎾 Chúc bạn chơi tennis vui ở Surrey trong 20 năm nữa. v2 là bản đồ — 22 deep dives cú đánh + 8 deep dives giải phẫu = 30 deep dives là lãnh thổ. Đọc bản đồ trước, rồi khám phá từng vùng theo tốc độ của bạn. Bắt đầu từ gốc, mọi thứ tự đến.*
 
 *🎾 Wishing you 20 more years of joyful tennis in Surrey. v2 is the map — 22 stroke deep dives + 8 anatomy deep dives = 30 deep dives are the territory. Read the map first, then explore each region at your own pace. Start at the root, and everything follows.*
 

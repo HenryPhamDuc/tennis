@@ -89,4 +89,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "grip 30%" vào toolkit forehand ở Surrey. Bắt đầu với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, anh sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống.
+Hy vọng tuần này bạn sẽ thêm "grip 30%" vào toolkit forehand ở Surrey. Bắt đầu với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, bạn sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống.

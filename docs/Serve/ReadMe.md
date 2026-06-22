@@ -91,4 +91,4 @@ A gravity serve at 80% pace with good placement beats a muscle serve at 100% wit
 
 Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
 
-Chúc anh giao bóng vui ở Surrey. Tuần này tập tung bóng 20 quả mỗi ngày — trước khi đánh bất kỳ cú serve nào. Bắt đầu từ gốc, mọi thứ tự đến.
+Chúc bạn giao bóng vui ở Surrey. Tuần này tập tung bóng 20 quả mỗi ngày — trước khi đánh bất kỳ cú serve nào. Bắt đầu từ gốc, mọi thứ tự đến.

@@ -11,7 +11,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **What this deep-dive adds.** The Elite Manual Chapter 9 introduced chunks (Heuer's 7±2 concept) and the 200ms expert edge. This deep-dive gives you the *operational system* — how to identify YOUR existing chunks, how to build new chunks for tactical situations, how to name them so they become addressable, and the integration with Layer 2 of the reaction system (Deep-Dive #8). By the end, you will have a *personal chunk library* — 20-50 named patterns that your decision-system can retrieve in 50-150ms. | **Deep-dive này thêm gì.** Elite Manual Chương 9 đã giới thiệu chunk (khái niệm 7±2 của Heuer) và lợi thế chuyên gia 200ms. Deep-dive này cho anh *hệ thống vận hành* — cách xác định chunk HIỆN CÓ của anh, cách xây chunk mới cho tình huống chiến thuật, cách đặt tên chúng để trở thành địa chỉ được, và tích hợp với Lớp 2 của hệ phản ứng (Deep-Dive #8). Đến cuối, anh sẽ có *thư viện chunk cá nhân* — 20-50 mẫu được đặt tên mà hệ quyết định có thể truy xuất trong 50-150ms. |
+| **What this deep-dive adds.** The Elite Manual Chapter 9 introduced chunks (Heuer's 7±2 concept) and the 200ms expert edge. This deep-dive gives you the *operational system* — how to identify YOUR existing chunks, how to build new chunks for tactical situations, how to name them so they become addressable, and the integration with Layer 2 of the reaction system (Deep-Dive #8). By the end, you will have a *personal chunk library* — 20-50 named patterns that your decision-system can retrieve in 50-150ms. | **Deep-dive này thêm gì.** Elite Manual Chương 9 đã giới thiệu chunk (khái niệm 7±2 của Heuer) và lợi thế chuyên gia 200ms. Deep-dive này cho bạn *hệ thống vận hành* — cách xác định chunk HIỆN CÓ của bạn, cách xây chunk mới cho tình huống chiến thuật, cách đặt tên chúng để trở thành địa chỉ được, và tích hợp với Lớp 2 của hệ phản ứng (Deep-Dive #8). Đến cuối, bạn sẽ có *thư viện chunk cá nhân* — 20-50 mẫu được đặt tên mà hệ quyết định có thể truy xuất trong 50-150ms. |
 | **Who should read this.** Anyone who feels they have "no time" to decide. Anyone whose opponent always seems to "know what they're doing." Anyone whose brain "blank" on big points (because no chunk fits). | **Ai nên đọc.** Bất cứ ai cảm thấy "không có thời gian" để quyết. Bất cứ ai có đối thủ luôn có vẻ "biết phải làm gì." Bất cứ ai đầu "trắng xóa" ở điểm lớn (vì không chunk nào vừa). |
 | **Reading time.** ~25 minutes. Chunk-library build: 60-90 days of consistent tactical drilling. | **Thời gian đọc.** ~25 phút. Xây thư viện chunk: 60-90 ngày khoan chiến thuật nhất quán. |
 
@@ -39,12 +39,12 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **The chess analogy.** A chess grandmaster can hold ~50,000 game patterns in long-term memory. When a position appears, the grandmaster recognizes *which pattern it matches* in 100-200ms and recalls the *correct move for that pattern* in another 100ms. Total decision: 200-300ms. | **Ẩn dụ cờ vua.** Kiện tướng cờ vua có thể giữ ~50.000 mẫu ván trong trí nhớ dài hạn. Khi thế cờ xuất hiện, kiện tướng nhận ra *khớp mẫu nào* trong 100-200ms và nhớ lại *nước cờ đúng cho mẫu đó* trong 100ms khác. Quyết định tổng: 200-300ms. |
-| **What a chunk is in tennis.** A *chunk* is a named pattern of: (a) what you see (the situation), (b) what you decide (the shot), (c) what you execute (the technique). When all three are bundled into one retrievable unit, your brain can produce the whole decision in 50-150ms. *Without the chunk, your brain would have to compute (a), (b), (c) separately — 200-400ms.* | **Chunk là gì trong tennis.** *Chunk* là mẫu được đặt tên của: (a) cái anh thấy (tình huống), (b) cái anh quyết (cú), (c) cái anh thực hiện (kỹ thuật). Khi cả ba được gói thành một đơn vị truy xuất, não anh có thể tạo toàn bộ quyết định trong 50-150ms. *Không có chunk, não phải tính (a), (b), (c) riêng — 200-400ms.* |
+| **What a chunk is in tennis.** A *chunk* is a named pattern of: (a) what you see (the situation), (b) what you decide (the shot), (c) what you execute (the technique). When all three are bundled into one retrievable unit, your brain can produce the whole decision in 50-150ms. *Without the chunk, your brain would have to compute (a), (b), (c) separately — 200-400ms.* | **Chunk là gì trong tennis.** *Chunk* là mẫu được đặt tên của: (a) cái bạn thấy (tình huống), (b) cái bạn quyết (cú), (c) cái bạn thực hiện (kỹ thuật). Khi cả ba được gói thành một đơn vị truy xuất, não bạn có thể tạo toàn bộ quyết định trong 50-150ms. *Không có chunk, não phải tính (a), (b), (c) riêng — 200-400ms.* |
 | **The speed math.** | **Toán tốc độ.** |
 | **With chunk:** see → retrieve → execute = 50ms + 50ms + 100ms = 200ms. | **Có chunk:** thấy → truy xuất → thực hiện = 50ms + 50ms + 100ms = 200ms. |
 | **Without chunk:** see → analyze → choose → plan → execute = 80ms + 100ms + 80ms + 50ms + 100ms = 410ms. | **Không chunk:** thấy → phân tích → chọn → lập kế hoạch → thực hiện = 80ms + 100ms + 80ms + 50ms + 100ms = 410ms. |
 | **The 200ms gap.** A player with 20 strong chunks can produce a decision in 200ms. A player with 5 weak chunks produces it in 400ms. *Same body. Same racket. 200ms difference.* This is the expert edge. | **Khoảng cách 200ms.** Người chơi có 20 chunk mạnh có thể tạo quyết định trong 200ms. Người có 5 chunk yếu tạo trong 400ms. *Cùng cơ thể. Cùng vợt. Khác 200ms.* Đây là lợi thế chuyên gia. |
-| **Why chunks are personal.** A chunk is *your* name for a pattern. A pro's chunk library has different names and different retrieval cues than yours. *The chunk library is your tactical fingerprint.* | **Tại sao chunk là cá nhân.** Chunk là tên *của anh* cho một mẫu. Thư viện chunk của pro có tên và cò truy xuất khác của anh. *Thư viện chunk là vân tay chiến thuật của anh.* |
+| **Why chunks are personal.** A chunk is *your* name for a pattern. A pro's chunk library has different names and different retrieval cues than yours. *The chunk library is your tactical fingerprint.* | **Tại sao chunk là cá nhân.** Chunk là tên *của bạn* cho một mẫu. Thư viện chunk của pro có tên và cò truy xuất khác của bạn. *Thư viện chunk là vân tay chiến thuật của bạn.* |
 
 * * *
 
@@ -69,7 +69,7 @@
 |---|---|
 | **The research.** Chase & Simon (1973), then Klein & Crandall (1995), then Heuer (2013) all studied expert decision-making. The consistent finding: expert players retrieve patterns (chunks) in 100-200ms. Novices compute decisions in 300-500ms. *The 200ms gap is the expert edge.* | **Nghiên cứu.** Chase & Simon (1973), rồi Klein & Crandall (1995), rồi Heuer (2013) đều nghiên cứu quyết định chuyên gia. Phát hiện nhất quán: người chơi chuyên gia truy xuất mẫu (chunk) trong 100-200ms. Người mới tính quyết định trong 300-500ms. *Khoảng cách 200ms là lợi thế chuyên gia.* |
 | **The tennis-specific version.** Tennis research (Yarrow, Brown, Koller, 2009) found expert tennis players have a specific *perceptual-cognitive advantage:* they extract more information per fixation (eye-look) than novices. *They see more with each look.* This is chunk-driven perception — the chunk *directs* the eye. | **Phiên bản tennis cụ thể.** Nghiên cứu tennis (Yarrow, Brown, Koller, 2009) thấy người chơi tennis chuyên gia có *lợi thế nhận thức-giác-quan* cụ thể: họ trích nhiều thông tin hơn mỗi lần cố định (cái nhìn mắt) so với người mới. *Họ thấy nhiều hơn với mỗi cái nhìn.* Đây là tri giác điều khiển bởi chunk — chunk *chỉ hướng* mắt. |
-| **The compounding effect.** Each chunk you build adds ~10-30ms to your tactical speed. With 20 chunks, you've gained 200-600ms of decision speed. *That's the difference between reaching every ball and not reaching many.* | **Hiệu ứng cộng dồn.** Mỗi chunk anh xây thêm ~10-30ms vào tốc độ chiến thuật. Với 20 chunk, anh đã được 200-600ms tốc độ quyết định. *Đó là khác biệt giữa đến mọi bóng và không đến nhiều bóng.* |
+| **The compounding effect.** Each chunk you build adds ~10-30ms to your tactical speed. With 20 chunks, you've gained 200-600ms of decision speed. *That's the difference between reaching every ball and not reaching many.* | **Hiệu ứng cộng dồn.** Mỗi chunk bạn xây thêm ~10-30ms vào tốc độ chiến thuật. Với 20 chunk, bạn đã được 200-600ms tốc độ quyết định. *Đó là khác biệt giữa đến mọi bóng và không đến nhiều bóng.* |
 | **The chunk ladder.** | **Thang chunk.** |
 | **Level 0 — No chunks.** Decision by analysis, 400-600ms. Novice. | **Cấp 0 — Không chunk.** Quyết bằng phân tích, 400-600ms. Người mới. |
 | **Level 1 — 5-10 basic chunks.** Decision by retrieval for known patterns, 250-350ms. Rec player. | **Cấp 1 — 5-10 chunk cơ bản.** Quyết bằng truy xuất cho mẫu đã biết, 250-350ms. Người chơi thường. |
@@ -91,11 +91,11 @@
 | • Decision (D): _________________________________ | • Quyết định (D): _________________________________ |
 | • Execution (E): _________________________________ | • Thực hiện (E): _________________________________ |
 | **Step 2 — Look for patterns.** | **Bước 2 — Tìm mẫu.** |
-| Do 2-3 of your points share the same S? They are *one chunk.* Do they share S and D? They are *the same chunk.* Do they share only E? They are *different chunks with similar execution.* | 2-3 điểm của anh có cùng S không? Chúng là *một chunk.* Chúng có cùng S và D? Chúng là *cùng chunk.* Chúng chỉ cùng E? Chúng là *chunk khác với thực hiện tương tự.* |
+| Do 2-3 of your points share the same S? They are *one chunk.* Do they share S and D? They are *the same chunk.* Do they share only E? They are *different chunks with similar execution.* | 2-3 điểm của bạn có cùng S không? Chúng là *một chunk.* Chúng có cùng S và D? Chúng là *cùng chunk.* Chúng chỉ cùng E? Chúng là *chunk khác với thực hiện tương tự.* |
 | **Step 3 — Count your current chunks.** | **Bước 3 — Đếm chunk hiện tại.** |
-| Most 5.0+ players have *unconsciously* built 10-20 chunks over years of play. *You have chunks; you just don't know their names yet.* | Hầu hết người 5.0+ đã *vô thức* xây 10-20 chunk qua nhiều năm chơi. *Anh có chunk; anh chỉ chưa biết tên chúng.* |
+| Most 5.0+ players have *unconsciously* built 10-20 chunks over years of play. *You have chunks; you just don't know their names yet.* | Hầu hết người 5.0+ đã *vô thức* xây 10-20 chunk qua nhiều năm chơi. *Anh có chunk; bạn chỉ chưa biết tên chúng.* |
 | **Step 4 — Name each chunk.** | **Bước 4 — Đặt tên mỗi chunk.** |
-| Use your own naming convention. Some options: | Dùng quy ước đặt tên của anh. Một số lựa chọn: |
+| Use your own naming convention. Some options: | Dùng quy ước đặt tên của bạn. Một số lựa chọn: |
 | • By situation: "Deep return to backhand." | • Theo tình huống: "Trả sâu vào backhand." |
 | • By shot: "Inside-out forehand." | • Theo cú: "Forehand inside-out." |
 | • By opponent behavior: "Moonballer's slice." | • Theo hành vi đối thủ: "Slice của người moonball." |
@@ -136,7 +136,7 @@
 | • "Match point for me" → my chunk: "First serve + volley." | • "Match point cho tôi" → chunk tôi: "Giao một + volley." |
 | • "Tiebreak, 5-5" → my chunk: "Cross-court rally." | • "Tiebreak, 5-5" → chunk tôi: "Rally chéo sân." |
 | • "Third set, 4-4" → my chunk: "Hold serve." | • "Set ba, 4-4" → chunk tôi: "Giữ giao." |
-| **The library after 30 days.** 12 new chunks. Combined with your existing 10-20, you now have 22-32 chunks. *At retrieval speed 200-300ms, this puts you solidly in the 5.0+ chunk band.* | **Thư viện sau 30 ngày.** 12 chunk mới. Kết hợp với 10-20 hiện có, anh giờ có 22-32 chunk. *Ở tốc độ truy xuất 200-300ms, điều này đặt anh vững trong băng chunk 5.0+.* |
+| **The library after 30 days.** 12 new chunks. Combined with your existing 10-20, you now have 22-32 chunks. *At retrieval speed 200-300ms, this puts you solidly in the 5.0+ chunk band.* | **Thư viện sau 30 ngày.** 12 chunk mới. Kết hợp với 10-20 hiện có, bạn giờ có 22-32 chunk. *Ở tốc độ truy xuất 200-300ms, điều này đặt bạn vững trong băng chunk 5.0+.* |
 
 * * *
 
@@ -146,7 +146,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Why naming matters.** A chunk without a name is hard to retrieve — you cannot "call it up" because you don't know what to call. A *named* chunk is a *retrievable* chunk. | **Tại sao đặt tên quan trọng.** Chunk không tên khó truy xuất — anh không thể "gọi nó" vì anh không biết gọi gì. Chunk *được đặt tên* là chunk *có thể truy xuất.* |
+| **Why naming matters.** A chunk without a name is hard to retrieve — you cannot "call it up" because you don't know what to call. A *named* chunk is a *retrievable* chunk. | **Tại sao đặt tên quan trọng.** Chunk không tên khó truy xuất — bạn không thể "gọi nó" vì bạn không biết gọi gì. Chunk *được đặt tên* là chunk *có thể truy xuất.* |
 | **The naming convention.** | **Quy ước đặt tên.** |
 | **Format:** "[Situation-cue] → [Shot]" | **Định dạng:** "[Cò tình huống] → [Cú]" |
 | **Examples.** | **Ví dụ.** |
@@ -276,7 +276,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| A 5.0+ player who *seems to have more time* is not faster, smarter, or more talented than a 4.5. They have more chunks — more patterns retrievable in 50-150ms. The 200ms expert edge is not magic. It is *deliberate pattern-building,* one chunk per week, for 30+ weeks. You already have 10-20 chunks unconsciously. This deep-dive asks you to make them conscious, name them, time them, and add 12 more in 30 days. The chunk library is your tactical fingerprint. No one else has yours. | Người 5.0+ *có vẻ có nhiều thời gian hơn* không nhanh hơn, thông minh hơn, hoặc tài năng hơn 4.5. Họ có nhiều chunk hơn — nhiều mẫu truy xuất được trong 50-150ms. Lợi thế chuyên gia 200ms không phải phép thuật. Nó là *xây mẫu có chủ đích,* một chunk mỗi tuần, trong 30+ tuần. Anh đã có 10-20 chunk vô thức. Deep-dive này yêu cầu anh làm chúng ý thức, đặt tên, đo thời gian, và thêm 12 cái nữa trong 30 ngày. Thư viện chunk là vân tay chiến thuật của anh. Không ai có cái của anh. |
+| A 5.0+ player who *seems to have more time* is not faster, smarter, or more talented than a 4.5. They have more chunks — more patterns retrievable in 50-150ms. The 200ms expert edge is not magic. It is *deliberate pattern-building,* one chunk per week, for 30+ weeks. You already have 10-20 chunks unconsciously. This deep-dive asks you to make them conscious, name them, time them, and add 12 more in 30 days. The chunk library is your tactical fingerprint. No one else has yours. | Người 5.0+ *có vẻ có nhiều thời gian hơn* không nhanh hơn, thông minh hơn, hoặc tài năng hơn 4.5. Họ có nhiều chunk hơn — nhiều mẫu truy xuất được trong 50-150ms. Lợi thế chuyên gia 200ms không phải phép thuật. Nó là *xây mẫu có chủ đích,* một chunk mỗi tuần, trong 30+ tuần. Anh đã có 10-20 chunk vô thức. Deep-dive này yêu cầu bạn làm chúng ý thức, đặt tên, đo thời gian, và thêm 12 cái nữa trong 30 ngày. Thư viện chunk là vân tay chiến thuật của bạn. Không ai có cái của bạn. |
 
 ---
 

@@ -11,7 +11,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **What this deep-dive adds.** The Elite Manual Chapter 8 introduced the 3 reaction layers (Stimulus → Cortex → Motor) and the asymmetry test that reveals which layer is YOUR bottleneck. This deep-dive gives you the *full operational system:* the per-layer test protocols, the per-layer training protocols, and the integration with myelin (Deep-Dive #3) so you build the layer that matters for YOU. | **Deep-dive này thêm gì.** Elite Manual Chương 8 đã giới thiệu 3 lớp phản ứng (Kích thích → Vỏ não → Vận động) và kiểm tra bất đối xứng phơi bày lớp nào là nút cổ chai CỦA ANH. Deep-dive này cho anh *hệ thống vận hành đầy đủ:* phác đồ kiểm tra theo lớp, phác đồ tập theo lớp, và tích hợp với myelin (Deep-Dive #3) để anh xây lớp quan trọng cho ANH. |
+| **What this deep-dive adds.** The Elite Manual Chapter 8 introduced the 3 reaction layers (Stimulus → Cortex → Motor) and the asymmetry test that reveals which layer is YOUR bottleneck. This deep-dive gives you the *full operational system:* the per-layer test protocols, the per-layer training protocols, and the integration with myelin (Deep-Dive #3) so you build the layer that matters for YOU. | **Deep-dive này thêm gì.** Elite Manual Chương 8 đã giới thiệu 3 lớp phản ứng (Kích thích → Vỏ não → Vận động) và kiểm tra bất đối xứng phơi bày lớp nào là nút cổ chai CỦA ANH. Deep-dive này cho bạn *hệ thống vận hành đầy đủ:* phác đồ kiểm tra theo lớp, phác đồ tập theo lớp, và tích hợp với myelin (Deep-Dive #3) để bạn xây lớp quan trọng cho ANH. |
 | **Who should read this.** Anyone who feels "fast in practice, slow in matches." Anyone whose opponent seems to "see the ball early" or "have more time." Anyone whose reaction-time numbers (from apps) seem inconsistent with their match results. | **Ai nên đọc.** Bất cứ ai cảm thấy "nhanh lúc tập, chậm lúc đấu." Bất cứ ai có đối thủ dường như "thấy bóng sớm" hoặc "có nhiều thời gian hơn." Bất cứ ai có số đo phản ứng (từ app) dường như không nhất quán với kết quả trận. |
 | **Reading time.** ~25 minutes. Per-layer test: 1-2 hours. Per-layer training: 30-60 days. | **Thời gian đọc.** ~25 phút. Kiểm tra theo lớp: 1-2 giờ. Tập theo lớp: 30-60 ngày. |
 
@@ -62,19 +62,19 @@
 |---|---|
 | **The principle.** To know which layer is YOUR bottleneck, isolate each layer and test independently. *Three sub-tests.* | **Nguyên tắc.** Để biết lớp nào là nút cổ chai CỦA ANH, cô lập từng lớp và kiểm tra độc lập. *Ba kiểm tra con.* |
 | **Test A — Layer 1 test (stimulus).** | **Kiểm tra A — Lớp 1 (kích thích).** |
-| **Setup.** Partner holds a tennis ball hidden behind a screen. Partner drops the ball (or reveals it). You say "now!" the moment you see it. *Partner records reaction.* | **Dựng.** Bạn giữ bóng tennis ẩn sau màn chắn. Bạn thả bóng (hoặc phơi bày). Anh nói "bây giờ!" khoảnh khắc anh thấy. *Bạn ghi phản ứng.* |
+| **Setup.** Partner holds a tennis ball hidden behind a screen. Partner drops the ball (or reveals it). You say "now!" the moment you see it. *Partner records reaction.* | **Dựng.** Bạn giữ bóng tennis ẩn sau màn chắn. Bạn thả bóng (hoặc phơi bày). Anh nói "bây giờ!" khoảnh khắc bạn thấy. *Bạn ghi phản ứng.* |
 | **Variation.** Repeat with the ball on different background (sky, fence, court). Repeat with the ball moving vs. stationary. | **Biến thiên.** Lặp với bóng trên nền khác (trời, hàng rào, sân). Lặp với bóng động vs. tĩnh. |
-| **What you're measuring.** Pure visual reaction speed — Layer 1 only. Expected for 5.0+: 80-150ms. *If yours is much higher (180ms+), Layer 1 is bottleneck.* | **Cái anh đo.** Tốc độ phản ứng thị giác thuần — chỉ Lớp 1. Kỳ vọng 5.0+: 80-150ms. *Nếu của anh cao hơn nhiều (180ms+), Lớp 1 là nút cổ chai.* |
+| **What you're measuring.** Pure visual reaction speed — Layer 1 only. Expected for 5.0+: 80-150ms. *If yours is much higher (180ms+), Layer 1 is bottleneck.* | **Cái bạn đo.** Tốc độ phản ứng thị giác thuần — chỉ Lớp 1. Kỳ vọng 5.0+: 80-150ms. *Nếu của bạn cao hơn nhiều (180ms+), Lớp 1 là nút cổ chai.* |
 | **Test B — Layer 2 test (decision).** | **Kiểm tra B — Lớp 2 (quyết định).** |
-| **Setup.** Partner shows you a card with a *direction* (left/right) and a *shot type* (forehand/backhand). You say the shot out loud as fast as you can. *Partner records decision time.* | **Dựng.** Bạn cho anh xem thẻ với *hướng* (trái/phải) và *loại cú* (forehand/backhand). Anh nói cú thành tiếng nhanh nhất có thể. *Bạn ghi thời gian quyết định.* |
-| **Variation.** Random cards. Then *patterned* cards (you know the next one). Random = tests pattern recognition. Patterned = tests pure output speed. | **Biến thiên.** Thẻ ngẫu nhiên. Rồi thẻ *có mẫu* (anh biết cái tiếp). Ngẫu nhiên = kiểm tra nhận dạng mẫu. Có mẫu = kiểm tra tốc độ đầu ra thuần. |
-| **What you're measuring.** Decision time — Layer 2 only (no visual stimulus, no motor execution). Expected for 5.0+ with good chunks: 50-150ms. *If yours is much higher (200ms+), Layer 2 is bottleneck.* | **Cái anh đo.** Thời gian quyết định — chỉ Lớp 2 (không kích thích thị giác, không thực hiện vận động). Kỳ vọng 5.0+ có chunk tốt: 50-150ms. *Nếu của anh cao hơn nhiều (200ms+), Lớp 2 là nút cổ chai.* |
+| **Setup.** Partner shows you a card with a *direction* (left/right) and a *shot type* (forehand/backhand). You say the shot out loud as fast as you can. *Partner records decision time.* | **Dựng.** Bạn cho bạn xem thẻ với *hướng* (trái/phải) và *loại cú* (forehand/backhand). Anh nói cú thành tiếng nhanh nhất có thể. *Bạn ghi thời gian quyết định.* |
+| **Variation.** Random cards. Then *patterned* cards (you know the next one). Random = tests pattern recognition. Patterned = tests pure output speed. | **Biến thiên.** Thẻ ngẫu nhiên. Rồi thẻ *có mẫu* (bạn biết cái tiếp). Ngẫu nhiên = kiểm tra nhận dạng mẫu. Có mẫu = kiểm tra tốc độ đầu ra thuần. |
+| **What you're measuring.** Decision time — Layer 2 only (no visual stimulus, no motor execution). Expected for 5.0+ with good chunks: 50-150ms. *If yours is much higher (200ms+), Layer 2 is bottleneck.* | **Cái bạn đo.** Thời gian quyết định — chỉ Lớp 2 (không kích thích thị giác, không thực hiện vận động). Kỳ vọng 5.0+ có chunk tốt: 50-150ms. *Nếu của bạn cao hơn nhiều (200ms+), Lớp 2 là nút cổ chai.* |
 | **Test C — Layer 3 test (motor).** | **Kiểm tra C — Lớp 3 (vận động).** |
 | **Setup.** You know the shot (forehand cross-court). Partner feeds a slow ball. You hit the shot. *Partner measures the time from "ball leaves racket" to "racket meets ball" by video at 240fps.* | **Dựng.** Anh biết cú (forehand chéo sân). Bạn cho bóng chậm. Anh đánh cú. *Bạn đo thời gian từ "bóng rời vợt" đến "vợt gặp bóng" bằng video 240fps.* |
 | **Variation.** Repeat at increasing speeds. | **Biến thiên.** Lặp ở tốc độ tăng dần. |
-| **What you're measuring.** Motor execution — Layer 3 only. Expected for 5.0+ with good myelin: 80-120ms from decision to contact. *If yours is much higher (150ms+), Layer 3 is bottleneck.* | **Cái anh đo.** Thực hiện vận động — chỉ Lớp 3. Kỳ vọng 5.0+ có myelin tốt: 80-120ms từ quyết định đến tiếp xúc. *Nếu của anh cao hơn nhiều (150ms+), Lớp 3 là nút cổ chai.* |
+| **What you're measuring.** Motor execution — Layer 3 only. Expected for 5.0+ with good myelin: 80-120ms from decision to contact. *If yours is much higher (150ms+), Layer 3 is bottleneck.* | **Cái bạn đo.** Thực hiện vận động — chỉ Lớp 3. Kỳ vọng 5.0+ có myelin tốt: 80-120ms từ quyết định đến tiếp xúc. *Nếu của bạn cao hơn nhiều (150ms+), Lớp 3 là nút cổ chai.* |
 | **The asymmetry chart.** | **Biểu đồ bất đối xứng.** |
-| Plot your three test results on a triangle. The longest side = your bottleneck layer. *Train that one.* | Vẽ ba kết quả kiểm tra trên tam giác. Cạnh dài nhất = lớp nút cổ chai của anh. *Tập cái đó.* |
+| Plot your three test results on a triangle. The longest side = your bottleneck layer. *Train that one.* | Vẽ ba kết quả kiểm tra trên tam giác. Cạnh dài nhất = lớp nút cổ chai của bạn. *Tập cái đó.* |
 
 * * *
 
@@ -146,7 +146,7 @@
 | **Layer 2** (decision) is the *brain.* Train with chunks and flash cards. Improve by 30-60ms in 30-60 days. | **Lớp 2** (quyết định) là *não.* Tập bằng chunk và thẻ nháy. Cải thiện 30-60ms trong 30-60 ngày. |
 | **Layer 3** (motor) is the *muscles + myelin.* Train with stroke drills. Improve by 30-80ms in 60-90 days. | **Lớp 3** (vận động) là *cơ + myelin.* Tập bằng bài cú. Cải thiện 30-80ms trong 60-90 ngày. |
 | **The total speed gain potential.** | **Tiềm năng tăng tốc tổng.** |
-| If you train all 3 layers systematically for 90 days, your *total* reaction time can drop 80-180ms. From 300ms to 220-250ms (or lower). *That is the difference between 4.5 and 5.5.* | Nếu anh tập cả 3 lớp có hệ thống trong 90 ngày, *tổng* thời gian phản ứng có thể giảm 80-180ms. Từ 300ms xuống 220-250ms (hoặc thấp hơn). *Đó là khác biệt giữa 4.5 và 5.5.* |
+| If you train all 3 layers systematically for 90 days, your *total* reaction time can drop 80-180ms. From 300ms to 220-250ms (or lower). *That is the difference between 4.5 and 5.5.* | Nếu bạn tập cả 3 lớp có hệ thống trong 90 ngày, *tổng* thời gian phản ứng có thể giảm 80-180ms. Từ 300ms xuống 220-250ms (hoặc thấp hơn). *Đó là khác biệt giữa 4.5 và 5.5.* |
 | **The "asymmetric training" principle.** If your asymmetry test showed Layer 2 is your bottleneck (e.g., 220ms), spend 70% of your training time on Layer 2, 30% on the other two. *Don't equal-distribute; address YOUR bottleneck first.* | **Nguyên tắc "tập bất đối xứng."** Nếu kiểm tra bất đối xứng cho thấy Lớp 2 là nút cổ chai (vd. 220ms), dành 70% thời gian tập cho Lớp 2, 30% cho hai lớp kia. *Đừng phân phối đều; giải quyết nút cổ chai CỦA ANH trước.* |
 | **The weekly re-test.** Re-run the asymmetry test every 2 weeks. As one layer improves, the bottleneck may shift. *Recalibrate.* | **Kiểm tra lại hàng tuần.** Chạy lại kiểm tra bất đối xứng mỗi 2 tuần. Khi một lớp cải thiện, nút cổ chai có thể chuyển. *Hiệu chỉnh lại.* |
 
@@ -158,7 +158,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Drawing your chart.** | **Vẽ biểu đồ của anh.** |
+| **Drawing your chart.** | **Vẽ biểu đồ của bạn.** |
 | Draw a triangle. Label the corners L1, L2, L3. Plot your three test results as distances from the corresponding corner (the higher the time, the longer the line). *The longest line is your bottleneck.* | Vẽ tam giác. Ghi các góc L1, L2, L3. Vẽ ba kết quả kiểm tra là khoảng cách từ góc tương ứng (càng cao thời gian, đường càng dài). *Đường dài nhất là nút cổ chai.* |
 | **Reading examples.** | **Ví dụ đọc.** |
 | **Balanced player.** All three lines similar length (e.g., L1=110ms, L2=130ms, L3=100ms). Train all three equally. | **Người cân bằng.** Cả ba đường dài tương tự (vd. L1=110ms, L2=130ms, L3=100ms). Tập cả ba đều. |
@@ -251,7 +251,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| You have spent years training the layer your body could train. The layer your body *couldn't* train — that's where the 200ms lives. The asymmetry test takes 1-2 hours. The training takes 90 days. The result is a 5.0+ player who *feels like* they have more time than their opponent — because they do. The "hidden speed" was always there, hidden behind your imbalanced training. | Anh đã dành nhiều năm tập lớp cơ thể anh có thể tập. Lớp cơ thể anh *không thể* tập — đó là nơi 200ms sống. Kiểm tra bất đối xứng mất 1-2 giờ. Tập mất 90 ngày. Kết quả là người 5.0+ *cảm thấy như* có nhiều thời gian hơn đối thủ — vì họ có. "Tốc độ ẩn" luôn ở đó, ẩn sau tập luyện mất cân bằng của anh. |
+| You have spent years training the layer your body could train. The layer your body *couldn't* train — that's where the 200ms lives. The asymmetry test takes 1-2 hours. The training takes 90 days. The result is a 5.0+ player who *feels like* they have more time than their opponent — because they do. The "hidden speed" was always there, hidden behind your imbalanced training. | Anh đã dành nhiều năm tập lớp cơ thể bạn có thể tập. Lớp cơ thể bạn *không thể* tập — đó là nơi 200ms sống. Kiểm tra bất đối xứng mất 1-2 giờ. Tập mất 90 ngày. Kết quả là người 5.0+ *cảm thấy như* có nhiều thời gian hơn đối thủ — vì họ có. "Tốc độ ẩn" luôn ở đó, ẩn sau tập luyện mất cân bằng của bạn. |
 
 ---
 

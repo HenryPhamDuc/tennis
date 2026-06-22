@@ -93,4 +93,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."
+Hy vọng tuần này bạn sẽ in thẻ và mang nó tới Surrey. Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. Trong 4 tuần, bạn sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."

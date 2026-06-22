@@ -97,4 +97,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh và partner sẽ thêm "playbook 16 cú" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (hand signal, 3 phút/ngày) — đó là nền tảng cho mọi phối hợp. Rồi thêm **Drill 2** (slice wide + poach, 10 phút) cho cắt. Trong 4 tuần, anh và partner sẽ có 16 tùy chọn trong tay cho 16 tình huống.
+Hy vọng tuần này bạn và partner sẽ thêm "playbook 16 cú" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (hand signal, 3 phút/ngày) — đó là nền tảng cho mọi phối hợp. Rồi thêm **Drill 2** (slice wide + poach, 10 phút) cho cắt. Trong 4 tuần, bạn và partner sẽ có 16 tùy chọn trong tay cho 16 tình huống.

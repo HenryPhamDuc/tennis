@@ -34,8 +34,8 @@
 ---
 
 > *"The slice is your insurance policy. When in doubt, slice it deep and breathe."*
-> *"Slice là bảo hiểm của anh. Khi nghi ngờ, hãy slice sâu và thở đều."*
+> *"Slice là bảo hiểm của bạn. Khi nghi ngờ, hãy slice sâu và thở đều."*
 
 ---
 *Printable format for your tennis bag.*
-*Dạng in được cho túi vợt của anh.*
+*Dạng in được cho túi vợt của bạn.*

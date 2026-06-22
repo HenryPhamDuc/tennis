@@ -45,7 +45,7 @@
 |---|---|
 | On a forehand, after the unit turn, your **left shoulder is frozen.** It points to the side fence. It does NOT come around. | Forehand, sau unit turn, **vai trái đông cứng.** Nó chỉ ra hàng rào bên. Nó KHÔNG xoay theo. |
 | Your **right shoulder is the one that flies** — but it only flies because the left is locked. | **Vai phải bay** — nhưng nó chỉ bay vì vai trái khóa. |
-| If you try to swing both shoulders forward, you lose the axis and you "muscle" the ball. | Nếu cố xoay cả hai vai tới, anh mất trục và "cơ bắp" cú đánh. |
+| If you try to swing both shoulders forward, you lose the axis and you "muscle" the ball. | Nếu cố xoay cả hai vai tới, bạn mất trục và "cơ bắp" cú đánh. |
 
 > 🎨 **Visual cue | Tín hiệu hình ảnh**
 > Imagine a clock face on your chest. The "12" is straight up, "3" is to the right, "6" is down, "9" is to the left. After the unit turn on a forehand, the "12" on your chest is pointing to the right side fence. When you swing, the "12" rotates to point at the ball. **Your spine is the pin in the center of the clock — it doesn't move. Your chest is the face — it rotates around the pin.**
@@ -63,7 +63,7 @@
 > ⚠️ **Common error at 3.5 | Lỗi thường gặp**
 > Transferring weight too early. When you step forward before contact, you lose the back leg's "thực" power. The leg straightens, the spring releases too soon, and you end up "pushing" the ball with your arm. **Let the back leg stay bent through contact. Transfer after.**
 >
-> *Chuyển trọng lượng quá sớm. Khi bước tới trước khi chạm bóng, anh mất lực "thực" của chân sau. Chân duỗi, lò xo bung sớm, và anh "đẩy" bóng bằng tay. **Để chân sau gập qua lúc chạm. Chuyển sau.***
+> *Chuyển trọng lượng quá sớm. Khi bước tới trước khi chạm bóng, bạn mất lực "thực" của chân sau. Chân duỗi, lò xo bung sớm, và bạn "đẩy" bóng bằng tay. **Để chân sau gập qua lúc chạm. Chuyển sau.***
 
 ---
 
@@ -82,7 +82,7 @@
 |---|---|
 | Put a small towel under your **left armpit** (for right-handers doing forehand). | Đặt khăn nhỏ dưới **nách trái** (với người thuận tay phải đánh forehand). |
 | Do a slow forehand. **The towel must not fall.** | Làm forehand chậm. **Khăn không được rơi.** |
-| If the towel falls, your left shoulder came forward — the axis broke, and you used your arm to swing. | Nếu khăn rơi, vai trái đã đi tới — trục gãy, và anh dùng tay để vung. |
+| If the towel falls, your left shoulder came forward — the axis broke, and you used your arm to swing. | Nếu khăn rơi, vai trái đã đi tới — trục gãy, và bạn dùng tay để vung. |
 | If the towel stays, your left shoulder stayed back — the axis held, and the chest rotated around the spine. | Nếu khăn giữ, vai trái ở lại — trục giữ, và ngực xoay quanh cột sống. |
 
 > 💡 **Why the left side is "thực" for right-handed forehand | Tại sao bên trái "thực" với forehand thuận phải**
@@ -94,9 +94,9 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The "diamond" is the frame formed by your **chest, both shoulders, and both hands** when you hold the racket in front of you. | "Khung kim cương" là khung tạo bởi **ngực, hai vai, hai tay** khi anh giữ vợt trước mặt. |
+| The "diamond" is the frame formed by your **chest, both shoulders, and both hands** when you hold the racket in front of you. | "Khung kim cương" là khung tạo bởi **ngực, hai vai, hai tay** khi bạn giữ vợt trước mặt. |
 | This frame should stay intact during the unit turn. **The diamond is the "thực" — it's the load-bearing structure of the swing.** | Khung này nên nguyên vẹn trong unit turn. **Khung kim cương là "thực" — là kết cấu chịu lực của cú vung.** |
-| The diamond breaks the moment you drop your left hand or rotate your left shoulder forward. | Khung vỡ khoảnh khắc anh thả tay trái hoặc xoay vai trái tới. |
+| The diamond breaks the moment you drop your left hand or rotate your left shoulder forward. | Khung vỡ khoảnh khắc bạn thả tay trái hoặc xoay vai trái tới. |
 | When the diamond breaks, the swing becomes an "arm swing." When it holds, the swing becomes a "body swing." | Khi khung vỡ, cú vung thành "vung tay." Khi khung giữ, cú vung thành "vung người." |
 
 > 🧊 **The "plate of glass" cue | Tín hiệu "tấm kính"**
@@ -192,7 +192,7 @@
 | Stand in ready position. Do a forehand unit turn. Notice: left shoulder locked. | Đứng sẵn sàng. Unit turn forehand. Chú ý: vai trái khóa. |
 | Reset. Do a backhand unit turn. Notice: right shoulder locked. | Reset. Unit turn backhand. Chú ý: vai phải khóa. |
 | Do 5 forehands, 5 backhands, alternating. **The "thực" shoulder should switch cleanly each time.** | 5 forehand, 5 backhand, luân phiên. **Vai "thực" phải chuyển sạch mỗi lần.** |
-| If you can feel the switch, you understand the axis. If both shoulders try to swing, you don't. | Nếu anh cảm được sự chuyển, anh hiểu trục. Nếu cả hai vai cố vung, anh chưa hiểu. |
+| If you can feel the switch, you understand the axis. If both shoulders try to swing, you don't. | Nếu bạn cảm được sự chuyển, bạn hiểu trục. Nếu cả hai vai cố vung, bạn chưa hiểu. |
 
 ---
 
@@ -279,7 +279,7 @@
 |---|---|
 | Stand with your back to a wall. Do a slow forehand. **Your lower back should not lose contact with the wall.** | Đứng lưng tựa tường. Forehand chậm. **Lưng dưới không được rời tường.** |
 | If your lower back leaves the wall, the rotation is going through your back instead of your hips. | Nếu lưng dưới rời tường, xoay đang đi qua lưng thay vì hông. |
-| This is the **50+ safety check** — if you can't pass this, you're not ready to play. | Đây là **kiểm tra an toàn 50+** — nếu không qua, anh chưa sẵn sàng chơi. |
+| This is the **50+ safety check** — if you can't pass this, you're not ready to play. | Đây là **kiểm tra an toàn 50+** — nếu không qua, bạn chưa sẵn sàng chơi. |
 | **Goal:** 10 clean reps per day as warmup. | **Mục tiêu:** 10 lần sạch/ngày khi khởi động. |
 
 ---
@@ -324,7 +324,7 @@
 | It uses the **hip joint** (designed for rotation, large, durable). | Nó dùng **khớp hông** (thiết kế để xoay, lớn, bền). |
 | It protects the **lower back** (which is not designed for rotation). | Nó bảo vệ **lưng dưới** (không thiết kế để xoay). |
 | It protects the **shoulder** (because the shoulder stays soft, not tight). | Nó bảo vệ **vai** (vì vai giữ mềm, không căng). |
-| **If you only learn one technique from this whole series, learn this one.** | **Nếu anh chỉ học một kỹ thuật từ cả loạt, hãy học cái này.** |
+| **If you only learn one technique from this whole series, learn this one.** | **Nếu bạn chỉ học một kỹ thuật từ cả loạt, hãy học cái này.** |
 
 ---
 
@@ -379,7 +379,7 @@
 │                                                                 │
 │  ⚠️ DỪNG LẠI VÀ RESET NẾU:                                      │
 │     • Lưng dưới rời tường khi xoay                              │
-│     • Khăn rơi khỏi nách (anh đã "vung" bên khóa)              │
+│     • Khăn rơi khỏi nách (bạn đã "vung" bên khóa)              │
 │     • Cả hai vai cố vung                                        │
 │     • Chân sau duỗi trước chạm bóng (mất lò xo)               │
 │                                                                 │
@@ -396,4 +396,4 @@ Other deep dives from your notes you might want:
 - **Complete Manual** — all 10 parts in one, the master reference
 - **Re-read this one** — practice the 4 drills for 2 weeks, then come back
 
-Just say the word, anh. 🎾
+Just say the word, bạn. 🎾

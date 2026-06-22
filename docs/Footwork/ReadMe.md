@@ -21,7 +21,7 @@ Saved. Here's the deep dive:
 
 - ✅ 3.5-level recreational cues
 - ✅ EN-VI side-by-side bilingual tables
-- ✅ Master-coach voice ("anh," "tôi," "em")
+- ✅ Master-coach voice ("bạn," "tôi," "em")
 - ✅ 50+ longevity adjustments (knee safety, back safety, smart > fast)
 - ✅ Tai chi principles (Thường Tùng, Cung Bộ, Hư-Thực, Tụ Bộ, Hoàn Thủ)
 - ✅ 1-page printable cheat sheet at the end (tape in the bag)
@@ -91,4 +91,4 @@ A player who starts 300ms early with small steps beats a player who starts 800ms
 
 Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make practice plan" và tôi sẽ chạy. 🎾
 
-Chúc anh di chuyển nhẹ ở Surrey. Tuần này tập Mirror Split-Step 20 lần mỗi ngày — trước khi bất kỳ cú đánh nào khác. Bắt đầu từ nền, mọi thứ tự dựng lên.
+Chúc bạn di chuyển nhẹ ở Surrey. Tuần này tập Mirror Split-Step 20 lần mỗi ngày — trước khi bất kỳ cú đánh nào khác. Bắt đầu từ nền, mọi thứ tự dựng lên.

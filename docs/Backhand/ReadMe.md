@@ -41,7 +41,7 @@ Unlike the 4 forehand deep dives (which were organized by L1-L4 layers), this on
 
 **The single most important sentence in the deep dive:**
 
-> *"Backhand không phải bên yếu của anh. Nó là GƯƠNG của anh."*
+> *"Backhand không phải bên yếu của bạn. Nó là GƯƠNG của bạn."*
 
 ### Want me to continue?
 
@@ -55,4 +55,4 @@ Unlike the 4 forehand deep dives (which were organized by L1-L4 layers), this on
 
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
 
-Hy vọng cú backhand của anh tuần này sẽ bắt đầu cảm thấy *giống* forehand — chỉ đảo chiều.
+Hy vọng cú backhand của bạn tuần này sẽ bắt đầu cảm thấy *giống* forehand — chỉ đảo chiều.

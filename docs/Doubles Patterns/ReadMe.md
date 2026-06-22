@@ -86,4 +86,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "4 mẫu return" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+Hy vọng tuần này bạn sẽ thêm "4 mẫu return" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (decision tree shadow, 3 phút/ngày) — đó là nền tảng cho mọi quyết định return. Rồi thêm **Drill 2** (return + lob live-ball, 10 phút) cho 50+ default. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.

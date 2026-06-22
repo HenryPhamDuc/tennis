@@ -31,7 +31,7 @@
 | Watch a 3.5 player before a match. They walk on court. They start serving. The first serve goes in, the second goes in, the rally starts. **They're already in mid-match mode. They never left Phase 1 (warmup).** | Xem người 3.5 trước trận. Họ bước lên sân. Họ bắt đầu giao. Serve 1 vào, serve 2 vào, rally bắt đầu. **Họ đã ở giữa trận. Họ chưa rời Pha 1 (khởi động).** |
 | The mental game is NOT a single thing. It's a **5-phase cycle** that runs through every match. | Tâm lý không phải MỘT thứ. Nó là **chu kỳ 5 pha** chạy qua mỗi trận. |
 | Most 3.5 players **only know 2 of the 5 phases** (the rally phase and the changeover). They skip warmup rituals, skip between-point rituals, and have no protocol for the pressure points. **The result: 80% of the mental game is invisible to them.** | Hầu hết người 3.5 **chỉ biết 2 trong 5 pha** (pha rally và pha nghỉ). Họ bỏ qua nghi thức khởi động, bỏ qua nghi thức giữa điểm, và không có protocol cho điểm áp lực. **Kết quả: 80% tâm lý vô hình với họ.** |
-| This deep dive teaches all 5 phases. After this, you'll have a complete mental toolkit — for warmup, between points, changeovers, pressure points, and post-match. | Deep dive này dạy cả 5 pha. Sau đây, anh sẽ có bộ công cụ tâm lý hoàn chỉnh — cho khởi động, giữa điểm, nghỉ giải lao, điểm áp lực, và sau trận. |
+| This deep dive teaches all 5 phases. After this, you'll have a complete mental toolkit — for warmup, between points, changeovers, pressure points, and post-match. | Deep dive này dạy cả 5 pha. Sau đây, bạn sẽ có bộ công cụ tâm lý hoàn chỉnh — cho khởi động, giữa điểm, nghỉ giải lao, điểm áp lực, và sau trận. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of a tennis match as a **5-act play**. Each act has its own script, its own props, its own cast. The 3.5 player who tries to use the same script for all 5 acts (e.g., "think positive throughout") loses. **Each act has a different optimal mental state.** Warmup = calm focus. Between points = reset ritual. Rally = automatic. Changeover = recovery. Pressure = protocol.
@@ -59,7 +59,7 @@
 |---|---|
 | Before we get to the 5 phases, let's establish the **embodied principle**: the body leads the mind. | Trước khi vào 5 pha, hãy thiết lập **nguyên lý embodied**: cơ thể dẫn đầu tâm trí. |
 | **The fastest way to fix your mental game is to fix your body.** | **Cách nhanh nhất để sửa tâm lý là sửa cơ thể.** |
-| This is **embodied cognition** — your body is thinking, and your mind follows. | Đây là **nhận thức embodied** — cơ thể anh đang suy nghĩ, và tâm trí theo sau. |
+| This is **embodied cognition** — your body is thinking, and your mind follows. | Đây là **nhận thức embodied** — cơ thể bạn đang suy nghĩ, và tâm trí theo sau. |
 | The 4 body fixes that change the mind: | 4 sửa cơ thể thay đổi tâm trí: |
 | 1. **Drop the shoulders.** Tense shoulders = tense mind. Drop them 1 inch, and the mind softens. | 1. **Hạ vai.** Vai căng = tâm căng. Hạ 1 inch, tâm mềm. |
 | 2. **Unclench the jaw.** Clenched jaw = clenched mind. Loosen the teeth. The breath flows easier. | 2. **Mở hàm.** Hàm nghiến = tâm nghiến. Lỏng răng. Hơi thở dễ hơn. |
@@ -79,7 +79,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Between points, you have 15-25 seconds. **Most of this time is wasted** — players walk to the baseline, fidget with their strings, look at the crowd, or stand frozen. | Giữa các điểm, anh có 15-25 giây. **Phần lớn thời gian này bị lãng phí** — người chơi đi về baseline, nghịch dây vợt, nhìn khán giả, hoặc đứng đơ. |
+| Between points, you have 15-25 seconds. **Most of this time is wasted** — players walk to the baseline, fidget with their strings, look at the crowd, or stand frozen. | Giữa các điểm, bạn có 15-25 giây. **Phần lớn thời gian này bị lãng phí** — người chơi đi về baseline, nghịch dây vợt, nhìn khán giả, hoặc đứng đơ. |
 | The pre-point ritual is a **2-second sequence of 3-4 actions** that resets the mind, focuses the body, and overrides the previous point. | Nghi thức trước điểm là **chuỗi 2 giây gồm 3-4 hành động** reset tâm, tập trung cơ thể, và ghi đè điểm trước. |
 | The Complete Manual Part 8.1 already covers the basic ritual (bounce the ball, look at the target, breathe). **What's new here: the RITUAL HAS A PURPOSE for each phase of the match.** | Complete Manual Phần 8.1 đã có nghi thức cơ bản (nảy bóng, nhìn mục tiêu, thở). **Cái mới ở đây: NGHI THỨC CÓ MỤC ĐÍCH cho mỗi pha trận đấu.** |
 
@@ -104,25 +104,25 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 | **The bounce is the visual cue to your brain that the previous point is over.** | **Nảy bóng là tín hiệu thị giác cho não rằng điểm trước đã xong.** |
 | **How many bounces?** It depends on the side: | **Nảy bao nhiêu lần?** Tùy bên: |
 | - **Serving: 1-2 bounces** (the ITF rule allows you 20 seconds total; use 1-2). | - **Giao bóng: 1-2 lần** (ITF cho phép 20 giây tổng; dùng 1-2). |
-| - **Returning: 1 bounce** (you have less time; the server is about to serve). | - **Trả bóng: 1 lần** (anh có ít thời gian; server sắp giao). |
-| - **Receiving serve: 0 bounces** (your partner or opponent is serving; you don't have a ball). | - **Nhận serve: 0 lần** (partner hoặc đối thủ đang giao; anh không có bóng). |
+| - **Returning: 1 bounce** (you have less time; the server is about to serve). | - **Trả bóng: 1 lần** (bạn có ít thời gian; server sắp giao). |
+| - **Receiving serve: 0 bounces** (your partner or opponent is serving; you don't have a ball). | - **Nhận serve: 0 lần** (partner hoặc đối thủ đang giao; bạn không có bóng). |
 | **The bounce rhythm is the timer.** 1 bounce = 0.5 sec. 2 bounces = 1 sec. 3 bounces = 1.5 sec. Your body learns: "after the bounce, the next point starts." | **Nhịp nảy là đồng hồ.** 1 nảy = 0,5 giây. 2 nảy = 1 giây. 3 nảy = 1,5 giây. Cơ thể học: "sau nảy, điểm tiếp bắt đầu." |
 
 > 💡 **The "bounce rhythm" rule | Quy tắc "nhịp nảy"**
 > The bounce rhythm is **personal**. Some pros bounce 3 times. Some bounce 0 times. Find your rhythm and stick with it. **The consistency matters more than the number.** A player who bounces 1 time every point has a more reliable ritual than a player who bounces 1 time on some points and 3 times on others.
 >
-> *Nhịp nảy là **cá nhân**. Một số pro nảy 3 lần. Một số nảy 0. Tìm nhịp của anh và dính vào nó. **Tính nhất quán quan trọng hơn số lần.** Người nảy 1 lần mỗi điểm có nghi thức đáng tin cậy hơn người nảy 1 lần điểm này 3 lần điểm kia.*
+> *Nhịp nảy là **cá nhân**. Một số pro nảy 3 lần. Một số nảy 0. Tìm nhịp của bạn và dính vào nó. **Tính nhất quán quan trọng hơn số lần.** Người nảy 1 lần mỗi điểm có nghi thức đáng tin cậy hơn người nảy 1 lần điểm này 3 lần điểm kia.*
 
 #### 🎯 Step 2 — The Breath | Bước 2 — Hơi Thở
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The breath is the physiological reset.** One deep breath shifts you from sympathetic ("fight or flight") to parasympathetic ("calm") in 1-2 seconds. | **Hơi thở là reset sinh lý.** Một hơi thở sâu chuyển anh từ giao cảm ("chiến đấu hay chạy") sang phó giao cảm ("bình tĩnh") trong 1-2 giây. |
+| **The breath is the physiological reset.** One deep breath shifts you from sympathetic ("fight or flight") to parasympathetic ("calm") in 1-2 seconds. | **Hơi thở là reset sinh lý.** Một hơi thở sâu chuyển bạn từ giao cảm ("chiến đấu hay chạy") sang phó giao cảm ("bình tĩnh") trong 1-2 giây. |
 | **The breath pattern:** | **Mẫu thở:** |
 | - **Inhale** through the nose for 2-3 counts. | - **Hít vào** qua mũi 2-3 nhịp. |
 | - **Exhale** through the mouth for 3-4 counts. | - **Thở ra** qua miệng 3-4 nhịp. |
 | - **Total: 1-1.5 seconds.** | - **Tổng: 1-1,5 giây.** |
-| **The exhale is the magic.** A long exhale activates the vagus nerve, which slows the heart rate. **Your heart rate drops 5-10 bpm in one breath.** That's the difference between a panicked forehand and a controlled one. | **Thở ra là phép màu.** Thở ra dài kích hoạt dây thần kinh phế vị, làm chậm nhịp tim. **Nhịp tim anh giảm 5-10 bpm trong một hơi thở.** Đó là khác biệt giữa forehand hoảng và forehand kiểm soát. |
+| **The exhale is the magic.** A long exhale activates the vagus nerve, which slows the heart rate. **Your heart rate drops 5-10 bpm in one breath.** That's the difference between a panicked forehand and a controlled one. | **Thở ra là phép màu.** Thở ra dài kích hoạt dây thần kinh phế vị, làm chậm nhịp tim. **Nhịp tim bạn giảm 5-10 bpm trong một hơi thở.** Đó là khác biệt giữa forehand hoảng và forehand kiểm soát. |
 
 > 🧘 **The tai chi connection | Liên hệ thái cực**
 > In tai chi, the breath is the bridge between body and mind. The slow exhale is called *Hô Hấp* (呼吸) — "breath exchange." **The 4-step ritual uses breath the same way: 1 breath = 1 reset.** This is not meditation. This is tactical breathing for match performance.
@@ -151,9 +151,9 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 |---|---|
 | **The build is the mental commitment.** Look at the target. See the shot. Commit. | **Dựng là cam kết tâm trí.** Nhìn mục tiêu. Thấy cú đánh. Cam kết. |
 | **3 sub-steps:** | **3 bước phụ:** |
-| 1. **Look at the target** (where you want the ball to land). | 1. **Nhìn mục tiêu** (nơi anh muốn bóng rơi). |
+| 1. **Look at the target** (where you want the ball to land). | 1. **Nhìn mục tiêu** (nơi bạn muốn bóng rơi). |
 | 2. **See the shot** (visualize the trajectory, the arc, the bounce). | 2. **Thấy cú đánh** (hình dung quỹ đạo, vòng cung, nảy). |
-| 3. **Commit** (the word "GO" or "play" — a tiny internal signal that you're ready). | 3. **Cam kết** (từ "ĐI" hoặc "chơi" — tín hiệu nội tại nhỏ rằng anh đã sẵn sàng). |
+| 3. **Commit** (the word "GO" or "play" — a tiny internal signal that you're ready). | 3. **Cam kết** (từ "ĐI" hoặc "chơi" — tín hiệu nội tại nhỏ rằng bạn đã sẵn sàng). |
 | **Total: 0.5-1 second.** The fastest of the 4 steps. | **Tổng: 0,5-1 giây.** Nhanh nhất trong 4 bước. |
 
 > 🎯 **The "see the shot" principle | Nguyên lý "thấy cú đánh"**
@@ -182,55 +182,55 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 | The 5 pressure points are: | 5 điểm áp lực là: |
 | 1. **Serving for the set** (5-4, 6-5, etc.) | 1. **Giao để thắng set** (5-4, 6-5, v.v.) |
 | 2. **Serving for the match** (5-0 in the tiebreak, 5-4 in the 3rd set, etc.) | 2. **Giao để thắng trận** (5-0 trong tiebreak, 5-4 set 3, v.v.) |
-| 3. **Double-fault down break point** (you're at deuce, 30-40, 15-40, etc.) | 3. **Double-fault ở break point** (anh ở deuce, 30-40, 15-40, v.v.) |
-| 4. **The 0-40 / 0-30 trap** (you're down multiple break points in a row) | 4. **Cái bẫy 0-40 / 0-30** (anh down nhiều break point liên tiếp) |
-| 5. **The "almost held" trap** (you were up 40-0 or 40-15, now it's deuce) | 5. **Cái bẫy "gần giữ"** (anh up 40-0 hoặc 40-15, giờ là deuce) |
+| 3. **Double-fault down break point** (you're at deuce, 30-40, 15-40, etc.) | 3. **Double-fault ở break point** (bạn ở deuce, 30-40, 15-40, v.v.) |
+| 4. **The 0-40 / 0-30 trap** (you're down multiple break points in a row) | 4. **Cái bẫy 0-40 / 0-30** (bạn down nhiều break point liên tiếp) |
+| 5. **The "almost held" trap** (you were up 40-0 or 40-15, now it's deuce) | 5. **Cái bẫy "gần giữ"** (bạn up 40-0 hoặc 40-15, giờ là deuce) |
 | **Each pressure point has a specific protocol. Learn them. Practice them. Then use them.** | **Mỗi điểm áp lực có protocol cụ thể. Học chúng. Tập chúng. Rồi dùng.** |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of pressure points as **fire drills**. You don't wait until the building is on fire to learn where the exit is. **You learn the exit now, so when the fire comes, the body walks the route without thinking.** The 5 pressure-point protocols are your fire exits. **Drill them in practice, so the body knows them in matches.**
 >
-> *Hình dung điểm áp lực như **diễn tập cháy**. Anh không đợi tòa nhà cháy mới học lối thoát. **Anh học lối thoát bây giờ, để khi lửa tới, cơ thể đi đường không suy nghĩ.** 5 protocol điểm áp lực là lối thoát của anh. **Tập trong thực hành, để cơ thể biết trong trận.***
+> *Hình dung điểm áp lực như **diễn tập cháy**. Anh không đợi tòa nhà cháy mới học lối thoát. **Anh học lối thoát bây giờ, để khi lửa tới, cơ thể đi đường không suy nghĩ.** 5 protocol điểm áp lực là lối thoát của bạn. **Tập trong thực hành, để cơ thể biết trong trận.***
 
 ### Pressure Point 1 — Serving for the Set | Điểm Áp Lực 1 — Giao Để Thắng Set
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Scenario:** you're up 5-4 (or 6-5 in the tiebreak), serving for the set. The whole match comes down to this service game. | **Tình huống:** anh up 5-4 (hoặc 6-5 trong tiebreak), giao để thắng set. Cả trận quy về game giao này. |
+| **Scenario:** you're up 5-4 (or 6-5 in the tiebreak), serving for the set. The whole match comes down to this service game. | **Tình huống:** bạn up 5-4 (hoặc 6-5 trong tiebreak), giao để thắng set. Cả trận quy về game giao này. |
 | **The 3.5 panic:** the player speeds up. They want to "end it now." They serve faster, swing harder, and miss. | **Hoảng 3.5:** người chơi tăng tốc. Họ muốn "kết thúc ngay." Họ giao nhanh hơn, vung mạnh hơn, và trượt. |
 | **The protocol: SLOW DOWN.** | **Protocol: CHẬM LẠI.** |
 | 1. **Use the full 20 seconds** before the serve. Take your time. The clock is your friend. | 1. **Dùng đủ 20 giây** trước serve. Từ từ. Đồng hồ là bạn. |
 | 2. **Do the full 4-step ritual** (bounce, breathe, body check, build). | 2. **Làm đủ nghi thức 4 bước** (nảy, thở, kiểm tra cơ thể, dựng). |
-| 3. **Hit the SAME serve** you've been hitting all match. Don't change the speed, the spin, or the location. **The pressure is in your head, not in the ball.** | 3. **Đánh CÙNG serve** anh đã đánh cả trận. Đừng đổi tốc độ, xoáy, hoặc vị trí. **Áp lực ở đầu anh, không ở bóng.** |
+| 3. **Hit the SAME serve** you've been hitting all match. Don't change the speed, the spin, or the location. **The pressure is in your head, not in the ball.** | 3. **Đánh CÙNG serve** bạn đã đánh cả trận. Đừng đổi tốc độ, xoáy, hoặc vị trí. **Áp lực ở đầu bạn, không ở bóng.** |
 | 4. **Trust your first serve.** 70% first serves in. If you miss the first, hit the second — no problem. **The first serve is a gift.** | 4. **Tin serve 1.** 70% serve 1 vào. Nếu trượt serve 1, đánh serve 2 — không vấn đề. **Serve 1 là món quà.** |
 
 > 💡 **The "same serve" principle | Nguyên lý "cùng serve"**
 > **The serve doesn't change with the score.** The biomechanics are identical. The ball doesn't know it's 5-4. The court doesn't know it's for the set. **Only your mind knows.** The protocol: hit the same serve. Trust the routine. **The body knows how to serve. Let it.**
 >
-> *Serve không đổi theo tỷ số. Cơ sinh học giống hệt. Bóng không biết là 5-4. Sân không biết là giao set. **Chỉ tâm anh biết.** Protocol: đánh cùng serve. Tin routine. **Cơ thể biết cách giao. Để nó.***
+> *Serve không đổi theo tỷ số. Cơ sinh học giống hệt. Bóng không biết là 5-4. Sân không biết là giao set. **Chỉ tâm bạn biết.** Protocol: đánh cùng serve. Tin routine. **Cơ thể biết cách giao. Để nó.***
 
 ### Pressure Point 2 — Serving for the Match | Điểm Áp Lực 2 — Giao Để Thắng Trận
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Scenario:** you're up 5-4 in the 3rd set, serving for the match. OR up 5-0 in the tiebreak. The match is on your racket. | **Tình huống:** anh up 5-4 set 3, giao để thắng trận. HOẶC up 5-0 trong tiebreak. Trận ở trên vợt anh. |
+| **Scenario:** you're up 5-4 in the 3rd set, serving for the match. OR up 5-0 in the tiebreak. The match is on your racket. | **Tình huống:** bạn up 5-4 set 3, giao để thắng trận. HOẶC up 5-0 trong tiebreak. Trận ở trên vợt bạn. |
 | **The 3.5 panic:** the player thinks "I might lose this match." They serve scared. They serve the second serve on the first ball. They miss. | **Hoảng 3.5:** người chơi nghĩ "mình có thể thua trận này." Họ giao sợ. Họ giao serve 2 trên bóng 1. Họ trượt. |
 | **The protocol: TRUST THE SERVE, TRUST THE OPPONENT.** | **Protocol: TIN SERVE, TIN ĐỐI THỦ.** |
 | 1. **Trust the serve.** Same protocol as Pressure Point 1. Hit the same serve. | 1. **Tin serve.** Cùng protocol Điểm Áp Lực 1. Đánh cùng serve. |
 | 2. **Trust the opponent.** The opponent has been playing well all match. They will hit a return. **That's their job.** Don't be surprised. | 2. **Tin đối thủ.** Đối thủ đã chơi tốt cả trận. Họ sẽ đánh return. **Đó là việc của họ.** Đừng ngạc nhiên. |
-| 3. **Trust the rally.** If the opponent returns well, you play the next shot. **The match isn't over after the first ball.** | 3. **Tin rally.** Nếu đối thủ return tốt, anh đánh cú tiếp. **Trận chưa xong sau bóng 1.** |
+| 3. **Trust the rally.** If the opponent returns well, you play the next shot. **The match isn't over after the first ball.** | 3. **Tin rally.** Nếu đối thủ return tốt, bạn đánh cú tiếp. **Trận chưa xong sau bóng 1.** |
 | 4. **The "this is just a match" perspective.** (See the 50+ edge below.) | 4. **Quan điểm "đây chỉ là một trận."** (Xem lợi thế 50+ bên dưới.) |
 
 > 🩺 **The 50+ perspective | Viễn kiến 50+**
 > **At 50+, you've lived through enough losses to know that one match doesn't define you.** You've had career losses. You've had family losses. You've had health scares. **A tennis match — even an important one — is small.** This perspective is the **ultimate pressure protocol.** The 30-year-old's whole identity might be on the line. The 50-year-old knows the match is a match.
 >
-> *Ở tuổi 50+, anh đã sống qua đủ thua để biết một trận không định nghĩa anh. Anh đã thua trong sự nghiệp. Thua trong gia đình. Thua sức khỏe. **Một trận tennis — dù quan trọng — là nhỏ.** Viễn kiến này là **protocol áp lực tối thượng.** Người 30 tuổi cả danh tính có thể trên đường. Người 50 tuổi biết trận chỉ là trận.*
+> *Ở tuổi 50+, bạn đã sống qua đủ thua để biết một trận không định nghĩa bạn. Anh đã thua trong sự nghiệp. Thua trong gia đình. Thua sức khỏe. **Một trận tennis — dù quan trọng — là nhỏ.** Viễn kiến này là **protocol áp lực tối thượng.** Người 30 tuổi cả danh tính có thể trên đường. Người 50 tuổi biết trận chỉ là trận.*
 
 ### Pressure Point 3 — Double-Fault Down Break Point | Điểm Áp Lực 3 — Double-Fault Ở Break Point
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Scenario:** you're at 30-40 or 15-40 (break point against you). You just double-faulted the previous point. Your serve is in your head. | **Tình huống:** anh ở 30-40 hoặc 15-40 (break point chống anh). Anh vừa double-fault điểm trước. Serve ở trong đầu anh. |
+| **Scenario:** you're at 30-40 or 15-40 (break point against you). You just double-faulted the previous point. Your serve is in your head. | **Tình huống:** bạn ở 30-40 hoặc 15-40 (break point chống bạn). Anh vừa double-fault điểm trước. Serve ở trong đầu bạn. |
 | **The 3.5 panic:** the player thinks "I'm going to double-fault again." They serve carefully, but the carefulness makes them tight. They double-fault again. | **Hoảng 3.5:** người chơi nghĩ "mình sẽ double-fault lại." Họ giao cẩn thận, nhưng sự cẩn thận làm họ căng. Họ double-fault lại. |
 | **The protocol: HIT THE SECOND SERVE FIRST.** | **Protocol: ĐÁNH SERVE 2 TRƯỚC.** |
 | 1. **Decide to hit a second serve on the first ball.** Don't even try the first serve. **Take the pressure off by removing the decision.** | 1. **Quyết định đánh serve 2 trên bóng 1.** Đừng thử serve 1. **Lấy áp lực ra bằng cách bỏ quyết định.** |
@@ -247,34 +247,34 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Scenario:** you're down 0-40, 0-30, or similar — multiple break points against you in a row. The set is slipping away. | **Tình huống:** anh down 0-40, 0-30, hoặc tương tự — nhiều break point chống anh liên tiếp. Set đang tuột. |
+| **Scenario:** you're down 0-40, 0-30, or similar — multiple break points against you in a row. The set is slipping away. | **Tình huống:** bạn down 0-40, 0-30, hoặc tương tự — nhiều break point chống bạn liên tiếp. Set đang tuột. |
 | **The 3.5 panic:** the player thinks "I should just give up this game and start the next one." They give up. | **Hoảng 3.5:** người chơi nghĩ "thôi bỏ game này, bắt đầu game sau." Họ bỏ. |
 | **The protocol: ONE POINT AT A TIME.** | **Protocol: MỘT ĐIỂM MỘT LẦN.** |
 | 1. **Don't think about the game.** Don't think about "I'm 0-40." **Think only about the NEXT point.** The next point is 15-40 (one point closer). | 1. **Đừng nghĩ về game.** Đừng nghĩ "mình 0-40." **Chỉ nghĩ về điểm TIẾP THEO.** Điểm tiếp theo là 15-40 (gần hơn một điểm). |
 | 2. **The 3.5 paradox:** the player who gives up at 0-40 loses 100% of the time. The player who fights can win the game (the opponent has to win 3 points in a row, which is hard at 3.5). | 2. **Nghịch lý 3.5:** người bỏ ở 0-40 thua 100%. Người chiến đấu có thể thắng game (đối thủ phải thắng 3 điểm liên tiếp, khó ở 3.5). |
 | 3. **Use the 4-step ritual for every point.** The ritual is the reset. **The body fights even when the mind wants to quit.** | 3. **Dùng nghi thức 4 bước cho mỗi điểm.** Nghi thức là reset. **Cơ thể chiến đấu ngay cả khi tâm muốn bỏ.** |
-| 4. **The "tennis math":** even at 0-40, you have a 30-40% chance to win the game (3.5 stats). The math is on your side IF you fight. | 4. **"Toán tennis":** ngay cả ở 0-40, anh có 30-40% cơ hội thắng game (thống kê 3.5). Toán nghiêng về anh NẾU anh chiến đấu. |
+| 4. **The "tennis math":** even at 0-40, you have a 30-40% chance to win the game (3.5 stats). The math is on your side IF you fight. | 4. **"Toán tennis":** ngay cả ở 0-40, bạn có 30-40% cơ hội thắng game (thống kê 3.5). Toán nghiêng về bạn NẾU bạn chiến đấu. |
 
 > 🧠 **The "tennis math" insight | Hiểu biết "toán tennis"**
 > **At 3.5, 0-40 is NOT hopeless.** The opponent has to win 3 points in a row to break you. At 3.5, the consistency is low — most players can hit ONE good shot but not three in a row. **The 0-40 player who fights wins 30-40% of the time. The 0-40 player who quits wins 0% of the time.** Fight the math.
 >
-> *Ở 3.5, 0-40 KHÔNG phải tuyệt vọng. Đối thủ phải thắng 3 điểm liên tiếp để break anh. Ở 3.5, tính nhất quán thấp — hầu hết người chơi có thể đánh MỘT cú tốt nhưng không phải ba cú liên tiếp. **Người 0-40 chiến đấu thắng 30-40% thời gian. Người 0-40 bỏ cuộc thắng 0%.** Chiến đấu toán học.*
+> *Ở 3.5, 0-40 KHÔNG phải tuyệt vọng. Đối thủ phải thắng 3 điểm liên tiếp để break bạn. Ở 3.5, tính nhất quán thấp — hầu hết người chơi có thể đánh MỘT cú tốt nhưng không phải ba cú liên tiếp. **Người 0-40 chiến đấu thắng 30-40% thời gian. Người 0-40 bỏ cuộc thắng 0%.** Chiến đấu toán học.*
 
 ### Pressure Point 5 — The "Almost Held" Trap | Điểm Áp Lực 5 — Cái Bẫy "Gần Giữ"
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Scenario:** you were up 40-0 or 40-15 on your serve. Now it's deuce. You "almost" held, and the opponent came back. The set is slipping. | **Tình huống:** anh up 40-0 hoặc 40-15 trên serve. Giờ là deuce. Anh "gần" giữ, và đối thủ quay lại. Set đang tuột. |
+| **Scenario:** you were up 40-0 or 40-15 on your serve. Now it's deuce. You "almost" held, and the opponent came back. The set is slipping. | **Tình huống:** bạn up 40-0 hoặc 40-15 trên serve. Giờ là deuce. Anh "gần" giữ, và đối thủ quay lại. Set đang tuột. |
 | **The 3.5 panic:** the player thinks "I should have held. I blew it." They play the next point with regret, and the regret makes them tight. | **Hoảng 3.5:** người chơi nghĩ "mình đáng lẽ đã giữ. Mình đã phá hỏng." Họ đánh điểm tiếp với hối tiếc, và hối tiếc làm họ căng. |
 | **The protocol: FORGET THE 40-0.** | **Protocol: QUÊN 40-0 ĐI.** |
 | 1. **The 40-0 is in the past.** It doesn't exist. **The score is deuce. The next point is advantage in or out.** | 1. **40-0 ở quá khứ.** Nó không tồn tại. **Tỷ số là deuce. Điểm tiếp là advantage vào hoặc ra.** |
 | 2. **The 50+ perspective applies again.** A 30-year-old rages about the lost 40-0. A 50-year-old shrugs. **The shrug is the protocol.** | 2. **Viễn kiến 50+ áp dụng lại.** Người 30 tuổi tức giận về 40-0 mất. Người 50 tuổi nhún vai. **Cái nhún vai là protocol.** |
-| 3. **The opponent "almost broke you" — but didn't.** Use that as momentum. **You held off 3 break points. You're still in the game.** | 3. **Đối thủ "gần" break anh — nhưng không. Dùng đó làm đà. **Anh đã chặn 3 break point. Anh vẫn trong game.** |
+| 3. **The opponent "almost broke you" — but didn't.** Use that as momentum. **You held off 3 break points. You're still in the game.** | 3. **Đối thủ "gần" break bạn — nhưng không. Dùng đó làm đà. **Anh đã chặn 3 break point. Anh vẫn trong game.** |
 
 > 🧠 **The "shrug" perspective | Quan điểm "nhún vai"**
 > **The shrug is a 50+ superpower.** At 30, you rage at the lost 40-0. At 50, you shrug and play the next point. The shrug is not apathy — it's **perspective**. **You've lost more important things than a tennis game.** The shrug is the embodied cue: relax the shoulders, unclench the jaw, shake the hands. The body shrugs, the mind follows. **The next point is the only one that matters.**
 >
-> *Nhún vai là siêu năng lực 50+. Ở 30, anh tức về 40-0 mất. Ở 50, anh nhún vai và đánh điểm tiếp. Nhún vai không phải thờ ơ — đó là **viễn kiến**. **Anh đã mất những thứ quan trọng hơn trận tennis.** Cái nhún vai là tín hiệu embodied: thả vai, mở hàm, lắc tay. Cơ thể nhún vai, tâm theo sau. **Điểm tiếp là điểm duy nhất quan trọng.***
+> *Nhún vai là siêu năng lực 50+. Ở 30, bạn tức về 40-0 mất. Ở 50, bạn nhún vai và đánh điểm tiếp. Nhún vai không phải thờ ơ — đó là **viễn kiến**. **Anh đã mất những thứ quan trọng hơn trận tennis.** Cái nhún vai là tín hiệu embodied: thả vai, mở hàm, lắc tay. Cơ thể nhún vai, tâm theo sau. **Điểm tiếp là điểm duy nhất quan trọng.***
 
 ### The Pressure Point Cheat Sheet | Bảng Tóm Tắt Điểm Áp Lực
 
@@ -293,7 +293,7 @@ STEP 4 (2 sec):    BUILD (look at the target, see the shot, commit)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| You just lost your serve. The opponent broke you. **The next game starts in 90 seconds.** | Anh vừa mất serve. Đối thủ vừa break anh. **Game tiếp bắt đầu trong 90 giây.** |
+| You just lost your serve. The opponent broke you. **The next game starts in 90 seconds.** | Anh vừa mất serve. Đối thủ vừa break bạn. **Game tiếp bắt đầu trong 90 giây.** |
 | The 90-second window is the most important window in tennis. **What you do in these 90 seconds determines the next 3-4 games.** | Cửa sổ 90 giây là cửa sổ quan trọng nhất trong tennis. **Anh làm gì trong 90 giây này quyết định 3-4 game tiếp.** |
 | Most 3.5 players **waste these 90 seconds** — they sit in their chair, sulk, replay the lost point, and arrive at the next game already defeated. | Hầu hết người 3.5 **lãng phí 90 giây này** — họ ngồi ghế, phục, replay điểm thua, và tới game tiếp đã thua rồi. |
 | The protocol: a **4-action sequence** that takes 90 seconds and resets the mind for the next game. | Protocol: **chuỗi 4 hành động** mất 90 giây và reset tâm cho game tiếp. |
@@ -316,7 +316,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The moment you lose the point, the first 15 seconds are the danger zone.** The body wants to scream, slam the racket, argue, or freeze. | **Khoảnh khắc anh thua điểm, 15 giây đầu là vùng nguy hiểm.** Cơ thể muốn hét, đập vợt, cãi, hoặc đóng băng. |
+| **The moment you lose the point, the first 15 seconds are the danger zone.** The body wants to scream, slam the racket, argue, or freeze. | **Khoảnh khắc bạn thua điểm, 15 giây đầu là vùng nguy hiểm.** Cơ thể muốn hét, đập vợt, cãi, hoặc đóng băng. |
 | **The Drop action stops the spiral:** | **Hành động Hạ dừng xoáy:** |
 | 1. **Sit down** (or stand still if you can't sit). | 1. **Ngồi xuống** (hoặc đứng yên nếu không ngồi được). |
 | 2. **Drop the shoulders** (1-2 inches, instant tension release). | 2. **Hạ vai** (1-2 inch, giải phóng căng tức thì). |
@@ -345,7 +345,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Drift is the passive phase.** You walk to the chair, you sit, you hydrate, you breathe. **No thinking, no analysis, no talking.** | **Trôi là pha thụ động.** Anh đi tới ghế, anh ngồi, anh uống nước, anh thở. **Không suy nghĩ, không phân tích, không nói.** |
+| **Drift is the passive phase.** You walk to the chair, you sit, you hydrate, you breathe. **No thinking, no analysis, no talking.** | **Trôi là pha thụ động.** Anh đi tới ghế, bạn ngồi, bạn uống nước, bạn thở. **Không suy nghĩ, không phân tích, không nói.** |
 | **The 3 rules of Drift:** | **3 quy tắc Trôi:** |
 | 1. **Don't talk to your partner** (about tennis). Talk about anything else — the weather, the lunch, the parking. **Tennis talk reinforces the loss.** | 1. **Đừng nói về tennis với partner.** Nói về bất kỳ thứ gì khác — thời tiết, bữa trưa, chỗ đậu xe. **Nói tennis củng cố thua.** |
 | 2. **Don't replay the lost point.** Replay is the #1 trap. **The lost point is in the past. The next game is in the future.** | 2. **Đừng replay điểm thua.** Replay là bẫy #1. **Điểm thua ở quá khứ. Game tiếp ở tương lai.** |
@@ -361,7 +361,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Document is the active phase.** Now (and only now) you can think about the lost game. **But you think in tactical terms, not emotional terms.** | **Ghi là pha tích cực.** Bây giờ (và chỉ bây giờ) anh có thể nghĩ về game thua. **Nhưng anh nghĩ theo thuật ngữ chiến thuật, không theo thuật ngữ cảm xúc.** |
+| **Document is the active phase.** Now (and only now) you can think about the lost game. **But you think in tactical terms, not emotional terms.** | **Ghi là pha tích cực.** Bây giờ (và chỉ bây giờ) bạn có thể nghĩ về game thua. **Nhưng bạn nghĩ theo thuật ngữ chiến thuật, không theo thuật ngữ cảm xúc.** |
 | **The 2 questions of Document:** | **2 câu hỏi của Ghi:** |
 | 1. **"What went wrong?"** (tactical, not emotional). Example: "My first serve percentage dropped to 40% in that game. My backhand was short." | 1. **"Sai ở đâu?"** (chiến thuật, không cảm xúc). VD: "Tỷ lệ serve 1 tôi giảm xuống 40% game đó. Backhand tôi ngắn." |
 | 2. **"What can I do next game?"** (action, not regret). Example: "Aim more body serves. Hit deeper backhands." | 2. **"Tôi có thể làm gì game tới?"** (hành động, không hối tiếc). VD: "Nhắm nhiều serve thân hơn. Đánh backhand sâu hơn." |
@@ -409,7 +409,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 > 🩺 **The 50+ reality check | Kiểm tra thực tế 50+**
 > **At 50+, your technical tennis is declining slowly. Your mental tennis is INCREASING.** Every year, you have more perspective. Every year, you shrug a little more. Every year, the 4-action loss recovery becomes a little more automatic. **By 60, you'll be the calmest player on the court. By 70, you'll be the calmest player in the club.** The 50+ mental edge is the only tennis advantage that GROWS with age.
 >
-> *Ở tuổi 50+, tennis kỹ thuật anh giảm chậm. Tennis tâm lý anh TĂNG. Mỗi năm, anh có nhiều viễn kiến hơn. Mỗi năm, anh nhún vai nhiều hơn một chút. Mỗi năm, hồi phục 4 hành động tự động hơn một chút. **Đến 60, anh là người chơi bình tĩnh nhất trên sân. Đến 70, anh là người bình tĩnh nhất ở club.** Lợi thế tâm lý 50+ là lợi thế tennis DUY NHẤT tăng theo tuổi.*
+> *Ở tuổi 50+, tennis kỹ thuật bạn giảm chậm. Tennis tâm lý bạn TĂNG. Mỗi năm, bạn có nhiều viễn kiến hơn. Mỗi năm, bạn nhún vai nhiều hơn một chút. Mỗi năm, hồi phục 4 hành động tự động hơn một chút. **Đến 60, bạn là người chơi bình tĩnh nhất trên sân. Đến 70, bạn là người bình tĩnh nhất ở club.** Lợi thế tâm lý 50+ là lợi thế tennis DUY NHẤT tăng theo tuổi.*
 
 ### The Loss Recovery Cheat Sheet | Bảng Tóm Tắt Hồi Phục Sau Thua
 
@@ -444,7 +444,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Set a timer for 30 seconds. During the 30 seconds, do the 4 body fixes every 5 seconds. **This trains the embodied reflex.** | Đặt đồng hồ 30 giây. Trong 30 giây, làm 4 sửa cơ thể mỗi 5 giây. **Tập này huấn luyện phản xạ embodied.** |
-| After 30 seconds, notice how your mind feels. **The body fixes will reset your mental state in 5-10 seconds.** | Sau 30 giây, để ý tâm anh cảm thấy sao. **Sửa cơ thể sẽ reset trạng thái tâm trong 5-10 giây.** |
+| After 30 seconds, notice how your mind feels. **The body fixes will reset your mental state in 5-10 seconds.** | Sau 30 giây, để ý tâm bạn cảm thấy sao. **Sửa cơ thể sẽ reset trạng thái tâm trong 5-10 giây.** |
 
 #### Drill 3 — The "Drop-Drift-Document-Drink" Practice (With Partner, 5 min) | Tập Hồi Phục Sau Thua
 
@@ -458,7 +458,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Play a tiebreak. Before the tiebreak, your partner tells you which protocol to use (e.g., "Use Pressure Point 3 — second serve first"). | Đánh tiebreak. Trước tiebreak, partner nói anh dùng protocol nào (VD: "Dùng Điểm Áp Lực 3 — serve 2 trước"). |
+| Play a tiebreak. Before the tiebreak, your partner tells you which protocol to use (e.g., "Use Pressure Point 3 — second serve first"). | Đánh tiebreak. Trước tiebreak, partner nói bạn dùng protocol nào (VD: "Dùng Điểm Áp Lực 3 — serve 2 trước"). |
 | **You execute the protocol** for the entire tiebreak. | **Anh thực hiện protocol** suốt tiebreak. |
 | **After the tiebreak, discuss:** did the protocol help? What did you notice about your body and mind? | **Sau tiebreak, thảo luận:** protocol có giúp không? Anh để ý gì về cơ thể và tâm? |
 | **Goal: 5 tiebreaks, 5 different protocols.** | **Mục tiêu: 5 tiebreak, 5 protocol khác.** |
@@ -467,7 +467,7 @@ ACTION 4 (75-90 sec):  DRINK — Sip water, breathe, body check, walk to the lin
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand in front of a mirror. Imagine you just missed a big point. **Practise the shrug:** | Đứng trước gương. Hình dung anh vừa trượt một điểm lớn. **Tập nhún vai:** |
+| Stand in front of a mirror. Imagine you just missed a big point. **Practise the shrug:** | Đứng trước gương. Hình dung bạn vừa trượt một điểm lớn. **Tập nhún vai:** |
 | 1. Drop your shoulders 1 inch. | 1. Hạ vai 1 inch. |
 | 2. Unclench your jaw. | 2. Mở hàm. |
 | 3. Smile (slightly). | 3. Cười (nhẹ). |
@@ -658,11 +658,11 @@ PHASE 5 — CHANGEOVER (90 sec at 1-3, 3-5, etc.):
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Tennis ở level 3.5 là 80% tâm lý. 20% chênh lệch kỹ thuật giữa người chơi là nhỏ. Chênh lệch tâm lý là lớn. Và ở tuổi 50+, anh có lợi thế tâm lý mà người 30 không có: viễn kiến. Anh đã sống. Anh đã thua. Anh biết một trận tennis — dù quan trọng — là nhỏ. Cái nhún vai của anh ở deuce 5-4 là thứ mà người 30 không có. Đó là lợi thế tăng theo tuổi.*
+> *Tennis ở level 3.5 là 80% tâm lý. 20% chênh lệch kỹ thuật giữa người chơi là nhỏ. Chênh lệch tâm lý là lớn. Và ở tuổi 50+, bạn có lợi thế tâm lý mà người 30 không có: viễn kiến. Anh đã sống. Anh đã thua. Anh biết một trận tennis — dù quan trọng — là nhỏ. Cái nhún vai của bạn ở deuce 5-4 là thứ mà người 30 không có. Đó là lợi thế tăng theo tuổi.*
 >
 > *Tennis at 3.5 is 80% mental. The 20% technical gap between players is small. The mental gap is huge. And at 50+, you have a mental advantage the 30-year-old doesn't: perspective. You've lived. You've lost. You know a tennis match — even an important one — is small. The shrug at 5-4 deuce is something the 30-year-old doesn't have. That's the advantage that grows with age.*
 
-Bắt đầu tuần này với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, nghi thức sẽ tự động, cơ thể sẽ phản xạ, và anh sẽ thấy mình bình tĩnh hơn người 30 trên sân ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (4-step ritual, 3 phút/ngày) — đó là nền tảng cho mọi điểm. Rồi thêm **Drill 2** (body check only, 2 phút/ngày) — đó là nền tảng cho mọi mental reset. Trong 4 tuần, nghi thức sẽ tự động, cơ thể sẽ phản xạ, và bạn sẽ thấy mình bình tĩnh hơn người 30 trên sân ở Surrey. 🎾
 
 ---
 

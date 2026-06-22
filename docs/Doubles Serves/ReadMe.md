@@ -93,4 +93,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "4 mẫu serve" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống.
+Hy vọng tuần này bạn sẽ thêm "4 mẫu serve" vào toolkit đôi ở Surrey. Bắt đầu với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống.

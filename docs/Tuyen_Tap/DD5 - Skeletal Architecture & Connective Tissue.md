@@ -8,7 +8,7 @@
 
 ## Tại sao tôi viết chương này / Why I wrote this
 
-Tôi đã đi khám bác sĩ vì đau vai, và bác sĩ chụp X-quang rồi nói "xương của anh bình thường". Tôi ra về với một toa thuốc giảm đau và không có câu trả lời thực sự. Một năm sau, tôi mới hiểu vấn đề không phải ở xương — vấn đề ở *cách tôi sử dụng xương của mình*. Xương của tôi thì bình thường, nhưng tôi không hiểu nó là một hệ thống đòn bẩy. Tôi không hiểu rằng hình dạng ổ khớp vai quyết định góc đánh tối đa của tôi. Tôi không hiểu rằng khung chậu của tôi có hình dạng cụ thể và tôi phải chơi quanh nó, không phải chống lại nó.
+Tôi đã đi khám bác sĩ vì đau vai, và bác sĩ chụp X-quang rồi nói "xương của bạn bình thường". Tôi ra về với một toa thuốc giảm đau và không có câu trả lời thực sự. Một năm sau, tôi mới hiểu vấn đề không phải ở xương — vấn đề ở *cách tôi sử dụng xương của mình*. Xương của tôi thì bình thường, nhưng tôi không hiểu nó là một hệ thống đòn bẩy. Tôi không hiểu rằng hình dạng ổ khớp vai quyết định góc đánh tối đa của tôi. Tôi không hiểu rằng khung chậu của tôi có hình dạng cụ thể và tôi phải chơi quanh nó, không phải chống lại nó.
 
 Chương này nói về BỘ XƯƠNG bên dưới các cơ. Hình dạng xương quyết định biên khớp của các bạn. Mô liên kết (dây chằng, sụn, fascia) giữ tất cả lại với nhau. Hệ ĐÒN BẨY nhân (hoặc giới hạn) lực của các bạn.
 

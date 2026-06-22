@@ -30,13 +30,13 @@
 |---|---|
 | Watch Jannik Sinner hit a forehand on clay. There is almost no sound of effort. The racket seems to move in slow motion for most of the swing, then the last 30% is a blur. The ball flies flat, heavy, and lands inside the line. | Xem Sinner đánh forehand trên sân đất. Gần như không có tiếng gắng sức. Vợt dường như đi chậm suốt phần lớn cú vung, rồi 30% cuối thì bùng nổ. Bóng đi phẳng, nặng, rơi vừa trong vạch. |
 | Recreational players do the opposite: they swing hard from the very start, and the ball flies into the net or out long. | Người chơi nghiệp dư làm ngược lại: vung mạnh ngay từ đầu, và bóng bay vào lưới hoặc ra ngoài. |
-| **The secret is not more effort. The secret is delayed effort.** You stay slow and loose for 70% of the swing, then the chest fires for the last 30%. The racket "whips" through — you didn't throw it, your body launched it. | **Bí mật không phải gắng sức hơn. Bí mật là trì hoãn gắng sức.** Anh đi chậm và lỏng 70% cú vung, rồi ngực "bắn" ở 30% cuối. Vợt "quất" qua — anh không ném nó, cơ thể anh phóng nó. |
+| **The secret is not more effort. The secret is delayed effort.** You stay slow and loose for 70% of the swing, then the chest fires for the last 30%. The racket "whips" through — you didn't throw it, your body launched it. | **Bí mật không phải gắng sức hơn. Bí mật là trì hoãn gắng sức.** Anh đi chậm và lỏng 70% cú vung, rồi ngực "bắn" ở 30% cuối. Vợt "quất" qua — bạn không ném nó, cơ thể bạn phóng nó. |
 | Tennis is a whip sport, not a hammer sport. | Tennis là môn roi da, không phải môn búa. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of a fishing rod. The tip is your racket head. If you yank the handle (your arm), the tip wobbles out of control. If you load the rod with a slow wind-up, then flick the wrist at the last moment, the tip explodes forward. **Your chest is the flick. Your arm is just the rod.**
 >
-> *Hãy nghĩ như cần câu cá. Đầu cần là đầu vợt. Nếu anh giật cán (tay), đầu cần lắc loạn. Nếu anh nạp đà chậm rồi quất cổ tay phút cuối, đầu cần phóng tới. **Ngực anh là cái quất. Tay anh chỉ là cần câu.***
+> *Hãy nghĩ như cần câu cá. Đầu cần là đầu vợt. Nếu bạn giật cán (tay), đầu cần lắc loạn. Nếu bạn nạp đà chậm rồi quất cổ tay phút cuối, đầu cần phóng tới. **Ngực bạn là cái quất. Tay bạn chỉ là cần câu.***
 
 ---
 
@@ -76,7 +76,7 @@
 > ⚠️ **Common error at 3.5 | Lỗi thường gặp**
 > Letting the left hand drop early. The moment the left hand leaves the throat, the racket falls behind your back and you lose the L. **Keep the left hand glued to the throat until your forearm starts moving forward.**
 >
-> *Thả tay trái sớm. Khoảnh khắc tay trái rời cổ vợt, vợt rơi ra sau lưng và anh mất góc L. **Giữ tay trái dính vào cổ vợt cho tới khi cẳng tay bắt đầu đi tới.***
+> *Thả tay trái sớm. Khoảnh khắc tay trái rời cổ vợt, vợt rơi ra sau lưng và bạn mất góc L. **Giữ tay trái dính vào cổ vợt cho tới khi cẳng tay bắt đầu đi tới.***
 
 ---
 
@@ -97,7 +97,7 @@
 > 🎨 **Visual cue | Tín hiệu hình ảnh**
 > Imagine you're holding a tray of drinks. The racket is the tray. You don't want to spill the drinks, so you keep them level. The drinks are the "weight" of the racket head. Keep them high.
 >
-> *Hình dung anh đang bưng khay nước. Vợt là cái khay. Anh không muốn đổ nước, nên giữ khay ngang. Nước là trọng lượng đầu vợt. Giữ cao.*
+> *Hình dung bạn đang bưng khay nước. Vợt là cái khay. Anh không muốn đổ nước, nên giữ khay ngang. Nước là trọng lượng đầu vợt. Giữ cao.*
 
 ### 🎯 Cue 2 — The Drop: "Pat the Dog" | Rơi vợt: "Vỗ chó"
 
@@ -121,7 +121,7 @@
 |---|---|
 | Without a ball, do a slow-motion forehand. At the bottom of the drop (racket head below wrist, behind you), **pause for 2 seconds.** Feel the weight of the racket head hanging from your forearm. | Không bóng, làm forehand chậm. Ở đáy cú drop (đầu vợt thấp hơn cổ tay, ở phía sau), **dừng 2 giây.** Cảm nhận trọng lượng đầu vợt treo trên cẳng tay. |
 | Then slowly stand up and rotate your chest. Let the racket fly forward on its own. **Don't push it.** | Rồi từ từ đứng dậy và xoay ngực. Để vợt tự bay tới. **Đừng đẩy.** |
-| If you feel your forearm or wrist straining, you're pushing. If you feel your chest and hip doing the work, you're letting it whip. | Nếu thấy cẳng tay hay cổ tay gồng, anh đang đẩy. Nếu thấy ngực và hông làm việc, anh đang để roi quất. |
+| If you feel your forearm or wrist straining, you're pushing. If you feel your chest and hip doing the work, you're letting it whip. | Nếu thấy cẳng tay hay cổ tay gồng, bạn đang đẩy. Nếu thấy ngực và hông làm việc, bạn đang để roi quất. |
 
 > ⚠️ **The #1 3.5 mistake | Lỗi số 1 của 3.5**
 > Straightening the L during the drop. Recreational players extend the arm early, then try to "wrist snap" to recover. The result: shanks, net cords, sore wrist.
@@ -142,8 +142,8 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **70% of your swing is slow.** Preparation, drop, loading the lag — all slow. **30% is fast:** from contact to finish. | **70% cú vung chậm.** Chuẩn bị, drop, nạp lag — đều chậm. **30% nhanh:** từ chạm bóng tới kết thúc. |
-| If you feel like you've been swinging for a long time and then the ball flies off the racket — that's the rhythm. | Nếu anh cảm thấy mình vung lâu rồi bóng mới bay đi — đó là đúng nhịp. |
-| If you feel like you're trying to "swing fast" the whole time — stop. You're early. | Nếu anh cảm thấy mình "vung nhanh" cả cú — dừng lại. Anh đang tăng tốc sớm. |
+| If you feel like you've been swinging for a long time and then the ball flies off the racket — that's the rhythm. | Nếu bạn cảm thấy mình vung lâu rồi bóng mới bay đi — đó là đúng nhịp. |
+| If you feel like you're trying to "swing fast" the whole time — stop. You're early. | Nếu bạn cảm thấy mình "vung nhanh" cả cú — dừng lại. Anh đang tăng tốc sớm. |
 
 ### 🎯 Cue 2 — Pronation at Contact | Xoay cẳng tay lúc chạm bóng
 
@@ -151,16 +151,16 @@
 |---|---|
 | In the last 0.02 seconds before contact, the forearm rolls over (pronation). This is what generates topspin and "heavy" ball. | Trong 0,02 giây cuối trước khi chạm bóng, cẳng tay xoay sấp. Đây là cái tạo topspin và bóng "nặng." |
 | **You don't need to think about it.** If you kept the L and the chest pushed at the right time, pronation happens automatically. | **Anh không cần nghĩ về nó.** Nếu giữ được góc L và ngực đẩy đúng lúc, pronation tự xảy ra. |
-| If you try to "wrist snap" early, you'll miss the contact point and the ball will fly. | Nếu cố "vẩy cổ tay" sớm, anh sẽ trượt điểm chạm và bóng bay. |
+| If you try to "wrist snap" early, you'll miss the contact point and the ball will fly. | Nếu cố "vẩy cổ tay" sớm, bạn sẽ trượt điểm chạm và bóng bay. |
 
 ### 🎯 Cue 3 — Redirect, Don't Kill | Đổi hướng, đừng giết
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| This is the most important mental shift for 3.5. Your job is **not** to hit a winner. Your job is to **make the ball live one more shot.** | Đây là sự chuyển đổi tư duy quan trọng nhất cho 3.5. Nhiệm vụ của anh **không phải** đánh winner. Nhiệm vụ là **giữ bóng sống thêm một nhịp.** |
-| When you "redirect," the racket face stays slightly open, you meet the ball at the lower part of the strings, and the ball climbs over the net with topspin. | Khi "đổi hướng," mặt vợt hơi mở, anh gặp bóng ở phần dưới dây, và bóng bay qua lưới với topspin. |
-| When you "kill," the racket face closes, you punch through, and the ball dies in the net or sails out. | Khi "giết," mặt vợt đóng, anh đẩy xuyên qua, bóng chết trong lưới hoặc bay ra ngoài. |
-| **Hear the strings.** A "pực" sound (long, soft) means you let the ball bite. A "bộp" sound (short, hard) means you punched. | **Nghe tiếng dây.** Tiếng "pực" (dài, mềm) nghĩa là anh để bóng cắn. Tiếng "bộp" (ngắn, cứng) nghĩa là anh đấm. |
+| This is the most important mental shift for 3.5. Your job is **not** to hit a winner. Your job is to **make the ball live one more shot.** | Đây là sự chuyển đổi tư duy quan trọng nhất cho 3.5. Nhiệm vụ của bạn **không phải** đánh winner. Nhiệm vụ là **giữ bóng sống thêm một nhịp.** |
+| When you "redirect," the racket face stays slightly open, you meet the ball at the lower part of the strings, and the ball climbs over the net with topspin. | Khi "đổi hướng," mặt vợt hơi mở, bạn gặp bóng ở phần dưới dây, và bóng bay qua lưới với topspin. |
+| When you "kill," the racket face closes, you punch through, and the ball dies in the net or sails out. | Khi "giết," mặt vợt đóng, bạn đẩy xuyên qua, bóng chết trong lưới hoặc bay ra ngoài. |
+| **Hear the strings.** A "pực" sound (long, soft) means you let the ball bite. A "bộp" sound (short, hard) means you punched. | **Nghe tiếng dây.** Tiếng "pực" (dài, mềm) nghĩa là bạn để bóng cắn. Tiếng "bộp" (ngắn, cứng) nghĩa là bạn đấm. |
 
 > 🧘 **The Zen of 3.5 Tennis | Zen của tennis 3.5**
 > "Rescue" feels like weakness. "Redirect" feels like survival. But both feel softer than a winner and produce less error. **At 3.5, fewer errors beats more power, every time.**
@@ -197,7 +197,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Have a friend feed you 3 different balls in this order: | Nhờ bạn đánh cho anh 3 quả theo thứ tự: |
+| Have a friend feed you 3 different balls in this order: | Nhờ bạn đánh cho bạn 3 quả theo thứ tự: |
 | **Ball 1 — Routine (linear engine):** Medium pace, middle of the court. Step in, neutral stance, drive through. | **Bóng 1 — Bình thường (động cơ thẳng):** Tốc độ vừa, giữa sân. Bước vào, stance trung, đánh thẳng. |
 | **Ball 2 — Wide (rotational engine):** Pulled out wide. Open stance, side bend, let the chest fire. | **Bóng 2 — Rộng (động cơ xoay):** Bóng kéo rộng. Stance mở, nghiêng thân, để ngực bắn. |
 | **Ball 3 — Short/attack (linear + forward):** Short ball you can step into. Lunge, body mass forward, drive. | **Bóng 3 — Ngắn/tấn công (thẳng + tới):** Bóng ngắn bước vào được. Bước dài, trọng lượng cơ thể tới, đánh. |
@@ -238,7 +238,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Your body changes at 50+. Recovery is slower. The shoulder joint has less margin. The lower back is the first to complain. | Cơ thể thay đổi ở tuổi 50+. Hồi phục chậm hơn. Khớp vai ít biên dự trữ. Lưng dưới là chỗ kêu đầu tiên. |
-| The L-angle technique is **especially good for you** — it uses the chest (large muscle) instead of the arm (small muscles). It loads the racket with gravity, not force. It plays the long game. | Kỹ thuật góc L **đặc biệt tốt cho anh** — dùng ngực (cơ lớn) thay vì tay (cơ nhỏ). Nạp vợt bằng trọng lực, không phải lực. Chơi trận dài. |
+| The L-angle technique is **especially good for you** — it uses the chest (large muscle) instead of the arm (small muscles). It loads the racket with gravity, not force. It plays the long game. | Kỹ thuật góc L **đặc biệt tốt cho bạn** — dùng ngực (cơ lớn) thay vì tay (cơ nhỏ). Nạp vợt bằng trọng lực, không phải lực. Chơi trận dài. |
 | **But:** don't try to copy Sinner's racket head speed. The goal is **ball control, not pace.** A 3.5 player hitting 70% pace with 90% accuracy will beat a 3.5 player hitting 100% pace with 60% accuracy. | **Nhưng:** đừng cố bắt chước tốc độ đầu vợt của Sinner. Mục tiêu là **kiểm soát bóng, không phải tốc độ.** Một người 3.5 đánh 70% lực với 90% chính xác sẽ thắng người đánh 100% lực với 60% chính xác. |
 | **Skip days if your body asks.** Tennis is a 20-year sport. You have time. | **Nghỉ ngày nào cơ thể đòi.** Tennis là môn 20 năm. Anh có thời gian. |
 
@@ -317,4 +317,4 @@ Other deep dives from your notes you might want:
 - **Racket Embodiment** (proprioception, automaticity) — the feel layer
 - **Complete Manual** — all 10 parts, full reference
 
-Just say the word, anh. 🎾
+Just say the word, bạn. 🎾

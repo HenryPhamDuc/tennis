@@ -91,4 +91,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "bản đồ đổi grip" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, anh sẽ chơi tennis thay vì tìm grip.
+Hy vọng tuần này bạn sẽ thêm "bản đồ đổi grip" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (bevel walk, 3 phút/ngày) — đó là nền tảng cho mọi đổi. Rồi thêm **Drill 2** (5-second reset, 3 phút/ngày) cho nghi thức trước điểm. Trong 4 tuần, bạn sẽ chơi tennis thay vì tìm grip.

@@ -89,7 +89,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Before you can find the Continental, you need to understand the BEVELS.** The handle of a tennis racket is not a smooth cylinder — it has 8 SIDES. Each side is called a "bevel." | **Trước khi anh có thể tìm Continental, anh cần hiểu CẠNH.** Cán vợt tennis không phải hình trụ trơn — nó có 8 MẶT. Mỗi mặt gọi là "cạnh." |
+| **Before you can find the Continental, you need to understand the BEVELS.** The handle of a tennis racket is not a smooth cylinder — it has 8 SIDES. Each side is called a "bevel." | **Trước khi bạn có thể tìm Continental, bạn cần hiểu CẠNH.** Cán vợt tennis không phải hình trụ trơn — nó có 8 MẶT. Mỗi mặt gọi là "cạnh." |
 | **The 8 bevels are numbered 1-8, starting from the top and going clockwise (for a right-hander).** | **8 cạnh được đánh số 1-8, bắt đầu từ trên và đi theo chiều kim đồng hồ (với người thuận phải).** |
 | - **Bevel 1:** the top flat surface (where the manufacturer's logo usually is). | - **Cạnh 1:** mặt phẳng trên (nơi logo nhà sản xuất thường ở). |
 | - **Bevel 2:** the first slanted surface to the right of bevel 1 (the LEFT side of the racket, for a right-hander, is the "hitting side"). | - **Cạnh 2:** mặt nghiêng đầu tiên bên phải cạnh 1 (bên TRÁI vợt, với người thuận phải, là "phía tay đánh"). |
@@ -99,7 +99,7 @@
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of the racket handle as a **stop sign with 8 sides.** The bevels are the 8 sides. **Bevel 1 is the top (where the logo is).** Bevel 2 is the next side clockwise. The Continental is the grip where the index knuckle sits on bevel 2. **Once you see the bevels, you can find the Continental in 1 second.**
 >
-> *Hình dung cán vợt như **biển báo dừng 8 mặt.** Các cạnh là 8 mặt. **Cạnh 1 là trên (nơi logo).** Cạnh 2 là mặt tiếp theo theo chiều kim đồng hồ. Continental là grip có đốt ngón trỏ ở cạnh 2. **Khi anh thấy các cạnh, anh có thể tìm Continental trong 1 giây.***
+> *Hình dung cán vợt như **biển báo dừng 8 mặt.** Các cạnh là 8 mặt. **Cạnh 1 là trên (nơi logo).** Cạnh 2 là mặt tiếp theo theo chiều kim đồng hồ. Continental là grip có đốt ngón trỏ ở cạnh 2. **Khi bạn thấy các cạnh, bạn có thể tìm Continental trong 1 giây.***
 
 ### The 8 Bevels — A Visual Map | 8 Cạnh — Bản Đồ Thị Giác
 
@@ -136,7 +136,7 @@ The V (thumb-index) on the TOP EDGE between bevels 1 and 2
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Bevel 1 is the top flat surface** of the handle. The manufacturer's logo is usually on this bevel. **When you hold the racket in front of you, palm facing you, bevel 1 is up.** | **Cạnh 1 là mặt phẳng trên** của cán. Logo nhà sản xuất thường ở cạnh này. **Khi anh cầm vợt trước mặt, lòng bàn tay hướng vào anh, cạnh 1 ở trên.** |
+| **Bevel 1 is the top flat surface** of the handle. The manufacturer's logo is usually on this bevel. **When you hold the racket in front of you, palm facing you, bevel 1 is up.** | **Cạnh 1 là mặt phẳng trên** của cán. Logo nhà sản xuất thường ở cạnh này. **Khi bạn cầm vợt trước mặt, lòng bàn tay hướng vào bạn, cạnh 1 ở trên.** |
 | **The Continental is NOT on bevel 1.** The Continental is one step clockwise from bevel 1. **Eastern is on bevel 3. Semi-Western is on bevel 4. Western is on bevel 5.** | **Continental KHÔNG ở cạnh 1.** Continental là một bước theo chiều kim đồng hồ từ cạnh 1. **Eastern ở cạnh 3. Semi-Western ở cạnh 4. Western ở cạnh 5.** |
 
 #### 🎯 Bevel 2 — The Continental (The 9-Shot Unlock) | Cạnh 2 — Continental (Mở Khóa 9 Cú)
@@ -149,7 +149,7 @@ The V (thumb-index) on the TOP EDGE between bevels 1 and 2
 > 💡 **The "one step clockwise" rule | Quy tắc "một bước theo chiều kim đồng hồ"**
 > **The Continental is one step clockwise from the logo (bevel 1).** If you can find the logo, you can find the Continental. The logo is up. The Continental is one step to the right. **That's it. That's the entire grip.**
 >
-> *Continental là một bước theo chiều kim đồng hồ từ logo (cạnh 1). Nếu anh tìm được logo, anh tìm được Continental. Logo ở trên. Continental là một bước sang phải. **Xong. Đó là toàn bộ grip.***
+> *Continental là một bước theo chiều kim đồng hồ từ logo (cạnh 1). Nếu bạn tìm được logo, bạn tìm được Continental. Logo ở trên. Continental là một bước sang phải. **Xong. Đó là toàn bộ grip.***
 
 ### The Hammer Pickup — The 3-Step Process for Finding the Continental | Cách Nhấc Búa — Quy Trình 3 Bước Tìm Continental
 
@@ -159,7 +159,7 @@ The V (thumb-index) on the TOP EDGE between bevels 1 and 2
 | 1. **Hold the racket out in front of you.** Strings vertical, racket head up. | 1. **Đưa vợt ra trước mặt.** Dây dọc, đầu vợt lên. |
 | 2. **Lay your hand flat on the strings.** Palm touching the strings, fingers together. | 2. **Đặt tay phẳng lên dây.** Lòng bàn tay chạm dây, ngón tay khép. |
 | 3. **Slide your hand down to the grip** without rotating. **Close your fingers.** The base knuckle of the index finger is on bevel 2. **The V is on the top edge.** | 3. **Trượt tay xuống cán** không xoay. **Nắm tay lại.** Đốt gốc ngón trỏ ở cạnh 2. **Chữ V ở cạnh trên.** |
-| **The "hammer" metaphor:** you pick the racket up like a hammer — your hand naturally lands on bevel 2. **The hammer is the universal tool. The Continental is the universal grip.** | **Ẩn dụ "búa":** anh nhấc vợt lên như cầm búa — tay anh tự nhiên rơi vào cạnh 2. **Búa là dụng cụ vạn năng. Continental là grip vạn năng.** |
+| **The "hammer" metaphor:** you pick the racket up like a hammer — your hand naturally lands on bevel 2. **The hammer is the universal tool. The Continental is the universal grip.** | **Ẩn dụ "búa":** bạn nhấc vợt lên như cầm búa — tay bạn tự nhiên rơi vào cạnh 2. **Búa là dụng cụ vạn năng. Continental là grip vạn năng.** |
 
 > 🩺 **The 50+ friendly adaptation | Thích ứng thân thiện 50+**
 > **At 50+, the hands have less grip strength.** The hammer pickup works for 50+ because the motion is REPETITIVE — the hand learns the path. **Do 10 hammer pickups a day for 1 week. By week 2, the hand finds bevel 2 automatically.** The 50+ player with the automatic hammer pickup has the Continental ready for any of the 9 shots.
@@ -638,11 +638,11 @@ THE 70% RULE:
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Continental không phải một grip. Continental là chìa khóa vạn năng. Một grip mở 9 cú, bảo vệ 4 khớp, dùng 3 pha áp lực. Ở tuổi 50+, anh có thể cầm vợt với Continental và có 9 tùy chọn cho 9 tình huống. Volley? Continental. Slice? Continental. Serve? Continental. Lob? Continental. Overhead? Continental. Drop shot? Continental. Approach? Continental. Return? Continental. **Một grip. Chín cú. Hai mươi năm tennis. Cổ tay, khuỷu, vai, gối — bốn khớp được bảo vệ.***
+> *Continental không phải một grip. Continental là chìa khóa vạn năng. Một grip mở 9 cú, bảo vệ 4 khớp, dùng 3 pha áp lực. Ở tuổi 50+, bạn có thể cầm vợt với Continental và có 9 tùy chọn cho 9 tình huống. Volley? Continental. Slice? Continental. Serve? Continental. Lob? Continental. Overhead? Continental. Drop shot? Continental. Approach? Continental. Return? Continental. **Một grip. Chín cú. Hai mươi năm tennis. Cổ tay, khuỷu, vai, gối — bốn khớp được bảo vệ.***
 >
 > *The Continental is not a grip. The Continental is a UNIVERSAL KEY. One grip unlocks 9 shots, protects 4 joints, uses 3 pressure phases. At 50+, you can hold the racket with the Continental and have 9 options for 9 situations. Volley? Continental. Slice? Continental. Serve? Continental. Lob? Continental. Overhead? Continental. Drop shot? Continental. Approach? Continental. Return? Continental. **One grip. Nine shots. Twenty years of tennis. Wrist, elbow, shoulder, knee — four joints protected.***
 
-Bắt đầu tuần này với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả. Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động, áp lực 3 pha sẽ phản xạ, và anh sẽ có 9 tùy chọn trong tay ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả. Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động, áp lực 3 pha sẽ phản xạ, và bạn sẽ có 9 tùy chọn trong tay ở Surrey. 🎾
 
 ---
 

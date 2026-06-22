@@ -468,7 +468,7 @@
 >
 > *This card is the complete grip system in 1 page. Print, fold, carry. Continental is home base. Semi-Western is forehand. 5-second reset. Baby bird → Slingshot stone → Wrist lock. **You can print it, carry it, and reference it in Surrey.** You'll play tennis instead of searching for the grip. **20+ years of tennis starts with 1 card.***
 
-Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. **Trong 4 tuần, anh sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."** 🎾
+Bắt đầu hôm nay — in thẻ, gấp, cho vào túi bên. Trước mỗi trận, đọc 1 phần. Trong trận, dùng reset 5 giây. Sau trận, chọn 1 câu nhắc cho trận sau. **Trong 4 tuần, bạn sẽ thấy grip thay đổi từ "tìm grip" sang "đã có grip."** 🎾
 
 ---
 

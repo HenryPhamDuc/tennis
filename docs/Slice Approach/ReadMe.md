@@ -82,4 +82,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, anh sẽ tự tin approach 1-2 lần mỗi set.
+Hy vọng tuần này bạn sẽ thêm "pattern 4 bước" vào toolkit ở Surrey. Bắt đầu với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, bạn sẽ tự tin approach 1-2 lần mỗi set.

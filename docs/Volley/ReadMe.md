@@ -23,7 +23,7 @@ Saved. Here's the deep dive:
 
 - ✅ 3.5-level recreational cues
 - ✅ EN-VI side-by-side bilingual tables
-- ✅ Master-coach voice ("anh," "tôi," "em")
+- ✅ Master-coach voice ("bạn," "tôi," "em")
 - ✅ 50+ longevity adjustments (knee safety, back safety, wrist protection)
 - ✅ Tai chi principles (Thực-Hư, Phóng Tùng, Lã Kình, Thính Kình)
 - ✅ 1-page printable cheat sheet at the end (tape in the bag)

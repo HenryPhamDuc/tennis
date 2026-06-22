@@ -62,4 +62,4 @@ Doubles Tactics is a **bundled-family topic** (per the skill's reference) — it
 
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
 
-Hy vọng tuần này anh sẽ gọi "Mine!" to hơn, đứng ở lưới nhiều hơn, và chơi đôi ở Surrey với niềm vui — với tuổi thọ tennis 20 năm nữa đang chờ.
+Hy vọng tuần này bạn sẽ gọi "Mine!" to hơn, đứng ở lưới nhiều hơn, và chơi đôi ở Surrey với niềm vui — với tuổi thọ tennis 20 năm nữa đang chờ.

@@ -31,18 +31,18 @@
 |---|---|
 | Watch a pro serve at 200 km/h. The motion looks almost casual. The legs push, the hips turn, the shoulder opens, and the racket whips through. There is no "muscling." The body is a catapult; the racket is the stone. | Xem pro giao bóng 200 km/h. Động tác trông gần như nhẹ nhàng. Chân đẩy, hông xoay, vai mở, vợt quất qua. Không có "gồng cơ." Cơ thể là cái bệ phóng, vợt là viên đá. |
 | Recreational players do the opposite: they freeze the legs, swing the arm, snap the wrist. The ball dribbles in at 90 km/h and the shoulder aches for three days. | Người chơi nghiệp dư làm ngược lại: đóng băng chân, vung tay, bẻ cổ tay. Bóng đi 90 km/h và vai đau ba ngày. |
-| **The secret is not more effort. The secret is delayed effort.** You stay loose and slow for 70% of the motion, then the legs and hips fire for the last 30%. The racket "whips" through — you didn't throw it, your body launched it. | **Bí mật không phải gắng sức hơn. Bí mật là trì hoãn gắng sức.** Anh lỏng và chậm 70% động tác, rồi chân hông "bắn" ở 30% cuối. Vợt "quất" qua — anh không ném nó, cơ thể anh phóng nó. |
+| **The secret is not more effort. The secret is delayed effort.** You stay loose and slow for 70% of the motion, then the legs and hips fire for the last 30%. The racket "whips" through — you didn't throw it, your body launched it. | **Bí mật không phải gắng sức hơn. Bí mật là trì hoãn gắng sức.** Anh lỏng và chậm 70% động tác, rồi chân hông "bắn" ở 30% cuối. Vợt "quất" qua — bạn không ném nó, cơ thể bạn phóng nó. |
 | The serve is a gravity sport, not a muscle sport. | Giao bóng là môn trọng lực, không phải môn cơ bắp. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > Think of a slingshot. The pocket (your legs + hips) stores the energy. The band (your torso + shoulder) stretches. The stone (the racket) flies at the end. **If you try to throw the stone with your fingers, the stone goes nowhere. If you let the slingshot launch it, the stone disappears.**
 >
-> *Hãy nghĩ như cái ná. Túi (chân + hông) lưu năng lượng. Dây (thân + vai) giãn ra. Viên đá (vợt) bay ở cuối. **Nếu anh cố dùng ngón tay ném đá, đá chẳng đi đâu. Nếu anh để cái ná phóng, đá biến mất.***
+> *Hãy nghĩ như cái ná. Túi (chân + hông) lưu năng lượng. Dây (thân + vai) giãn ra. Viên đá (vợt) bay ở cuối. **Nếu bạn cố dùng ngón tay ném đá, đá chẳng đi đâu. Nếu bạn để cái ná phóng, đá biến mất.***
 
 > 💡 **Why this matters at 50+ | Tại sao quan trọng với người 50+**
 > The muscle serve is the #1 cause of shoulder pain in recreational tennis. Every serve, you yank a 350g racket up at speed with bent elbow and tight shoulder. After 200 serves a month, the rotator cuff files a complaint. The gravity serve uses the big leg muscles and lets the arm stay long and loose. **Same ball speed, no pain.**
 >
-> *"Muscle serve" là nguyên nhân số 1 gây đau vai ở tennis nghiệp dư. Mỗi cú giao, anh giật cây vợt 350g lên cao với khuỷu gập và vai gồng. Sau 200 cú/tháng, rotator cuff khiếu nại. Giao bóng trọng lực dùng cơ chân lớn, để tay dài và lỏng. **Cùng tốc độ bóng, không đau.***
+> *"Muscle serve" là nguyên nhân số 1 gây đau vai ở tennis nghiệp dư. Mỗi cú giao, bạn giật cây vợt 350g lên cao với khuỷu gập và vai gồng. Sau 200 cú/tháng, rotator cuff khiếu nại. Giao bóng trọng lực dùng cơ chân lớn, để tay dài và lỏng. **Cùng tốc độ bóng, không đau.***
 
 ---
 
@@ -59,7 +59,7 @@
 |---|---|
 | Hold the racket out in front of you. Lay your hand flat on the strings, slide it down to the grip. **Pick the racket up like a hammer** — your index finger's base knuckle (the big knuckle) lands on bevel #2 (the second ridge from the top). | Đưa vợt ra trước mặt. Đặt tay phẳng lên dây, trượt xuống cán. **Nhấc vợt lên như cầm búa** — đốt gốc ngón trỏ (đốt to nhất) rơi vào cạnh số 2 (cạnh thứ hai từ trên xuống). |
 | The "V" between your thumb and index finger sits on the top edge of the grip, slightly toward your hitting side. | Chữ "V" giữa ngón cái và ngón trỏ nằm trên cạnh trên của cán, hơi nghiêng về phía tay thuận. |
-| **Check:** when you hold the racket up in front of you, palm facing you, the strings are vertical (not angled). | **Kiểm tra:** khi cầm vợt thẳng trước mặt, lòng bàn tay hướng vào anh, mặt dây thẳng đứng (không nghiêng). |
+| **Check:** when you hold the racket up in front of you, palm facing you, the strings are vertical (not angled). | **Kiểm tra:** khi cầm vợt thẳng trước mặt, lòng bàn tay hướng vào bạn, mặt dây thẳng đứng (không nghiêng). |
 
 > 🛠️ **Drill — The Hammer Pickup | Bài tập nhấc búa**
 > 1. Hold the racket out, lay your hand flat on the strings.
@@ -89,7 +89,7 @@
 > ⚠️ **Warning — The Waiter's Tray | Cảnh báo — Khay bồi bàn**
 > If the racket face points to the sky in trophy position (palm forward, like holding a tray of drinks), you have lost the Continental orientation. Studies on junior players show the waiter's tray produces **higher shoulder torque, higher wrist forces, and higher elbow varus torque** — with **no gain in serve speed**. Same ball speed, more joint pain. **Don't be a waiter.**
 >
-> *Nếu mặt vợt hướng trời ở tư thế trophy (lòng tay về phía trước, như bưng khay nước), anh đã mất Continental. Nghiên cứu trên tay vợt trẻ cho thấy khay bồi bàn tạo **momen xoắn vai cao hơn, lực cổ tay cao hơn, và momen varus khuỷu cao hơn** — mà **không tăng tốc độ bóng**. Cùng tốc độ bóng, đau khớp hơn. **Đừng làm bồi bàn.***
+> *Nếu mặt vợt hướng trời ở tư thế trophy (lòng tay về phía trước, như bưng khay nước), bạn đã mất Continental. Nghiên cứu trên tay vợt trẻ cho thấy khay bồi bàn tạo **momen xoắn vai cao hơn, lực cổ tay cao hơn, và momen varus khuỷu cao hơn** — mà **không tăng tốc độ bóng**. Cùng tốc độ bóng, đau khớp hơn. **Đừng làm bồi bàn.***
 
 ### 🎯 Cue 3 — The Trophy: Elbow Up, Racket Above Hand | Trophy: khuỷu cao, vợt trên tay
 
@@ -115,7 +115,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The serve is the only stroke in tennis where you control every variable. The ball is in your other hand. No opponent is rushing you. So why do most 3.5 players rush the motion, muscle the arm, and skip the kinetic chain? | Giao bóng là cú duy nhất trong tennis mà anh kiểm soát mọi biến số. Bóng ở tay kia. Không có đối thủ giục. Vậy tại sao hầu hết người 3.5 vội vã, gồng tay, và bỏ qua chuỗi động lực? |
+| The serve is the only stroke in tennis where you control every variable. The ball is in your other hand. No opponent is rushing you. So why do most 3.5 players rush the motion, muscle the arm, and skip the kinetic chain? | Giao bóng là cú duy nhất trong tennis mà bạn kiểm soát mọi biến số. Bóng ở tay kia. Không có đối thủ giục. Vậy tại sao hầu hết người 3.5 vội vã, gồng tay, và bỏ qua chuỗi động lực? |
 | Because the serve **feels** like an arm motion. It is not. It is a **whole-body throw** that happens to end with the racket face on the ball. | Vì giao bóng **cảm giác** như động tác của tay. Không phải. Đó là **cả người ném** mà tình cờ kết thúc bằng mặt vợt trên bóng. |
 
 ### 🎯 Cue 1 — The 1-2 Count: Hips, Then Arm | Đếm 1-2: hông trước, tay sau
@@ -129,7 +129,7 @@
 > 🧠 **Mental model — The Slingshot Loading | Nạp ná**
 > "One" loads the slingshot. "Two" releases it. If you skip "One" and try to release with the arm, the slingshot stays empty. You swing hard from the start, you get tired, the ball goes 80 km/h and your shoulder hurts.
 >
-> *"Một" nạp ná. "Hai" thả ná. Nếu anh bỏ "Một" và cố thả ná bằng tay, ná vẫn rỗng. Anh vung mạnh từ đầu, mệt, bóng đi 80 km/h và vai đau.*
+> *"Một" nạp ná. "Hai" thả ná. Nếu bạn bỏ "Một" và cố thả ná bằng tay, ná vẫn rỗng. Anh vung mạnh từ đầu, mệt, bóng đi 80 km/h và vai đau.*
 
 > 💡 **Why "One" matters at 50+ | Tại sao "Một" quan trọng ở tuổi 50+**
 > The legs and hips are big muscles. The shoulder is a small joint with a small muscle group. At 50+, the legs still have horsepower. The shoulder is what wears out. **The 1-2 count is your shoulder-saver** — it shifts the work from the small joint to the big muscles.
@@ -147,7 +147,7 @@
 > 🎨 **Visual cue — The Fishing Rod | Hình ảnh — Cần câu**
 > Imagine your arm is a fishing rod, the racket is the tip. In trophy, the rod is bent back (loaded). The drop is the rod unbending. The contact is the tip flicking forward. **You don't throw the rod tip with your hand. The rod tip flicks because the rod was loaded.**
 >
-> *Hình dung tay anh là cần câu, vợt là đầu cần. Ở trophy, cần bị uốn ra sau (đã nạp). Rơi là cần bung ra. Contact là đầu cần quất tới. **Anh không dùng tay ném đầu cần. Đầu cần quất vì cần đã được nạp.***
+> *Hình dung tay bạn là cần câu, vợt là đầu cần. Ở trophy, cần bị uốn ra sau (đã nạp). Rơi là cần bung ra. Contact là đầu cần quất tới. **Anh không dùng tay ném đầu cần. Đầu cần quất vì cần đã được nạp.***
 
 > ⚠️ **Warning — The "Waiter" Trap | Cảnh báo — Bẫy "bồi bàn"**
 > Many 3.5 players try to "shortcut" the drop by keeping the racket face up (waiter's tray position) and pushing forward. This blocks the natural drop, kills the pronation arc, and forces the wrist to flip. The result: elbow pain, low ball speed. **Let the racket drop on its edge. Trust gravity.**
@@ -172,7 +172,7 @@
 > *1. Đứng nghiêng tường, cách 1 bước, vào tư thế trophy.*
 > *2. Để vợt rơi ra sau lưng (chậm, không lực).*
 > *3. Vung lên và gõ tường bằng **cạnh khung vợt** ở tầm contact.*
-> *4. **Đông cứng ở chỗ gõ.** Kiểm tra: lòng tay có hướng ra xa anh không? Khuỷu có còn duỗi không? Có bị kéo ở khuỷu ngoài không?*
+> *4. **Đông cứng ở chỗ gõ.** Kiểm tra: lòng tay có hướng ra xa bạn không? Khuỷu có còn duỗi không? Có bị kéo ở khuỷu ngoài không?*
 > *Làm 15 lần chậm. Mục tiêu là xoay, không phải lực.*
 
 > ⚠️ **Warning — Don't Snap the Wrist | Cảnh báo — Đừng bẻ cổ tay**
@@ -185,14 +185,14 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | This is the part the 50+ player needs to hear most. **Tense arm = slow arm.** | Đây là phần người 50+ cần nghe nhất. **Tay gồng = tay chậm.** |
-| When you tense your arm, the bicep and triceps co-contract. The elbow and shoulder joints lock. A locked joint cannot rotate fast around its axis. **You lose pronation.** | Khi anh gồng tay, biceps và triceps co cùng lúc. Khớp khuỷu và vai bị khóa. Khớp bị khóa không thể xoay nhanh quanh trục của nó. **Anh mất pronation.** |
-| When you relax the arm, the joints are free. The shoulder can internally rotate. The forearm can pronate. **The racket whips.** | Khi anh thả lỏng tay, các khớp tự do. Vai có thể xoay trong. Cẳng tay có thể xoay. **Vợt quất.** |
-| The 0.03 seconds of "snap" at contact are real — but they happen **automatically** when the chain is loaded. You don't have to make the snap. The chain makes it for you. | 0,03 giây "snap" ở contact là có thật — nhưng nó xảy ra **tự động** khi chuỗi được nạp. Anh không cần tạo snap. Chuỗi tạo snap cho anh. |
+| When you tense your arm, the bicep and triceps co-contract. The elbow and shoulder joints lock. A locked joint cannot rotate fast around its axis. **You lose pronation.** | Khi bạn gồng tay, biceps và triceps co cùng lúc. Khớp khuỷu và vai bị khóa. Khớp bị khóa không thể xoay nhanh quanh trục của nó. **Anh mất pronation.** |
+| When you relax the arm, the joints are free. The shoulder can internally rotate. The forearm can pronate. **The racket whips.** | Khi bạn thả lỏng tay, các khớp tự do. Vai có thể xoay trong. Cẳng tay có thể xoay. **Vợt quất.** |
+| The 0.03 seconds of "snap" at contact are real — but they happen **automatically** when the chain is loaded. You don't have to make the snap. The chain makes it for you. | 0,03 giây "snap" ở contact là có thật — nhưng nó xảy ra **tự động** khi chuỗi được nạp. Anh không cần tạo snap. Chuỗi tạo snap cho bạn. |
 
 > 💡 **Biomechanics in plain English | Cơ sinh học nói đơn giản**
 > Studies on Dutch players with motion sensors show the peak **angular velocity** (how fast something is rotating) of the pelvis, trunk, and upper arm is much higher on first serves than second serves. The peaks happen **in sequence** — pelvis first, then trunk, then arm. **You can't fire all three at once. The body fires them in order, like a wave.** If you tense the arm early, you "skip ahead" in the wave. The later segments can't catch up. The racket goes slow.
 >
-> *Nghiên cứu trên tay vợt Hà Lan với cảm biến cho thấy **vận tốc góc** đỉnh (tốc độ xoay) của chậu, thân, và cánh tay trên cao hơn nhiều ở serve 1 so với serve 2. Các đỉnh xảy ra **theo thứ tự** — chậu trước, thân sau, tay cuối. **Anh không thể bắn cả ba cùng lúc. Cơ thể bắn theo thứ tự, như làn sóng.** Nếu anh gồng tay sớm, anh "nhảy cóc" trong làn sóng. Các đoạn sau không đuổi kịp. Vợt đi chậm.*
+> *Nghiên cứu trên tay vợt Hà Lan với cảm biến cho thấy **vận tốc góc** đỉnh (tốc độ xoay) của chậu, thân, và cánh tay trên cao hơn nhiều ở serve 1 so với serve 2. Các đỉnh xảy ra **theo thứ tự** — chậu trước, thân sau, tay cuối. **Anh không thể bắn cả ba cùng lúc. Cơ thể bắn theo thứ tự, như làn sóng.** Nếu bạn gồng tay sớm, bạn "nhảy cóc" trong làn sóng. Các đoạn sau không đuổi kịp. Vợt đi chậm.*
 
 ---
 
@@ -204,13 +204,13 @@
 | A great swing with a bad toss is a fault. The toss is the most under-practiced part of the serve at 3.5. | Cú vung hay với cú tung tệ là lỗi. Tung bóng là phần bị tập ít nhất ở 3.5. |
 | The toss is not "toss and react." The toss is **set the height, set the position, set the rhythm.** The swing adapts to the toss, not the other way around. | Tung bóng không phải "tung rồi phản ứng." Tung bóng là **đặt độ cao, đặt vị trí, đặt nhịp.** Vung vợt thích nghi theo tung bóng, không ngược lại. |
 
-### 🎯 Cue 1 — The Toss Height: A Little Higher Than You Think | Độ cao tung: hơi cao hơn anh nghĩ
+### 🎯 Cue 1 — The Toss Height: A Little Higher Than You Think | Độ cao tung: hơi cao hơn bạn nghĩ
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Most 3.5 players toss too low. They want to hit the ball "at the right time" so they under-toss and then rush. | Hầu hết người 3.5 tung quá thấp. Họ muốn đánh bóng "đúng lúc" nên tung thấp rồi vội. |
-| The pro trick: **toss higher than feels right.** The ball is at the top of its arc when you make contact. You have time. The arm can be slow. | Mẹo pro: **tung cao hơn cảm giác đúng.** Bóng ở đỉnh quỹ đạo khi anh contact. Anh có thời gian. Tay có thể chậm. |
-| How high? The ball should rise so high that it almost feels like you could hit it on the way back down. That's the right height. | Cao bao nhiêu? Bóng nên bay cao tới mức gần như anh cảm giác có thể đánh nó lúc đang rơi xuống. Đó là độ cao đúng. |
+| The pro trick: **toss higher than feels right.** The ball is at the top of its arc when you make contact. You have time. The arm can be slow. | Mẹo pro: **tung cao hơn cảm giác đúng.** Bóng ở đỉnh quỹ đạo khi bạn contact. Anh có thời gian. Tay có thể chậm. |
+| How high? The ball should rise so high that it almost feels like you could hit it on the way back down. That's the right height. | Cao bao nhiêu? Bóng nên bay cao tới mức gần như bạn cảm giác có thể đánh nó lúc đang rơi xuống. Đó là độ cao đúng. |
 
 > 🛠️ **Drill — The Toss-Only Practice | Tập chỉ tung bóng**
 > Stand at the baseline with a basket of balls. **Toss 20 balls without hitting them.** Just toss, watch, catch. Goals:
@@ -223,16 +223,16 @@
 > *1. Bóng rơi cách chân trước khoảng 1 chiều dài vợt.*
 > *2. Bóng rơi cách vai tay gõ khoảng 30 cm về bên phải (với người thuận phải).*
 > *3. Tung nhất quán — mỗi bóng rơi cùng chỗ.*
-> *Làm 3 lần mỗi tuần. Serve của anh sẽ nhảy level sau 2 tuần.*
+> *Làm 3 lần mỗi tuần. Serve của bạn sẽ nhảy level sau 2 tuần.*
 
 ### 🎯 Cue 2 — The Toss Position: Front and to the Right | Vị trí tung: trước và bên phải
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | For a right-hander, the toss is **in front of the front foot, slightly to the right of the head.** | Với người thuận phải, tung bóng **trước chân trước, hơi lệch phải đầu.** |
-| If the toss is too far **behind** you, you have to lean back to hit — loss of power, loss of control. | Nếu tung quá **sau** lưng, anh phải ngả ra sau để đánh — mất lực, mất kiểm soát. |
-| If the toss is too far **in front** of you, you have to lunge — loss of balance, awkward contact, mostly netted balls. | Nếu tung quá **trước**, anh phải vươn tới — mất thăng bằng, contact vụng, đa số bóng vào lưới. |
-| If the toss is too far **to the left** (across the body), you have to reach — loss of power, shoulder strain. | Nếu tung quá **sang trái** (ngang người), anh phải với — mất lực, căng vai. |
+| If the toss is too far **behind** you, you have to lean back to hit — loss of power, loss of control. | Nếu tung quá **sau** lưng, bạn phải ngả ra sau để đánh — mất lực, mất kiểm soát. |
+| If the toss is too far **in front** of you, you have to lunge — loss of balance, awkward contact, mostly netted balls. | Nếu tung quá **trước**, bạn phải vươn tới — mất thăng bằng, contact vụng, đa số bóng vào lưới. |
+| If the toss is too far **to the left** (across the body), you have to reach — loss of power, shoulder strain. | Nếu tung quá **sang trái** (ngang người), bạn phải với — mất lực, căng vai. |
 | The sweet spot is the same spot, every time. Practice it until your hand knows it. | Điểm ngọt là cùng một chỗ, mỗi lần. Tập cho tới khi tay biết. |
 
 ### 🎯 Cue 3 — The Contact: Up and Out, Not Forward and Down | Contact: lên và ra, không tới và xuống
@@ -240,7 +240,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | Many 3.5 players make contact with the ball slightly **in front and above** the head, then swing **down at it** like a hammer. | Nhiều người 3.5 contact bóng hơi **phía trước và trên** đầu, rồi vung **xuống bóng** như búa. |
-| Pro contact is at **full reach, with the racket still moving up.** The ball gets brushed from low to high — that's how you get topspin serve (kick) or slice. | Contact pro ở **tầm với tối đa, với vợt vẫn đang đi lên.** Bóng được quét từ thấp lên cao — đó là cách anh tạo serve topspin (kick) hoặc slice. |
+| Pro contact is at **full reach, with the racket still moving up.** The ball gets brushed from low to high — that's how you get topspin serve (kick) or slice. | Contact pro ở **tầm với tối đa, với vợt vẫn đang đi lên.** Bóng được quét từ thấp lên cao — đó là cách bạn tạo serve topspin (kick) hoặc slice. |
 | **The contact is a brush, not a hit.** The ball spends ~5 milliseconds on the strings. The longer the brush, the more spin. | **Contact là quét, không phải đập.** Bóng ở trên dây khoảng 5 phần nghìn giây. Quét càng lâu, xoáy càng nhiều. |
 | Contact too low = ball goes into the net. Contact too far forward = ball goes long. Contact too close to the body = ball goes into the net or floats. | Contact quá thấp = bóng vào lưới. Contact quá xa = bóng ra ngoài. Contact quá gần người = bóng vào lưới hoặc lửng. |
 
@@ -256,7 +256,7 @@
 > 🧠 **Mental model — The Door Closing | Mô hình — Đóng cửa**
 > Your body is a door. The serve **closes the door.** The trophy position is the door fully open. The finish is the door fully closed. The hip-thrust is the hand pushing the door shut. The arm whips through as the door slams.
 >
-> *Cơ thể anh là cái cửa. Serve **đóng cửa.** Trophy là cửa mở hết. Kết thúc là cửa đóng hết. Đẩy hông là tay đẩy cửa đóng. Tay quất qua khi cửa sập.*
+> *Cơ thể bạn là cái cửa. Serve **đóng cửa.** Trophy là cửa mở hết. Kết thúc là cửa đóng hết. Đẩy hông là tay đẩy cửa đóng. Tay quất qua khi cửa sập.*
 
 > ⚠️ **Warning — Stopping the Swing | Cảnh báo — Dừng vung**
 > The single biggest mistake at 3.5 is **stopping the swing after contact.** You hit the ball, then you freeze the arm. The deceleration goes into the shoulder. **Let the arm finish its swing, even on a fault.** The follow-through is what protects the shoulder.
@@ -344,7 +344,7 @@
 | **Lower back** | The "arch and slam" serve (big back-arch, aggressive forward bend) loads the lumbar spine. At 50+, that load shows up as morning stiffness. The fix: **bend the knees more, arch the back less.** | "Ưỡn và đập" serve (cong lưng nhiều, gập tới mạnh) tải cột sống thắt lưng. Ở 50+, tải đó hiện ra cứng lưng buổi sáng. Cách sửa: **gập gối nhiều hơn, ưỡn lưng ít hơn.** |
 | **Knee** | The leg push on the serve is short and sharp. That's actually good for the knees — the load is brief, not sustained like running. The risk is **over-rotation** of the front knee. Keep the front knee pointing toward the net post, not collapsing inward. | Đẩy chân ở serve ngắn và dứt khoát. Cái đó tốt cho gối — tải ngắn, không kéo dài như chạy. Rủi ro là **xoay quá** gối trước. Giữ gối trước hướng về cột lưới, không sập vào trong. |
 | **Elbow** | Tennis elbow is the most common serve-related overuse injury at 50+. The fix is **Continental grip + loose arm + pronation (not wrist snap).** The "muscle serve" is what causes it. | Tennis elbow là chấn thương quá tải liên quan serve phổ biến nhất ở 50+. Cách sửa: **Continental + tay lỏng + xoay cẳng tay (không bẻ cổ tay).** "Muscle serve" là thứ gây ra. |
-| **Recovery** | At 50+, recovery between serves matters. **Rest 10–15 seconds between first serves** (longer than the 8 seconds the rule allows, but you're a recreational player, not a pro). The body needs that pause to reload. | Ở 50+, phục hồi giữa các serve quan trọng. **Nghỉ 10–15 giây giữa serve 1** (lâu hơn 8 giây luật cho phép, nhưng anh là người chơi nghiệp dư, không phải pro). Cơ thể cần khoảng dừng để nạp lại. |
+| **Recovery** | At 50+, recovery between serves matters. **Rest 10–15 seconds between first serves** (longer than the 8 seconds the rule allows, but you're a recreational player, not a pro). The body needs that pause to reload. | Ở 50+, phục hồi giữa các serve quan trọng. **Nghỉ 10–15 giây giữa serve 1** (lâu hơn 8 giây luật cho phép, nhưng bạn là người chơi nghiệp dư, không phải pro). Cơ thể cần khoảng dừng để nạp lại. |
 | **Longevity** | The serve is the most joint-stressing shot in tennis. A gravity serve at 80% pace with good placement beats a muscle serve at 100% with aching shoulder. **You're playing a 20-year sport. Protect the engine.** | Serve là cú hại khớp nhất trong tennis. Gravity serve ở 80% tốc độ với placement tốt đánh bại muscle serve ở 100% với vai đau. **Anh đang chơi môn 20 năm. Bảo vệ cỗ máy.** |
 
 ### 🧘 Mental Game | Trò chơi tâm lý
@@ -354,7 +354,7 @@
 | The serve is the only shot where your emotions directly affect the outcome. Double-fault on break point, and the next game starts with a weight on your shoulders. | Serve là cú duy nhất mà cảm xúc trực tiếp ảnh hưởng kết quả. Double-fault ở break point, và game sau bắt đầu với gánh nặng trên vai. |
 | **The 2-second ritual.** Before every serve point, take 2 seconds. Bounce the ball twice. Look at the target box. Breathe. The ritual overrides the emotion. | **Nghi thức 2 giây.** Trước mỗi điểm serve, lấy 2 giây. Nảy bóng hai lần. Nhìn ô mục tiêu. Thở. Nghi thức ghi đè cảm xúc. |
 | **First serve = swing freely. Second serve = place it in.** Don't try to ace on second serve. Bunt it in, kick it high, slice it wide. **Survive the second serve. Punish with the third shot.** | **Serve 1 = vung tự do. Serve 2 = đặt vào.** Đừng cố ace ở serve 2. Bỏ nhẹ vào, kick cao, slice rộng. **Sống sót qua serve 2. Trừng phạt bằng cú thứ 3.** |
-| **The serve is a gift.** You have unlimited first serves. Use them. Practice them in matches. The match is the only place you can train serving under pressure. | **Serve là món quà.** Anh có vô hạn serve 1. Dùng chúng. Tập chúng trong trận. Trận đấu là nơi duy nhất anh tập serve dưới áp lực. |
+| **The serve is a gift.** You have unlimited first serves. Use them. Practice them in matches. The match is the only place you can train serving under pressure. | **Serve là món quà.** Anh có vô hạn serve 1. Dùng chúng. Tập chúng trong trận. Trận đấu là nơi duy nhất bạn tập serve dưới áp lực. |
 
 ---
 
@@ -453,4 +453,4 @@ Key principles carried forward from the established tennis-coach-system skill an
 
 ---
 
-*🎾 Chúc anh giao bóng vui ở Surrey. Tuần này tập tung bóng 20 quả mỗi ngày — trước khi đánh bất kỳ cú serve nào. Bắt đầu từ gốc, mọi thứ tự đến.*
+*🎾 Chúc bạn giao bóng vui ở Surrey. Tuần này tập tung bóng 20 quả mỗi ngày — trước khi đánh bất kỳ cú serve nào. Bắt đầu từ gốc, mọi thứ tự đến.*

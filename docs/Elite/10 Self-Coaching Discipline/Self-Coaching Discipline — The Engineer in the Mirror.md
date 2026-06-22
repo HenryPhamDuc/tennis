@@ -11,7 +11,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **What this deep-dive adds.** The Elite Manual Chapter 10 introduced self-coaching as a discipline with 4 pillars (Journal, Video, SMART Goals, 5-Question Review). This deep-dive gives you the *operational system* — the daily/weekly templates, the specific journal prompts, the 5-question review in detail, and the integration with all 9 prior deep-dives so self-coaching becomes the meta-system that holds everything together. | **Deep-dive này thêm gì.** Elite Manual Chương 10 đã giới thiệu tự huấn luyện là kỷ luật với 4 trụ (Nhật ký, Video, Mục tiêu SMART, Đánh giá 5 câu hỏi). Deep-dive này cho anh *hệ thống vận hành* — mẫu hàng ngày/hàng tuần, câu nhắc nhật ký cụ thể, đánh giá 5 câu hỏi chi tiết, và tích hợp với cả 9 deep-dive trước để tự huấn luyện trở thành hệ siêu cấu trúc gắn mọi thứ. |
+| **What this deep-dive adds.** The Elite Manual Chapter 10 introduced self-coaching as a discipline with 4 pillars (Journal, Video, SMART Goals, 5-Question Review). This deep-dive gives you the *operational system* — the daily/weekly templates, the specific journal prompts, the 5-question review in detail, and the integration with all 9 prior deep-dives so self-coaching becomes the meta-system that holds everything together. | **Deep-dive này thêm gì.** Elite Manual Chương 10 đã giới thiệu tự huấn luyện là kỷ luật với 4 trụ (Nhật ký, Video, Mục tiêu SMART, Đánh giá 5 câu hỏi). Deep-dive này cho bạn *hệ thống vận hành* — mẫu hàng ngày/hàng tuần, câu nhắc nhật ký cụ thể, đánh giá 5 câu hỏi chi tiết, và tích hợp với cả 9 deep-dive trước để tự huấn luyện trở thành hệ siêu cấu trúc gắn mọi thứ. |
 | **Who should read this.** Anyone who practices but doesn't track. Anyone who has goals but doesn't review them. Anyone who has tried to "coach themselves" but had no system. | **Ai nên đọc.** Bất cứ ai tập nhưng không theo dõi. Bất cứ ai có mục tiêu nhưng không đánh giá. Bất cứ ai đã thử "tự huấn luyện" nhưng không có hệ thống. |
 | **Reading time.** ~25 minutes. Self-coaching discipline takes 90+ days to install; lifetime to refine. | **Thời gian đọc.** ~25 phút. Kỷ luật tự huấn luyện mất 90+ ngày để cài; cả đời để tinh chỉnh. |
 
@@ -69,7 +69,7 @@
 | **The 30-day journal review.** | **Đánh giá nhật ký 30 ngày.** |
 | **Day 30 — Look back.** What were your top 3 successes? Top 3 struggles? Patterns of success rate? | **Ngày 30 — Nhìn lại.** 3 thành công hàng đầu? 3 khó khăn hàng đầu? Mẫu tỷ lệ thành công? |
 | **Day 60 — Re-set.** Which focus has highest success? Keep it. Which has lowest? Replace with new. | **Ngày 60 — Đặt lại.** Tiêu điểm nào tỷ lệ cao nhất? Giữ. Cái nào thấp nhất? Thay bằng mới. |
-| **Day 90 — Synthesize.** Write a 1-page summary of your 3-month journey. *This becomes your "Self-Coaching Manual."* | **Ngày 90 — Tổng hợp.** Viết tóm tắt 1 trang hành trình 3 tháng. *Cái này trở thành "Cẩm Nang Tự Huấn Luyện" của anh.* |
+| **Day 90 — Synthesize.** Write a 1-page summary of your 3-month journey. *This becomes your "Self-Coaching Manual."* | **Ngày 90 — Tổng hợp.** Viết tóm tắt 1 trang hành trình 3 tháng. *Cái này trở thành "Cẩm Nang Tự Huấn Luyện" của bạn.* |
 
 * * *
 
@@ -93,7 +93,7 @@
 | **Step 3.** Compare to your *feel* from the moment. Where did feel and video agree? Disagree? | **Bước 3.** So với *cảm giác* từ khoảnh khắc đó. Cảm giác và video khớp/không khớp ở đâu? |
 | **Step 4.** Write one line: "My feel said ___. Video showed ___." This is your *feel-calibration data.* | **Bước 4.** Viết một dòng: "Cảm giác tôi nói ___. Video cho thấy ___." Đây là dữ liệu hiệu chỉnh cảm giác. |
 | **The video-tag system.** | **Hệ gắn thẻ video.** |
-| Tag each video clip with: date, focus (e.g. "wrist firm at contact"), and 1-line observation. Store in a single folder. *Over 90 days, you have a 90-clip archive of your progress.* | Gắn thẻ mỗi clip video với: ngày, tiêu điểm (vd. "cổ tay vững lúc tiếp xúc"), và quan sát 1 dòng. Lưu trong một thư mục. *Qua 90 ngày, anh có lưu trữ 90 clip tiến bộ của mình.* |
+| Tag each video clip with: date, focus (e.g. "wrist firm at contact"), and 1-line observation. Store in a single folder. *Over 90 days, you have a 90-clip archive of your progress.* | Gắn thẻ mỗi clip video với: ngày, tiêu điểm (vd. "cổ tay vững lúc tiếp xúc"), và quan sát 1 dòng. Lưu trong một thư mục. *Qua 90 ngày, bạn có lưu trữ 90 clip tiến bộ của mình.* |
 
 * * *
 
@@ -105,8 +105,8 @@
 |---|---|
 | **Why most goals fail.** "I want to be a better player" is not a goal — it is a wish. It has no specific outcome, no measurement, no deadline. SMART goals are different. | **Tại sao hầu hết mục tiêu thất bại.** "Tôi muốn là người chơi tốt hơn" không phải mục tiêu — nó là điều ước. Không có kết quả cụ thể, không đo lường, không thời hạn. Mục tiêu SMART khác. |
 | **The SMART checklist.** | **Danh sách kiểm SMART.** |
-| **S — Specific.** What exactly will you do? "I will hit 30 forehands/day with focus on wrist firm at contact." | **S — Specific (Cụ thể).** Chính xác anh sẽ làm gì? "Tôi sẽ đánh 30 forehand/ngày với tiêu điểm cổ tay vững lúc tiếp xúc." |
-| **M — Measurable.** How will you know if you did it? "Success rate measured at 60% minimum." | **M — Measurable (Đo được).** Làm sao anh biết mình đã làm? "Tỷ lệ thành công đo tối thiểu 60%." |
+| **S — Specific.** What exactly will you do? "I will hit 30 forehands/day with focus on wrist firm at contact." | **S — Specific (Cụ thể).** Chính xác bạn sẽ làm gì? "Tôi sẽ đánh 30 forehand/ngày với tiêu điểm cổ tay vững lúc tiếp xúc." |
+| **M — Measurable.** How will you know if you did it? "Success rate measured at 60% minimum." | **M — Measurable (Đo được).** Làm sao bạn biết mình đã làm? "Tỷ lệ thành công đo tối thiểu 60%." |
 | **A — Achievable.** Is this possible given your time/energy/resources? "30 forehands = 10 min/day. Yes." | **A — Achievable (Đạt được).** Cái này có thể không với thời gian/năng lượng/tài nguyên? "30 forehand = 10 phút/ngày. Có." |
 | **R — Relevant.** Does this serve a larger goal? "Wrist firm is a prerequisite for topspin forehand — relevant." | **R — Relevant (Liên quan).** Cái này phục vụ mục tiêu lớn hơn không? "Cổ tay vững là điều kiện tiên quyết cho topspin forehand — liên quan." |
 | **T — Time-bound.** When? "For the next 21 days." | **T — Time-bound (Có thời hạn).** Khi nào? "Trong 21 ngày tới." |
@@ -131,7 +131,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **When.** Sunday evening (or your chosen weekly review day). 30 minutes. Non-negotiable. | **Khi nào.** Tối Chủ Nhật (hoặc ngày đánh giá hàng tuần anh chọn). 30 phút. Không thể thương lượng. |
+| **When.** Sunday evening (or your chosen weekly review day). 30 minutes. Non-negotiable. | **Khi nào.** Tối Chủ Nhật (hoặc ngày đánh giá hàng tuần bạn chọn). 30 phút. Không thể thương lượng. |
 | **Question 1 — What worked this week?** | **Câu 1 — Cái gì hiệu quả tuần này?** |
 | Look at journal + video. Identify the top 3 successes. *Be specific.* Not "I hit well" — "I hit 25/30 forehands with firm contact (83%)." *This is your reinforcement — what to keep doing.* | Nhìn nhật ký + video. Xác định 3 thành công hàng đầu. *Cụ thể.* Không "tôi đánh tốt" — "tôi đánh 25/30 forehand với tiếp xúc vững (83%)." *Đây là củng cố — cái tiếp tục làm.* |
 | **Question 2 — What didn't work this week?** | **Câu 2 — Cái gì không hiệu quả tuần này?** |
@@ -144,7 +144,7 @@
 | • Chunk retrieval time: ___ms (target <200ms). | • Thời gian truy xuất chunk: ___ms (mục tiêu <200ms). |
 | • Tone-zone sequence mastery: ___/6 phases. | • Thành thạo chuỗi tone-vùng: ___/6 pha. |
 | • Match results: W-L record, unforced errors/match. | • Kết quả trận: hồ sơ thắng-thua, lỗi tự đánh/trận. |
-| Plot these on a graph weekly. *Trend over time = your 5.0+ trajectory.* | Vẽ các cái này trên đồ thị hàng tuần. *Xu hướng theo thời gian = quỹ đạo 5.0+ của anh.* |
+| Plot these on a graph weekly. *Trend over time = your 5.0+ trajectory.* | Vẽ các cái này trên đồ thị hàng tuần. *Xu hướng theo thời gian = quỹ đạo 5.0+ của bạn.* |
 | **Question 5 — What's next week's one focus?** | **Câu 5 — Tiêu điểm một tuần tới là gì?** |
 | Pick ONE focus for next week. *One.* Not two, not three. *One focus per week — because weekly attention is finite.* | Chọn MỘT tiêu điểm cho tuần tới. *Một.* Không hai, không ba. *Một tiêu điểm mỗi tuần — vì chú ý hàng tuần là hữu hạn.* |
 
@@ -156,7 +156,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Self-coaching as the meta-system.** The 9 prior deep-dives give you specific tools (tone, myelin, models, pressure, Kình, CLA, speed, chunks). Self-coaching is the *system that uses the tools.* | **Tự huấn luyện là siêu hệ thống.** 9 deep-dive trước cho anh công cụ cụ thể (tone, myelin, mẫu, áp lực, Kình, CLA, tốc độ, chunk). Tự huấn luyện là *hệ dùng công cụ.* |
+| **Self-coaching as the meta-system.** The 9 prior deep-dives give you specific tools (tone, myelin, models, pressure, Kình, CLA, speed, chunks). Self-coaching is the *system that uses the tools.* | **Tự huấn luyện là siêu hệ thống.** 9 deep-dive trước cho bạn công cụ cụ thể (tone, myelin, mẫu, áp lực, Kình, CLA, tốc độ, chunk). Tự huấn luyện là *hệ dùng công cụ.* |
 | **The daily journal + the tools.** | **Nhật ký hàng ngày + công cụ.** |
 | • Tone journal (DD #2). | • Nhật ký tone (DD #2). |
 | • Myelin session log (DD #3). | • Nhật ký buổi myelin (DD #3). |
@@ -183,8 +183,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Failure 1 — Skipping the journal "because I feel fine."** This is the most common failure. "I had a good day, no need to journal." *But you can't improve without data. Feeling fine is not the same as improving.* | **Thất bại 1 — Bỏ nhật ký "vì tôi cảm thấy ổn."** Đây là thất bại phổ biến nhất. "Tôi có ngày tốt, không cần nhật ký." *Nhưng anh không thể cải thiện không có dữ liệu. Cảm thấy ổn không giống cải thiện.* |
-| **Failure 2 — Watching video only to confirm what you already think.** "I'll watch to see if my forehand is bad." *Confirmation bias is the enemy of discovery.* Watch with the question: "What is my body doing that I don't know about?" | **Thất bại 2 — Xem video chỉ để xác nhận cái anh đã nghĩ.** "Tôi sẽ xem để xem forehand có tệ không." *Thiên kiến xác nhận là kẻ thù của khám phá.* Xem với câu hỏi: "Cơ thể tôi đang làm gì mà tôi không biết?" |
+| **Failure 1 — Skipping the journal "because I feel fine."** This is the most common failure. "I had a good day, no need to journal." *But you can't improve without data. Feeling fine is not the same as improving.* | **Thất bại 1 — Bỏ nhật ký "vì tôi cảm thấy ổn."** Đây là thất bại phổ biến nhất. "Tôi có ngày tốt, không cần nhật ký." *Nhưng bạn không thể cải thiện không có dữ liệu. Cảm thấy ổn không giống cải thiện.* |
+| **Failure 2 — Watching video only to confirm what you already think.** "I'll watch to see if my forehand is bad." *Confirmation bias is the enemy of discovery.* Watch with the question: "What is my body doing that I don't know about?" | **Thất bại 2 — Xem video chỉ để xác nhận cái bạn đã nghĩ.** "Tôi sẽ xem để xem forehand có tệ không." *Thiên kiến xác nhận là kẻ thù của khám phá.* Xem với câu hỏi: "Cơ thể tôi đang làm gì mà tôi không biết?" |
 | **Failure 3 — Setting goals too ambitious.** "I will reach 5.5 in 90 days." *This fails not because you lack talent but because the goal was unrealistic. Smaller, consistent goals beat big, abandoned ones.* | **Thất bại 3 — Đặt mục tiêu tham vọng quá.** "Tôi sẽ đạt 5.5 trong 90 ngày." *Cái này thất bại không phải vì thiếu tài năng mà vì mục tiêu không thực tế. Mục tiêu nhỏ, nhất quán đánh bại mục tiêu lớn, bị bỏ.* |
 | **Failure 4 — Skipping the weekly review.** "I don't have 30 min this Sunday." *Then do 5 min. But don't skip.* The review is the integration. *Skipping it fragments the system.* | **Thất bại 4 — Bỏ đánh giá hàng tuần.** "Tôi không có 30 phút Chủ Nhật này." *Thì làm 5 phút. Nhưng đừng bỏ.* Đánh giá là tích hợp. *Bỏ nó phân mảnh hệ thống.* |
 | **Failure 5 — Confusing self-coaching with self-criticism.** "I made 3 errors in that match, I'm a failure." *No. Errors are data. Data is fuel. The next match starts with new data, not old judgment.* | **Thất bại 5 — Nhầm tự huấn luyện với tự phê bình.** "Tôi mắc 3 lỗi trong trận đó, tôi là kẻ thất bại." *Không. Lỗi là dữ liệu. Dữ liệu là nhiên liệu. Trận tiếp bắt đầu với dữ liệu mới, không phán xét cũ.* |
@@ -284,7 +284,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| A coach is someone who makes you better. A self-coach is someone who makes themselves better. *Every* tool you have learned in this library — tone, myelin, models, pressure, Kình, CLA, speed, chunks — is only as effective as the discipline that uses it. The 4 pillars are not optional. They are the *operating system* of the 5.0+ player. Without them, you have 13 great tools you forgot to use. With them, you have a system that improves itself while you sleep. | HLV là người làm anh tốt hơn. Tự HLV là người làm mình tốt hơn. *Mọi* công cụ anh đã học trong thư viện này — tone, myelin, mẫu, áp lực, Kình, CLA, tốc độ, chunk — chỉ hiệu quả bằng kỷ luật dùng nó. 4 trụ không tùy chọn. Chúng là *hệ điều hành* của người 5.0+. Không có chúng, anh có 13 công cụ tuyệt vời anh quên dùng. Với chúng, anh có hệ thống tự cải thiện khi anh ngủ. |
+| A coach is someone who makes you better. A self-coach is someone who makes themselves better. *Every* tool you have learned in this library — tone, myelin, models, pressure, Kình, CLA, speed, chunks — is only as effective as the discipline that uses it. The 4 pillars are not optional. They are the *operating system* of the 5.0+ player. Without them, you have 13 great tools you forgot to use. With them, you have a system that improves itself while you sleep. | HLV là người làm bạn tốt hơn. Tự HLV là người làm mình tốt hơn. *Mọi* công cụ bạn đã học trong thư viện này — tone, myelin, mẫu, áp lực, Kình, CLA, tốc độ, chunk — chỉ hiệu quả bằng kỷ luật dùng nó. 4 trụ không tùy chọn. Chúng là *hệ điều hành* của người 5.0+. Không có chúng, bạn có 13 công cụ tuyệt vời bạn quên dùng. Với chúng, bạn có hệ thống tự cải thiện khi bạn ngủ. |
 
 ---
 

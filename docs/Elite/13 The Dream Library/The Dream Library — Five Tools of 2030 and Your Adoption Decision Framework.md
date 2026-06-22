@@ -11,7 +11,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **What this deep-dive adds.** The Elite Manual Chapter 13 introduced the "Dream Library" — 5 tools of 2030 (EEG headbands, sensor rackets, VR training, AI coaches, biometric dashboards). This deep-dive gives you the *adoption decision framework* — how to evaluate whether a new tool is right for YOU, the integration with the existing 12 Laws, the annual audit protocol, and the principle that *tools serve the system, not the other way around.* | **Deep-dive này thêm gì.** Elite Manual Chương 13 đã giới thiệu "Thư Viện Mơ" — 5 công cụ của 2030 (băng đầu EEG, vợt cảm biến, tập VR, HLV AI, bảng sinh trắc). Deep-dive này cho anh *khung quyết định áp dụng* — cách đánh giá công cụ mới có đúng cho ANH không, tích hợp với 12 Điều Luật hiện có, phác đồ kiểm toán hàng năm, và nguyên tắc *công cụ phục vụ hệ thống, không ngược lại.* |
+| **What this deep-dive adds.** The Elite Manual Chapter 13 introduced the "Dream Library" — 5 tools of 2030 (EEG headbands, sensor rackets, VR training, AI coaches, biometric dashboards). This deep-dive gives you the *adoption decision framework* — how to evaluate whether a new tool is right for YOU, the integration with the existing 12 Laws, the annual audit protocol, and the principle that *tools serve the system, not the other way around.* | **Deep-dive này thêm gì.** Elite Manual Chương 13 đã giới thiệu "Thư Viện Mơ" — 5 công cụ của 2030 (băng đầu EEG, vợt cảm biến, tập VR, HLV AI, bảng sinh trắc). Deep-dive này cho bạn *khung quyết định áp dụng* — cách đánh giá công cụ mới có đúng cho ANH không, tích hợp với 12 Điều Luật hiện có, phác đồ kiểm toán hàng năm, và nguyên tắc *công cụ phục vụ hệ thống, không ngược lại.* |
 | **Who should read this.** Anyone who buys every new tennis gadget and finds it unused after 2 weeks. Anyone who is curious about AI coaching but unsure where to start. Anyone who wants to make *systematic* decisions about new tools rather than emotional ones. | **Ai nên đọc.** Bất cứ ai mua mọi phụ kiện tennis mới và thấy không dùng sau 2 tuần. Bất cứ ai tò mò về HLV AI nhưng không chắc bắt đầu ở đâu. Bất cứ ai muốn đưa ra quyết định *có hệ thống* về công cụ mới thay vì cảm xúc. |
 | **Reading time.** ~25 minutes. Tool evaluation takes 30-90 days per tool. Annual audit: 1 hour. | **Thời gian đọc.** ~25 phút. Đánh giá công cụ mất 30-90 ngày mỗi cái. Kiểm toán hàng năm: 1 giờ. |
 
@@ -41,8 +41,8 @@
 | **The gadget cycle.** Most players go through this: see a cool new tool → buy it → use it enthusiastically for 1-2 weeks → put it in a drawer → buy another tool. *The cycle repeats. The improvement doesn't.* | **Chu kỳ phụ kiện.** Hầu hết người chơi đi qua: thấy công cụ mới thú vị → mua → dùng nhiệt tình 1-2 tuần → để vào ngăn kéo → mua công cụ khác. *Chu kỳ lặp. Cải thiện không.* |
 | **Why the cycle happens.** | **Tại sao chu kỳ xảy ra.** |
 | **Reason 1 — Tools promise shortcuts.** "Buy this and your forehand will improve." But tools don't replace the 10,000-hour myelin work. They *augment* it. | **Lý do 1 — Công cụ hứa tắt ngắn.** "Mua cái này và forehand bạn sẽ cải thiện." Nhưng công cụ không thay công việc myelin 10.000 giờ. Chúng *tăng cường* nó. |
-| **Reason 2 — Tools are sold to aspirational selves.** The marketing targets the player you *want to be,* not the player you *are.* | **Lý do 2 — Công cụ được bán cho bản ngã khao khát.** Marketing nhắm người chơi anh *muốn trở thành,* không người chơi anh *là.* |
-| **Reason 3 — No system to evaluate.** Without a framework, you can't tell a good tool from a flashy one. *This deep-dive fixes that.* | **Lý do 3 — Không hệ thống để đánh giá.** Không có khung, anh không thể phân biệt công cụ tốt với công cụ hào nhoáng. *Deep-dive này sửa cái đó.* |
+| **Reason 2 — Tools are sold to aspirational selves.** The marketing targets the player you *want to be,* not the player you *are.* | **Lý do 2 — Công cụ được bán cho bản ngã khao khát.** Marketing nhắm người chơi bạn *muốn trở thành,* không người chơi bạn *là.* |
+| **Reason 3 — No system to evaluate.** Without a framework, you can't tell a good tool from a flashy one. *This deep-dive fixes that.* | **Lý do 3 — Không hệ thống để đánh giá.** Không có khung, bạn không thể phân biệt công cụ tốt với công cụ hào nhoáng. *Deep-dive này sửa cái đó.* |
 | **Reason 4 — Tools without systems become toys.** A racket sensor without myelin discipline is data. A VR headset without CLA practice is gaming. *A tool integrated into your 12-Law system is leverage.* | **Lý do 4 — Công cụ không hệ thống thành đồ chơi.** Cảm biến vợt không có kỷ luật myelin là dữ liệu. Kính VR không có tập CLA là game. *Công cụ tích hợp vào hệ 12 Điều Luật là đòn bẩy.* |
 
 * * *
@@ -72,10 +72,10 @@
 | **Maturity.** Emerging. *Some games; fewer true training tools.* | **Trưởng thành.** Đang nổi. *Một số game; ít công cụ tập thật.* |
 | **Best for.** Players with limited court time. Players who want to build chunks without physical fatigue. *Especially useful for winter months in cold climates.* | **Tốt nhất cho.** Người chơi thời gian sân hạn chế. Người chơi muốn xây chunk không mệt vật lý. *Đặc biệt hữu ích mùa đông khí hậu lạnh.* |
 | **Tool 4 — AI coach (SwingVision, PlaySight, IBM Watson, custom GPT).** | **Công cụ 4 — HLV AI (SwingVision, PlaySight, IBM Watson, custom GPT).** |
-| **What it does.** Analyzes video + audio. Identifies patterns in your game. Suggests drills based on observed weaknesses. | **Cái nó làm.** Phân tích video + âm thanh. Xác định mẫu trong trình anh. Gợi ý bài dựa trên điểm yếu quan sát. |
-| **Tennis use.** Self-coaching video analysis (Deep-Dive #10 Pillar 2) — automated review. Chunk discovery (Deep-Dive #9) — AI identifies tactical patterns you may not see. | **Dùng tennis.** Phân tích video tự huấn luyện (Deep-Dive #10 Trụ 2) — đánh giá tự động. Khám phá chunk (Deep-Dive #9) — AI xác định mẫu chiến thuật anh có thể không thấy. |
+| **What it does.** Analyzes video + audio. Identifies patterns in your game. Suggests drills based on observed weaknesses. | **Cái nó làm.** Phân tích video + âm thanh. Xác định mẫu trong trình bạn. Gợi ý bài dựa trên điểm yếu quan sát. |
+| **Tennis use.** Self-coaching video analysis (Deep-Dive #10 Pillar 2) — automated review. Chunk discovery (Deep-Dive #9) — AI identifies tactical patterns you may not see. | **Dùng tennis.** Phân tích video tự huấn luyện (Deep-Dive #10 Trụ 2) — đánh giá tự động. Khám phá chunk (Deep-Dive #9) — AI xác định mẫu chiến thuật bạn có thể không thấy. |
 | **Cost.** Free-500/year. | **Chi phí.** Miễn phí-500/năm. |
-| **Maturity.** Rapidly maturing. *Caution:* AI suggestions need human filtering. *The AI is a tool; you are still the Silent CEO (Deep-Dive #6).* | **Trưởng thành.** Đang nhanh chóng trưởng thành. *Cảnh giác:* gợi ý AI cần lọc của người. *AI là công cụ; anh vẫn là CEO Im Lặng (Deep-Dive #6).* |
+| **Maturity.** Rapidly maturing. *Caution:* AI suggestions need human filtering. *The AI is a tool; you are still the Silent CEO (Deep-Dive #6).* | **Trưởng thành.** Đang nhanh chóng trưởng thành. *Cảnh giác:* gợi ý AI cần lọc của người. *AI là công cụ; bạn vẫn là CEO Im Lặng (Deep-Dive #6).* |
 | **Best for.** Players who video themselves regularly and want automated analysis. *Especially valuable for the self-coach who has more video than time to review it.* | **Tốt nhất cho.** Người chơi tự quay video thường xuyên và muốn phân tích tự động. *Đặc biệt giá trị cho tự HLV có nhiều video hơn thời gian xem.* |
 | **Tool 5 — Biometric dashboard (Oura + custom dashboard, Whoop, Apple Health + custom).** | **Công cụ 5 — Bảng sinh trắc (Oura + bảng tùy chỉnh, Whoop, Apple Health + tùy chỉnh).** |
 | **What it does.** Aggregates HRV, sleep, RHR, skin temperature, training load. Daily readiness score. Trend analysis over months. | **Cái nó làm.** Tổng hợp HRV, giấc ngủ, RHR, nhiệt độ da, tải tập. Điểm sẵn sàng hàng ngày. Phân tích xu hướng qua nhiều tháng. |
@@ -93,7 +93,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **The 7-question evaluation.** Before buying any new tool, ask these 7 questions. If a tool fails more than 2, don't buy. | **Đánh giá 7 câu hỏi.** Trước khi mua công cụ mới, hỏi 7 câu hỏi. Nếu công cụ thất bại hơn 2, đừng mua. |
-| **Q1 — Which Law does it serve?** Map the tool to one of the 12 Laws (the 11 prior deep-dives + Dream Library itself). If you cannot map it, *it doesn't serve your system.* | **C1 — Điều Luật nào nó phục vụ?** Ánh xạ công cụ vào một trong 12 Điều Luật. Nếu anh không thể ánh xạ, *nó không phục vụ hệ thống anh.* |
+| **Q1 — Which Law does it serve?** Map the tool to one of the 12 Laws (the 11 prior deep-dives + Dream Library itself). If you cannot map it, *it doesn't serve your system.* | **C1 — Điều Luật nào nó phục vụ?** Ánh xạ công cụ vào một trong 12 Điều Luật. Nếu bạn không thể ánh xạ, *nó không phục vụ hệ thống bạn.* |
 | **Q2 — Will I actually use it daily?** Honest answer. If no, *it's a toy.* Tools that require <5 min/day have higher use rate. | **C2 — Tôi sẽ thực sự dùng hàng ngày?** Trung thực. Nếu không, *nó là đồ chơi.* Công cụ đòi hỏi <5 phút/ngày có tỷ lệ dùng cao hơn. |
 | **Q3 — Does it integrate or replace?** Tools that *integrate* with your existing system (deep-dive #1-11) are leverage. Tools that *replace* are disruptive. *Default: integrate, don't replace.* | **C3 — Nó tích hợp hay thay thế?** Công cụ *tích hợp* với hệ hiện có là đòn bẩy. Công cụ *thay thế* là gián đoạn. *Mặc định: tích hợp, không thay thế.* |
 | **Q4 — What's the data export?** Can you get the data out into a format you control (CSV, JSON, your own dashboard)? *If data is locked in the app, you don't own it.* | **C4 — Xuất dữ liệu thế nào?** Bạn có thể lấy dữ liệu ra định dạng bạn kiểm soát (CSV, JSON, bảng riêng)? *Nếu dữ liệu bị khóa trong app, bạn không sở hữu nó.* |
@@ -116,9 +116,9 @@
 | **AI coach →** Law 9 (Decision Latency), Law 10 (Self-Coaching Pillar 2), Law 1 (Anti-Orthodox — flag suggestions that contradict YOUR body). | **HLV AI →** Luật 9 (Độ Trễ Quyết Định), Luật 10 (Tự HL Trụ 2), Luật 1 (Phản Giáo Điều — gắn cờ gợi ý mâu thuẫn với cơ thể ANH). |
 | **Biometric dashboard →** Law 11 (HRV Dashboard), Law 3 (Sleep), Law 5 (Pressure Inoculation pre-check). | **Bảng sinh trắc →** Luật 11 (Bảng HRV), Luật 3 (Giấc ngủ), Luật 5 (Kiểm trước tiêm chủng áp lực). |
 | **The "single most valuable" recommendation.** | **Khuyến nghị "giá trị nhất."** |
-| If you can afford only one tool: **biometric dashboard.** *It informs every other Law.* | Nếu anh chỉ đủ một công cụ: **bảng sinh trắc.** *Nó thông tin mọi Điều Luật khác.* |
+| If you can afford only one tool: **biometric dashboard.** *It informs every other Law.* | Nếu bạn chỉ đủ một công cụ: **bảng sinh trắc.** *Nó thông tin mọi Điều Luật khác.* |
 | If you can afford two: **biometric dashboard + sensor racket.** *Together they cover Laws 3, 4, 8, 11 — most of the data layer.* | Nếu đủ hai: **bảng sinh trắc + vợt cảm biến.** *Cùng nhau chúng bao Luật 3, 4, 8, 11 — phần lớn lớp dữ liệu.* |
-| If you can afford three: **+ AI coach.** *Now you have data + analysis.* | Nếu đủ ba: **+ HLV AI.** *Giờ anh có dữ liệu + phân tích.* |
+| If you can afford three: **+ AI coach.** *Now you have data + analysis.* | Nếu đủ ba: **+ HLV AI.** *Giờ bạn có dữ liệu + phân tích.* |
 
 * * *
 
@@ -139,7 +139,7 @@
 | **Sell/give.** Used 0-10 days, doesn't serve Laws. | **Bán/cho.** Đã dùng 0-10 ngày, không phục vụ Luật. |
 | **Renew.** Used 10-30 days. Question: why so low? Address. | **Gia hạn.** Đã dùng 10-30 ngày. Câu hỏi: tại sao thấp? Giải quyết. |
 | **Step 4.** Identify 1-2 tools to ADD in the next year. Use the 7-question framework. | **Bước 4.** Xác định 1-2 công cụ để THÊM trong năm tới. Dùng khung 7 câu hỏi. |
-| **Step 5.** Write a 1-paragraph "Tool Philosophy" — your relationship with tennis tools. | **Bước 5.** Viết "Triết Lý Công Cụ" 1 đoạn — quan hệ của anh với công cụ tennis. |
+| **Step 5.** Write a 1-paragraph "Tool Philosophy" — your relationship with tennis tools. | **Bước 5.** Viết "Triết Lý Công Cụ" 1 đoạn — quan hệ của bạn với công cụ tennis. |
 | **Example.** "Tools serve my 12-Law system. I add no more than 2 per year. I keep only tools that integrate with existing Laws. I am a curator, not a collector." | **Ví dụ.** "Công cụ phục vụ hệ 12 Điều Luật. Tôi không thêm quá 2 mỗi năm. Tôi giữ chỉ công cụ tích hợp với Điều Luật hiện có. Tôi là người bảo quản, không phải người sưu tầm." |
 
 * * *
@@ -152,8 +152,8 @@
 |---|---|
 | **The two errors.** | **Hai lỗi.** |
 | **Error 1 — Tools as ends.** Buying tools to *be a person who has tools.* The tools become identity markers, not systems. *Result: drawer of unused gadgets.* | **Lỗi 1 — Công cụ là đích.** Mua công cụ để *là người có công cụ.* Công cụ trở thành dấu hiệu bản ngã, không hệ thống. *Kết quả: ngăn kéo đồ chơi không dùng.* |
-| **Error 2 — Tools as masters.** Letting tools dictate practice. "The AI says I need to do 200 forehands." *Now the tool is your coach.* | **Lỗi 2 — Công cụ là chủ.** Để công cụ ra lệnh tập. "AI nói tôi cần 200 forehand." *Giờ công cụ là HLV anh.* |
-| **The principle.** Tools serve the system. The system is the 12 Laws. *You* are the Silent CEO. *Tools are employees.* They serve at your direction. You can fire them (annual audit). | **Nguyên tắc.** Công cụ phục vụ hệ thống. Hệ thống là 12 Điều Luật. *Anh* là CEO Im Lặng. *Công cụ là nhân viên.* Chúng phục vụ theo chỉ đạo anh. Anh có thể sa thải (kiểm toán hàng năm). |
+| **Error 2 — Tools as masters.** Letting tools dictate practice. "The AI says I need to do 200 forehands." *Now the tool is your coach.* | **Lỗi 2 — Công cụ là chủ.** Để công cụ ra lệnh tập. "AI nói tôi cần 200 forehand." *Giờ công cụ là HLV bạn.* |
+| **The principle.** Tools serve the system. The system is the 12 Laws. *You* are the Silent CEO. *Tools are employees.* They serve at your direction. You can fire them (annual audit). | **Nguyên tắc.** Công cụ phục vụ hệ thống. Hệ thống là 12 Điều Luật. *Anh* là CEO Im Lặng. *Công cụ là nhân viên.* Chúng phục vụ theo chỉ đạo bạn. Anh có thể sa thải (kiểm toán hàng năm). |
 | **The 2030 risk.** The tool market will explode with AI-enabled tennis gadgets. *Most will be wrappers around basic sensors with marketing hype.* The 5.0+ player filters through the 7-question framework. *Most get filtered out.* | **Rủi ro 2030.** Thị trường công cụ sẽ bùng nổ với phụ kiện tennis hỗ trợ AI. *Hầu hết sẽ là wrapper quanh cảm biến cơ bản với hype marketing.* Người 5.0+ lọc qua khung 7 câu hỏi. *Hầu hết bị lọc ra.* |
 
 * * *

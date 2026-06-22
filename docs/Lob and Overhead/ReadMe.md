@@ -69,4 +69,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
   - 📄 `Lob and Overhead — The Vertical Game.md` (~67 KB, 574 lines, 5 chapters, EN-VI bilingual)
   - 📄 `ReadMe.md` (this file)
 
-Hy vọng tuần này anh sẽ thêm "trò chơi dọc" vào toolkit ở Surrey. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — backswing cao là chìa khóa của mọi lob.
+Hy vọng tuần này bạn sẽ thêm "trò chơi dọc" vào toolkit ở Surrey. Bắt đầu với Drill 1 (gãi lưng 20 lần/ngày) — backswing cao là chìa khóa của mọi lob.

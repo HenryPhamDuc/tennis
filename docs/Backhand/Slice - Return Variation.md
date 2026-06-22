@@ -15,8 +15,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| A big serve at 3.5 level is usually about "pace and spin" that disrupts your rhythm. Trying to swing back hard with topspin often results in errors. The slice return is your "re-direction" tool. | Một cú giao bóng mạnh ở level 3.5 thường là "lực và xoáy" làm lệch nhịp của anh. Cố vung vợt đánh mạnh lại thường dẫn đến lỗi. Slice trả giao là công cụ "đổi hướng" an toàn. |
-| **At 50+, you don't need to be a hero.** A deep, slow-paced slice that lands in the middle of the service box is 10x better than a "winner attempt" that hits the net. | **Ở tuổi 50+, đừng làm anh hùng.** Một cú slice sâu, nhịp chậm rơi giữa sân service tốt gấp 10 lần một cú "cố ăn điểm" mà cắm lưới. |
+| A big serve at 3.5 level is usually about "pace and spin" that disrupts your rhythm. Trying to swing back hard with topspin often results in errors. The slice return is your "re-direction" tool. | Một cú giao bóng mạnh ở level 3.5 thường là "lực và xoáy" làm lệch nhịp của bạn. Cố vung vợt đánh mạnh lại thường dẫn đến lỗi. Slice trả giao là công cụ "đổi hướng" an toàn. |
+| **At 50+, you don't need to be a hero.** A deep, slow-paced slice that lands in the middle of the service box is 10x better than a "winner attempt" that hits the net. | **Ở tuổi 50+, đừng làm bạn hùng.** Một cú slice sâu, nhịp chậm rơi giữa sân service tốt gấp 10 lần một cú "cố ăn điểm" mà cắm lưới. |
 
 ---
 
@@ -24,8 +24,8 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **1. The Split-Step:** This is non-negotiable. You must split-step as the opponent contacts the ball. Without it, you are late. | **1. Split-step:** Không thương lượng. Anh phải split-step đúng lúc đối thủ chạm bóng. Không có nó, anh sẽ chậm. |
-| **2. The "Block":** Do not swing. The server has already given you the pace. Your job is to **block** the ball. The racket stays short, compact, and steady. | **2. "Chặn" bóng:** Đừng vung vợt. Người giao bóng đã cho anh lực rồi. Việc của anh là **chặn** bóng. Vợt giữ ngắn, gọn, và chắc. |
+| **1. The Split-Step:** This is non-negotiable. You must split-step as the opponent contacts the ball. Without it, you are late. | **1. Split-step:** Không thương lượng. Anh phải split-step đúng lúc đối thủ chạm bóng. Không có nó, bạn sẽ chậm. |
+| **2. The "Block":** Do not swing. The server has already given you the pace. Your job is to **block** the ball. The racket stays short, compact, and steady. | **2. "Chặn" bóng:** Đừng vung vợt. Người giao bóng đã cho bạn lực rồi. Việc của bạn là **chặn** bóng. Vợt giữ ngắn, gọn, và chắc. |
 | **3. The Bevel Shift:** Use your Continental grip. As the ball comes in, just angle the racket face to direct the ball deep into the opponent's court. Think of it as a "volley on the return." | **3. Điều chỉnh góc vợt:** Dùng Continental. Khi bóng tới, chỉ cần chỉnh góc mặt vợt để hướng bóng sâu sang sân đối phương. Hãy nghĩ nó là một cú "volley lúc trả giao". |
 
 ---
@@ -36,7 +36,7 @@
 |---|---|---|
 | **Deep Middle** | Removes the opponent's angle. Safe. | Loại bỏ góc của đối thủ. An toàn. |
 | **At the Server's feet** | If they follow in (Serve & Volley). | Nếu họ lên lưới (Serve & Volley). |
-| **Wide to the Backhand** | Opens up the court for your next shot. | Mở sân cho cú sau của anh. |
+| **Wide to the Backhand** | Opens up the court for your next shot. | Mở sân cho cú sau của bạn. |
 
 ---
 

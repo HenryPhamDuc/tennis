@@ -88,7 +88,7 @@
 | 2. **Lower trajectory.** The slice dips through the contact zone, then curves DOWN. The ball lands at the receiver's feet, not at their shoulders. **Lower target = more margin for error.** | 2. **Quỹ đạo thấp hơn.** Slice đi qua vùng tiếp xúc, rồi cong XUỐNG. Bóng rơi chân người nhận, không vai. **Mục tiêu thấp hơn = nhiều biên lỗi hơn.** |
 | 3. **Curves away from the returner.** The slice curves to the LEFT (for right-handers serving to a right-handed returner). The returner has to reach across their body. **Curve + cross-body reach = weaker return.** | 3. **Cong ra xa người trả.** Slice cong sang TRÁI (với người thuận phải giao cho người thuận phải). Người trả phải vươn ngang người. **Cong + vươn ngang = return yếu hơn.** |
 | 4. **Consistency.** The slice has a higher in-percentage than the flat serve for most 3.5 players. **70% slice in is better than 50% flat in.** | 4. **Nhất quán.** Slice có tỷ lệ vào cao hơn flat cho hầu hết người 3.5. **70% slice vào tốt hơn 50% flat vào.** |
-| **The flat serve is a weapon. The slice serve is a setup. In doubles, you want setup, not weapon.** | **Flat serve là vũ khí. Slice serve là setup. Trong đôi, anh muốn setup, không phải vũ khí.** |
+| **The flat serve is a weapon. The slice serve is a setup. In doubles, you want setup, not weapon.** | **Flat serve là vũ khí. Slice serve là setup. Trong đôi, bạn muốn setup, không phải vũ khí.** |
 
 > 💡 **The "slice is the 50+ insurance" rule | Quy tắc "slice là bảo hiểm 50+"**
 > **The slice serve is the 50+ doubles insurance policy.** A 50+ player who serves 80% slice and 20% flat will have 70%+ first serves in, will pull the returner off the court, and will give the poacher a hittable ball. **The slice is the joint-friendly, percentage-friendly, poacher-friendly serve.** Lead with the slice. Add the flat only on big points.
@@ -117,12 +117,12 @@
 | The Serve Wide is the **3.5 doubles default** and the **50+ doubles insurance**. Slice the ball into the returner's backhand corner. **Three things happen:** | Serve Rộng là **mặc định đôi 3.5** và **bảo hiểm đôi 50+**. Slice bóng vào góc backhand người trả. **Ba thứ xảy ra:** |
 | 1. The returner is **pulled wide** off the court. They have to run to reach the ball. | 1. Người trả bị **kéo rộng** ra khỏi sân. Họ phải chạy để tới bóng. |
 | 2. The return is a **defensive, loopy ball** (the returner has no time to attack). The ball floats in the middle. | 2. Return là **bóng phòng thủ, vòng** (người trả không có thời gian tấn công). Bóng lửng giữa sân. |
-| 3. Your **poacher has a hittable ball** in the middle of the court. The poach wins. | 3. **Người cắt của anh có bóng để cắt** ở giữa sân. Cú cắt thắng. |
+| 3. Your **poacher has a hittable ball** in the middle of the court. The poach wins. | 3. **Người cắt của bạn có bóng để cắt** ở giữa sân. Cú cắt thắng. |
 
 > 🧠 **Mental model | Mô hình tư duy**
 > The Serve Wide is a **trap**. You don't ace the returner — you PULL them off the court so the poacher can win the next shot. The serve is the setup. The poach is the point. **Don't try to win the point on the serve. Win it on the next shot.**
 >
-> *Serve Rộng là **bẫy**. Anh không ace người trả — anh KÉO họ rộng ra để người cắt thắng cú tiếp. Serve là setup. Cú cắt là điểm. **Đừng cố thắng điểm trên serve. Thắng ở cú tiếp.***
+> *Serve Rộng là **bẫy**. Anh không ace người trả — bạn KÉO họ rộng ra để người cắt thắng cú tiếp. Serve là setup. Cú cắt là điểm. **Đừng cố thắng điểm trên serve. Thắng ở cú tiếp.***
 
 ### The 3-Step Serve Wide Sequence | Chuỗi 3 Bước Serve Rộng
 
@@ -145,7 +145,7 @@
 > 💡 **The "backhand + corner" rule | Quy tắc "backhand + góc"**
 > **At 3.5, 80% of returns go back to the server's backhand** (a 3.5 returner is more comfortable with the forehand). By serving wide to the backhand, you're forcing the returner to hit a defensive backhand OR a cross-court forehand that lands in the middle. **Either way, the poach wins.**
 >
-> *Ở 3.5, 80% return đi về backhand server (người trả 3.5 thoải mái forehand hơn). Bằng cách giao rộng vào backhand, anh ép người trả đánh backhand phòng thủ HOẶC forehand chéo sân rơi giữa. **Cả hai cách, cú cắt thắng.***
+> *Ở 3.5, 80% return đi về backhand server (người trả 3.5 thoải mái forehand hơn). Bằng cách giao rộng vào backhand, bạn ép người trả đánh backhand phòng thủ HOẶC forehand chéo sân rơi giữa. **Cả hai cách, cú cắt thắng.***
 
 #### 🎯 Part 2 — The Slice (How to Hit It) | Slice (Cách Đánh)
 
@@ -171,13 +171,13 @@
 | **The 3-step coordination:** | **Phối hợp 3 bước:** |
 | 1. **Before the serve: "Poach!" or "Mine!"** Shout to your partner. **The poacher needs to know the serve is wide** (so they know to poach to the middle, not to the wide side). | 1. **Trước serve: "Cắt!" hoặc "Của tôi!"** Hét với partner. **Người cắt cần biết serve rộng** (để biết cắt vào giữa, không phải bên rộng). |
 | 2. **During the serve: watch the returner.** The instant the returner makes contact, **call "Now!" or "GO!"** to the poacher. This is the "go signal" for the poach. | 2. **Trong serve: quan sát người trả.** Khoảnh khắc người trả chạm bóng, **gọi "Giờ!" hoặc "ĐI!"** với người cắt. Đây là "tín hiệu đi" cho cú cắt. |
-| 3. **After the serve: stay back or move in.** If the poach wins, you stay back (you're already there). If the poach misses, you cover the alley. | 3. **Sau serve: ở lại hoặc vào.** Nếu cắt thắng, anh ở lại (anh đã ở đó rồi). Nếu cắt trượt, anh che biên ngoài. |
+| 3. **After the serve: stay back or move in.** If the poach wins, you stay back (you're already there). If the poach misses, you cover the alley. | 3. **Sau serve: ở lại hoặc vào.** Nếu cắt thắng, bạn ở lại (bạn đã ở đó rồi). Nếu cắt trượt, bạn che biên ngoài. |
 | **The call is non-verbal-friendly.** At 50+ with hearing issues, use **hand signals**: fist behind back = "I'm poaching," open hand = "Stay." | **Gọi thân thiện không lời.** Ở tuổi 50+ với vấn đề thính giác, dùng **tín hiệu tay**: nắm đấm sau lưng = "tôi cắt," tay mở = "ở lại." |
 
 > 🩺 **The 50+ hearing tip | Mẹo thính giác 50+**
 > **At 50+, you might not hear your partner's "Poach!" call over the wind, the crowd, or your own serving rhythm.** The fix: **pre-serve hand signals**. Before every serve, the poacher shows the server a hand signal: fist = "I'm poaching," open hand = "Stay," pointing to the alley = "Cover the alley." **The signal is silent, visible, and 50+ reliable.**
 >
-> *Ở tuổi 50+, anh có thể không nghe tiếng "Cắt!" của partner qua gió, đám đông, hoặc nhịp serve của chính anh. Sửa: **tín hiệu tay trước serve**. Trước mỗi serve, người cắt cho server tín hiệu tay: nắm đấm = "tôi cắt," tay mở = "ở lại," chỉ biên ngoài = "che biên ngoài." **Tín hiệu im, thấy được, và đáng tin ở 50+.***
+> *Ở tuổi 50+, bạn có thể không nghe tiếng "Cắt!" của partner qua gió, đám đông, hoặc nhịp serve của chính bạn. Sửa: **tín hiệu tay trước serve**. Trước mỗi serve, người cắt cho server tín hiệu tay: nắm đấm = "tôi cắt," tay mở = "ở lại," chỉ biên ngoài = "che biên ngoài." **Tín hiệu im, thấy được, và đáng tin ở 50+.***
 
 ### The Serve Wide Cheat Sheet | Bảng Tóm Tắt Serve Rộng
 
@@ -225,7 +225,7 @@
 > 💡 **The "poacher's dream" insight | Hiểu biết "mơ ước người cắt"**
 > **The T serve is the poacher's dream because the geometry forces the return UP.** A wide serve pulls the returner off the court (the return goes low and across). A body serve jams the returner (the return goes high but to the side). A T serve is the ONLY serve that forces the return UP into the poacher's wheelhouse. **If your poacher is fast and confident, the T serve gives them the most hittable balls.**
 >
-> *Serve T là mơ ước người cắt vì hình học ép return LÊN. Serve rộng kéo người trả rộng (return đi thấp và ngang). Serve thân ép người trả (return đi cao nhưng sang bên). Serve T là serve DUY NHẤT ép return LÊN vào vùng ngon người cắt. **Nếu người cắt anh nhanh và tự tin, serve T cho họ nhiều bóng để cắt nhất.***
+> *Serve T là mơ ước người cắt vì hình học ép return LÊN. Serve rộng kéo người trả rộng (return đi thấp và ngang). Serve thân ép người trả (return đi cao nhưng sang bên). Serve T là serve DUY NHẤT ép return LÊN vào vùng ngon người cắt. **Nếu người cắt bạn nhanh và tự tin, serve T cho họ nhiều bóng để cắt nhất.***
 
 ### The T Serve Aim (Where to Land) | Nhắm Serve T (Rơi Ở Đâu)
 
@@ -283,7 +283,7 @@
 | The body serve is **devastating** at 3.5. Why? | Serve thân là **tàn khốc** ở 3.5. Tại sao? |
 | 1. **The returner can't swing.** A body serve hits the returner at their torso. They can't extend their arms to swing. **The return is a half-volley or a block.** | 1. **Người trả không thể vung.** Serve thân đánh người trả ở thân. Họ không thể duỗi tay để vung. **Return là half-volley hoặc block.** |
 | 2. **The return is a slow floater.** A jammed returner hits a slow, loopy ball. **The poacher has all the time in the world.** | 2. **Return là floater chậm.** Người trả bị ép đánh bóng chậm, vòng. **Người cắt có tất cả thời gian thế giới.** |
-| 3. **The returner is in a defensive position.** They can't attack from a body serve. The point is yours. | 3. **Người trả ở vị trí phòng thủ.** Họ không thể tấn công từ serve thân. Điểm là của anh. |
+| 3. **The returner is in a defensive position.** They can't attack from a body serve. The point is yours. | 3. **Người trả ở vị trí phòng thủ.** Họ không thể tấn công từ serve thân. Điểm là của bạn. |
 | **The body serve is "for the brave" at 3.5 because it's technically harder** (the toss has to be precise, the contact has to be at the body). But once learned, it's a winning weapon. | **Serve thân là "dành cho người dũng cảm" ở 3.5 vì khó kỹ thuật hơn** (tung phải chính xác, contact phải ở thân). Nhưng khi đã học, đó là vũ khí thắng. |
 
 > 🧠 **Mental model | Mô hình tư duy**
@@ -356,7 +356,7 @@
 > 🩺 **The 50+ Serve + Volley rule | Quy tắc Serve + Volley 50+**
 > **The Serve + Volley at 50+ has a hard limit: the sprint.** The serve itself is joint-friendly (Continental + slice + 70% power = low load). But the **70% sprint** to the net — that's the risk. **At 50+, use Serve + Volley once or twice per set, on the points where the body feels good.** Your heart, your knees, and your back will thank you.
 >
-> *Serve + Volley ở 50+ có giới hạn cứng: chạy. Bản thân serve thân thiện khớp (Continental + slice + 70% lực = ít tải). Nhưng **chạy 70%** tới lưới — đó là rủi ro. **Ở tuổi 50+, dùng Serve + Volley một hai lần mỗi set, ở điểm cơ thể cảm thấy tốt.** Tim, gối, và lưng anh sẽ cảm ơn.*
+> *Serve + Volley ở 50+ có giới hạn cứng: chạy. Bản thân serve thân thiện khớp (Continental + slice + 70% lực = ít tải). Nhưng **chạy 70%** tới lưới — đó là rủi ro. **Ở tuổi 50+, dùng Serve + Volley một hai lần mỗi set, ở điểm cơ thể cảm thấy tốt.** Tim, gối, và lưng bạn sẽ cảm ơn.*
 
 ### The Serve + Volley Cheat Sheet | Bảng Tóm Tắt Serve + Volley
 
@@ -401,7 +401,7 @@
 | - **Fist** = "I'm poaching." | - **Nắm đấm** = "Tôi cắt." |
 | - **Open hand** = "Stay." | - **Tay mở** = "Ở lại." |
 | - **Point to alley** = "Cover the alley." | - **Chỉ biên ngoài** = "Che biên ngoài." |
-| **You serve, you read the signal, you serve to the target that matches the signal.** | **Anh giao, anh đọc tín hiệu, anh giao vào mục tiêu khớp tín hiệu.** |
+| **You serve, you read the signal, you serve to the target that matches the signal.** | **Anh giao, bạn đọc tín hiệu, bạn giao vào mục tiêu khớp tín hiệu.** |
 | **Goal: 20 serves, 18 with correct signal interpretation.** | **Mục tiêu: 20 serve, 18 đọc tín hiệu đúng.** |
 
 #### Drill 4 — The "4 Patterns" Rotation (With Partner, 15 min) | Luân Phiên 4 Mẫu
@@ -627,7 +627,7 @@ THE TEAM (always):
 >
 > *The serve in doubles is not a weapon. The serve is a setup. The 4 patterns — Wide, T, Body, +Volley — are 4 different setups for 4 different situations. At 50+, the default answer — 80% of serves — is the slice wide to the backhand corner. That's not power. That's placement. That's coordination. That's longevity.*
 
-Bắt đầu tuần này với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, anh sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (aim only, 5 phút/ngày) — đó là nền tảng cho mọi serve đôi. Rồi thêm **Drill 3** (call the poach, 10 phút) cho phối hợp. Trong 4 tuần, bạn sẽ tự tin chọn đúng mẫu cho mỗi tình huống ở Surrey. 🎾
 
 ---
 

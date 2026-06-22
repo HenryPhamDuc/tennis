@@ -36,7 +36,7 @@
 > 🧠 **Mental model | Mô hình tư duy**
 > Imagine chess. Moving a pawn forward is "the approach." But you don't just push the pawn — you first check: is the position right? Is the opponent's king exposed? In tennis, the approach is the same: **the slice is your pawn push, but the position must be right first.** A well-timed approach with a mediocre slice beats a poorly-timed approach with a perfect slice. The decision comes BEFORE the shot.
 >
-> *Hình dung cờ vua. Đẩy tốt lên là "approach." Nhưng anh không chỉ đẩy tốt — anh trước hết kiểm tra: vị trí đúng chưa? Vua đối phương lộ chưa? Trong tennis, approach cũng vậy: **slice là cú đẩy tốt của anh, nhưng vị trí phải đúng trước.** Approach đúng lúc với slice tầm tốt thắng approach sai lúc với slice hoàn hảo. Quyết định đến TRƯỚC cú đánh.*
+> *Hình dung cờ vua. Đẩy tốt lên là "approach." Nhưng bạn không chỉ đẩy tốt — bạn trước hết kiểm tra: vị trí đúng chưa? Vua đối phương lộ chưa? Trong tennis, approach cũng vậy: **slice là cú đẩy tốt của bạn, nhưng vị trí phải đúng trước.** Approach đúng lúc với slice tầm tốt thắng approach sai lúc với slice hoàn hảo. Quyết định đến TRƯỚC cú đánh.*
 
 ### The Approach Decision Tree — 4 Questions to Ask First | Cây Quyết Định Approach — 4 Câu Hỏi Hỏi Trước
 
@@ -50,7 +50,7 @@
 > ⚠️ **The 3.5 trap | Cái bẫy 3.5**
 > Most 3.5 players skip questions 1 and 2. They see a "hittable" ball and charge the net. **But if the ball is deep OR the opponent is set, you're running into a passing shot.** The approach only works when ALL 4 questions are YES. If even one is NO, hit another groundstroke and wait.
 >
-> *Hầu hết người 3.5 bỏ qua câu 1 và 2. Họ thấy bóng "đánh được" và xông lên lưới. **Nhưng nếu bóng sâu HOẶC đối thủ sẵn sàng, anh đang chạy vào passing shot.** Approach chỉ hiệu quả khi CẢ 4 câu đều CÓ. Nếu chỉ một câu là KHÔNG, đánh groundstroke khác và chờ.*
+> *Hầu hết người 3.5 bỏ qua câu 1 và 2. Họ thấy bóng "đánh được" và xông lên lưới. **Nhưng nếu bóng sâu HOẶC đối thủ sẵn sàng, bạn đang chạy vào passing shot.** Approach chỉ hiệu quả khi CẢ 4 câu đều CÓ. Nếu chỉ một câu là KHÔNG, đánh groundstroke khác và chờ.*
 >
 > *Lên lưới bằng slice.*
 
@@ -62,13 +62,13 @@
 | 1. **Low net clearance.** The slice stays low over the net. A low approach shot is harder to pass than a high one — the opponent has to hit UP to pass, which is harder than hitting ACROSS. | 1. **Qua lưới thấp.** Slice qua lưới thấp. Approach thấp khó pass hơn approach cao — đối thủ phải đánh LÊN để pass, khó hơn đánh NGANG. |
 | 2. **Underspin keeps the ball low after the bounce.** A sliced approach bounces low and skids. The opponent's passing shot has to clear the net from a low contact — the margin for error is tiny. | 2. **Underspin giữ bóng thấp sau nảy.** Approach slice nảy thấp và trượt. Passing shot đối thủ phải qua lưới từ contact thấp — biên lỗi nhỏ. |
 | 3. **Slow racket speed.** Slice uses a small, controlled swing. Less shoulder load, less back strain, less knee stress. **At 50+, slice is the joint-friendly approach.** | 3. **Tốc độ vợt chậm.** Slice dùng cú vung nhỏ, kiểm soát. Ít tải vai, ít căng lưng, ít stress gối. **Ở tuổi 50+, slice là approach thân thiện khớp.** |
-| 4. **High accuracy.** The slice's natural arc makes depth control easy. A topspin approach requires precise margin (the ball has to clear the net AND land deep). Slice gives you a 3-4 foot window. | 4. **Độ chính xác cao.** Vòng cung tự nhiên của slice làm kiểm soát độ sâu dễ. Approach topspin đòi hỏi biên chính xác (bóng phải qua lưới VÀ rơi sâu). Slice cho anh cửa sổ 1 mét. |
+| 4. **High accuracy.** The slice's natural arc makes depth control easy. A topspin approach requires precise margin (the ball has to clear the net AND land deep). Slice gives you a 3-4 foot window. | 4. **Độ chính xác cao.** Vòng cung tự nhiên của slice làm kiểm soát độ sâu dễ. Approach topspin đòi hỏi biên chính xác (bóng phải qua lưới VÀ rơi sâu). Slice cho bạn cửa sổ 1 mét. |
 | **The topspin approach is a Federer specialty. At 3.5, the risk-reward is wrong: a topspin approach that lands short = free passing shot for the opponent.** | **Approach topspin là đặc sản Federer. Ở 3.5, tỷ lệ rủi-ro-thưởng sai: approach topspin rơi ngắn = passing shot miễn phí cho đối thủ.** |
 
 > 🧘 **The tai chi framing | Khung thái cực**
 > The slice approach is *Lã Kình* (捋勁) at the macro level. The opponent's deep ball "pushes" you back; the slice "rolls" that energy forward, low over the net, into the deep part of the court. **You don't fight the pace — you redirect it.** Then you walk to the net (*Hoàn Thủ* — return to center, but in this case the center is the net). The whole approach is one continuous *Lã Kình → Hoàn Thủ* cycle.
 >
-> *Slice approach là *Lã Kình* (捋勁) ở mức macro. Bóng sâu đối thủ "đẩy" anh lùi; slice "cuộn" năng lượng đó tới, thấp qua lưới, vào phần sâu sân. **Anh không đấu với lực — anh chuyển hướng nó.** Rồi anh đi bộ lên lưới (*Hoàn Thủ* — trở về trung tâm, nhưng ở đây trung tâm là lưới). Toàn bộ approach là một chuỗi liên tục *Lã Kình → Hoàn Thủ*.*
+> *Slice approach là *Lã Kình* (捋勁) ở mức macro. Bóng sâu đối thủ "đẩy" bạn lùi; slice "cuộn" năng lượng đó tới, thấp qua lưới, vào phần sâu sân. **Anh không đấu với lực — bạn chuyển hướng nó.** Rồi bạn đi bộ lên lưới (*Hoàn Thủ* — trở về trung tâm, nhưng ở đây trung tâm là lưới). Toàn bộ approach là một chuỗi liên tục *Lã Kình → Hoàn Thủ*.*
 
 ---
 
@@ -95,20 +95,20 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Grip: Continental.** Same as the volley, the slice backhand, the lob. The V-to-bevel-2 grip you already know. This is the **single most important decision** — Semi-Western grip on the slice approach will force the face open at contact, and the ball will fly long. | **Grip: Continental.** Cùng như volley, slice backhand, lob. Chữ V trên cạnh số 2 anh đã biết. Đây là quyết định **quan trọng nhất** — Semi-Western trên slice approach sẽ ép mặt vợt mở khi chạm, bóng bay dài. |
-| **Stance: open or semi-open.** Same as the slice backhand deep dive. The open stance lets the chest rotate UP and THROUGH, giving you the underspin that keeps the ball low. | **Tư thế: mở hoặc bán mở.** Cùng slice backhand deep dive. Tư thế mở cho ngực xoay LÊN và QUA, cho anh underspin giữ bóng thấp. |
-| **Balls: ONE bounce minimum.** The approach shot MUST bounce first. A volley-from-the-air approach is for pros with elite reactions. At 3.5, you need the ball to slow down on the bounce. | **Bóng: NẢY ít nhất MỘT LẦN.** Approach shot PHẢI nảy trước. Approach volley từ trên không dành cho pro có phản xạ đỉnh. Ở 3.5, anh cần bóng chậm lại khi nảy. |
+| **Grip: Continental.** Same as the volley, the slice backhand, the lob. The V-to-bevel-2 grip you already know. This is the **single most important decision** — Semi-Western grip on the slice approach will force the face open at contact, and the ball will fly long. | **Grip: Continental.** Cùng như volley, slice backhand, lob. Chữ V trên cạnh số 2 bạn đã biết. Đây là quyết định **quan trọng nhất** — Semi-Western trên slice approach sẽ ép mặt vợt mở khi chạm, bóng bay dài. |
+| **Stance: open or semi-open.** Same as the slice backhand deep dive. The open stance lets the chest rotate UP and THROUGH, giving you the underspin that keeps the ball low. | **Tư thế: mở hoặc bán mở.** Cùng slice backhand deep dive. Tư thế mở cho ngực xoay LÊN và QUA, cho bạn underspin giữ bóng thấp. |
+| **Balls: ONE bounce minimum.** The approach shot MUST bounce first. A volley-from-the-air approach is for pros with elite reactions. At 3.5, you need the ball to slow down on the bounce. | **Bóng: NẢY ít nhất MỘT LẦN.** Approach shot PHẢI nảy trước. Approach volley từ trên không dành cho pro có phản xạ đỉnh. Ở 3.5, bạn cần bóng chậm lại khi nảy. |
 
 > 💡 **The "1-bounce rule" | Quy tắc "1 lần nảy"**
 > The 1-bounce rule kills 80% of bad approaches. If you try to volley the approach out of the air, you'll be early, late, or off-balance. **A bounced approach gives you 0.5 seconds of reaction time** — enough to set your feet, turn your shoulder, and hit a clean slice. **One bounce, then slice, then approach.**
 >
-> *Quy tắc 1 lần nảy giết 80% approach tệ. Nếu cố volley approach từ trên không, anh sẽ sớm, muộn, hoặc mất thăng bằng. **Approach nảy cho anh 0,5 giây thời gian phản ứng** — đủ để đặt chân, xoay vai, và đánh slice sạch. **Một lần nảy, rồi slice, rồi approach.***
+> *Quy tắc 1 lần nảy giết 80% approach tệ. Nếu cố volley approach từ trên không, bạn sẽ sớm, muộn, hoặc mất thăng bằng. **Approach nảy cho bạn 0,5 giây thời gian phản ứng** — đủ để đặt chân, xoay vai, và đánh slice sạch. **Một lần nảy, rồi slice, rồi approach.***
 
 #### 🎯 Part 2 — The Contact (The Slice That Runs) | Tiếp Xúc (Slice Chạy)
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Contact: waist-to-chest height, in front of the body.** The slice approach is caught at the SAME height as a slice backhand. The difference: you want MORE underspin than a regular slice backhand, so the ball stays low after the bounce. | **Tiếp xúc: tầm hông-đến-ngực, phía trước cơ thể.** Slice approach bắt ở CÙNG tầm slice backhand. Khác biệt: anh muốn NHIỀU underspin hơn slice backhand thường, để bóng ở thấp sau nảy. |
+| **Contact: waist-to-chest height, in front of the body.** The slice approach is caught at the SAME height as a slice backhand. The difference: you want MORE underspin than a regular slice backhand, so the ball stays low after the bounce. | **Tiếp xúc: tầm hông-đến-ngực, phía trước cơ thể.** Slice approach bắt ở CÙNG tầm slice backhand. Khác biệt: bạn muốn NHIỀU underspin hơn slice backhand thường, để bóng ở thấp sau nảy. |
 | **Racket face: open, hood angle.** Continental grip + slight wrist layback = the "hood" position. The face is open 30-45° from vertical. | **Mặt vợt: mở, góc mui xe.** Continental + cổ tay nghiêng nhẹ ra sau = vị trí "mui xe." Mặt vợt mở 30-45° từ thẳng đứng. |
 | **Swing path: high to low, brushing DOWN the back of the ball.** The racket starts at shoulder height, ends at waist height. The path "draws a line" from shoulder to waist, with the strings brushing under the ball as they descend. | **Đường vung: cao xuống thấp, quét XUỐNG phía sau bóng.** Vợt bắt đầu ở tầm vai, kết thúc ở tầm hông. Đường "vẽ một đường" từ vai tới hông, dây quét dưới bóng khi xuống. |
 | **The "shoulder shrug" cue (mirrored):** as you make contact, **the LEFT shoulder (non-dominant) shrugs DOWN** to help drive the racket through the slice. This is the opposite of the lob's "shoulder shrug UP" — the slice approach shrugs DOWN. | **Tín hiệu "nhún vai" (đảo):** khi chạm bóng, **vai TRÁI (không thuận) nhún XUỐNG** để giúp đẩy vợt xuyên qua slice. Đây là ngược của "nhún vai LÊN" của lob — slice approach nhún XUỐNG. |
@@ -116,7 +116,7 @@
 > 🎯 **The "frying pan" mental model | Mô hình "chảo"**
 > Hold the racket in Continental, face open like a hood. Imagine the face is a frying pan. **The ball is a pancake you're flipping.** The pan starts high (shoulder), catches the ball, and tilts down to "flip" the ball low over the net with underspin. The pancake doesn't go very high. It goes far, low, and lands deep. **That's the slice approach.**
 >
-> *Cầm vợt Continental, mặt mở như mui xe. Hình dung mặt vợt là cái chảo. **Bóng là cái bánh anh lật.** Chảo bắt đầu cao (vai), hứng bóng, và nghiêng xuống để "lật" bóng thấp qua lưới với underspin. Bánh không bay cao. Nó đi xa, thấp, và rơi sâu. **Đó là slice approach.***
+> *Cầm vợt Continental, mặt mở như mui xe. Hình dung mặt vợt là cái chảo. **Bóng là cái bánh bạn lật.** Chảo bắt đầu cao (vai), hứng bóng, và nghiêng xuống để "lật" bóng thấp qua lưới với underspin. Bánh không bay cao. Nó đi xa, thấp, và rơi sâu. **Đó là slice approach.***
 
 #### 🎯 Part 3 — The Aim (Cross-Court, Deep) | Nhắm (Chéo Sân, Sâu)
 
@@ -130,18 +130,18 @@
 > 🧠 **The "set the trap" mental model | Mô hình "đặt bẫy"**
 > The slice approach is a **trap**. You're setting up the opponent to pass into a low, fast volley. **If the approach is high, the trap fails** — the opponent can hit a high passing shot, or even a lob over your head. **If the approach is low, the opponent MUST hit UP to pass** — and a ball hit UP from 4-6 feet behind the baseline, against a player at the net, is a much harder shot.
 >
-> *Slice approach là **bẫy**. Anh đang setup đối thủ pass vào volley thấp, nhanh. **Nếu approach cao, bẫy hỏng** — đối thủ có thể đánh passing shot cao, hoặc thậm chí lob qua đầu anh. **Nếu approach thấp, đối thủ PHẢI đánh LÊN để pass** — và bóng đánh LÊN từ 1,2-1,8 mét sau baseline, chống người chơi ở lưới, là cú khó hơn nhiều.*
+> *Slice approach là **bẫy**. Anh đang setup đối thủ pass vào volley thấp, nhanh. **Nếu approach cao, bẫy hỏng** — đối thủ có thể đánh passing shot cao, hoặc thậm chí lob qua đầu bạn. **Nếu approach thấp, đối thủ PHẢI đánh LÊN để pass** — và bóng đánh LÊN từ 1,2-1,8 mét sau baseline, chống người chơi ở lưới, là cú khó hơn nhiều.*
 
 ### 2B. The Forehand Slice Approach — The Next Step | Slice Approach Forehand — Bước Tiếp
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The forehand slice approach is a different stroke. The Semi-Western forehand grip doesn't slice naturally, so you must **change grips** before the forehand slice approach. | Slice approach forehand là cú khác. Grip forehand Semi-Western không slice tự nhiên, nên anh phải **đổi grip** trước slice approach forehand. |
+| The forehand slice approach is a different stroke. The Semi-Western forehand grip doesn't slice naturally, so you must **change grips** before the forehand slice approach. | Slice approach forehand là cú khác. Grip forehand Semi-Western không slice tự nhiên, nên bạn phải **đổi grip** trước slice approach forehand. |
 | **Grip: switch to Continental.** When the approach opportunity appears on the forehand, **grip change first**, then approach. The grip change costs 0.3-0.5 seconds — that's why the backhand slice approach is the default (no grip change needed). | **Grip: đổi sang Continental.** Khi cơ hội approach xuất hiện ở forehand, **đổi grip trước**, rồi approach. Đổi grip tốn 0,3-0,5 giây — đó là lý do slice approach backhand là mặc định (không cần đổi grip). |
 | **Stance: open.** Same as the backhand slice approach. The open stance lets the chest rotate through. | **Tư thế: mở.** Cùng slice approach backhand. Tư thế mở cho ngực xoay qua. |
 | **Contact: at chest height, in front.** The forehand slice approach is caught slightly higher than the backhand version — at chest height, not waist. The reason: the forehand shoulder has more freedom to swing, so a higher contact keeps the ball under control. | **Tiếp xúc: tầm ngực, phía trước.** Slice approach forehand bắt hơi cao hơn bản backhand — ở tầm ngực, không tầm hông. Lý do: vai forehand tự do vung hơn, nên contact cao giữ bóng kiểm soát. |
 | **Swing path: high to low, face open.** Same as the backhand slice approach. The face stays open (the "hood" position), the racket descends from high to low, the strings brush the back of the ball. | **Đường vung: cao xuống thấp, mặt mở.** Cùng slice approach backhand. Mặt vợt ở mở (vị trí "mui xe"), vợt đi xuống từ cao tới thấp, dây quét phía sau bóng. |
-| **Aim: down-the-line (the exception).** The forehand slice approach goes DOWN-THE-LINE, not cross-court. Why? Because the forehand's natural angle is cross-court — if you slice cross-court on the forehand, the ball is too short. The down-the-line forehand slice approach is a controlled ball that goes deep. **For the backhand approach, cross-court is the default. For the forehand approach, down-the-line is the default.** | **Nhắm: dọc dây (ngoại lệ).** Slice approach forehand đi DỌC DÂY, không chéo sân. Tại sao? Vì góc tự nhiên của forehand là chéo sân — nếu anh slice chéo sân ở forehand, bóng quá ngắn. Slice approach forehand dọc dây là bóng kiểm soát đi sâu. **Với approach backhand, chéo sân là mặc định. Với approach forehand, dọc dây là mặc định.** |
+| **Aim: down-the-line (the exception).** The forehand slice approach goes DOWN-THE-LINE, not cross-court. Why? Because the forehand's natural angle is cross-court — if you slice cross-court on the forehand, the ball is too short. The down-the-line forehand slice approach is a controlled ball that goes deep. **For the backhand approach, cross-court is the default. For the forehand approach, down-the-line is the default.** | **Nhắm: dọc dây (ngoại lệ).** Slice approach forehand đi DỌC DÂY, không chéo sân. Tại sao? Vì góc tự nhiên của forehand là chéo sân — nếu bạn slice chéo sân ở forehand, bóng quá ngắn. Slice approach forehand dọc dây là bóng kiểm soát đi sâu. **Với approach backhand, chéo sân là mặc định. Với approach forehand, dọc dây là mặc định.** |
 
 > ⚠️ **The 3.5 trap with the forehand slice approach | Cái bẫy 3.5 với slice approach forehand**
 > Most 3.5 players try to approach on the forehand with their **regular forehand grip (Semi-Western) and topspin swing**. This produces a high, loopy ball that lands short of the service line — a sitting duck for the opponent's passing shot. **The fix: change to Continental and slice.** Yes, the grip change costs 0.3-0.5 seconds. But the difference between "high loopy approach into a pass" and "low slice approach into a volley" is the difference between losing the point and winning it.
@@ -180,15 +180,15 @@
 > 🧠 **The "rebound" mental model | Mô hình "nảy"**
 > The transition is a **rebound** — like a basketball bouncing off the backboard. The slice approach is the "bounce back" from the contact, the recovery shuffle is the "settle," the diagonal sprint is the "new direction." **Don't try to sprint straight from the contact** — your body is still rotating, your feet are still planted. Sprint straight and you'll trip or fall. **Side-shuffle first, then sprint.**
 >
-> *Chuyển tiếp là **nảy** — như bóng rổ nảy từ bảng rổ. Slice approach là "nảy ngược" từ contact, side-shuffle hồi phục là "ổn định," chạy chéo là "hướng mới." **Đừng cố chạy nước rút thẳng từ contact** — cơ thể vẫn đang xoay, chân vẫn cắm. Chạy thẳng và anh sẽ vấp hoặc ngã. **Side-shuffle trước, rồi chạy.***
+> *Chuyển tiếp là **nảy** — như bóng rổ nảy từ bảng rổ. Slice approach là "nảy ngược" từ contact, side-shuffle hồi phục là "ổn định," chạy chéo là "hướng mới." **Đừng cố chạy nước rút thẳng từ contact** — cơ thể vẫn đang xoay, chân vẫn cắm. Chạy thẳng và bạn sẽ vấp hoặc ngã. **Side-shuffle trước, rồi chạy.***
 
 ### The Recovery Shuffle — The "Pause" Step | Side-Shuffle Hồi Phục — Bước "Tạm Dừng"
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **The recovery shuffle is the most-skipped step at 3.5.** Players think: "I hit the approach, now sprint to the net." Wrong. | **Side-shuffle hồi phục là bước bị bỏ qua nhiều nhất ở 3.5.** Người chơi nghĩ: "Tôi đánh approach, giờ chạy lên lưới." Sai. |
-| **Why the shuffle is essential:** the moment after contact, your body is still rotated, your weight is still forward, your feet are still in the contact position. If you sprint forward immediately, you'll be off-balance — and an off-balance player at the net hits a weak volley. | **Tại sao shuffle thiết yếu:** khoảnh khắc sau contact, cơ thể vẫn đang xoay, trọng lượng vẫn ở trước, chân vẫn ở vị trí contact. Nếu chạy tới ngay, anh sẽ mất thăng bằng — và người mất thăng bằng ở lưới đánh volley yếu. |
-| **The 2-3 shuffle steps:** after contact, side-shuffle 2-3 steps (in the direction OPPOSITE to where you hit the ball). This settles your weight, brings your feet back under your body, and prepares you for the diagonal sprint. | **2-3 bước shuffle:** sau contact, side-shuffle 2-3 bước (hướng NGƯỢC với nơi anh đánh bóng). Cái này ổn định trọng lượng, đưa chân về dưới cơ thể, và chuẩn bị cho chạy chéo. |
+| **Why the shuffle is essential:** the moment after contact, your body is still rotated, your weight is still forward, your feet are still in the contact position. If you sprint forward immediately, you'll be off-balance — and an off-balance player at the net hits a weak volley. | **Tại sao shuffle thiết yếu:** khoảnh khắc sau contact, cơ thể vẫn đang xoay, trọng lượng vẫn ở trước, chân vẫn ở vị trí contact. Nếu chạy tới ngay, bạn sẽ mất thăng bằng — và người mất thăng bằng ở lưới đánh volley yếu. |
+| **The 2-3 shuffle steps:** after contact, side-shuffle 2-3 steps (in the direction OPPOSITE to where you hit the ball). This settles your weight, brings your feet back under your body, and prepares you for the diagonal sprint. | **2-3 bước shuffle:** sau contact, side-shuffle 2-3 bước (hướng NGƯỢC với nơi bạn đánh bóng). Cái này ổn định trọng lượng, đưa chân về dưới cơ thể, và chuẩn bị cho chạy chéo. |
 | **Time cost: 0.5 seconds.** That's the difference between a controlled approach and a frantic sprint. The opponent is hitting a passing shot — they need 1-1.5 seconds to set up and swing. **You have time for the shuffle.** | **Chi phí thời gian: 0,5 giây.** Đó là khác biệt giữa approach kiểm soát và chạy hoảng. Đối thủ đang đánh passing shot — họ cần 1-1,5 giây để setup và vung. **Anh có thời gian cho shuffle.** |
 
 > 💡 **The "rebound" timing | Định thời gian "nảy"**
@@ -200,9 +200,9 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The diagonal sprint is the fun part.** This is the explosive moment — you push off, you accelerate, you arrive at the net. | **Chạy chéo là phần vui.** Đây là khoảnh khắc bùng nổ — anh đẩy chân, tăng tốc, tới lưới. |
-| **Direction: diagonal toward the volley position.** If you hit a backhand slice approach cross-court, your diagonal sprint goes **forward and to your right** (for right-handers approaching from the ad side). If you hit a forehand slice approach down-the-line, your sprint goes **forward and to your left**. | **Hướng: chéo về vị trí volley.** Nếu anh đánh slice approach backhand chéo sân, chạy chéo của anh đi **tới và sang phải** (với người thuận phải approach từ bên ad). Nếu anh đánh slice approach forehand dọc dây, chạy của anh đi **tới và sang trái**. |
-| **The 70/30 rule from the volley deep dive applies:** at the net, your weight should be 70% on the front (net-side) leg. This is the "predator stance" — forward, low, ready. | **Quy tắc 70/30 từ volley deep dive áp dụng:** ở lưới, trọng lượng anh nên 70% ở chân trước (phía lưới). Đây là "tư thế săn mồi" — tới, thấp, sẵn sàng. |
+| **The diagonal sprint is the fun part.** This is the explosive moment — you push off, you accelerate, you arrive at the net. | **Chạy chéo là phần vui.** Đây là khoảnh khắc bùng nổ — bạn đẩy chân, tăng tốc, tới lưới. |
+| **Direction: diagonal toward the volley position.** If you hit a backhand slice approach cross-court, your diagonal sprint goes **forward and to your right** (for right-handers approaching from the ad side). If you hit a forehand slice approach down-the-line, your sprint goes **forward and to your left**. | **Hướng: chéo về vị trí volley.** Nếu bạn đánh slice approach backhand chéo sân, chạy chéo của bạn đi **tới và sang phải** (với người thuận phải approach từ bên ad). Nếu bạn đánh slice approach forehand dọc dây, chạy của bạn đi **tới và sang trái**. |
+| **The 70/30 rule from the volley deep dive applies:** at the net, your weight should be 70% on the front (net-side) leg. This is the "predator stance" — forward, low, ready. | **Quy tắc 70/30 từ volley deep dive áp dụng:** ở lưới, trọng lượng bạn nên 70% ở chân trước (phía lưới). Đây là "tư thế săn mồi" — tới, thấp, sẵn sàng. |
 | **Don't arrive at the net standing tall.** The player who arrives low (knees bent, weight forward) is in volley position. The player who arrives tall is in transition position — and they'll be late on the first volley. | **Đừng tới lưới đứng thẳng.** Người chơi tới thấp (gối gập, trọng lượng tới) ở vị trí volley. Người chơi tới thẳng ở vị trí chuyển tiếp — và sẽ muộn cho volley đầu tiên. |
 
 > 🩺 **The 50+ rule for the transition | Quy tắc chuyển tiếp 50+**
@@ -218,16 +218,16 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | You hit the slice approach. You transitioned to the net. You split-stepped. The opponent's passing shot is in the air. **Now what?** | Anh đánh slice approach. Anh chuyển tiếp lên lưới. Anh split-step. Passing shot đối thủ ở trên không. **Giờ sao?** |
-| The volley finish is **the same volley you learned in the Volley deep dive** — Continental grip, L-shape wrist, no backswing, 6-inch punch, frozen wrist. **Nothing new here.** The slice approach only adds ONE thing: the **aim**. | Volley kết thúc là **cùng volley anh đã học trong Volley deep dive** — Continental, cổ tay hình L, không đưa vợt ra sau, đấm 15 cm, cổ tay đóng băng. **Không có gì mới.** Slice approach chỉ thêm MỘT thứ: **nhắm.** |
+| The volley finish is **the same volley you learned in the Volley deep dive** — Continental grip, L-shape wrist, no backswing, 6-inch punch, frozen wrist. **Nothing new here.** The slice approach only adds ONE thing: the **aim**. | Volley kết thúc là **cùng volley bạn đã học trong Volley deep dive** — Continental, cổ tay hình L, không đưa vợt ra sau, đấm 15 cm, cổ tay đóng băng. **Không có gì mới.** Slice approach chỉ thêm MỘT thứ: **nhắm.** |
 | **The aim depends on the approach direction:** | **Nhắm tùy thuộc hướng approach:** |
-| - If you approached cross-court, the **opponent's pass goes down-the-line** (the shorter angle). Your volley aim: cross-court (into the open court). | - Nếu anh approach chéo sân, **pass đối thủ đi dọc dây** (góc ngắn hơn). Nhắm volley: chéo sân (vào sân mở). |
-| - If you approached down-the-line, the **opponent's pass goes cross-court** (the shorter angle). Your volley aim: down-the-line (into the open court). | - Nếu anh approach dọc dây, **pass đối thủ đi chéo sân** (góc ngắn hơn). Nhắm volley: dọc dây (vào sân mở). |
-| **The geometry rule:** always volley into the open court. The opponent's pass takes away the angle you approached. **The OTHER side is open.** | **Quy tắc hình học:** luôn volley vào sân mở. Pass đối thủ lấy mất góc anh approach. **Bên KIA mở.** |
+| - If you approached cross-court, the **opponent's pass goes down-the-line** (the shorter angle). Your volley aim: cross-court (into the open court). | - Nếu bạn approach chéo sân, **pass đối thủ đi dọc dây** (góc ngắn hơn). Nhắm volley: chéo sân (vào sân mở). |
+| - If you approached down-the-line, the **opponent's pass goes cross-court** (the shorter angle). Your volley aim: down-the-line (into the open court). | - Nếu bạn approach dọc dây, **pass đối thủ đi chéo sân** (góc ngắn hơn). Nhắm volley: dọc dây (vào sân mở). |
+| **The geometry rule:** always volley into the open court. The opponent's pass takes away the angle you approached. **The OTHER side is open.** | **Quy tắc hình học:** luôn volley vào sân mở. Pass đối thủ lấy mất góc bạn approach. **Bên KIA mở.** |
 
 > 🧠 **The "seesaw" mental model | Mô hình "bập bênh"**
 > The approach and the pass are a seesaw. You approach to one side; the opponent passes to the opposite side. The seesaw always tips away from where the ball came from. **Your volley goes where the seesaw tips — to the open side.** If you can see the geometry, you can see the volley target.
 >
-> *Approach và pass là bập bênh. Anh approach một bên; đối thủ pass bên đối diện. Bập bênh luôn nghiêng xa nơi bóng tới. **Volley của anh đi nơi bập bênh nghiêng — bên mở.** Nếu anh thấy hình học, anh thấy mục tiêu volley.*
+> *Approach và pass là bập bênh. Anh approach một bên; đối thủ pass bên đối diện. Bập bênh luôn nghiêng xa nơi bóng tới. **Volley của bạn đi nơi bập bênh nghiêng — bên mở.** Nếu bạn thấy hình học, bạn thấy mục tiêu volley.*
 
 ### The Volley Decision Tree at the Net | Cây Quyết Định Volley Ở Lưới
 
@@ -254,20 +254,20 @@ BALL IS INCOMING (the opponent's pass) → Where is it?
 > 🩺 **The "L-shape" reminder from the Volley deep dive | Nhắc lại "hình L" từ Volley deep dive**
 > **The L-shape wrist is the same at the approach volley as at every other volley.** Continental grip, racket head ABOVE wrist, wrist FROZEN through contact. **6-inch punch, no swing.** This is the volley you already know. The slice approach doesn't change the volley mechanics — it only changes WHEN you arrive at the net and WHERE you aim.
 >
-> *Hình L là cùng ở volley approach như mọi volley khác. Continental, đầu vợt TRÊN cổ tay, cổ tay ĐÓNG BĂNG xuyên qua contact. **Đấm 15 cm, không vung.** Đây là volley anh đã biết. Slice approach không đổi cơ chế volley — chỉ đổi KHI NÀO anh tới lưới và NHẮM Ở ĐÂU.*
+> *Hình L là cùng ở volley approach như mọi volley khác. Continental, đầu vợt TRÊN cổ tay, cổ tay ĐÓNG BĂNG xuyên qua contact. **Đấm 15 cm, không vung.** Đây là volley bạn đã biết. Slice approach không đổi cơ chế volley — chỉ đổi KHI NÀO bạn tới lưới và NHẮM Ở ĐÂU.*
 
 ### The 3 Finish Patterns | 3 Pattern Kết Thúc
 
 | Pattern | English | Tiếng Việt | When | Khi nào |
 |---|---|---|---|---|
 | **Punch + Cross** | 🇺🇸 Punch volley cross-court, opponent can't retrieve | 🇻🇳 Volley đấm chéo sân, đối thủ không cứu được | Standard approach, the open court is cross-court | Approach thường, sân mở chéo |
-| **Block + Wait** | 🇺🇸 Block volley back deep, wait for the next opportunity | 🇻🇳 Volley chặn sâu, chờ cơ hội tiếp | Opponent is scrambling, you have time | Đối thủ đang loạn, anh có thời gian |
+| **Block + Wait** | 🇺🇸 Block volley back deep, wait for the next opportunity | 🇻🇳 Volley chặn sâu, chờ cơ hội tiếp | Opponent is scrambling, you have time | Đối thủ đang loạn, bạn có thời gian |
 | **Drop Volley** | 🇺🇸 Drop volley over the net (3.5+ level) | 🇻🇳 Drop volley qua lưới (3.5+ level) | Opponent is far behind the baseline | Đối thủ ở sâu cuối sân |
 
 > 🧠 **The 3.5 default pattern: Punch + Cross or Block + Wait | Pattern mặc định 3.5: Đấm + Chéo hoặc Chặn + Chờ**
 > **At 3.5, the drop volley is "for the brave."** The Punch + Cross (1st pattern) is the default — the open court is cross-court, you punch a firm volley into it, the opponent has to run 20 feet to retrieve. The Block + Wait (2nd pattern) is the safe default — if the opponent's pass is hard, you block it back deep and wait for them to hit another one. **The drop volley is a 3.5+ surprise weapon, not a 3.5 default.**
 >
-> *Ở 3.5, drop volley là "dành cho người dũng cảm." **Đấm + Chéo (pattern 1) là mặc định — sân mở chéo, anh đấm volley chắc vào đó, đối thủ phải chạy 6 mét cứu. Chặn + Chờ (pattern 2) là mặc định an toàn — nếu pass đối thủ mạnh, anh chặn sâu lại và chờ họ đánh thêm. **Drop volley là vũ khí bất ngờ 3.5+, không phải mặc định 3.5.***
+> *Ở 3.5, drop volley là "dành cho người dũng cảm." **Đấm + Chéo (pattern 1) là mặc định — sân mở chéo, bạn đấm volley chắc vào đó, đối thủ phải chạy 6 mét cứu. Chặn + Chờ (pattern 2) là mặc định an toàn — nếu pass đối thủ mạnh, bạn chặn sâu lại và chờ họ đánh thêm. **Drop volley là vũ khí bất ngờ 3.5+, không phải mặc định 3.5.***
 
 ---
 
@@ -292,7 +292,7 @@ BALL IS INCOMING (the opponent's pass) → Where is it?
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | You and your partner at the baseline. Rally normally. Your partner hits a short ball (landing inside the service box). | Anh và bạn ở baseline. Rally bình thường. Bạn tôi đánh bóng ngắn (rơi trong service box). |
-| **Your job: ask yourself the 4 questions. If all YES, hit a backhand slice approach cross-court and move to the net.** | **Việc anh: tự hỏi 4 câu. Nếu tất cả CÓ, đánh backhand slice approach chéo sân và di chuyển lên lưới.** |
+| **Your job: ask yourself the 4 questions. If all YES, hit a backhand slice approach cross-court and move to the net.** | **Việc bạn: tự hỏi 4 câu. Nếu tất cả CÓ, đánh backhand slice approach chéo sân và di chuyển lên lưới.** |
 | **Your partner's job: hit a passing shot (down-the-line, the shorter angle).** | **Việc bạn: đánh passing shot (dọc dây, góc ngắn hơn).** |
 | **Your volley: cross-court (into the open court) OR block back deep if the pass is hard.** | **Volley: chéo sân (vào sân mở) HOẶC chặn sâu lại nếu pass mạnh.** |
 | **Goal: 5 successful approaches that end with a volley winner or a forced error.** | **Mục tiêu: 5 approach thành công kết thúc bằng volley winner hoặc ép lỗi.** |
@@ -301,7 +301,7 @@ BALL IS INCOMING (the opponent's pass) → Where is it?
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| Stand at the center mark. **On your own count of "ONE," side-shuffle 2 steps. On "TWO," sprint forward 5 steps. On "THREE," split-step.** | Đứng ở vạch giữa. **Theo nhịm đếm của anh "MỘT," side-shuffle 2 bước. "HAI," chạy tới 5 bước. "BA," split-step.** |
+| Stand at the center mark. **On your own count of "ONE," side-shuffle 2 steps. On "TWO," sprint forward 5 steps. On "THREE," split-step.** | Đứng ở vạch giữa. **Theo nhịm đếm của bạn "MỘT," side-shuffle 2 bước. "HAI," chạy tới 5 bước. "BA," split-step.** |
 | **Repeat 10 times.** | **Lặp 10 lần.** |
 | **Why this works:** the drill builds the rhythm. The body learns: shuffle (0.3-0.5 sec) → sprint (0.5-0.8 sec) → split-step (0.1 sec). Total: 1-1.5 seconds. **This is the approach transition timing.** | **Tại sao hiệu quả:** bài tập xây nhịp. Cơ thể học: shuffle (0,3-0,5 giây) → chạy (0,5-0,8 giây) → split-step (0,1 giây). Tổng: 1-1,5 giây. **Đây là timing chuyển tiếp approach.** |
 
@@ -509,11 +509,11 @@ THE VOLLEY FINISH (the shot you already know):
 
 ## 🏁 END OF DEEP DIVE | HẾT DEEP DIVE
 
-> *Lên lưới bằng slice là cách 50+ chơi tennis 20 năm nữa. Không phải vì slice approach dễ — mà vì nó cho phép anh tiếp tục approach mà không phá vai, không căng lưng, không mệt tim. Đó là lý do slice approach không phải "lựa chọn chiến thuật" — mà là "lựa chọn tuổi thọ."*
+> *Lên lưới bằng slice là cách 50+ chơi tennis 20 năm nữa. Không phải vì slice approach dễ — mà vì nó cho phép bạn tiếp tục approach mà không phá vai, không căng lưng, không mệt tim. Đó là lý do slice approach không phải "lựa chọn chiến thuật" — mà là "lựa chọn tuổi thọ."*
 >
 > *The slice approach is how 50+ players play tennis for 20 more years. Not because the slice approach is easy — but because it lets you keep approaching without wrecking your shoulder, your back, or your heart. That's why the slice approach is not a "tactical choice" — it's a "longevity choice."*
 
-Bắt đầu tuần này với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, anh sẽ tự tin approach 1-2 lần mỗi set ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 5** (decision shadow drill) — 3 phút mỗi ngày trong 2 tuần sẽ xây thói quen quyết định approach. Rồi thêm **Drill 1** (slice approach triangulation) để học hình học. Trong 4 tuần, bạn sẽ tự tin approach 1-2 lần mỗi set ở Surrey. 🎾
 
 ---
 

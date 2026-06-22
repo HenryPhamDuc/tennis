@@ -59,4 +59,4 @@ The Return of Serve is a **bundled-family topic** (per the skill's reference), s
 
 Chỉ cần nói "làm tiếp cái [tên]" hoặc "build complete_manual" và tôi sẽ chạy. 🎾
 
-Hy vọng tuần này anh sẽ đọc được tung tốt hơn, block được serve 1 thoải mái, và break được nhiều hơn ở Surrey.
+Hy vọng tuần này bạn sẽ đọc được tung tốt hơn, block được serve 1 thoải mái, và break được nhiều hơn ở Surrey.

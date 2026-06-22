@@ -11,7 +11,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **What this deep-dive adds.** The Elite Manual Chapter 11 introduced HRV (Heart Rate Variability) as a daily bio-informed decision system. This deep-dive gives you the *operational system* — what HRV actually measures, how to measure it cheaply, the 30-day rolling baseline protocol, the green/yellow/red case studies from real 5.0+ players, and the integration with all 10 prior deep-dives so daily readiness becomes a strategic choice rather than a guess. | **Deep-dive này thêm gì.** Elite Manual Chương 11 đã giới thiệu HRV (Biến Thiên Nhịp Tim) là hệ quyết định hàng ngày dựa trên sinh học. Deep-dive này cho anh *hệ thống vận hành* — HRV thực sự đo gì, cách đo rẻ, phác đồ đường cơ sở lăn 30 ngày, nghiên cứu tình huống xanh/vàng/đỏ từ người 5.0+ thật, và tích hợp với cả 10 deep-dive trước để sẵn sàng hàng ngày trở thành lựa chọn chiến lược thay vì đoán. |
+| **What this deep-dive adds.** The Elite Manual Chapter 11 introduced HRV (Heart Rate Variability) as a daily bio-informed decision system. This deep-dive gives you the *operational system* — what HRV actually measures, how to measure it cheaply, the 30-day rolling baseline protocol, the green/yellow/red case studies from real 5.0+ players, and the integration with all 10 prior deep-dives so daily readiness becomes a strategic choice rather than a guess. | **Deep-dive này thêm gì.** Elite Manual Chương 11 đã giới thiệu HRV (Biến Thiên Nhịp Tim) là hệ quyết định hàng ngày dựa trên sinh học. Deep-dive này cho bạn *hệ thống vận hành* — HRV thực sự đo gì, cách đo rẻ, phác đồ đường cơ sở lăn 30 ngày, nghiên cứu tình huống xanh/vàng/đỏ từ người 5.0+ thật, và tích hợp với cả 10 deep-dive trước để sẵn sàng hàng ngày trở thành lựa chọn chiến lược thay vì đoán. |
 | **Who should read this.** Anyone whose tennis performance varies day-to-day and they don't know why. Anyone who has been told "listen to your body" but doesn't know how. Anyone who wants to bring scientific precision to *when* to push and *when* to rest. | **Ai nên đọc.** Bất cứ ai có hiệu suất tennis biến đổi ngày qua ngày và không biết tại sao. Bất cứ ai được bảo "nghe cơ thể" nhưng không biết cách. Bất cứ ai muốn mang chính xác khoa học đến *khi nào* đẩy và *khi nào* nghỉ. |
 | **Reading time.** ~25 minutes. HRV baseline establishment: 30 days minimum. Daily practice: indefinite. | **Thời gian đọc.** ~25 phút. Thiết lập đường cơ sở HRV: tối thiểu 30 ngày. Thực hành hàng ngày: vô thời hạn. |
 
@@ -44,7 +44,7 @@
 | **Sympathetic.** "Fight or flight." Speeds heart, reduces variability. Active during stress, exercise, pressure. | **Giao cảm.** "Đánh hoặc chạy." Tăng nhịp, giảm biến thiên. Hoạt động trong áp lực, tập, stress. |
 | **Parasympathetic.** "Rest and digest." Slows heart, increases variability. Active during recovery, sleep, calm. | **Phó giao cảm.** "Nghỉ và tiêu hóa." Chậm nhịp, tăng biến thiên. Hoạt động trong hồi phục, ngủ, bình yên. |
 | **HRV is the balance indicator.** High HRV = parasympathetic dominance = body is in recovery mode = ready to adapt = ready to train hard. Low HRV = sympathetic dominance = body is in survival mode = needs rest. | **HRV là chỉ báo cân bằng.** HRV cao = phó giao cảm thống trị = cơ thể ở chế độ hồi phục = sẵn sàng thích ứng = sẵn sàng tập nặng. HRV thấp = giao cảm thống trị = cơ thể ở chế độ sống còn = cần nghỉ. |
-| **The tennis translation.** HRV tells you *whether today is a day your body can absorb training load* or *whether today is a day your body needs recovery.* | **Dịch tennis.** HRV nói anh *hôm nay có phải ngày cơ thể hấp thụ tải tập* hay *hôm nay có phải ngày cơ thể cần hồi phục.* |
+| **The tennis translation.** HRV tells you *whether today is a day your body can absorb training load* or *whether today is a day your body needs recovery.* | **Dịch tennis.** HRV nói bạn *hôm nay có phải ngày cơ thể hấp thụ tải tập* hay *hôm nay có phải ngày cơ thể cần hồi phục.* |
 | **The two HRV measures for tennis.** | **Hai đo lường HRV cho tennis.** |
 | **RMSSD (Root Mean Square of Successive Differences).** The most common measure. Reflects parasympathetic activity. *Higher = better recovery.* | **RMSSD.** Đo lường phổ biến nhất. Phản ánh hoạt động phó giao cảm. *Cao hơn = hồi phục tốt hơn.* |
 | **HF-HRV (High Frequency HRV).** A frequency-domain measure. Same direction as RMSSD but more specific to parasympathetic tone. *Used in research; less common in consumer apps.* | **HF-HRV.** Đo miền tần số. Cùng hướng RMSSD nhưng cụ thể hơn cho trương phó giao cảm. *Dùng trong nghiên cứu; ít phổ biến trong app tiêu dùng.* |
@@ -67,7 +67,7 @@
 | Oura Ring, Whoop, Apple Watch. *Accuracy: 85-95% but measures during sleep (so very convenient).* | Oura Ring, Whoop, Apple Watch. *Chính xác: 85-95% nhưng đo trong giấc ngủ (rất tiện).* |
 | **Protocol.** Wear at night. Wake up to your daily HRV score in the morning app. | **Phác đồ.** Đeo ban đêm. Thức dậy với điểm HRV hàng ngày trong app sáng. |
 | **The recommendation.** | **Khuyến nghị.** |
-| **Start with Option 1.** Free, fast, accurate enough. Upgrade to Option 2 if you want research-grade data. Upgrade to Option 3 only if budget allows. *The best HRV system is the one you'll actually use daily.* | **Bắt đầu với Lựa chọn 1.** Miễn phí, nhanh, đủ chính xác. Nâng cấp lên Lựa chọn 2 nếu muốn dữ liệu cấp nghiên cứu. Nâng cấp lên Lựa chọn 3 chỉ nếu ngân sách cho phép. *Hệ HRV tốt nhất là cái anh thực sự sẽ dùng hàng ngày.* |
+| **Start with Option 1.** Free, fast, accurate enough. Upgrade to Option 2 if you want research-grade data. Upgrade to Option 3 only if budget allows. *The best HRV system is the one you'll actually use daily.* | **Bắt đầu với Lựa chọn 1.** Miễn phí, nhanh, đủ chính xác. Nâng cấp lên Lựa chọn 2 nếu muốn dữ liệu cấp nghiên cứu. Nâng cấp lên Lựa chọn 3 chỉ nếu ngân sách cho phép. *Hệ HRV tốt nhất là cái bạn thực sự sẽ dùng hàng ngày.* |
 
 * * *
 
@@ -77,7 +77,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **Why a baseline.** A single HRV reading is meaningless. *Your HRV is a number relative to YOUR baseline.* A reading of 65ms is "high" for one person, "low" for another. The 30-day baseline establishes YOUR normal range. | **Tại sao đường cơ sở.** Một lần đọc HRV là vô nghĩa. *HRV của anh là con số so với đường cơ sở CỦA ANH.* Đọc 65ms là "cao" với người này, "thấp" với người khác. Đường cơ sở 30 ngày thiết lập phạm vi bình thường CỦA ANH. |
+| **Why a baseline.** A single HRV reading is meaningless. *Your HRV is a number relative to YOUR baseline.* A reading of 65ms is "high" for one person, "low" for another. The 30-day baseline establishes YOUR normal range. | **Tại sao đường cơ sở.** Một lần đọc HRV là vô nghĩa. *HRV của bạn là con số so với đường cơ sở CỦA ANH.* Đọc 65ms là "cao" với người này, "thấp" với người khác. Đường cơ sở 30 ngày thiết lập phạm vi bình thường CỦA ANH. |
 | **The protocol.** | **Phác đồ.** |
 | **Days 1-30.** Measure HRV every morning, same time, same position. Record the number. *Do not interpret yet.* Just collect. | **Ngày 1-30.** Đo HRV mỗi sáng, cùng giờ, cùng vị trí. Ghi con số. *Chưa diễn giải.* Chỉ thu thập. |
 | **Day 31 — Compute your baseline.** | **Ngày 31 — Tính đường cơ sở.** |
@@ -89,11 +89,11 @@
 | **Yellow (moderate day).** Reading 5-10% below mean. *Body is partially recovered. Moderate load.* | **Vàng (ngày vừa).** Đọc 5-10% dưới trung bình. *Cơ thể hồi phục một phần. Tải vừa.* |
 | **Red (recovery day).** Reading 10%+ below mean. *Body needs rest. Light or no training.* | **Đỏ (ngày hồi phục).** Đọc 10%+ dưới trung bình. *Cơ thể cần nghỉ. Tập nhẹ hoặc không.* |
 | **The rolling baseline update.** | **Cập nhật đường cơ sở lăn.** |
-| Every 30 days, recompute your baseline using the *most recent 30 days* of data. *Your baseline shifts as you adapt.* The rolling update keeps the system current. | Mỗi 30 ngày, tính lại đường cơ sở dùng *30 ngày gần nhất* dữ liệu. *Đường cơ sở của anh dịch chuyển khi anh thích ứng.* Cập nhật lăn giữ hệ thống hiện tại. |
+| Every 30 days, recompute your baseline using the *most recent 30 days* of data. *Your baseline shifts as you adapt.* The rolling update keeps the system current. | Mỗi 30 ngày, tính lại đường cơ sở dùng *30 ngày gần nhất* dữ liệu. *Đường cơ sở của bạn dịch chuyển khi bạn thích ứng.* Cập nhật lăn giữ hệ thống hiện tại. |
 | **The seasonal adjustments.** | **Điều chỉnh theo mùa.** |
 | Winter → baseline often lower (cold, less sun, more illness). | Mùa đông → đường cơ sở thường thấp hơn (lạnh, ít nắng, nhiều bệnh). |
 | Summer → baseline often higher (more activity, more sun). | Mùa hè → đường cơ sở thường cao hơn (nhiều hoạt động, nhiều nắng). |
-| **Adjust your baseline every season.** A "low" winter reading might be green for you in January and red in July. | **Điều chỉnh đường cơ sở mỗi mùa.** Đọc "thấp" mùa đông có thể là xanh cho anh tháng Một và đỏ tháng Bảy. |
+| **Adjust your baseline every season.** A "low" winter reading might be green for you in January and red in July. | **Điều chỉnh đường cơ sở mỗi mùa.** Đọc "thấp" mùa đông có thể là xanh cho bạn tháng Một và đỏ tháng Bảy. |
 
 * * *
 
@@ -178,7 +178,7 @@
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
 | **Mistake 1 — Obsessing over single readings.** "My HRV is 5% below baseline, today is doomed." *A single reading is noise. Look at trends over 7+ days.* | **Lỗi 1 — Ám ảnh lần đọc đơn.** "HRV tôi 5% dưới đường cơ sở, hôm nay tuyệt vọng." *Một lần đọc là nhiễu. Nhìn xu hướng qua 7+ ngày.* |
-| **Mistake 2 — Comparing your HRV to others.** "My friend has RMSSD 90. Mine is 60." *HRV is individual. Yours is yours.* Comparison is meaningless. | **Lỗi 2 — So sánh HRV với người khác.** "Bạn tôi RMSSD 90. Tôi 60." *HRV là cá nhân. Của anh là của anh.* So sánh là vô nghĩa. |
+| **Mistake 2 — Comparing your HRV to others.** "My friend has RMSSD 90. Mine is 60." *HRV is individual. Yours is yours.* Comparison is meaningless. | **Lỗi 2 — So sánh HRV với người khác.** "Bạn tôi RMSSD 90. Tôi 60." *HRV là cá nhân. Của bạn là của bạn.* So sánh là vô nghĩa. |
 | **Mistake 3 — Inconsistent measurement.** Measuring at 7am Monday, 9am Tuesday, after coffee Wednesday. *Garbage in, garbage out.* Pick a fixed time + condition and stick. | **Lỗi 3 — Đo không nhất quán.** Đo 7h sáng thứ Hai, 9h thứ Ba, sau cà phê thứ Tư. *Rác vào, rác ra.* Chọn giờ + điều kiện cố định và dính. |
 | **Mistake 4 — Treating red as failure.** "I had a red day, my system is broken." *Red days are part of the system.* The system is the system. | **Lỗi 4 — Coi đỏ là thất bại.** "Tôi có ngày đỏ, hệ thống tôi hỏng." *Ngày đỏ là một phần hệ thống.* Hệ thống là hệ thống. |
 | **Mistake 5 — Overriding HRV with willpower.** "My HRV says yellow but I want to push today." *Willpower vs. physiology. Physiology wins eventually. Push anyway = injury risk.* | **Lỗi 5 — Ghi đè HRV bằng ý chí.** "HRV tôi nói vàng nhưng tôi muốn đẩy hôm nay." *Ý chí vs. sinh lý. Sinh lý thắng cuối cùng. Đẩy anyway = rủi ro chấn thương.* |
@@ -286,7 +286,7 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| The 5.0+ player who pushes every day is gambling. The 5.0+ player who rests every day is wasting. The 5.0+ player who reads HRV each morning and acts accordingly is *strategic.* The dashboard is not a constraint — it is a *precision instrument.* 30 days of baseline. Daily reads. Green-yellow-red decisions. Over 90 days, the data shows you what your body has been trying to tell you for years: *when to push, when to rest, when to play.* Now you know. | Người 5.0+ đẩy mỗi ngày đang cờ bạc. Người 5.0+ nghỉ mỗi ngày đang lãng phí. Người 5.0+ đọc HRV mỗi sáng và hành động theo là *chiến lược.* Bảng điều khiển không phải ràng buộc — nó là *dụng cụ chính xác.* 30 ngày đường cơ sở. Đọc hàng ngày. Quyết định xanh-vàng-đỏ. Qua 90 ngày, dữ liệu cho anh thấy cơ thể anh đã cố nói nhiều năm: *khi nào đẩy, khi nào nghỉ, khi nào chơi.* Giờ anh biết. |
+| The 5.0+ player who pushes every day is gambling. The 5.0+ player who rests every day is wasting. The 5.0+ player who reads HRV each morning and acts accordingly is *strategic.* The dashboard is not a constraint — it is a *precision instrument.* 30 days of baseline. Daily reads. Green-yellow-red decisions. Over 90 days, the data shows you what your body has been trying to tell you for years: *when to push, when to rest, when to play.* Now you know. | Người 5.0+ đẩy mỗi ngày đang cờ bạc. Người 5.0+ nghỉ mỗi ngày đang lãng phí. Người 5.0+ đọc HRV mỗi sáng và hành động theo là *chiến lược.* Bảng điều khiển không phải ràng buộc — nó là *dụng cụ chính xác.* 30 ngày đường cơ sở. Đọc hàng ngày. Quyết định xanh-vàng-đỏ. Qua 90 ngày, dữ liệu cho bạn thấy cơ thể bạn đã cố nói nhiều năm: *khi nào đẩy, khi nào nghỉ, khi nào chơi.* Giờ bạn biết. |
 
 ---
 

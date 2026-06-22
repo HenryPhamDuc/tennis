@@ -93,16 +93,16 @@
 
 | 🇺🇸 English | 🇻🇳 Tiếng Việt |
 |---|---|
-| **The Continental Hammer Pickup doesn't work for the forehand grip.** Why? Because the forehand grip is on bevel 3 or 4, not bevel 2. **You can't slide from the strings to bevel 3 or 4 — your hand doesn't rotate that far.** | **Cách Nhấc Búa Continental không làm việc cho grip forehand.** Tại sao? Vì grip forehand ở cạnh 3 hoặc 4, không phải 2. **Anh không thể trượt từ dây tới cạnh 3 hoặc 4 — tay anh không xoay xa đến vậy.** |
+| **The Continental Hammer Pickup doesn't work for the forehand grip.** Why? Because the forehand grip is on bevel 3 or 4, not bevel 2. **You can't slide from the strings to bevel 3 or 4 — your hand doesn't rotate that far.** | **Cách Nhấc Búa Continental không làm việc cho grip forehand.** Tại sao? Vì grip forehand ở cạnh 3 hoặc 4, không phải 2. **Anh không thể trượt từ dây tới cạnh 3 hoặc 4 — tay bạn không xoay xa đến vậy.** |
 | **The 3 alternative pickups for the Eastern and Semi-Western:** | **3 cách nhấc thay thế cho Eastern và Semi-Western:** |
-| 1. **The "Shake Hands" Pickup** — pretend you're shaking hands with the racket. The hand naturally lands on bevel 3 (Eastern) or bevel 4 (Semi-Western). | 1. **Cách "Bắt Tay"** — giả vờ anh bắt tay với vợt. Tay tự nhiên rơi vào cạnh 3 (Eastern) hoặc cạnh 4 (Semi-Western). |
+| 1. **The "Shake Hands" Pickup** — pretend you're shaking hands with the racket. The hand naturally lands on bevel 3 (Eastern) or bevel 4 (Semi-Western). | 1. **Cách "Bắt Tay"** — giả vờ bạn bắt tay với vợt. Tay tự nhiên rơi vào cạnh 3 (Eastern) hoặc cạnh 4 (Semi-Western). |
 | 2. **The "Bevel Walk" Pickup** — start with the Continental (bevel 2), then "walk" the hand 1-2 bevels clockwise to find the forehand grip. | 2. **Cách "Đi Bộ Bevel"** — bắt đầu với Continental (cạnh 2), rồi "đi bộ" tay 1-2 cạnh theo chiều kim đồng hồ để tìm grip forehand. |
 | 3. **The "Index Finger" Pickup** — extend the index finger down the side of the racket, the knuckle lands on the bevel. | 3. **Cách "Ngón Trỏ"** — duỗi ngón trỏ xuống cạnh vợt, đốt gốc rơi vào cạnh. |
 
 > 💡 **The "shake hands" principle | Nguyên lý "bắt tay"**
 > **The "shake hands" pickup is the simplest way to find the Eastern and Semi-Western.** When you shake hands with someone, your palm faces the side (perpendicular to your body). The handshake position is the Eastern/Semi-Western position. **Imagine the racket is a hand you're shaking. The grip falls into place.**
 >
-> *Cách nhấc "bắt tay" là cách đơn giản nhất để tìm Eastern và Semi-Western. Khi anh bắt tay ai, lòng bàn tay hướng bên (vuông góc cơ thể). Vị trí bắt tay là vị trí Eastern/Semi-Western. **Hình dung vợt là bàn tay anh đang bắt. Grip rơi vào chỗ.***
+> *Cách nhấc "bắt tay" là cách đơn giản nhất để tìm Eastern và Semi-Western. Khi bạn bắt tay ai, lòng bàn tay hướng bên (vuông góc cơ thể). Vị trí bắt tay là vị trí Eastern/Semi-Western. **Hình dung vợt là bàn tay bạn đang bắt. Grip rơi vào chỗ.***
 
 #### The 3 Pickup Variations — Detailed | 3 Biến Thể Cách Nhấc — Chi Tiết
 
@@ -312,7 +312,7 @@
 |---|---|
 | Play a practice match. **Before every forehand groundstroke, check the V:** | Đánh trận tập. **Trước mỗi forehand groundstroke, kiểm tra V:** |
 | - V at 11 o'clock? → You're using the Continental. Change to Semi-Western. | - V ở 11 giờ? → Anh đang dùng Continental. Đổi sang Semi-Western. |
-| - V at 12 o'clock? → You're using the Eastern. OK if you're 60+ or on a high-bouncing court. | - V ở 12 giờ? → Anh đang dùng Eastern. OK nếu anh 60+ hoặc sân nảy cao. |
+| - V at 12 o'clock? → You're using the Eastern. OK if you're 60+ or on a high-bouncing court. | - V ở 12 giờ? → Anh đang dùng Eastern. OK nếu bạn 60+ hoặc sân nảy cao. |
 | - V at 1 o'clock? → You're using the Semi-Western. **This is the 3.5 default.** | - V ở 1 giờ? → Anh đang dùng Semi-Western. **Đây là mặc định 3.5.** |
 | **Goal: 90% of forehand groundstrokes use the Semi-Western.** | **Mục tiêu: 90% forehand groundstroke dùng Semi-Western.** |
 
@@ -511,7 +511,7 @@ THE 70/30 RULE:
 >
 > *The Eastern and the Semi-Western are not two grips. They are two variants of the forehand grip — 1 bevel apart, 1 swing path apart, 1 topspin amount apart. The Eastern at 12 o'clock for older 3.5 players and high-bouncing courts. The Semi-Western at 1 o'clock for everyone else. **Same strings. Same swing. Same forehand. Different by 1 bevel. Different by 30 years of wrist longevity.** At 50+, the Semi-Western is the default. The forearm rotates, the wrist stays loose, the contact is in front. You'll win 60% of forehands with the Semi-Western. You'll win 30% with the Western at 50+. **One bevel. The difference. Twenty years of tennis.***
 
-Bắt đầu tuần này với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, anh sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống ở Surrey. 🎾
+Bắt đầu tuần này với **Drill 1** (shake hands pickup, 3 phút/ngày) — đó là cách tự nhiên nhất để tìm Eastern/Semi-Western. Rồi thêm **Drill 2** (bevel walk, 3 phút/ngày) cho chuyển tiếp. Trong 4 tuần, bạn sẽ có 2 grip forehand trong tay và sẽ chọn đúng grip cho mỗi tình huống ở Surrey. 🎾
 
 ---
 

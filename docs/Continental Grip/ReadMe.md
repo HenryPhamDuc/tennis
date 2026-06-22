@@ -92,4 +92,4 @@ Chỉ cần nói "làm tiếp [tên]", "build complete_manual", hoặc "make pra
 
 ---
 
-Hy vọng tuần này anh sẽ thêm "chìa khóa vạn năng" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả. Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động và anh sẽ có 9 tùy chọn trong tay.
+Hy vọng tuần này bạn sẽ thêm "chìa khóa vạn năng" vào toolkit ở Surrey. Bắt đầu với **Drill 1** (hammer pickup, 3 phút/ngày) — đó là nền tảng cho tất cả. Rồi thêm **Drill 2** (V at 11 o'clock, 2 phút/ngày) cho căn chỉnh. Trong 4 tuần, Continental sẽ tự động và bạn sẽ có 9 tùy chọn trong tay.
