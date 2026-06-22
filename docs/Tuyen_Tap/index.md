@@ -6,16 +6,6 @@
 
 ---
 
-## 📥 **Offline Download — Full Course Book (Tennis Future Lab)** | Tải Về Đọc Offline — Sách Giáo Trình Đầy Đủ
-
-| 🇺🇸 English | 🇻🇳 Tiếng Việt |
-|---|---|
-| **For offline reading on phone, tablet, or Kindle** — the complete 11-image illustrated guide *"Tennis Future Lab: Tài Liệu Hướng Dẫn Học Tennis Cho Học Viên Cấp 3.0"* (Vietnamese sourcebook by Tennis Future Lab). 178 KB of formatted text + 11 large diagrams (~3.8 MB total in PDF). **Click below to download the PDF and read it anywhere — no internet needed.** | **Để đọc offline trên điện thoại, máy tính bảng, hoặc Kindle** — cẩm nang đầy đủ 11 hình minh họa *"Tennis Future Lab: Tài Liệu Hướng Dẫn Học Tennis Cho Học Viên Cấp 3.0"* (sách nguồn tiếng Việt của Tennis Future Lab). 178 KB văn bản định dạng + 11 sơ đồ lớn (~3.8 MB tổng dạng PDF). **Bấm vào link bên dưới để tải file PDF và đọc ở bất kỳ đâu — không cần internet.** |
-| 📄 **[⬇ DOWNLOAD — TENNIS_FUTURE_LAB_TÀI_LIỆU_HƯỚNG_DẪN_HỌC_TENNIS_CHO_HỌC_VIÊN_CẤP_3.0.pdf (3.8 MB)](../../assets/downloads/TENNIS_FUTURE_LAB_TAI_LIEU_HUONG_DAN_HOC_TENNIS_CAP_3.0.pdf)** | 📄 **[⬇ TẢI VỀ — TENNIS_FUTURE_LAB_TÀI_LIỆU_HƯỚNG_DẪN_HỌC_TENNIS_CHO_HỌC_VIÊN_CẤP_3.0.pdf (3.8 MB)](../../assets/downloads/TENNIS_FUTURE_LAB_TAI_LIEU_HUONG_DAN_HOC_TENNIS_CAP_3.0.pdf)** |
-| *Opens in any PDF reader — Adobe Acrobat, Chrome, Edge, Preview, Kindle, phone, tablet. No Word needed.* | *Mở bằng bất kỳ trình đọc PDF nào — Adobe Acrobat, Chrome, Edge, Preview, Kindle, điện thoại, máy tính bảng. Không cần Word.* |
-
----
-
 ## What This Project Is / Dự Án Này Là Gì
 
 This is a **7-part, EN-VI bilingual deep-dive project** that treats tennis through the lens of a **control system** — hardware (joints/muscles/bones), springs (tendons), controller (brain), and **sensors** (the 5 feedback channels). It complements your existing `Deep Dives/` (stroke mechanics) and `Anatomy_Lab/` (body anatomy) libraries.
