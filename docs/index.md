@@ -4,6 +4,10 @@
 > 📚 **Related:** [Tennis WIKI (Tiếng Việt)](https://henryphamDuc.github.io/tennis-wiki/) | [Tennis WIKI (English)](https://henryphamDuc.github.io/tennis-wiki-en/) | [🧠 Knowledgebase](https://henryphamDuc.github.io/tennis-wiki/tennisplayer/) — 1073 articles, technique, biomechanics, tactics, mental game, fitness, players + 102-node concept knowledgebase
 >
 > 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
+>
+> 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload tennis video → AI analyzes your technique vs Federer (serve, forehand, backhand).
+>
+> 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: upload tennis video, get annotated video + cheat sheet PDF + score 0-100 vs Roger Federer.
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
