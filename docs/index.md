@@ -1,7 +1,7 @@
 # 🎾 The Complete Tennis Manual — Master Reference v2
 ### *A Master-Coach Reference for the 3.5 Player at 50+ | Bản dịch cho người chơi 3.5 ở tuổi 50+*
 
-> 📚 **Related:** [Tennis WIKI (Tiếng Việt)](https://henryphamDuc.github.io/tennis-wiki/) | [Tennis WIKI (English)](https://henryphamDuc.github.io/tennis-wiki-en/) | [🧠 Knowledgebase](https://henryphamDuc.github.io/tennis-wiki/tennisplayer/) — 1073 articles, technique, biomechanics, tactics, mental game, fitness, players + 102-node concept knowledgebase
+> 📚 **Related:** [Tennis WIKI (Tiếng Việt)](https://henryphamDuc.github.io/tennis-wiki/) | [Tennis WIKI (English)](https://henryphamDuc.github.io/tennis-wiki-en/)
 >
 > 🤖 **[Tennis Doctor — AI Chat](https://tennis-doctor.henry-phamduc.workers.dev/)** — Ask anything about tennis and get AI answers drawn from the wiki + 97 tennis books. Multilingual EN/VI. Free, no signup.
 >
