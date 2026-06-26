@@ -11,7 +11,7 @@ media_count: 4
 # THÁI CỰC QUYỀN VÀ TENNIS:
 
 **📅 Thứ Hai 01/06/2026 07:09**
-<img src="../media/media/Photos_122096070723349150/122100528993349150.webp" alt="THÁI CỰC QUYỀN VÀ TENNIS:" loading="lazy" />
+<img src="../media/Photos_122096070723349150/122100528993349150.webp" alt="THÁI CỰC QUYỀN VÀ TENNIS:" loading="lazy" />
 
 THÁI CỰC QUYỀN VÀ TENNIS:
 

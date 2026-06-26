@@ -11,7 +11,7 @@ media_count: 1
 # One-handed Backhand - The  most beautiful shot in the game.
 
 **📅 Chủ Nhật 31/05/2026 09:17**
-<img src="../media/media/Photos_122096070723349150/122099936325349150.jpg" alt="One-handed Backhand - The  most beautiful shot in the game." loading="lazy" />
+<img src="../media/Photos_122096070723349150/122099936325349150.jpg" alt="One-handed Backhand - The  most beautiful shot in the game." loading="lazy" />
 
 One-handed Backhand - The  most beautiful shot in the game.
 

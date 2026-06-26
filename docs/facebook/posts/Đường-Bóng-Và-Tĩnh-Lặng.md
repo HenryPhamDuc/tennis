@@ -11,7 +11,7 @@ media_count: 1
 # Đường Bóng Và Tĩnh Lặng
 
 **📅 Thứ Tư 03/06/2026 06:46**
-<img src="../media/media/Photos_122096070723349150/122102078997349150.jpg" alt="Đường Bóng Và Tĩnh Lặng" loading="lazy" />
+<img src="../media/Photos_122096070723349150/122102078997349150.jpg" alt="Đường Bóng Và Tĩnh Lặng" loading="lazy" />
 
 Đường Bóng Và Tĩnh Lặng
 Câu chuyện giữa Thầy An và người học trò Hải

@@ -12,7 +12,7 @@ media_count: 1
 
 **📅 Thứ Bảy 23/05/2026 10:41**
 <video controls preload="metadata" style="max-width:100%; height:auto;">
-  <source src="../media/media/videos/2738511149860634.mp4" type="video/mp4">
+  <source src="../media/videos/2738511149860634.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

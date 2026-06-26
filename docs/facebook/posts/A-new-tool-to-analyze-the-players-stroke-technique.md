@@ -11,7 +11,7 @@ media_count: 1
 # A new tool to analyze the player's stroke technique.
 
 **📅 Thứ Sáu 29/05/2026 10:27**
-<img src="../media/media/Photos_122096070723349150/122098617939349150.webp" alt="A new tool to analyze the player&#x27;s stroke technique." loading="lazy" />
+<img src="../media/Photos_122096070723349150/122098617939349150.webp" alt="A new tool to analyze the player&#x27;s stroke technique." loading="lazy" />
 
 A new tool to analyze the player's stroke technique.
 

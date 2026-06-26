@@ -11,7 +11,7 @@ media_count: 1
 # TENNIS FUTURE LAB WEBSITE:
 
 **📅 Thứ Ba 26/05/2026 08:37**
-<img src="../media/media/Photos_122096070723349150/122103788649349150.jpg" alt="TENNIS FUTURE LAB WEBSITE:" loading="lazy" />
+<img src="../media/Photos_122096070723349150/122103788649349150.jpg" alt="TENNIS FUTURE LAB WEBSITE:" loading="lazy" />
 
 TENNIS FUTURE LAB WEBSITE:
 https://tennislab-cdl84oed.manus.space/

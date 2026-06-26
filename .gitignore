@@ -26,3 +26,6 @@ Thumbs.db
 *.tmp
 *.bak
 *.log
+
+# GitHub PAT (never commit)
+github-token.txt

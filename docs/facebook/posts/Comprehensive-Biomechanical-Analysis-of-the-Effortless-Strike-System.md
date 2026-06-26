@@ -11,7 +11,7 @@ media_count: 3
 # Comprehensive Biomechanical Analysis of the "Effortless Strike System"
 
 **📅 Thứ Bảy 30/05/2026 08:43**
-<img src="../media/media/Photos_122096070723349150/122099225625349150.jpg" alt="Comprehensive Biomechanical Analysis of the &quot;Effortless Strike System&quot;" loading="lazy" />
+<img src="../media/Photos_122096070723349150/122099225625349150.jpg" alt="Comprehensive Biomechanical Analysis of the &quot;Effortless Strike System&quot;" loading="lazy" />
 
 Comprehensive Biomechanical Analysis of the "Effortless Strike System"
 

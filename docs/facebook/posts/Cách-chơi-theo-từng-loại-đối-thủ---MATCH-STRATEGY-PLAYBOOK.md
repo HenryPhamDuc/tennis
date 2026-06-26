@@ -11,7 +11,7 @@ media_count: 4
 # Cách chơi theo từng loại đối thủ - MATCH STRATEGY PLAYBOOK
 
 **📅 Thứ Hai 25/05/2026 07:27**
-<img src="../media/media/Mobileuploads_122095384239349150/122095383951349150.jpg" alt="Cách chơi theo từng loại đối thủ - MATCH STRATEGY PLAYBOOK" loading="lazy" />
+<img src="../media/Mobileuploads_122095384239349150/122095383951349150.jpg" alt="Cách chơi theo từng loại đối thủ - MATCH STRATEGY PLAYBOOK" loading="lazy" />
 
 Cách chơi theo từng loại đối thủ - MATCH STRATEGY PLAYBOOK
 

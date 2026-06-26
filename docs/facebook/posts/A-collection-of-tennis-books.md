@@ -11,7 +11,7 @@ media_count: 1
 # A collection of tennis books.
 
 **📅 Thứ Ba 26/05/2026 08:35**
-<img src="../media/media/Photos_122096070723349150/122096070669349150.webp" alt="A collection of tennis books." loading="lazy" />
+<img src="../media/Photos_122096070723349150/122096070669349150.webp" alt="A collection of tennis books." loading="lazy" />
 
 A collection of tennis books.
 

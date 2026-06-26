@@ -25,13 +25,13 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-05-23 · Bảy 23/05/2026 10:41
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/2738511149860634.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/2738511149860634.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Tennis-techniques-from-the-elite-players-are-effortless-and-smooth-but-behind-th/">Tennis techniques from the elite players are effortless and smooth but behind them are countless ...</a></strong>
 <br><small style="color:#666;">🕐 10:41 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/854403243810917.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/854403243810917.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Backhand-Slice-vs-drop-shot-when-and-how-to-hit-a-backhand-Here-you-see-the-deta/">Backhand Slice vs drop shot, when and how to hit a backhand? Here you see the details from the to...</a></strong>
 <br><small style="color:#666;">🕐 11:00 🎬 1</small>
 </div>
@@ -97,7 +97,7 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/974188195397974.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/974188195397974.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Elite-players-techniques-analysis-from-Nadal-buggy-whip-forehand-to-the-detailed/">Elite players techniques analysis, from Nadal buggy whip forehand to the detailed instructions to...</a></strong>
 <br><small style="color:#666;">🕐 20:35 🎬 1</small>
 </div>
@@ -315,97 +315,97 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-05-24 · Nhật 24/05/2026 05:16
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/969902495672534.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/969902495672534.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Split-Step-Mastery/">Split Step Mastery</a></strong>
 <br><small style="color:#666;">🕐 05:16 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1302587681387143.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1302587681387143.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/kh%C3%B4ng-c%C3%B3-ti%C3%AAu-%C4%91%E1%BB%81/">(không có tiêu đề)</a></strong>
 <br><small style="color:#666;">🕐 05:30 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1205034111640297.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1205034111640297.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Sau-%C4%91%C3%A2y-l%C3%A0-ph%C3%A2n-t%C3%ADch-s%C3%A2u-v%E1%BB%81-pelvic-snap/">Sau đây là phân tích sâu về pelvic snap.</a></strong>
 <br><small style="color:#666;">🕐 05:41 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/2103247940237386.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/2103247940237386.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/WAVE-TRANSMISSION-IN-HUMAN-ATHLETIC-MOTION/">WAVE TRANSMISSION IN HUMAN ATHLETIC MOTION</a></strong>
 <br><small style="color:#666;">🕐 06:32 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1009156405139309.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1009156405139309.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Hand-Proprioception-in-Tennis-b%E1%BA%B1ng-ti%E1%BA%BFng-Vi%E1%BB%87t-t%E1%BA%ADp-trung-v%C3%A0o/">“Hand Proprioception in Tennis” bằng tiếng Việt, tập trung vào:</a></strong>
 <br><small style="color:#666;">🕐 06:35 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1915105905827894.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1915105905827894.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Proprioception-in-Tennis/">Proprioception in Tennis</a></strong>
 <br><small style="color:#666;">🕐 06:39 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1467200121843372.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1467200121843372.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Body-weight-behind-the-shot-Press-Slot/">Body weight behind the shot = "Press Slot"</a></strong>
 <br><small style="color:#666;">🕐 06:55 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1427441855819901.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1427441855819901.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/The-role-of-footwork-in-Volley---essentials-of-the-net-game/">The role of footwork in Volley - essentials of the net game.</a></strong>
 <br><small style="color:#666;">🕐 06:59 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1350072753668545.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1350072753668545.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/Ph%C3%A2n-tich-k%E1%BB%B9-thu%E1%BA%ADt-c%C3%BA-tr%C3%A1i-tay-m%E1%BB%99t-tay/">Phân tich kỹ thuật cú trái tay một tay.</a></strong>
 <br><small style="color:#666;">🕐 07:11 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/2812735512398687.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/2812735512398687.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/D%C6%B0%E1%BB%9Bi-%C4%91%C3%A2y-l%C3%A0-b%E1%BA%A3n-ph%C3%A2n-t%C3%ADch-k%E1%BB%B9-thu%E1%BA%ADt-c%C6%A1-sinh-h%E1%BB%8Dc-chuy%C3%AAn-s%C3%A2u-v%C3%A0-chi-ti%E1%BA%BFt-to%C3%A0n-b%E1%BB%99-h%E1%BB%87/">Dưới đây là bản phân tích kỹ thuật cơ sinh học chuyên sâu và chi tiết toàn bộ hệ thống vận động t...</a></strong>
 <br><small style="color:#666;">🕐 07:14 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1326255052934332.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1326255052934332.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/CH%C6%AF%C6%A0NG-I-H%E1%BB%86-TH%E1%BB%90NG-KI%E1%BB%82M-SO%C3%81T-TH%E1%BB%8A-GI%C3%81C-VISUAL-SYSTEM-CONTROL-TRONG-QUY-TR%C3%8CNH-QUAN-/">CHƯƠNG I: HỆ THỐNG KIỂM SOÁT THỊ GIÁC (VISUAL SYSTEM CONTROL) TRONG QUY TRÌNH QUAN SÁT VÀ THEO DÕ...</a></strong>
 <br><small style="color:#666;">🕐 07:16 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/2044979529390300.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/2044979529390300.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/PH%E1%BA%A6N-III-%E1%BB%A8NG-D%E1%BB%A4NG-TH%E1%BB%B0C-CHI%E1%BA%BEN/">PHẦN III – ỨNG DỤNG THỰC CHIẾN</a></strong>
 <br><small style="color:#666;">🕐 07:30 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/997902299398734.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/997902299398734.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/CH%C6%AF%C6%A0NG-15/">CHƯƠNG 15</a></strong>
 <br><small style="color:#666;">🕐 07:34 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/959250470278454.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/959250470278454.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/CH%C6%AF%C6%A0NG-14/">CHƯƠNG 14</a></strong>
 <br><small style="color:#666;">🕐 07:36 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/987600196971395.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/987600196971395.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/CH%C6%AF%C6%A0NG-13/">CHƯƠNG 13</a></strong>
 <br><small style="color:#666;">🕐 07:48 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/4509718692585161.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/4509718692585161.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/M%C3%94-H%C3%8CNH-TH%E1%BB%90NG-NH%E1%BA%A4T-C%E1%BB%A6A-QU%E1%BA%A6N-V%E1%BB%A2T/">MÔ HÌNH THỐNG NHẤT CỦA QUẦN VỢT</a></strong>
 <br><small style="color:#666;">🕐 08:17 🎬 1</small>
 </div>
@@ -413,19 +413,19 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-05-25 · Hai 25/05/2026 07:22
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1693408368514512.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1693408368514512.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/D%C6%B0%E1%BB%9Bi-%C4%91%C3%A2y-l%C3%A0-to%C3%A0n-b%E1%BB%99-m%E1%BB%99t-qu%C3%A1-tr%C3%ACnh-v%E1%BA%ADn-h%C3%A0nh-c%E1%BB%A7a-m%E1%BB%99t-h%E1%BB%87-th%E1%BB%91ng-c%C6%A1-th%E1%BB%83-v%C3%A0-b%E1%BB%99-n%C3%A3o-khi/">Dưới đây là toàn bộ một quá trình vận hành của một hệ thống cơ thể và bộ não khi chơi tennis, viế...</a></strong>
 <br><small style="color:#666;">🕐 07:22 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Mobileuploads_122095384239349150/122095383951349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Mobileuploads_122095384239349150/122095383951349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/C%C3%A1ch-ch%C6%A1i-theo-t%E1%BB%ABng-lo%E1%BA%A1i-%C4%91%E1%BB%91i-th%E1%BB%A7---MATCH-STRATEGY-PLAYBOOK/">Cách chơi theo từng loại đối thủ - MATCH STRATEGY PLAYBOOK</a></strong>
 <br><small style="color:#666;">🕐 07:27 🖼️ 4</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Mobileuploads_122095384239349150/122095412589349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Mobileuploads_122095384239349150/122095412589349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/ATP-LEVEL-SCOUTING-MATCH-EXECUTION-PLAYBOOK/">ATP-LEVEL SCOUTING + MATCH EXECUTION PLAYBOOK</a></strong>
 <br><small style="color:#666;">🕐 08:19 🖼️ 1</small>
 </div>
@@ -468,13 +468,13 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122096070669349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122096070669349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/A-collection-of-tennis-books/">A collection of tennis books.</a></strong>
 <br><small style="color:#666;">🕐 08:35 🖼️ 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122103788649349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122103788649349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/TENNIS-FUTURE-LAB-WEBSITE/">TENNIS FUTURE LAB WEBSITE:</a></strong>
 <br><small style="color:#666;">🕐 08:37 🖼️ 1</small>
 </div>
@@ -517,13 +517,13 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-05-29 · Sáu 29/05/2026 08:34
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122098564803349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122098564803349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/An-interactive-webpage-to-analyse-the-serve-technique-one-of-the-most-technical-/">An interactive webpage to analyse the serve technique, one of the most technical and unnatural te...</a></strong>
 <br><small style="color:#666;">🕐 08:34 🖼️ 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122098617939349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122098617939349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/A-new-tool-to-analyze-the-players-stroke-technique/">A new tool to analyze the player's stroke technique.</a></strong>
 <br><small style="color:#666;">🕐 10:27 🖼️ 1</small>
 </div>
@@ -531,7 +531,7 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-05-30 · Bảy 30/05/2026 08:43
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122099225625349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122099225625349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/Comprehensive-Biomechanical-Analysis-of-the-Effortless-Strike-System/">Comprehensive Biomechanical Analysis of the "Effortless Strike System"</a></strong>
 <br><small style="color:#666;">🕐 08:43 🖼️ 3</small>
 </div>
@@ -554,13 +554,13 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/1719099202419237.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/1719099202419237.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/The-secret-of-Pros-serve-with-detailed-analysis-and-instructions-from-the-best-c/">The secret of Pro's serve with detailed analysis and instructions from the best coaches.</a></strong>
 <br><small style="color:#666;">🕐 09:02 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122099936325349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122099936325349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/One-handed-Backhand---The-most-beautiful-shot-in-the-game/">One-handed Backhand - The  most beautiful shot in the game.</a></strong>
 <br><small style="color:#666;">🕐 09:17 🖼️ 1</small>
 </div>
@@ -568,25 +568,25 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-06-01 · Hai 01/06/2026 05:20
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Mobileuploads_122095384239349150/122100472599349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Mobileuploads_122095384239349150/122100472599349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/HEAD-POSITION-IN-POSTURAL-CONTROL-MECHANISMS/">HEAD POSITION IN POSTURAL CONTROL MECHANISMS</a></strong>
 <br><small style="color:#666;">🕐 05:20 🖼️ 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122100528993349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122100528993349150.webp" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/TH%C3%81I-C%E1%BB%B0C-QUY%E1%BB%80N-V%C3%80-TENNIS/">THÁI CỰC QUYỀN VÀ TENNIS:</a></strong>
 <br><small style="color:#666;">🕐 07:09 🖼️ 4</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<video src="../media/media/videos/3130006313869893.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
+<video src="../media/videos/3130006313869893.mp4" muted preload="metadata" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;"></video>
 <strong style="font-size:1.05em;"><a href="posts/A-big-forehand-is-made-of-many-small-details-in-each-specific-link-of-the-whole-/">A big forehand is made of many small details in each specific link of the whole sequence.</a></strong>
 <br><small style="color:#666;">🕐 08:22 🖼️ 5 🎬 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122100628155349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122100628155349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/Updated-Tennis-Future-Lab-Podcast-Series/">Updated Tennis Future Lab Podcast Series.</a></strong>
 <br><small style="color:#666;">🕐 10:10 🖼️ 1</small>
 </div>
@@ -594,19 +594,19 @@ Mỗi bài viết hiển thị media đầu tiên (ảnh hoặc video) ngay đ�
 ### 📅 2026-06-03 · Tư 03/06/2026 06:46
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122102078997349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122102078997349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/%C4%90%C6%B0%E1%BB%9Dng-B%C3%B3ng-V%C3%A0-T%C4%A9nh-L%E1%BA%B7ng/">Đường Bóng Và Tĩnh Lặng</a></strong>
 <br><small style="color:#666;">🕐 06:46 🖼️ 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122102080635349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122102080635349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/%C4%90%C6%B0%E1%BB%9Dng-B%C3%B3ng-V%C3%A0-T%C4%A9nh-L%E1%BA%B7ng---Ph%E1%BA%A7n-II/">Đường Bóng Và Tĩnh Lặng - Phần II</a></strong>
 <br><small style="color:#666;">🕐 06:48 🖼️ 1</small>
 </div>
 
 <div style="margin-bottom: 12px; padding: 8px; border-left: 3px solid #4a90e2; background: #f8f9fa; border-radius: 4px; overflow:hidden;">
-<img src="../media/media/Photos_122096070723349150/122102082789349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
+<img src="../media/Photos_122096070723349150/122102082789349150.jpg" alt="" loading="lazy" style="width:80px; height:80px; object-fit:cover; float:left; margin-right:10px; border-radius:4px;" />
 <strong style="font-size:1.05em;"><a href="posts/%C4%90%C6%B0%E1%BB%9Dng-B%C3%B3ng-V%C3%A0-T%C4%A9nh-L%E1%BA%B7ng---Ph%E1%BA%A7n-III/">Đường Bóng Và Tĩnh Lặng - Phần III</a></strong>
 <br><small style="color:#666;">🕐 06:54 🖼️ 1</small>
 </div>

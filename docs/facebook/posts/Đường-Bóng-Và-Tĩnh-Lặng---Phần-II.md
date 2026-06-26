@@ -11,7 +11,7 @@ media_count: 1
 # Đường Bóng Và Tĩnh Lặng - Phần II
 
 **📅 Thứ Tư 03/06/2026 06:48**
-<img src="../media/media/Photos_122096070723349150/122102080635349150.jpg" alt="Đường Bóng Và Tĩnh Lặng - Phần II" loading="lazy" />
+<img src="../media/Photos_122096070723349150/122102080635349150.jpg" alt="Đường Bóng Và Tĩnh Lặng - Phần II" loading="lazy" />
 
 Đường Bóng Và Tĩnh Lặng - Phần II
 Câu chuyện giữa Thầy An và người học trò Hải

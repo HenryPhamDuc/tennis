@@ -11,7 +11,7 @@ media_count: 1
 # Updated Tennis Future Lab Podcast Series.
 
 **📅 Thứ Hai 01/06/2026 10:10**
-<img src="../media/media/Photos_122096070723349150/122100628155349150.jpg" alt="Updated Tennis Future Lab Podcast Series." loading="lazy" />
+<img src="../media/Photos_122096070723349150/122100628155349150.jpg" alt="Updated Tennis Future Lab Podcast Series." loading="lazy" />
 
 Updated Tennis Future Lab Podcast Series.
 
