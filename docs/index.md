@@ -8,6 +8,8 @@
 > 🔬 **[Tennis Future Lab](https://henryphamduc.github.io/tennis-future-lab/)** — Biomechanics framework + AI Video Analyzer. Upload tennis video → AI analyzes your technique vs Federer (serve, forehand, backhand).
 >
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: upload tennis video, get annotated video + cheat sheet PDF + score 0-100 vs Roger Federer.
+>
+> 📖 **[Tennis Ebook — Thư Viện Hoàn Chỉnh](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)** — 35+ curated tennis documents in one searchable Vietnamese library: 11 shot-by-shot deep dives (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and a beginner coaching manual. Bilingual EN/VI where source supports it. Browse by topic, search by keyword, jump straight to the shot you want to fix.
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
