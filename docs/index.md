@@ -10,6 +10,8 @@
 > 🤖 **[AI Video Analyzer (HF Space)](https://huggingface.co/spaces/HenryPhamDuc/tennis-analyzer)** — Try the Gradio app directly: upload tennis video, get annotated video + cheat sheet PDF + score 0-100 vs Roger Federer.
 >
 > 📖 **[Tennis Ebook — Thư Viện Hoàn Chỉnh](https://henryphamduc.github.io/tennis-wiki/cam-nang/ebook/)** — 35+ curated tennis documents in one searchable Vietnamese library: 11 shot-by-shot deep dives (forehand, backhand, serve, volley, return, lob, slice family, doubles, grip, mental game, conditioning), plus Tennis Biomechanics 5.0, Tennis Game Management, and a beginner coaching manual. Bilingual EN/VI where source supports it. Browse by topic, search by keyword, jump straight to the shot you want to fix.
+>
+> 📖 **[Visual Coaching Library — Thư Viện Hình Ảnh Huấn Luyện (46 thẻ, 11 chủ đề)](https://henryphamduc.github.io/visual-coaching-library/)** — Một cuốn flipbook song ngữ EN/VI: 46 sơ đồ sinh học & chiến thuật tennis chất lượng cao, mỗi sơ đồ ghép với 5 hướng dẫn thực hành có đánh số (tiếng Anh phía trên, bản dịch tiếng Việt bên dưới). 230 EN + 230 VI = 460 đoạn nội dung master-coach. Mở bản tổng hợp (master edition) để xem cả 46 thẻ, hoặc duyệt theo chủ đề (Forehand, Backhand, Serve, Volley, Footwork, Grip, Biomechanics, Strategy, Multi-topic, Forehand V2, Volley V2). HTML thuần — chạy offline, không cần framework JS, flipbook toàn màn hình, responsive.
 
 **From Zero Compromise to Longevity, in 14 Parts — v2 Integrates All 22 Deep Dives**
 
