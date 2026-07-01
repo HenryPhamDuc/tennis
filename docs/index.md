@@ -46,6 +46,12 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 > ### 📐 **[MỚI (06/2026) — Click vào đây để vào Tuyển Tập: 7 deep-dive về góc, lò xo, thần kinh, và cảm biến sau mỗi cú đánh →](Tuyen_Tap/ReadMe/)**
 >
 > *Concept-first engineering: PV vs SV feedback loops, 6 spring kinetic chain, 5 sensor channels, 50+ rehab protocols. 7 deep-dives (~460 KB), 151 inline illustrations, 339 images across 9 subfolders, 7 printable cheat sheets. See [Part 16](#part-16) below.*
+>
+> ## 🎨 **[NEW LIBRARY (July 2026) — Click here to enter the Visual Coaching Library: 38 high-quality biomechanics & tactics diagrams →](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)**
+>
+> ### 🎨 **[MỚI (07/2026) — Click vào đây để vào Thư Viện Hình Ảnh: 38 sơ đồ sinh học & chiến thuật chất lượng cao →](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)**
+>
+> *Visual reference: 38 bilingual EN-VI infographics spanning 7 categories (Forehand, Backhand, Serve, Footwork & Kinetic Chain, Fundamentals, Slice, Strategy & Mental). Each diagram has a dedicated page with full image + bilingual description.*
 
 > **What's new in v2** *(compared to v1, 11 parts)*
 > - **+3 Parts**: Part 9 (Lob & Overhead), Part 10 (Slice Family), Part 12 (Grip Pressure)
@@ -152,6 +158,15 @@ Các bạn đọc manual (khoảng 1.5 giờ). Chọn một phần để tập t
 |---|---|
 | **For the 3.5 → 4.5 player who wants to treat tennis as a control system — not just a series of strokes.** A bilingual (EN-VI) engineering framework covering: **the angle atlas** (every joint angle that decides stroke type + quality — and WHY 50–80° knee loading is safe but 90°+ is risky, WHY 60–70° elbow flexion maximizes racket head speed, WHY 45° contact rule works), **the spring model** (tendons as elastic bands, 6-spring kinetic chain, stretch-shortening cycle), **the neurology** (3 control layers: spinal reflex 50ms, brainstem 150ms, cortex 200–500ms; quiet eye; vestibular 3D anatomy), **the muscle hierarchy** (glute max as largest, 6 deep rotators, "strong to fast" relay), **the skeletal architecture** (foot 26 bones + 33 joints, 27 hand bones + 8 carpals, 4-joint shoulder complex), **the 50+ body** (7 declines × rehab protocols — Bird Dog, eccentric squats, Hip CARs, walking decompression), **and the sensor system** (5 channels: proprioception, feet, hands, eyes, ears+vestibular; 3 feedback loops; PV vs SV framework; 5-phase body perception cycle). **7 standalone deep-dives (~460 KB / 3,076 lines / 136 chapters / 151 inline illustrations / 339 images across 9 subfolders / 7 printable cheat sheets).** Bilingual EN-VI side-by-side, single-pipe table style, master-coach voice, 50+ reality check throughout. | **Cho người chơi 3.5 → 4.5 muốn xem tennis như một hệ điều khiển — không chỉ là chuỗi cú đánh.** Khung kỹ thuật song ngữ (EN-VI) bao gồm: **tập bản đồ góc** (mọi góc khớp quyết định loại + chất lượng cú đánh — và TẠI SAO tải gối 50–80° an toàn nhưng 90°+ rủi ro, TẠI SAO gập khuỷu 60–70° tối đa hóa tốc độ đầu vợt, TẠI SAO quy tắc tiếp xúc 45° hiệu quả), **mô hình lò xo** (gân như dây đàn, chuỗi 6 lò xo, chu kỳ co-giãn), **thần kinh học** (3 lớp điều khiển: phản xạ tủy sống 50ms, thân não 150ms, vỏ não 200–500ms; mắt im lặng; giải phẫu 3D tiền đình), **hệ thống cơ** (cơ mông lớn là cơ lớn nhất, 6 cơ xoay sâu, tiếp sức "mạnh-tới-nhanh"), **kiến trúc xương** (chân 26 xương + 33 khớp, tay 27 xương + 8 cổ tay, phức hợp 4 khớp vai), **cơ thể 50+** (7 suy giảm × phác đồ phục hồi — Bird Dog, squat xuống từ từ, Hip CARs, đi bộ giải nén), **và hệ cảm biến** (5 kênh: cảm giác sâu, chân, tay, mắt, tai+tiền đình; 3 vòng phản hồi; khung PV vs SV; chu kỳ nhận thức cơ thể 5 pha). **7 deep-dive độc lập (~460 KB / 3,076 dòng / 136 chương / 151 hình minh họa nội tuyến / 339 hình qua 9 thư mục con / 7 thẻ cheat sheet in được).** Song ngữ EN-VI cạnh nhau, kiểu bảng ống đơn, giọng HLV bậc thầy, kiểm tra thực tế 50+ xuyên suốt. |
 | 👉 **[ENTER THE TUYEN_TAP LIBRARY →](Tuyen_Tap/ReadMe/)** | 👉 **[VÀO THƯ VIỆN TUYỂN TẬP →](Tuyen_Tap/ReadMe/)** |
+
+---
+
+## 🎨 **NEW LIBRARY (July 2026): Visual Coaching Library — 38 Tennis Diagrams** | Thư Viện MỚI — 38 Sơ Đồ Sinh Học & Chiến Thuật Tennis
+
+| 🇺🇸 English | 🇻🇳 Tiếng Việt |
+|---|---|
+| **A visual reference library of 38 high-quality tennis diagrams** compiled from the biomechanics and tactics research series. **38 standalone detail pages**, each with a full infographic + bilingual EN-VI description. Organized into 7 categories: 🎯 Forehand (6), ↩️ Backhand (3), 🚀 Serve (6), 🦶 Footwork & Kinetic Chain (7), ✋ Fundamentals (2), 🔪 Slice (2), 🧠 Strategy & Mental (12). One-click thumbnail → full image. Source PNG also linked on every detail page for download. | **Thư viện tham khảo trực quan gồm 38 sơ đồ tennis chất lượng cao** tổng hợp từ chuỗi nghiên cứu sinh học và chiến thuật. **38 trang detail độc lập**, mỗi trang có infographic full + mô tả song ngữ EN-VI. Sắp xếp theo 7 chủ đề: 🎯 Forehand (6), ↩️ Backhand (3), 🚀 Serve (6), 🦶 Footwork & Chuỗi Động Lực (7), ✋ Nền tảng kỹ thuật (2), 🔪 Slice (2), 🧠 Chiến thuật & Tư duy (12). Một-click thumbnail → ảnh full. Link file PNG gốc trên mỗi trang detail để tải về. |
+| 👉 **[ENTER THE VISUAL COACHING LIBRARY →](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)** | 👉 **[VÀO THƯ VIỆN HÌNH ẢNH →](https://henryphamduc.github.io/tennis-wiki/cam-nang/thu-vien-hinh-anh/)** |
 
 ---
 
