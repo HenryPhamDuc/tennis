@@ -1,0 +1,228 @@
+site_name: 🎾 Henry's Tennis Knowledge Vault
+site_description: A bilingual (EN-VI) tennis coaching library for the 3.5 player at 50+ — 22 deep dives, a 14-Part master manual, a 2-page cheat sheet, and 20 years of accumulated biomechanics, taichi principles, and 50+ longevity adjustments.
+site_author: Henry Pham Duc
+site_url: https://henryphamduc.github.io/tennis/
+
+docs_dir: docs
+site_dir: site
+# Theme: Use the default MkDocs theme (Bootstrap-based) to match mkdocs.org
+# This gives us the same clean, professional look as the official MkDocs site
+theme:
+  name: mkdocs
+  navigation_depth: 3
+  include_sidebar: true
+
+# Inject custom CSS for the entire library
+# Note: With the default mkdocs theme, we need to adjust these paths
+extra_css:
+  - assets/custom.css
+
+# Inject custom JavaScript:
+# With the default mkdocs theme, we'll use a simpler approach
+extra_javascript:
+  - assets/custom.js
+
+markdown_extensions:
+  - admonition              # Note/warning/tip blocks
+  - attr_list               # {: .class} syntax
+  - def_list                # Definition lists
+  - footnotes               # Footnotes
+  - md_in_html              # Markdown inside HTML
+  - meta                    # Metadata support
+  - tables                  # GFM tables (we use these everywhere)
+  - toc:
+      permalink: true       # Anchor links on headings
+      toc_depth: 3
+  - pymdownx.details        # Collapsible admonitions
+  - pymdownx.superfences    # Better code fences
+  - pymdownx.tabbed:        # Tabbed content
+      alternate_style: true
+  - pymdownx.emoji: # Emoji shortcodes
+  - pymdownx.inlinehilite   # Inline code highlighting
+  - pymdownx.tasklist:      # Checkbox task lists
+      custom_checkbox: true
+
+plugins:
+  - search:
+      lang: en
+
+extra:
+  social:
+  generator: false
+
+# ---------------------------------------------------------------------------
+# Navigation structure (v4 — June 2026)
+#
+# Strategy: explicit nav listing ALL 20 deep-dive folders so they appear in
+# the sidebar. Top-level nav entries become top tabs. We use CSS to HIDE
+# all top tabs except the first 4 (Home, Tennis Future Lab Website, Tennis
+# Future Lab Audio Podcast, Contact) — so users only see a clean top bar.
+#
+# Top tabs visible (in order):
+#   1. Home                   — Complete Manual v2
+#   2. Tennis Future Lab Website — external: https://tennislab-cdl84oed.manus.space/
+#   3. Tennis Future Lab Audio Podcast — external: https://rss.com/podcasts/the-power-of-now/
+#   4. Contact                — mailto:henry.phamduc@gmail.com
+#
+# Top tabs HIDDEN via CSS (md-tabs__item:nth-child(n+5)):
+#   5-24. All 20 deep-dive folders (Forehand, Backhand, Serve, etc.)
+#
+# Sidebar: ALL pages auto-populated from nav + filesystem. The
+# docs/assets/expand-sidebar.css file forces all sidebar sections
+# expanded by default so the 20 folders and ~47 sub-pages are all
+# visible without clicking.
+#
+# Why this approach?
+# - Top bar stays clean (4 entries)
+# - Sidebar shows the full library at a glance
+# - Adding a new deep-dive = drop .md in docs/Foo/, add 3 lines to nav
+# ---------------------------------------------------------------------------
+nav:
+  - Home: index.md
+  - Tennis Future Lab Website: https://tennislab-cdl84oed.manus.space/
+  - Tennis Future Lab Audio Podcast: https://rss.com/podcasts/the-power-of-now/
+  - 📚 Tennis WIKI (VN): https://henryphamDuc.github.io/tennis-wiki/
+  - 📚 Tennis WIKI (EN): https://henryphamDuc.github.io/tennis-wiki-en/
+  - 🤖 Tennis Doctor (AI): https://tennis-doctor.henry-phamduc.workers.dev/
+  - 🏗️ Geotechnical Instruments Intranet: https://geoinst.github.io/
+  - Contact: mailto:henry.phamduc@gmail.com
+  - 📘 Facebook (108 posts): facebook/index.md
+  - "🏆 Elite — Break-Free Methodology":
+      - "🏠 Library Home": "Elite/index.md"
+      - "ReadMe": "Elite/ReadMe.md"
+      - "Elite Manual":
+          - "The Elite Tennis Mastery Manual — Break-Free from Orthodox Methodology": "Elite/Elite Manual/The Elite Tennis Mastery Manual — Break-Free from Orthodox Methodology.md"
+      - "01 The Anti-Orthodox Manifesto":
+          - "The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System": "Elite/01 The Anti-Orthodox Manifesto/The Anti-Orthodox Manifesto — Breaking Free to Find Your Own System.md"
+      - "02 Trương Lực":
+          - "Trương Lực — The Lost Engine of Tennis": "Elite/02 Trương Lực/Trương Lực — The Lost Engine of Tennis.md"
+      - "03 Myelination":
+          - "Myelination — The 6,000% Speed Gap and Your Personal Practice System": "Elite/03 Myelination/Myelination — The 6,000% Speed Gap and Your Personal Practice System.md"
+      - "04 The Three Models":
+          - "The Three Models — Discovering Your Own Forehand Through Constraint-Led Exploration": "Elite/04 The Three Models/The Three Models — Discovering Your Own Forehand Through Constraint-Led Exploration.md"
+      - "05 Pressure Inoculation":
+          - "Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System": "Elite/05 Pressure Inoculation/Pressure Inoculation — The 5-Rung Ladder and Your Personal Exposure System.md"
+      - "06 Kình and Mushin":
+          - "Kình and Mushin — Eastern-Western Synthesis and Your Mushin Trigger System": "Elite/06 Kình and Mushin/Kình and Mushin — Eastern-Western Synthesis and Your Mushin Trigger System.md"
+      - "07 Constraint-Led Self-Discovery":
+          - "Constraint-Led Self-Discovery — The 5-Constraint Library Builder": "Elite/07 Constraint-Led Self-Discovery/Constraint-Led Self-Discovery — The 5-Constraint Library Builder.md"
+      - "08 Hidden Speed":
+          - "Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System": "Elite/08 Hidden Speed/Hidden Speed — The Reaction Layer Asymmetry Test and Per-Layer Training System.md"
+      - "09 Decision Latency":
+          - "Decision Latency — Chunk Library Builder and the 200ms Expert Edge": "Elite/09 Decision Latency/Decision Latency — Chunk Library Builder and the 200ms Expert Edge.md"
+      - "10 Self-Coaching Discipline":
+          - "Self-Coaching Discipline — The Engineer in the Mirror": "Elite/10 Self-Coaching Discipline/Self-Coaching Discipline — The Engineer in the Mirror.md"
+      - "11 HRV Dashboard":
+          - "HRV Dashboard — Your Daily Bio-Informed Decision System": "Elite/11 HRV Dashboard/HRV Dashboard — Your Daily Bio-Informed Decision System.md"
+      - "12 Choking and Amygdala":
+          - "Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit": "Elite/12 Choking and Amygdala/Choking and Amygdala — Exposure Therapy Protocol and Your Anti-Choking Kit.md"
+      - "13 The Dream Library":
+          - "The Dream Library — Five Tools of 2030 and Your Adoption Decision Framework": "Elite/13 The Dream Library/The Dream Library — Five Tools of 2030 and Your Adoption Decision Framework.md"
+  - "🧠 Advanced — Neurology & Anatomy":
+      - "🏠 Library Home": "Advanced/index.md"
+      - "Advanced Manual":
+          - "The Advanced Tennis Mastery Manual — Neurology & Anatomy for 3.5→4.5": "Advanced/Advanced Manual/The Advanced Tennis Mastery Manual — Neurology & Anatomy for 3.5→4.5.md"
+          - "ReadMe": "Advanced/ReadMe.md"
+      - "01 Embodied Cognition":
+          - "Embodied Cognition — Tennis as a Living Lab": "Advanced/01 Embodied Cognition/Embodied Cognition — Tennis as a Living Lab.md"
+      - "02 Two Engines":
+          - "Two Engines — Rotational vs. Linear Power": "Advanced/02 Two Engines/Two Engines — Rotational vs. Linear Power.md"
+      - "03 Proprioception":
+          - "Proprioception — Your Hidden GPS": "Advanced/03 Proprioception/Proprioception — Your Hidden GPS.md"
+      - "04 Reflex Arcs":
+          - "Reflex Arcs — The 3 Speeds of Your Body": "Advanced/04 Reflex Arcs/Reflex Arcs — The 3 Speeds of Your Body.md"
+      - "05 Tensegrity Body":
+          - "Tensegrity Body — The Skeleton That Floats": "Advanced/05 Tensegrity Body/Tensegrity Body — The Skeleton That Floats.md"
+      - "06 Fascia Spiral":
+          - "Fascia Spirals — The Anatomy Trains Connection": "Advanced/06 Fascia Spiral/Fascia Spirals — The Anatomy Trains Connection.md"
+      - "07 X-Factor Anatomy":
+          - "X-Factor Anatomy — The 45° Pre-Load": "Advanced/07 X-Factor Anatomy/X-Factor Anatomy — The 45° Pre-Load.md"
+      - "08 Head Position and Vestibular":
+          - "Head Position and Vestibular — The First Balance Decision": "Advanced/08 Head Position and Vestibular/Head Position and Vestibular — The First Balance Decision.md"
+  - "1-Page Pocket Card":
+      - "1-Page Match Pocket Card — The Complete Grip System": "1-Page Pocket Card/1-Page Match Pocket Card — The Complete Grip System.md"
+      - "ReadMe": "1-Page Pocket Card/ReadMe.md"
+  - "Backhand":
+      - "Backhand — The Mirror, The Whip & The Slice": "Backhand/Backhand — The Mirror, The Whip & The Slice.md"
+      - "One-Handed Backhand — The Full Deep Dive": "Backhand/One-Handed Backhand — The Full Deep Dive.md"
+      - "Quick Reference - Slice Cheat Sheet": "Backhand/Quick Reference - Slice Cheat Sheet.md"
+      - "Slice - Low Ball Variation": "Backhand/Slice - Low Ball Variation.md"
+      - "Slice - Return Variation": "Backhand/Slice - Return Variation.md"
+      - "ReadMe": "Backhand/ReadMe.md"
+  - "Continental Grip":
+      - "Continental Grip — The 9-Shot Universal Key": "Continental Grip/Continental Grip — The 9-Shot Universal Key.md"
+      - "ReadMe": "Continental Grip/ReadMe.md"
+  - "Doubles Patterns":
+      - "Doubles Patterns — The 4 Return Patterns": "Doubles Patterns/Doubles Patterns — The 4 Return Patterns.md"
+      - "ReadMe": "Doubles Patterns/ReadMe.md"
+  - "Doubles Serves":
+      - "Doubles Serves — The 4 Serve Patterns": "Doubles Serves/Doubles Serves — The 4 Serve Patterns.md"
+      - "ReadMe": "Doubles Serves/ReadMe.md"
+  - "Doubles Tactics":
+      - "Doubles Tactics — Communication, Formations & The 50+ Longevity Game": "Doubles Tactics/Doubles Tactics — Communication, Formations & The 50+ Longevity Game.md"
+      - "ReadMe": "Doubles Tactics/ReadMe.md"
+  - "Eastern Semi-Western Grip":
+      - "Eastern Semi-Western Grip — The 30% Forehand Grips": "Eastern Semi-Western Grip/Eastern Semi-Western Grip — The 30% Forehand Grips.md"
+      - "ReadMe": "Eastern Semi-Western Grip/ReadMe.md"
+  - "Footwork":
+      - "Footwork — The Art of Smart Movement": "Footwork/Footwork — The Art of Smart Movement.md"
+      - "ReadMe": "Footwork/ReadMe.md"
+  - "Forehand":
+      - "Forehand L-Angle and Late Acceleration": "Forehand/Forehand L-Angle and Late Acceleration.md"
+      - "Khoa Vai Thuc Hu Axis": "Forehand/Khoa Vai Thuc Hu Axis.md"
+      - "Racket Embodiment": "Forehand/Racket Embodiment.md"
+      - "Unit Turn and Racket Head Position": "Forehand/Unit Turn and Racket Head Position.md"
+      - "ReadMe": "Forehand/ReadMe.md"
+  - "Foundations and Grip":
+      - "Foundations and Grip": "Foundations and Grip/Foundations and Grip.md"
+      - "ReadMe": "Foundations and Grip/ReadMe.md"
+  - "Grip Change Map":
+      - "Grip Change Map — The Complete Sequence Guide": "Grip Change Map/Grip Change Map — The Complete Sequence Guide.md"
+      - "ReadMe": "Grip Change Map/ReadMe.md"
+  - "Grip Pressure":
+      - "Grip Pressure — The Dial You Control Every Shot": "Grip Pressure/Grip Pressure — The Dial You Control Every Shot.md"
+      - "ReadMe": "Grip Pressure/ReadMe.md"
+  - "Lob and Overhead":
+      - "Lob and Overhead — The Vertical Game": "Lob and Overhead/Lob and Overhead — The Vertical Game.md"
+      - "ReadMe": "Lob and Overhead/ReadMe.md"
+  - "Mental Game":
+      - "Mental Game — The Match Inside Your Head": "Mental Game/Mental Game — The Match Inside Your Head.md"
+      - "ReadMe": "Mental Game/ReadMe.md"
+  - "Return of Serve":
+      - "Return of Serve — Reading, Blocking, Surviving": "Return of Serve/Return of Serve — Reading, Blocking, Surviving.md"
+      - "ReadMe": "Return of Serve/ReadMe.md"
+  - "Serve":
+      - "Serve — The Gravity & Rotation Serve": "Serve/Serve — The Gravity & Rotation Serve.md"
+      - "ReadMe": "Serve/ReadMe.md"
+  - "Slice Approach":
+      - "Slice Approach — The Senior-Friendly Way to the Net": "Slice Approach/Slice Approach — The Senior-Friendly Way to the Net.md"
+      - "ReadMe": "Slice Approach/ReadMe.md"
+  - "Slice Family Doubles":
+      - "Slice Family Doubles — The 8-Shot Doubles Playbook": "Slice Family Doubles/Slice Family Doubles — The 8-Shot Doubles Playbook.md"
+      - "ReadMe": "Slice Family Doubles/ReadMe.md"
+  - "Slice Variations":
+      - "Slice Variations — The 7-Shot Swiss Army Knife": "Slice Variations/Slice Variations — The 7-Shot Swiss Army Knife.md"
+      - "ReadMe": "Slice Variations/ReadMe.md"
+  - "📐 Tuyen_Tap — Anatomy & Geometry Project":
+      - "🏠 Library Home": "Tuyen_Tap/index.md"
+      - "DD1 — The Angle Atlas": "Tuyen_Tap/DD1 - The Angle Atlas.md"
+      - "DD2 — Joints as Springs": "Tuyen_Tap/DD2 - Joints as Springs.md"
+      - "DD3 — Neurological Foundation": "Tuyen_Tap/DD3 - Neurological Foundation.md"
+      - "DD4 — Muscle Hierarchy": "Tuyen_Tap/DD4 - Muscle Hierarchy.md"
+      - "DD5 — Skeletal Architecture & Connective Tissue": "Tuyen_Tap/DD5 - Skeletal Architecture & Connective Tissue.md"
+      - "DD6 — The 50+ Body": "Tuyen_Tap/DD6 - The 50+ Body.md"
+      - "DD7 — The Sensor System": "Tuyen_Tap/DD7 - The Sensor System.md"
+  - "Volley":
+      - "Volley — The Art of Redirection": "Volley/Volley — The Art of Redirection.md"
+      - "ReadMe": "Volley/ReadMe.md"
+
+  - "Anatomy Lab":
+      - "Anatomy Lab — ReadMe": "Anatomy_Lab/index.md"
+      - "DD1 — The Player in Motion": "Anatomy_Lab/DD1_The_Player_in_Motion.md"
+      - "DD2 — Shoulders": "Anatomy_Lab/DD2_Shoulders.md"
+      - "DD3 — Arms, Wrists & Hands": "Anatomy_Lab/DD3_Arms_Wrists_Hands.md"
+      - "DD4 — Trunk & Spine": "Anatomy_Lab/DD4_Trunk_Spine.md"
+      - "DD5 — Hips & Thighs": "Anatomy_Lab/DD5_Hips_Thighs.md"
+      - "DD6 — Knees": "Anatomy_Lab/DD6_Knees.md"
+      - "DD7 — Ankles & Feet": "Anatomy_Lab/DD7_Ankles_Feet.md"
+      - "DD8 — The Control System": "Anatomy_Lab/DD8_Control_System.md"
